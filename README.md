@@ -1,7 +1,17 @@
-### Hi there 👋
+## Private repositories
+Some repositories are set as private, because they are developed for other users, the following links can be revised:
+* Website [FUNDACIÓN ENFÓCATE CON PROPÓSITO](http://www.enfocateconproposito.org/)
+* Website [tecnoayuda](https://www.tecnoayuda.co/)
+* Website [C&M TRADUCCIONES](http://www.cymtraducciones.com/)
+* Website [Múcura_Experience](http://www.mucuraexperience.com/)
 
+## Software engineer
+Javier Andrés Garzón Patarroyo  
+[GitHub](https://github.com/javierandresgp/)  |  [Linkedin](https://www.linkedin.com/in/javierandresgp/)  |  [Twitter](https://twitter.com/javierandresgp0)  |  [HackerRank](https://www.hackerrank.com/javierandresgp)  |  [StackOverflow](https://stackoverflow.com/users/13728583/javierandresgp)  |  [Medium](https://medium.com/@javierandresgp)  |  [Quora](https://es.quora.com/profile/Javier-Andr%C3%A9s-9)  |  [Meetup](https://www.meetup.com/es/members/305321275/)  |  [Facebook](https://www.facebook.com/javierandresgp0/)  |  [Instagram](https://www.instagram.com/javierandresgp/)  
+:man_technologist: :books: :computer: :globe_with_meridians:
 <!--
 **javierandresgp/javierandresgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,7 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-[GitHub](https://github.com/javierandresgp/)  |  [Linkedin](https://www.linkedin.com/in/javierandresgp/)  |  [Twitter](https://twitter.com/javierandresgp0)  |  [HackerRank](https://www.hackerrank.com/javierandresgp)  |  [StackOverflow](https://stackoverflow.com/users/13728583/javierandresgp)  |  [Medium](https://medium.com/@javierandresgp)  |  [Quora](https://es.quora.com/profile/Javier-Andr%C3%A9s-9)  |  [Meetup](https://www.meetup.com/es/members/305321275/)  |  [Facebook](https://www.facebook.com/javierandresgp0/)  |  [Instagram](https://www.instagram.com/javierandresgp/)  
-:man_technologist: :books: :computer: :globe_with_meridians:
