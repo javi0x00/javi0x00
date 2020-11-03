@@ -1,4 +1,3 @@
-##### Private repositories
 ###### Some repositories are set as private, because they are developed for other users.
 
 ## Software engineer
