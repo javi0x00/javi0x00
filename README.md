@@ -1,9 +1,5 @@
 ##### Private repositories
-###### Some repositories are set as private, because they are developed for other users, the following links can be revised:
-* Website [ENFÓCATE CON PROPÓSITO](http://www.enfocateconproposito.org/)
-* Website [tecnoayuda](https://www.tecnoayuda.co/)
-* Website [C&M TRADUCCIONES](http://www.cymtraducciones.com/)
-* Website [Múcura Experience](http://www.mucuraexperience.com/)
+###### Some repositories are set as private, because they are developed for other users.
 
 ## Software engineer
 Javier Andrés Garzón Patarroyo  
