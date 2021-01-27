@@ -1,5 +1,5 @@
 # Software engineer
-Javier Andrés GP
+Javier Andrés Garzón Patarroyo
 
 ## Some projects
 * [Google Homepage](https://javierandresgp.github.io/github_pages-google_homepage/)
