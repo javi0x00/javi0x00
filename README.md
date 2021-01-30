@@ -4,8 +4,7 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 
 ## SUMMARY
 
-### Online ― Projects
-:globe_with_meridians:
+### :globe_with_meridians: Online ― Projects
 #### Developed for a client
 * [Enfocate con propósito](http://www.enfocateconproposito.org/)
 #### Developed for training
@@ -18,17 +17,14 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 * [Calcular Préstamo](https://javierandresgp.github.io/github_pages-calcular_prestamo/)
 * [JavaScript Exercises](https://javierandresgp.github.io/github_pages-javascript_exercises/)
 
-### Development ― Projects (private repository) Developed for a client
-:computer:
+### :computer: Development ― Projects (private repository) Developed for a client
 * Enfocate con propósito
 * C & M Traducciones
 * Múcura Experience
 * tecnoayuda
 
-### Holberton School ― Projects
-:books:
-#### Foundations
-:open_file_folder:
+### :books: Holberton School ― Projects
+#### :open_file_folder: Foundations
 * 0-Day - 0-Day
 * Low-level programming & Algorithm - Hatching out
 * Low-level programming & Algorithm - Data structures and Algorithms
@@ -50,14 +46,13 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 * More!
 * Portfolio Project
 
-#### Specializations
-:open_file_folder:
+#### :open_file_folder: Specializations
 * Interview Preparation - Algorithms
 * Web Stack programming - Front-end
 * Web Stack programming - Back-end
 * Web Stack programming - Just for fun!
 
-### Subject ― Projects :books:
+### :books: Subject ― Projects
 :open_file_folder:
 * programming
 * c
@@ -68,6 +63,5 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 * react
 * nodejs
 
-###### Social
-:globe_with_meridians:
+###### :globe_with_meridians: Social
 [WebSite](https://www.javierandresgp.com)  |  [GitHub](https://github.com/javierandresgp/)  |  [Linkedin](https://www.linkedin.com/in/javierandresgp/)  |  [Twitter](https://twitter.com/javierandresgp0)  |  [freeCodeCamp](https://www.freecodecamp.org/javierandresgp)  |  [HackerRank](https://www.hackerrank.com/javierandresgp)  |  [StackOverflow](https://stackoverflow.com/users/13728583/javierandresgp)  |  [Medium](https://medium.com/@javierandresgp)  |  [Quora](https://es.quora.com/profile/Javier-Andr%C3%A9s-9)  |  [Meetup](https://www.meetup.com/es/members/305321275/)  |  [Facebook](https://www.facebook.com/javierandresgp0/)  |  [Instagram](https://www.instagram.com/javierandresgp/)
