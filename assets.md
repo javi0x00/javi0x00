@@ -43,6 +43,7 @@
 * [Javascript Deobfuscate](https://beautifier.io/)
 
 ### EXTERNAL API
+* [Any API](http://any-api.com/)
 * [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 * [restcountries](https://www.restcountries.eu/)
 * [openweathermap](https://openweathermap.org/)
