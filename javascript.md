@@ -194,11 +194,14 @@
     - Static methods
     - Constructors
     - Inheritance
+    - super
     - Scope chain
     - Private attributes or properties
     - Private methods
     - Setters
     - Getters
+    - Overwrite methods
+    - Polymorphism
   - Maps
 * Some Objects
   - Window
