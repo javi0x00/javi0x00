@@ -1,5 +1,6 @@
 # :memo: Notes
 ## REACT
+
 ### Resources
 * [React](https://reactjs.org/)
 * Extension

@@ -6,6 +6,7 @@
 * [Markdown & Pygments Lexers Cheat Sheet](https://joedicastro.com/pages/markdown.html)
 
 ### HTML
+* [The HTML validator](https://validator.w3.org/)
 
 ### CSS
 * [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
@@ -22,7 +23,8 @@
 ### Images
 * [tinypng](https://tinypng.com/)
 
-### Assets
+### unordered
+* [IcoMoon](https://icomoon.io/)
 * [JSON Server](https://github.com/typicode/json-server)
 * [Node.js](https://nodejs.org/)
 * [Coverr](https://coverr.co/)
@@ -57,5 +59,5 @@
 * [Stripe API](https://stripe.com/docs/api)
 * [sepomex](https://api-sepomex.hckdrk.mx/documentacion/docs)
 
-#### Software engineer
+## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

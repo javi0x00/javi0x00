@@ -54,17 +54,15 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 
 ### :books: Subject ― Projects
 :open_file_folder:
-* programming
 * c
 * java
-* python
-* html css
 * javascript
-* react
 * nodejs
+* programming
+* python
 
 ##### :globe_with_meridians: Social
 [WebSite](https://www.javierandresgp.com)  |  [GitHub](https://github.com/javierandresgp/)  |  [Linkedin](https://www.linkedin.com/in/javierandresgp/)  |  [Twitter](https://twitter.com/javierandresgp0)  |  [freeCodeCamp](https://www.freecodecamp.org/javierandresgp)  |  [HackerRank](https://www.hackerrank.com/javierandresgp)  |  [StackOverflow](https://stackoverflow.com/users/13728583/javierandresgp)  |  [Medium](https://medium.com/@javierandresgp)  |  [Quora](https://es.quora.com/profile/Javier-Andr%C3%A9s-9)  |  [Meetup](https://www.meetup.com/es/members/305321275/)  |  [Facebook](https://www.facebook.com/javierandresgp0/)  |  [Instagram](https://www.instagram.com/javierandresgp/)
 
 ###### :memo: Notes
-:bookmark: [assets](assets.md) | [html](html.md) | [css](css.md) | [javascript](javascript.md) | [react](react.md) | [node](node.md) | [c](c.md) | [java](java.md) | [python](python.md)
+:bookmark: [algorithmics](algorithmics.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md) | [nodejs](nodejs.md) | [programming](programming.md) | [python](python.md) | [react](react.md) | [setups](setups.md)
