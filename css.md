@@ -1,3 +1,8 @@
+# :memo: Notes
+## CSS
+### Resources
+### Requirements
+### Terms and concepts
 /* comentarios en css */
 /*
 4 clases de hojas de estilo: Inline, Incrustadas, Vinculadas, Importadas.  Respetan la jerarquía
@@ -268,3 +273,5 @@ div:hover {
 	animation-delay: ;
 }
 @keyframes{}
+###### Software engineer
+[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

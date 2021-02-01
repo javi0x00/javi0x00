@@ -1,3 +1,8 @@
+# :memo: Notes
+## HTML
+### Resources
+### Requirements
+### Terms and concepts
 <!-- comentarios HTML -->
 <!-- DOM es todo el documento -->
 <!DOCTYPE html><!-- declaración estandar HTML5 -->
@@ -179,3 +184,5 @@
 	<tt></tt>
 	<applet></applet>
 </html>
+###### Software engineer
+[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

@@ -1,8 +1,6 @@
-# Self-learning
-## React - Foundations
-### :open_file_folder: subject-react/0x00
-
-#### Resources
+# :memo: Notes
+## REACT
+### Resources
 * [React](https://reactjs.org/)
 * Extension
   - react developer tools
@@ -10,12 +8,10 @@
   - create react app
   - PropTypes
 
-#### Requirements
+### Requirements
 * Nodejs
 
-## Learning Objectives
-### General
-#### Terms and concepts
+### Terms and concepts
 * React
   - JavaScript library
   - based on components
