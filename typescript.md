@@ -26,6 +26,15 @@
     - array
     - tuple
     - object
+  * Inference
+* Functions
+  * Param and return
+    - Types
+    - Type Inference
+* Classes
+  - Properties
+  - Methods
+* Inheritance
 
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
