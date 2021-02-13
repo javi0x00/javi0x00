@@ -13,6 +13,8 @@
 * ECMAScript
 * JavaScript
 * TypeScript
+* Compile
+* Transpile
 
 * Types
   * Primitives
@@ -28,7 +30,10 @@
     - array
     - tuple
     - object
+    - enum
   * Inference
+  * Union
+  * Aliases
 * Functions
   * Param and return
     - Types
@@ -51,6 +56,8 @@
 * Hierarchi
   - super
   - overwrite
+* Encapsulation
+* Modularity
 
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
