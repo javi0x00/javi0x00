@@ -5,7 +5,9 @@
 * [TypeScript](https://www.typescriptlang.org/)
 
 ### Requirements
-* A browser or Nodejs
+#### Install
+* Nodejs
+* TypeScript
 
 ### Terms and concepts
 * ECMAScript
@@ -33,8 +35,22 @@
     - Type Inference
 * Classes
   - Properties
-  - Methods
+  * Methods
+    - constructor
+  - Visibility
+  * Modifier
+    - readonly
+    - abstract
+    - protect
+  * Instance
+    - this
+  * Virtual attributes
+    - setter
+    - getter
 * Inheritance
+* Hierarchi
+  - super
+  - overwrite
 
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
