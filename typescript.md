@@ -33,7 +33,7 @@
     - enum
   * Inference
   * Union
-  * Aliases
+  * Alias
 * Functions
   * Param and return
     - Types
