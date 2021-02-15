@@ -3,6 +3,7 @@
 
 ### Visual Studio Code
 #### Extensions
+* Atom One Dark Theme - Mahmoud Ali
 * Better Comments - Aaron Bond
 * Bracket Pair Colorizer2 - CoenraadS
 * Code Runner - Jun Han
@@ -11,6 +12,7 @@
 * ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
 * ESLint - Dirk Baeumer
 * Flatland Monokai Theme - gerane
+* GitHub Pull Requests and Issues - GitHub
 * Java Extension Pack - Microsoft
 * Java Test Runner - Microsoft
 * JavaScript (ES6) code snippets - charalampos karypidis
