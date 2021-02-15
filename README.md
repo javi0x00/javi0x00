@@ -3,7 +3,6 @@
 Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com)
 
 ## SUMMARY
-
 ### :globe_with_meridians: Online ― Projects
 #### Developed for a client
 * [Enfocate con propósito](http://www.enfocateconproposito.org/)
@@ -16,24 +15,12 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 * [Staff Availability](https://javierandresgp.github.io/github_pages-staff_availability/)
 * [Calcular Préstamo](https://javierandresgp.github.io/github_pages-calcular_prestamo/)
 * [JavaScript Exercises](https://javierandresgp.github.io/github_pages-javascript_exercises/)
-
+### :books: Holberton School
+[Projects](holberton_school.md)
 ### :computer: Development ― Projects (private repository) Developed for a client
 * Enfocate con propósito
 * C & M Traducciones
 * Múcura Experience
 * tecnoayuda
-
-### :books: Holberton School
-[Projects](holberton_school.md)
-
-### :books: Subject ― Projects
-:open_file_folder:
-* c
-* java
-* javascript
-* nodejs
-* programming
-* python
-
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md)  | [typescript](typescript.md) | [nodejs](nodejs.md) | [programming](programming.md) | [python](python.md) | [react](react.md) | [setups](setups.md)
