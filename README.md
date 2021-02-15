@@ -1,7 +1,6 @@
 # Welcome
 :man_technologist: In 2019 I joined to the school of computer science and software development 'Holberton School' to the foundation program and I currently dedicate all my time to study the specialization in Full-Stack Web Development and to train myself as a software engineer to obtain my first formal job as programmer.  
 Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com)
-
 ## SUMMARY
 ### :globe_with_meridians: Online ― Projects
 #### Developed for a client
@@ -16,7 +15,7 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 * [Calcular Préstamo](https://javierandresgp.github.io/github_pages-calcular_prestamo/)
 * [JavaScript Exercises](https://javierandresgp.github.io/github_pages-javascript_exercises/)
 ### :books: Holberton School
-[Projects](holberton_school.md)
+* [Projects](holberton_school.md)
 ### :computer: Development ― Projects (private repository) Developed for a client
 * Enfocate con propósito
 * C & M Traducciones
