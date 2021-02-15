@@ -11,7 +11,7 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 ## :books: Holberton School ― Projects
 :school: [Summary](holberton_school.md)
 - - -
-## :computer: Others repositories
+## :computer: Other repositories
 :octocat: Programming Challenges, Courses, Exercises, Examples, Development ― Projects (Private repositories ― Developed for a client)
 - - -
 ###### :memo: Notes
