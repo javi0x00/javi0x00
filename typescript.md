@@ -31,13 +31,18 @@
     - tuple
     - object
     - enum
-  * Inference
-  * Union
-  * Alias
+  - Inference
+  - Alias
+  - Literals
+  - Union
+  - Discriminating Unions
+  - Intersection Types
+
 * Functions
   * Param and return
     - Types
     - Type Inference
+
 * Classes
   - Properties
   * Methods
@@ -52,12 +57,22 @@
   * Virtual attributes
     - setter
     - getter
+
 * Inheritance
+
 * Hierarchi
   - super
   - overwrite
+
 * Encapsulation
+
 * Modularity
+
+* Interfaces
+  - Attributes
+  - Functions
+  - Modifiers
+  - Inheritance
 
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
