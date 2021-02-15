@@ -1,5 +1,5 @@
-# :books: Holberton School ― Projects
-## REPOSITORIES
+# :books: Holberton School
+## Projects
 
 ### :open_file_folder: Foundations
 * 0-Day - 0-Day

@@ -23,8 +23,8 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 * Múcura Experience
 * tecnoayuda
 
-### :books: Holberton School ― Projects
-[Repositories](holberton_school.md)
+### :books: Holberton School
+[Projects](holberton_school.md)
 
 ### :books: Subject ― Projects
 :open_file_folder:
