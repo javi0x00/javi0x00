@@ -6,9 +6,11 @@
 * Atom One Dark Theme - Mahmoud Ali
 * Better Comments - Aaron Bond
 * Bracket Pair Colorizer2 - CoenraadS
+* C/C++ - Microsoft
 * Code Runner - Jun Han
 * Debugger for Chrome - Microsoft
 * Debugger for Java - Microsoft
+* Dracula Official - Dracula Theme
 * ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
 * ESLint - Dirk Baeumer
 * Flatland Monokai Theme - gerane
@@ -21,6 +23,7 @@
 * Live Server - Ritwick Dey
 * Maven for Java - Microsoft
 * PHP Intelephense - Ben Mewburn
+* PHP Intelephense - Felix Becker
 * Prettier Code formatter - Prettier
 * Project Manager for Java - Microsoft
 * Python - Microsoft
@@ -32,7 +35,8 @@
 * Simple React Snippets - Burke Holland
 * Tailwind CSS IntelliSense - Brad Cornes
 * Visual Studio IntelliCode - Microsoft
-* vscode-icosn - Microsoft
+* Vim - vscodevim
+* vscode-icons - Microsoft
 * vscode-styled-components - Julien Poissonnier
 #### settings.json
 ```
