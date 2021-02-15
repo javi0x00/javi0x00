@@ -7,6 +7,7 @@
   - react developer tools
 * Package
   - create react app
+  - serve
   - PropTypes
 
 ### Requirements
@@ -30,6 +31,10 @@
     * jsx (sugar sintactic)
 
 * components
+  * Parts
+    - Content (html)
+    - Presentation (css)
+    - Interactivity (js)
   - functional
   - of class
   * props (inmutable)

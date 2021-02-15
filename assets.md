@@ -1,6 +1,11 @@
 # :memo: Notes
 ## ASSETS
 
+### Browser
+#### Extensions
+* Wappalyzer
+* react developer tools
+
 ### Markdown
 * [github markdown emoji](https://gist.github.com/rxaviers/7360908)
 * [Markdown & Pygments Lexers Cheat Sheet](https://joedicastro.com/pages/markdown.html)
