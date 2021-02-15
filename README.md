@@ -11,8 +11,8 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 ## :books: Holberton School ― Projects
 :school: [Summary](holberton_school.md)
 - - -
-## :computer: Development ― Projects (Private repositories ― Developed for a client)
-:octocat: Enfocate con propósito | C & M Traducciones | Múcura Experience | tecnoayuda
+## :computer: Others repositories
+:octocat: Programming Challenges, Courses, Exercises, Examples, Development ― Projects (Private repositories ― Developed for a client)
 - - -
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md)  | [typescript](typescript.md) | [nodejs](nodejs.md) | [programming](programming.md) | [python](python.md) | [react](react.md) | [setups](setups.md)
