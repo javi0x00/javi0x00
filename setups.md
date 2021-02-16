@@ -1,6 +1,27 @@
 # :memo: Notes
 ## SETUPS
 
+###  Deploy to a Github page a React App
+$\my-app
+```
+npm install --save-dev gh-pages
+```
+
+package.json
+```
+"homepage": "https://javierandresgp.github.io/<repo>"
+"scripts": {
+  "predeploy": "npm run build ",
+  "deploy": "gh-pages -d build"
+}
+```
+
+$\my-app
+```
+npm run build
+npm run deploy
+```
+
 ### Visual Studio Code
 #### Extensions
 * Atom One Dark Theme - Mahmoud Ali
