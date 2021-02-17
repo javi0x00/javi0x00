@@ -1,6 +1,11 @@
 # :memo: Notes
 ## SETUPS
 - - -
+###  React & TypeScript
+```
+npx create-react-app my-app --template typescript
+```
+- - -
 ###  Deploy to a Github page a React App
 $\my-app
 ```

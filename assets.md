@@ -18,6 +18,7 @@
 * [Normalize min](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
 * [Hamburgers by Jonathan Suh](https://jonsuh.com/hamburgers/)
 * [SpinKit](https://tobiasahlin.com/spinkit/)
+* [Bootswatch](https://bootswatch.com/)
 
 ### JAVASCRIPT
 * [Momentjs](https://momentjs.com/)
