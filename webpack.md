@@ -4,6 +4,10 @@
 ### Resources
 * [Webpack](https://webpack.js.org/)
 * [Getting Started](https://webpack.js.org/guides/getting-started/)
+* [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
+* [html-loader](https://webpack.js.org/loaders/html-loader/)
+* [style-loader](https://webpack.js.org/loaders/style-loader/)
+* [css-loader](https://webpack.js.org/loaders/css-loader/)
 
 ### Requirements
 #### Install
@@ -16,9 +20,17 @@
   - Loaders
   - Plugins
 
+* Functionalities
+  * Extensible
+    - Plugins
+  * Modules
+    - Importing
+    - Exporting
+  - Minify code
+
 * Without config file
-  - cli
   - package.json
+  - webpack cli (command line interface)
 
 * With config file
-  - webpack.config.js
+  - Add webpack.config.js file
