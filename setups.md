@@ -54,6 +54,7 @@ npm run deploy
 * Remove empty lines - Alexander
 * REST Client - Huachao Mao
 * Simple React Snippets - Burke Holland
+* Tabnine Autocomplete AI - TabNine
 * Tailwind CSS IntelliSense - Brad Cornes
 * Visual Studio IntelliCode - Microsoft
 * Vim - vscodevim
@@ -129,6 +130,7 @@ npm run deploy
   "workbench.sideBar.location": "left",
   "vsicons.dontShowNewVersionMessage": false,
   "java.home": "C:\\Program Files\\Java\\jdk-11.0.9",
+  "tabnine.experimentalAutoImports": true,
   // Command Prompt
   //"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
   // PowerShell
