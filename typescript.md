@@ -31,6 +31,9 @@
     - tuple
     - object
     - enum
+    * generic
+      - utility
+      - custom
   - Inference
   - Alias
   - Literals
@@ -67,12 +70,17 @@
 * Encapsulation
 
 * Modularity
+  - Export
+  - Import
 
 * Interfaces
   - Attributes
   - Functions
   - Modifiers
   - Inheritance
+
+* Projects
+  - tsconfig
 
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

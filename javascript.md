@@ -11,6 +11,7 @@
 ### Terms and concepts
 * ECMAScript
 * JavaScript
+
 * JavaScript uses
   - Web language
   - Interactive
@@ -20,27 +21,32 @@
   - Back-End
   - Desktop apps
   - Mobile apps
+
 * script
-* script js?
-  * The ```<script></script>``` Tag
-    - async
-    - defer
-  - External file
-  - Comments
-  - Syntax
-  - Reserved Words
-  - Keywords
+  * script js?
+    * The ```<script></script>``` Tag
+      - async
+      - defer
+    - External file
+    - Comments
+    - Syntax
+    - Reserved Words
+    - Keywords
+    - Strict mode
+
 * Debugging
   - ```console```
   - Browser debugging tools
   * Snippets 
     - performance.now
   - debugger
-* Strict mode
+
 * Statements
   - Values, Operators, Expressions, Keywords, and Comments.
+
 * Expressions
   - values, variables, and operators, which computes to a value.
+
 * Variables
   - Constants
   - Scope
@@ -49,6 +55,7 @@
   * Coercion
     - Implicit
     - Explicit
+
 * Data types
   * Primitives:
     - String
@@ -90,6 +97,7 @@
       - Object methods
       - Set methods
       - Map methods
+
 * Operators
   - Arithmetic operators
   - Assignment operators
@@ -105,6 +113,7 @@
   - Constructor
   - Short circuit operators
   - Spread operator or Rest operator
+
 * Control structures
   - Sequential
   * Conditional
@@ -129,12 +138,15 @@
   * Flow handling
       - Break
       - Continue
+
 * Error handling
   - Try ... Catch ... Finally
   - Throw
+
 * Destructuring
   - Assign by Destructuring
   - Destructuring, Functions, Arrays and Objects
+
 * Objects
   - Propierties or Attributes
   - Methods
@@ -149,11 +161,13 @@
   * Object constructor
     - Dynamic and reusable
   - Property method
+
 - Template literals or template strings or literal strings
 - Fragments
 - Templates and "clone"
 - REST parameters (to received)
 - Spread operator (to send)
+
 * Functions
   - Built-in
   - Function declaration (search in the same object, in the current object)
@@ -174,17 +188,21 @@
   - Promises
   - First-class function
   - Pure function
+
 * Hoisting
   - Register/Record
   - Execute
+
 * Prototypes
   * Constructor object or constructor function
     - Dynamic and reusable
   - Object prototype (better with function declaration for the scope)
   - Prototype chain
   - Prototypical inheritance
+
 * Syntactic sugar
   - Prototypes - Classes
+
 * OOP
   * Classes
     - Declaration class
@@ -203,6 +221,7 @@
     - Overwrite methods
     - Polymorphism
   - Maps
+
 * Some Objects
   - Window
   - Console
@@ -213,16 +232,19 @@
     - keys
     - values
     - entries
+
 * Some Methods
   - alert
   - confirm
   - prompt
   - test
   - exec
+
 * Some Constructors
   - Object
   - Array
   - RegExp
+
 * Some Object Methods
   - ```use strict````
   - Object.freeze
@@ -231,7 +253,9 @@
   - Object.keys
   - Object.values
   - Object.entries
+
 * Regular Expressions
+
 * Modules
   - module
   - nomudule
@@ -239,16 +263,19 @@
   - Export
   - Export default
   - Alias
+
 * Code ordering
   - Import modules
   - Variables
   - Functions
   - Executables
+
 * Timers
   - TimeOut
   - ClearTimeOut
   - TimeInterval
   - ClearInterval
+
 * Asynchronous
   - I/O
   - Single thread
@@ -262,11 +289,14 @@
   - Non-blocking
   - Synchronous
   - Asynchronous
+
 * Callbacks
   - Callback hell
+
 * Recursive
 * Trampoline (technique)
 * Closure
+
 * Promises
   - Pending
   - Fulfilled
@@ -277,6 +307,7 @@
     - Catch
   * Methods
     - all
+
 * Async Await
   - Try
   - Catch
@@ -284,6 +315,7 @@
 * Iterables & Iterators
   - next
   - done
+
 * Generators
   - yield
 
@@ -376,6 +408,7 @@
   - With Async Await
 
 * SPA (Single Page Application)
+
 * PWA (Progresive Web Application)
   - Fast
   - Instalable
@@ -384,6 +417,7 @@
     - Manifest
     - Domain
     - Fetch event listener
+
 * Service Workers
   - Base of the PWA
   - Working offline
