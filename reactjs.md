@@ -107,6 +107,11 @@
   - onInvalid
 
 * Hooks
+  - use state
+  - use effect
+  - use ref
+  - use reducer
+  - custom hooks
 
 * Good practices
   - composition instead of inheritance
