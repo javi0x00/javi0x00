@@ -71,5 +71,6 @@
 * [Sergey](https://sergey.cool/)
 * [Jamstack](https://jamstack.org/)
 
+- - -
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

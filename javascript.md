@@ -474,5 +474,6 @@
   - Gulp
   - Style guide (Standard, Google, Airbnb)
 
+- - -
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

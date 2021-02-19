@@ -34,3 +34,7 @@
 
 * With config file
   - Add webpack.config.js file
+
+- - -
+## Software engineer
+[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

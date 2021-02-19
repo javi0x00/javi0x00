@@ -28,3 +28,7 @@
 * Web Stack programming - Front-end
 * Web Stack programming - Back-end
 * Web Stack programming - Just for fun!
+
+- - -
+## Software engineer
+[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
