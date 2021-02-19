@@ -67,5 +67,9 @@
 * [Stripe API](https://stripe.com/docs/api)
 * [sepomex](https://api-sepomex.hckdrk.mx/documentacion/docs)
 
+### STATIC SITE GENERATOR
+* [Sergey](https://sergey.cool/)
+* [Jamstack](https://jamstack.org/)
+
 ## Software engineer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
