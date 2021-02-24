@@ -16,12 +16,12 @@ npx create-react-app my-app --template typescript
 ###  Deploy to a Github page a React App
 $\my-app
 ```
-npm install --save-dev gh-pages
+$ npm install --save-dev gh-pages
 ```
 
 package.json
 ```
-"homepage": "https://javierandresgp.github.io/<repo>"
+"homepage": "https://<username>.github.io/<repo>"
 "scripts": {
   "predeploy": "npm run build ",
   "deploy": "gh-pages -d build"
@@ -30,8 +30,8 @@ package.json
 
 $\my-app
 ```
-npm run build
-npm run deploy
+$ npm run build
+$ npm run deploy
 ```
 - - -
 ### Visual Studio Code
