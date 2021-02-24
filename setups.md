@@ -21,7 +21,7 @@ $ npm install --save-dev gh-pages
 
 package.json
 ```
-"homepage": "https://<username>.github.io/<repo>"
+"homepage": "https://<user>.github.io/<repo>"
 "scripts": {
   "predeploy": "npm run build ",
   "deploy": "gh-pages -d build"
