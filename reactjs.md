@@ -35,7 +35,7 @@
     - Content (html)
     - Presentation (css)
     - Interactivity (js)
-  * With or without state
+  * With state or without state
   * Unidirectional, parent to child flow
   * Allow define as class and as function
     - of class
@@ -99,6 +99,17 @@
 
 * Methods
   - setState (asynchronous)
+
+* Events on class components
+  - bind
+  - Property Initializers
+  - arrow function to bind
+
+* Events
+  - Native
+  - Synthetics
+  - Custom
+
 * Events
   - onClick
   - onSubmit
