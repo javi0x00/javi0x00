@@ -36,23 +36,15 @@
     - Presentation (css)
     - Interactivity (js)
   * With state or without state
-  * Unidirectional, parent to child flow
+  * Unidirectional, One-way Data Binding
+    - Parent to child flow
   * Allow define as class and as function
     - of class
     - functional
-
-* Properties ― props (inmutable), it's a object
-  - Default Props
-  - Props like attribute
-  - Prop Types
-  - key
-
-* State
-  - Inmutable
-  - Declarative
-  - Reactive
-  - Asynchronous
-  - A functional component can't have state
+  * Communication between components
+    - Parent to child (props)
+    - Child to parent (event of the son altering the state of the father)
+    - Unrelated components
 
 * Lifecycle
   * Mounting
@@ -87,12 +79,27 @@
     - componentDidCatch
 
 * Components
-  - render
+  * render
+    - props
+    - state 
   - fragment
   - reactivity
 
 * More components
   - pureComponent
+
+* Properties ― props (inmutable), it's a object
+  - Default Props
+  - Props like attribute
+  - Prop Types
+  - key
+
+* State
+  - Inmutable
+  - Declarative
+  - Reactive
+  - Asynchronous
+  - A functional component can't have state
 
 * Props
   - Children
