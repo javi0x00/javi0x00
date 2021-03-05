@@ -125,10 +125,24 @@
   - onInvalid
 
 * Hooks
-  - use state
-  - use effect
-  - use ref
-  - use reducer
+  * useState
+    - Default props
+  * useEffect
+    - Render
+    * Dependencies list
+      * Exists empty
+        - componentDidMount
+      * Exist with specifit value
+        - componentDidUpdate, render when specific value change
+      * Exists with return
+        - componentWillUnmount
+      * Non-existent
+        - componentDidUpdate, render when any change (discouraged)
+  - useContext
+  - useRef
+  - useReducer
+  - useCallback
+  - useMemo
   - custom hooks
 
 * Good practices
