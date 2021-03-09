@@ -131,13 +131,13 @@
     - Render
     * Dependencies list
       * Exists empty
-        - componentDidMount
+        - componentDidMount, render content only one time
       * Exist with specifit value
-        - componentDidUpdate, render when specific value change
-      * Exists with return
-        - componentWillUnmount
+        - componentDidUpdate, render content when specific value change, state variable
       * Non-existent
-        - componentDidUpdate, render when any change (discouraged)
+        - componentDidUpdate, render content when any change (discouraged)
+    * Return
+      - componentWillUnmount
   - useContext
   - useRef
   - useReducer
