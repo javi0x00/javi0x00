@@ -66,6 +66,8 @@
 * [reddit](https://www.reddit.com/dev/api/)
 * [Stripe API](https://stripe.com/docs/api)
 * [sepomex](https://api-sepomex.hckdrk.mx/documentacion/docs)
+* [Free IP Geolocation API](https://freegeoip.app/)
+* [7timer](http://7timer.info/)
 
 ### STATIC SITE GENERATOR
 * [Sergey](https://sergey.cool/)
