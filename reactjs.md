@@ -143,7 +143,8 @@
   - useReducer
   - useCallback
   - useMemo
-  - custom hooks
+  * custom hooks
+    - use<hook_name>
 
 * Good practices
   - composition instead of inheritance
