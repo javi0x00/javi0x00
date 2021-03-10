@@ -146,6 +146,12 @@
   * custom hooks
     - use<hook_name>
 
+* Refs
+  * Class component
+    - createRef
+  * Functional component
+    - useRef
+
 * Good practices
   - composition instead of inheritance
   - stateless components
