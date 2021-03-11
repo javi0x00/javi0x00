@@ -3,18 +3,19 @@
 - - -
 ###  TypeScript
 ```
-npm install --save-dev typescript
-node_modules/.bin/tsc --init
-node --save-dev
+$ npm install --save-dev typescript
+$ node_modules/.bin/tsc --init
+$ node --save-dev
 ```
 - - -
 ###  React & TypeScript
 ```
-npx create-react-app my-app --template typescript
+$ npx create-react-app my-app --template typescript
+$ npm install --save @types/react
 ```
 - - -
 ###  Deploy to a Github page a React App
-$\my-app
+$ \my-app
 ```
 $ npm install --save-dev gh-pages
 ```
@@ -28,7 +29,7 @@ package.json
 }
 ```
 
-$\my-app
+$ \my-app
 ```
 $ npm run build
 $ npm run deploy

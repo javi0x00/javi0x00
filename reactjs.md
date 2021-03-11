@@ -152,6 +152,9 @@
   * Functional component
     - useRef
 
+* Forms
+  - Controlled input element
+
 * Good practices
   - composition instead of inheritance
   - stateless components

@@ -3,6 +3,7 @@
 
 ### Resources
 * [TypeScript](https://www.typescriptlang.org/)
+* [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
 ### Requirements
 #### Install
