@@ -9,6 +9,12 @@
 * [Aspectos básicos del diseño web adaptable](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=es)
 
 ### Terms and concepts
+* Selector
+	* Attribute
+		- Value
+* Prefixed
+
+#### Summary
 ```
 /* comentarios en css */
 /*
