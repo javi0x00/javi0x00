@@ -40,6 +40,7 @@
 
 ### unordered
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries)
+* [Open Source Initiative (OSI)](https://opensource.org/)
 * [UMLetino](https://www.umletino.com/)
 * [IcoMoon](https://icomoon.io/)
 * [JSON Server](https://github.com/typicode/json-server)
