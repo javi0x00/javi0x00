@@ -14,17 +14,26 @@
 * [The HTML validator](https://validator.w3.org/)
 
 ### CSS
+* [The CSS validator](https://jigsaw.w3.org/css-validator/)
 * [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 * [Normalize min](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
+* [Modernizr](https://modernizr.com/)
+* [-prefix-free](https://projects.verou.me/prefixfree/)
 * [Hamburgers by Jonathan Suh](https://jonsuh.com/hamburgers/)
 * [SpinKit](https://tobiasahlin.com/spinkit/)
 * [Bootswatch](https://bootswatch.com/)
+* [Ceaser](https://www.matthewlein.com/tools/ceaser)
 
 ### JAVASCRIPT
 * [Momentjs](https://momentjs.com/)
 * [Cdnjs](https://cdnjs.com/)
 * [Emojipedia](https://emojipedia.org/)
 * [heroicons](https://heroicons.dev/)
+
+### Fonts
+* [Google fonts](https://fonts.google.com/)
+* [Adobe fonts](https://fonts.adobe.com/)
+* [font2web](http://www.font2web.com/)
 
 ### Images
 * [tinypng](https://tinypng.com/)

@@ -77,6 +77,7 @@ elemento::selection {}/* dar estilo cuando lo seleccione */
 ELEMENTO:SEUDOCLASE {}
 p:first-line {}/* dar estilos a la primera línea del parrafo */
 p:nth-child(número de la línea){}/* dar estilo a otras líneas del parrafo */
+:not(elemento)/* dar estilos a los elementos que NO sean <elemento> */
 a:link {}/* apariencia de enlaces no visitados */
 a:visited {}/* enlaces ya visitados */
 a:hover {}/* cuando el puntero del mouse esté sobre */
@@ -153,17 +154,6 @@ SELECTOR {
 	overflow-y:;/*  */
 	overflow-wrap:;/*  */
 	z-index/* establecer el nivel de capa, controlar sobreposición de cajas - SIEMPRE debe ir acompañado de "position"*/
-	transform:;/* hacer transformaciones,  animaciones -webkit- -moz- */
-	transform:translate();/* trasladar elemento */
-	transform:scale();/* escalar elemento */
-	transform:rotate();/* rotar elemento */
-	transform:skew();/* sesgar elemento */
-	transition:nombre del elemento valores ease linear;/* transiciones */
-	transition-property:;/* especificar aplicación por ejemplo cuando tengo varias tranciciones */
-	transition-delay:;/* un retarzo en la transición */
-	transition-duration:;/* especificar tiempo en la transición */
-	transition-timing-function:;/* especificar tiempo en la transición en sus diferentes estados */
-	animation-name:;/* animaciones */
 	background:;/* fondo */
 	background: url();/* imagen de fondo */
 	background-image:;/* imagen de fondo */
@@ -195,10 +185,24 @@ SELECTOR {
 	list-style-position:;/* dar estilo a las listas */
 	empty-cells:;/* dar estilo a las tablas a las celdas vacias */
 	cursor:;/* cambiar el puntero */
-	animation-name:;/* para trabajar con animación */
+		transform:;/* hacer transformaciones,  animaciones -webkit- -moz- */
+	transform:perspective()/* cambios en perspectiva visual */
+	transform:translate();/* trasladar elemento */
+	transform:scale();/* escalar elemento */
+	transform:rotate();/* rotar elemento */
+	transform:skew();/* sesgar elemento */
+	transform-origin/*  */
+	transition:nombre del elemento valores ease linear;/* transiciones */
+	transition-property:;/* especificar aplicación por ejemplo cuando tengo varias tranciciones */
+	transition-delay:;/* un retrazo en la transición */
+	transition-duration:;/* especificar tiempo en la transición */
+	transition-timing-function:;/* especificar tiempo en la transición en sus diferentes estados */
+	animation-name:;/* manejar animaciones */
 	animation-duration:;/* establecer duración de la animación */
 	animation-iteration-count:;/* establecer cuanto tiempo durará la animación */
 	animation-delay:;/*  */
+	animation-timing-function:;/*  */
+	@keyframes{}/* crear animaciones */
 	/* FLEXBOX PADRE */
 	display: flex;/* Habilitar, activar FLEXBOX, flex o inline-flex */
     flex-direction: row;/* row, row-reverse, column, column-reverse */
@@ -221,7 +225,6 @@ SELECTOR {
 }
 
 @font-face {}/* agregar fuentes */
-@keyframes{}/* crear animaciones */
 
 /* MEDIAQUERIES */
 /* MOBILE FIRST - consiste en codificar para dispositivos moviles y dar cambios a medida que crecen las pantallas */

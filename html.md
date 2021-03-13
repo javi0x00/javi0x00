@@ -46,7 +46,7 @@
     <link rel="preconnect" href="" /><!-- -->
     <link rel="preload" href="" as="style" /><!-- -->
 		<style type="text/css"></style><!-- agregar estilos css dentro del mismo html -->
-		<script type="text/javascript"></script><!-- agregar código javascript -->
+ 		<script type="text/javascript"></script><!-- agregar código javascript -->
 		<script language="javascript" type="text/javascript" src=""></script><!-- Llamar librerías externas -->
 		<noscript></noscript><!-- para mostrar mensaje si no tiene habilitado javascript -->
     <title>Tags</title><!-- título de la pestaña del documento -->
@@ -77,7 +77,7 @@
 		<p></p><!-- parrafos -->
 		<!-- No semánticos -->
 		<div></div><!-- contenedor generico, no semántico -->
-		<span class=""></span><!-- no semántico, dar estilo, funciona el línea, no cambia comportamiento  -->
+		<span></span><!-- no semántico, dar estilo, funciona el línea, no cambia comportamiento  -->
 		<small></small><!-- texto pequeño -->
 		<br/><!-- salto de línea -->
 		<a href="tel:+57-300-560-0756">+57 300 560 0756</a><!-- teléfono -->
