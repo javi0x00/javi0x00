@@ -39,6 +39,7 @@
 * [tinypng](https://tinypng.com/)
 
 ### unordered
+* [Google Hosted Libraries](https://developers.google.com/speed/libraries)
 * [UMLetino](https://www.umletino.com/)
 * [IcoMoon](https://icomoon.io/)
 * [JSON Server](https://github.com/typicode/json-server)
