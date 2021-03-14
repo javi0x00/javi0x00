@@ -49,12 +49,14 @@ $ npm run deploy
 * ESLint - Dirk Baeumer
 * Flatland Monokai Theme - gerane
 * GitHub Pull Requests and Issues - GitHub
+* Indent Rainbow - Oderwat
 * Java Extension Pack - Microsoft
 * Java Test Runner - Microsoft
 * JavaScript (ES6) code snippets - charalampos karypidis
 * Jupiter - Microsoft
 * Language Support for Java(TM) by Red Hat
 * Live Server - Ritwick Dey
+* One Dark Pro - binaryfy
 * Maven for Java - Microsoft
 * PHP Intelephense - Ben Mewburn
 * PHP Intelephense - Felix Becker
@@ -73,6 +75,7 @@ $ npm run deploy
 * Vim - vscodevim
 * vscode-icons - Microsoft
 * vscode-styled-components - Julien Poissonnier
+
 #### settings.json
 ```
 {

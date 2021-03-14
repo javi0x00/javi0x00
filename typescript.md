@@ -23,7 +23,8 @@
     - number
     - string
   * Special
-    - any
+    * Generic
+      - any
     - void
     - null
     - undefined
@@ -32,7 +33,7 @@
     - tuple
     - object
     - enum
-    * generic
+    * Generic
       - utility
       - custom
   - Inference
@@ -51,16 +52,25 @@
   - Properties
   * Methods
     - constructor
-  - Visibility
   * Modifier
+    - protect
     - readonly
     - abstract
-    - protect
   * Instance
     - this
+  * Visibility
+    - public (default)
+    - private
+    - protected
   * Virtual attributes
     - setter
     - getter
+
+* Generic
+  - Data type
+  - Function
+  - Class
+  - Interface
 
 * Inheritance
 
@@ -68,17 +78,17 @@
   - super
   - overwrite
 
-* Encapsulation
-
-* Modularity
-  - Export
-  - Import
-
 * Interfaces
   - Attributes
   - Functions
   - Modifiers
   - Inheritance
+
+* Encapsulation
+
+* Modularity
+  - Export
+  - Import
 
 * Projects
   - tsconfig
