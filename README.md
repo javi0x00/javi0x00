@@ -6,7 +6,7 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 ### Developed for a client
 :checkered_flag: [Enfocate con propósito](http://www.enfocateconproposito.org/)
 ### Developed for training
-:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/github_pages-jsonplaceholder/) | [Pokémon Cards](https://javierandresgp.github.io/github_pages-pokemon_cards/) | [Weather Search](https://javierandresgp.github.io/github_pages-weather_search/) | [Foreign Exchange](https://javierandresgp.github.io/github_pages-foreign_exchange/) | [Staff Availability](https://javierandresgp.github.io/github_pages-staff_availability/) | [Calcular Préstamo](https://javierandresgp.github.io/github_pages-calcular_prestamo/) | [JavaScript Exercises](https://javierandresgp.github.io/github_pages-javascript_exercises/)
+:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Pokémon Cards](https://javierandresgp.github.io/github_pages-pokemon_cards/) | [Weather Search](https://javierandresgp.github.io/github_pages-weather_search/) | [Foreign Exchange](https://javierandresgp.github.io/github_pages-foreign_exchange/) | [Staff Availability](https://javierandresgp.github.io/github_pages-staff_availability/) | [Calcular Préstamo](https://javierandresgp.github.io/github_pages-calcular_prestamo/) | [JavaScript Exercises](https://javierandresgp.github.io/github_pages-javascript_exercises/)
 - - -
 ## :books: Holberton School ― Projects
 :school: [Summary](holberton_school.md)
