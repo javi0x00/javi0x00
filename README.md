@@ -6,7 +6,7 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 ### Developed for a client
 :checkered_flag: [Enfocate con propósito](http://www.enfocateconproposito.org/)
 ### Developed for training
-:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Color Generator](https://javierandresgp.github.io/training-color_generator/) | [Pokémon Cards](https://javierandresgp.github.io/training-pokemon_cards/) | [Foreign Exchange](https://javierandresgp.github.io/training-foreign_exchange/) | [Calcular Préstamo](https://javierandresgp.github.io/training-calcular_prestamo/) | [JavaScript Exercises](https://javierandresgp.github.io/github_pages-javascript_exercises/)
+:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Color Generator](https://javierandresgp.github.io/training-color_generator/) | [Pokémon Cards](https://javierandresgp.github.io/training-pokemon_cards/) | [Foreign Exchange](https://javierandresgp.github.io/training-foreign_exchange/) | [Calcular Préstamo](https://javierandresgp.github.io/training-calcular_prestamo/) | [JavaScript Exercises](https://javierandresgp.github.io/training-javascript_exercises/)
 - - -
 ## :books: Holberton School ― Projects
 :school: [Summary](holberton_school.md)
