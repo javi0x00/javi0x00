@@ -15,4 +15,4 @@ Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com
 :octocat: Programming Challenges, Courses, Exercises, Examples, Development ― Projects (Private repositories ― Developed for a client)
 - - -
 ###### :memo: Notes
-:bookmark: [algorithmics](algorithmics.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [employers](employers.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md) | [nodejs](nodejs.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [setups](setups.md) | [typescript](typescript.md) | [webpack](webpack.md)
+:bookmark: [algorithmics](algorithmics.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [employers](employers.md) | [git](git.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md) | [nodejs](nodejs.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [setups](setups.md) | [typescript](typescript.md) | [webpack](webpack.md)
