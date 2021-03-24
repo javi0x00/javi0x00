@@ -38,6 +38,12 @@ $ git merge
 $ git fetch
 $ git branch
 ```
+#### GitHub
+```
+$ git remote
+$ git remote -v
+
+```
 
 - - -
 ## Software engineer
