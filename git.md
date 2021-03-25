@@ -37,6 +37,11 @@ $ git pull
 $ git merge
 $ git fetch
 $ git branch
+$ git stash
+$ git clean
+$ gitk
+$ git reflog
+$git reset
 ```
 #### GitHub
 ```
