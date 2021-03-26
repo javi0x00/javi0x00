@@ -455,10 +455,21 @@
 * Partials, Currying
 * Composition
 
+* Engine
+  - Source
+  - AST (Abstract Syntax Tree)
+  - Bytecode
+  - Machinecode
+
 * Event loop
-  - Stack
+  * Stack FILO
+    - push
+    - pop
   - Heap
-  - Queue
+  * Queue FIFO
+    - Scheduled tasks (e.g. setTimeout)
+    - Microtask queue (e.g. Promises)
+    - task queue
 
 * Design Patterns
   * Create code
