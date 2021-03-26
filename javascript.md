@@ -222,6 +222,25 @@
     - Polymorphism
   - Maps
 
+* Scope
+  - Global
+  - Function
+  - Block
+  - Module
+
+* IIFE
+* Clousures
+
+* this
+  - call
+  - apply
+  - bind
+
+* Prototype
+  - Prototypical inheritance
+
+* Object
+
 * Some Objects
   - Window
   - Console
