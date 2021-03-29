@@ -26,10 +26,16 @@
 * [Ceaser](https://www.matthewlein.com/tools/ceaser)
 
 ### JAVASCRIPT
+* [date-fns](https://date-fns.org/)
 * [Momentjs](https://momentjs.com/)
 * [Cdnjs](https://cdnjs.com/)
 * [Emojipedia](https://emojipedia.org/)
 * [heroicons](https://heroicons.dev/)
+
+### REACT
+* [styled-components](https://styled-components.com/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
+* [MATERIAL-UI](https://material-ui.com/)
 
 ### Fonts
 * [Google fonts](https://fonts.google.com/)
@@ -38,6 +44,7 @@
 
 ### Images
 * [tinypng](https://tinypng.com/)
+* [image](https://placeimg.com/400/200/animals)
 
 ### unordered
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries)
