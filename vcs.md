@@ -1,6 +1,5 @@
 # :memo: Notes
-## Git
-version control system
+## Version Control System
 
 ### Resources
 * [Git](https://git-scm.com/)
