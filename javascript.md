@@ -4,6 +4,20 @@
 ### Resources
 * [MDN Web Docs - JavaScript :copyright:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [JavaScript and HTML DOM Reference :copyright:](https://www.w3schools.com/jsref/default.asp)
+* [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)
+* [date-fns](https://date-fns.org/)
+* [Momentjs](https://momentjs.com/)
+* [Cdnjs](https://cdnjs.com/)
+* [Javascript Obfuscator](http://javascript2img.com/)
+* [Javascript Deobfuscate](https://beautifier.io/)
+* [Google Hosted Libraries](https://developers.google.com/speed/libraries)
+* [Axios](https://github.com/axios/axios)
+#### Loaders
+* [SpinKit](https://tobiasahlin.com/spinkit/)
+* [SVG Loaders - Sam Herbert](https://samherbert.net/svg-loaders/)
+#### Menu
+* [Hamburgers by Jonathan Suh](https://jonsuh.com/hamburgers/)
 
 ### Requirements
 * A browser or Nodejs

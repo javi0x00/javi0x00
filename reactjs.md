@@ -3,6 +3,9 @@
 
 ### Resources
 * [React](https://reactjs.org/)
+* [styled-components](https://styled-components.com/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
+* [MATERIAL-UI](https://material-ui.com/)
 * Extension
   - react developer tools
 * Package

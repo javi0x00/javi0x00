@@ -7,6 +7,13 @@
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3C Developers](https://www.w3.org/developers/)
 * [WHATWG](https://whatwg.org/)
+* [The HTML validator](https://validator.w3.org/)
+* [W3C](https://www.w3.org/)
+* [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
+* [The HTML validator](https://validator.w3.org/)
+* [W3C Developers](https://www.w3.org/developers/)
+* [WHATWG](https://whatwg.org/)
+* [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [HTML 5 en la educación](http://www.ite.educacion.es/formacion/materiales/182/cd/indice.htm)
 
 ### Terms and concepts
