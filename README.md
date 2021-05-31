@@ -1,6 +1,6 @@
 # Welcome
-:man_technologist: On September 2019 I joined to the school of computer science and software development 'Holberton School' to the foundation program and on May 2021 I finished my specialization in Full-Stack Web Development.  
-I'm currently working as Front-End Software Developer in Triario International Company, I'm working hard day by day to be a full stack software developer.  
+:man_technologist: On September 2019, I joined to the school of computer science and software development 'Holberton School' to the foundation program and on May 2021 I finished my specialization in Full-Stack Web Development.  
+I'm currently working as Front-End Software Developer in Triario International, I'm working hard day by day to be a full stack software developer.  
 Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
