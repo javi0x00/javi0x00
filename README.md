@@ -4,8 +4,8 @@ I'm currently working as Front-End Software Developer in Triario International C
 Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
-### Personal
-:star::star::star::star::star: [javierandresgp.com](https://www.javierandresgp.com)
+### Personal site
+:star: [javierandresgp.com](https://www.javierandresgp.com)
 ### Developed for a client
 :checkered_flag: [Enfócate con propósito](http://www.enfocateconproposito.org/)
 ### Developed for training
