@@ -1,8 +1,11 @@
 # Welcome
-:man_technologist: In 2019 I joined to the school of computer science and software development 'Holberton School' to the foundation program and I currently dedicate all my time to study the specialization in Full-Stack Web Development and to train myself as a software engineer to obtain my first formal job as programmer.  
-Is there any job opportunity for me? [Contact me](https://www.javierandresgp.com)
+:man_technologist: In 2019 I joined to the school of computer science and software development 'Holberton School' to the foundation program and in 2021 I finished my specialization in Full-Stack Web Development.
+I'm currently working as Front-End Software Developer in Triario International Company, I'm working hard day by day to be a full stack software developer.
+Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
+### Personal
+[site](https://www.javierandresgp.com)
 ### Developed for a client
 :checkered_flag: [Enfócate con propósito](http://www.enfocateconproposito.org/)
 ### Developed for training
