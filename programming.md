@@ -122,5 +122,5 @@
   - Values, variables, and operators, which computes to a value.
 
 - - -
-## Software engineer
+## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

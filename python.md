@@ -194,5 +194,5 @@ Namespaces are one honking great idea -- let's do more of those!
 * Unitest
 
 - - -
-## Software engineer
+## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

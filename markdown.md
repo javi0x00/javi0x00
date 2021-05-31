@@ -6,3 +6,7 @@
 * [Markdown & Pygments Lexers Cheat Sheet](https://joedicastro.com/pages/markdown.html)
 * [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
 * [Showdownjs](http://showdownjs.com/)
+
+- - -
+## Software Developer
+[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
