@@ -15,10 +15,10 @@ Thanks for visiting my GitHub profile.
 :school: [Summary](holberton_school.md)
 - - -
 ## :computer: Other repositories
-:octocat: Programming Challenges, Courses, Exercises, Examples, Development ― Projects (Private repositories ― Developed for a client)
+:octocat: Programming Challenges, Courses, Exercises, Examples, Development ― Private projects (Private repositories ― Developed for clients)
 - - -
 ## :office: Triario ― Projects
-:factory: [Summary](triario.md)
+:factory: [Summary](triario.md) ― (Private repositories)
 - - -
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [api](api.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [employment](employment.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md) | [markdown](markdown.md) | [nodejs](nodejs.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [setups](setups.md) | [typescript](typescript.md) | [vcs](vcs.md) | [webpack](webpack.md)
