@@ -9,7 +9,7 @@ Thanks for visiting my GitHub profile.
 ### Developed for a client
 :checkered_flag: [Enfócate con propósito](http://www.enfocateconproposito.org/)
 ### Developed for training
-:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Color Generator](https://javierandresgp.github.io/training-color_generator/) | [Pokémon Cards](https://javierandresgp.github.io/training-pokemon_cards/) | [Calculator](https://javierandresgp.github.io/training-calculator/) | [Counter](https://javierandresgp.github.io/training-counter/) | [Clock](https://javierandresgp.github.io/training-clock/) | [Responsive Navbar](https://javierandresgp.github.io/training-responsive_navbar/) | [Foreign Exchange](https://javierandresgp.github.io/training-foreign_exchange/)
+:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Color Generator](https://javierandresgp.github.io/training-color_generator/) | [Pokémon Cards](https://javierandresgp.github.io/training-pokemon_cards/) | [Calculator](https://javierandresgp.github.io/training-calculator/) | [Counter](https://javierandresgp.github.io/training-counter/) | [Clock](https://javierandresgp.github.io/training-clock/) | [Responsive Navbar](https://javierandresgp.github.io/training-responsive_navbar/) | [Compose reggaeton](https://javierandresgp.github.io/training-compose_reggaeton/) | [Foreign Exchange](https://javierandresgp.github.io/training-foreign_exchange/)
 - - -
 ## :books: Holberton School ― Projects
 :school: [Summary](holberton_school.md)
