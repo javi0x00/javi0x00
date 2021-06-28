@@ -16,6 +16,9 @@
 ### Deploy
 * [netlify](https://www.netlify.com/)
 
+### Docs
+* [JSDoc](https://jsdoc.app/)
+
 ### HTTP
 * [Postman](https://www.postman.com/)
 * [Insomnia](https://insomnia.rest/)

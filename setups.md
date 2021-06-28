@@ -2,7 +2,6 @@
 ## SETUPS
 - - -
 ### JSDoc
-* [JSDoc](https://jsdoc.app/)
 ```
 $ yarn add jsdoc
 $ npm i jsdoc
@@ -10,19 +9,21 @@ $ npm i jsdoc
 jsdoc.json
 ```
 {
-  "pluggins": [],
+  "plugins": [],
   "source": {
-    "include": ["src"],
     "includePattern": ".js$",
-    "excludePattern": "(node_modules|docs)"
+    "excludePattern": "(node_modules|docs)",
+    "include": ["./src"],
+    "exclude": ["./node_modules", "./docs"]
   },
   "templates": {
     "cleverLinks": false,
     "monospaceLinks": false
   },
   "opts": {
-    "resource": true,
-    "destinations": "./doc"
+    "encoding": "utf8",
+    "destination": "./docs/",
+    "recurse": true
   }
 }
 ```
