@@ -1,6 +1,50 @@
 # :memo: Notes
 ## SETUPS
 - - -
+### JSDoc
+* [JSDoc](https://jsdoc.app/)
+```
+$ yarn add jsdoc
+$ npm i jsdoc
+```
+jsdoc.json
+```
+{
+  "pluggins": [],
+  "source": {
+    "include": ["src"],
+    "includePattern": ".js$",
+    "excludePattern": "(node_modules|docs)"
+  },
+  "templates": {
+    "cleverLinks": false,
+    "monospaceLinks": false
+  },
+  "opts": {
+    "resource": true,
+    "destinations": "./doc"
+  }
+}
+```
+```
+$ jsdoc -c jsdoc.json
+$ npx jsdoc -c jsdoc.json
+```
+package.json
+```
+{
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  }
+}
+```
+$ .vscode/settings.json
+```
+{
+  "javascript.implicitProjectConfig.checksJs": true
+}
+```
+- - -
 ###  TypeScript
 ```
 $ npm install --save-dev typescript
