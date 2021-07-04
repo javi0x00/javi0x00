@@ -4,14 +4,19 @@
 ### Resources
 * [:copyright: Docker](https://www.docker.com/)
 * [:copyright: Docker Hub](https://hub.docker.com/)
+* [:copyright: Docker Docs](https://docs.docker.com/)
 
 ### Terms and concepts
-* Docker Hub Service
-* Image
-* Container
+* Docker Hub Service (Repositories for storing and sharing images)
+* Image (Similar to template, class)
+* Container (Similar to instance, object.  It must contain everything needed to run an application)
   - Operative System
   - Dependencies
+  - Configuration
+  - Scripts
+  - Binaries
   - Application
+  - etc
 
 ### Commands
 #### Commons
@@ -27,6 +32,7 @@ $ docker logs
 $ docker axec
 ```
 #### Basic
+Setup container image
 ```
 $ vi Dockerfile
 ```
@@ -34,16 +40,24 @@ Dockerfile
 ```
 FROM <repo_name>:<version> (e.g. alpine, slim-buster)
 ```
-Build image
+Build container image
 ```
 $ docker build  -t <name> .
 ```
-Build container
+View images
+```
+$ docker images
+```
+Delete image
+```
+$ docker image rm <id>
+```
+Run the application
 ```
 $ docker run -it <id_image>
 $ docker run -it -p 80:80 <id_image>
 ```
-Stop image
+Stop container
 ```
 $ docker stop
 ```
@@ -55,16 +69,12 @@ Delete all inactive containers
 ```
 $ docker system prune 
 ```
-View images
-```
-$ docker images
-```
 Delete everything - Remove all unused containers, volumes, networks and images
 ```
 $ docker system prune -a --volumes
 ```
-#### Create a new container
-Setup
+#### Create a new container image
+Setup container image
 ```
 $ vi Dockerfile
 ```
@@ -78,11 +88,11 @@ RUN <command>
 CMD [...]
 ENTRYPOINT <command>
 ```
-Build image
+Build container image
 ```
 $ docker build  -t <name> .
 ```
-Run image
+Run the application
 ```
 $ docker run <name>
 $ docker run -p 3000:3000 <name>
