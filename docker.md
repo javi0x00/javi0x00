@@ -6,12 +6,12 @@
 * [:copyright: Docker Hub](https://hub.docker.com/)
 
 ### Terms and concepts
+* Docker Hub Service
+* Image
 * Container
   - Operative System
   - Dependencies
   - Application
-* Image
-* dockerhub Service
 
 ### Commands
 #### Commons
