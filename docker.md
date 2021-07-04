@@ -59,6 +59,10 @@ View images
 ```
 $ docker images
 ```
+Delete everything - Remove all unused containers, volumes, networks and images
+```
+$ docker system prune -a --volumes
+```
 #### Create a new container
 Setup
 ```
