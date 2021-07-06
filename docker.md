@@ -9,6 +9,12 @@
 ### Terms and concepts
 * Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)
+  - Files
+  - File tree
+  - Settings
+  * Layers set (read-only)
+    - id
+    - files
 * Container (Similar to instance, object.  It must contain everything needed to run an application)
   - Operative System
   - Dependencies
@@ -17,19 +23,34 @@
   - Binaries
   - Application
   - etc
+  * States
+    - Running
+    - Stoped
+* Network
+* Volume
 
 ### Commands
 #### Commons
 ```
 $ docker -v
 $ docker pull
-$ docker run
-$ docker stop
+$ docker run <parameter (optional)> <image> <command (optional)>
+$ docker stop <container>
 $ docker images
-$ docker ps
+$ docker ps <parameter (optional)>
 $ docker start
 $ docker logs
 $ docker axec
+$ docker rm <container>
+$ docker network ls
+$ docker network create <name>
+$ docker network rm <network>
+$ docker run --network <network>
+$ docker run --port <host_port:container_port>
+$ docker run --p <host_port:container_port>
+$ docker volume ls
+$ docker volume create <name>
+$ docker build <parameter> <name_image> <path_context>
 ```
 #### Basic
 Setup container image
@@ -123,23 +144,38 @@ Run
 $ docker run -it --network create <name> ...
 $ docker run -dp 3000:3000 ...
 ```
+#### Dockerfile
+Basic Setup
+```
+$ vi Dockerfile
+```
+Dockerfile
+```
+FROM <tag_image>
+COPY <path_context (relative path)> <path_image (absolute or relative path)>
+RUN <command>
+WORKDIR <absolute_path>
+CMD <default_command>
+```
 #### Docker compose
-Setup
+Basic Setup
 ```
 $ vi docker-compose.yaml
 ```
 docker-compose.yaml
 ```
-version: ...
+version: <x.y>
 services: ...
+networks: ...
+volumes: ...
 ```
-Run
+##### Commands
 ````
-$ docker-compose up -d
-```
-Stop
-````
+$ docker-compose up <parameters (optionals)> <services (optionals)>
+$ docker-compose stop <services (optionals)>
 $ docker-compose down
+$ docker-compose run <parameters (optionals)> <services> <command (optional)>
+$ docker-compose logs <parameters (optionals)> <services (optionals)>
 ```
 - - -
 ## Software Developer
