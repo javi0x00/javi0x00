@@ -29,31 +29,113 @@
 * Network
 * Volume
 
-### Commands
-#### Commons
+### Image
+#### Basic commands
 ```
-$ docker -v
-$ docker pull
-$ docker run <parameter (optional)> <image> <command (optional)>
-$ docker stop <container>
+$ docker search <image>
+$ docker pull <image>
 $ docker images
+$ docker rm image <image>
+$ docker build <parameter> <name_image> <path_context>
+```
+
+### Container
+#### Basic commands
+```
+$ docker run <parameter (optional)> <image> <command (optional)>
+$ docker exec <parameter (optional)> <container> <command>
 $ docker ps <parameter (optional)>
-$ docker start
-$ docker logs
-$ docker axec
-$ docker rm <container>
+$ docker stop <container>
+$ docker start <container>
+$ docker rm <parameter (optional)> <container>
+```
+
+### Network
+#### Basic commands
+```
 $ docker network ls
 $ docker network create <name>
 $ docker network rm <network>
 $ docker run --network <network>
 $ docker run --port <host_port:container_port>
 $ docker run --p <host_port:container_port>
+```
+
+### Volume
+#### Basic commands
+```
 $ docker volume ls
 $ docker volume create <name>
-$ docker build <parameter> <name_image> <path_context>
 ```
-#### Basic
-Setup container image
+
+### Common commands
+Basic
+```
+$ docker -v
+$ docker logs
+```
+Delete everything - Remove all unused containers, volumes, networks and images
+```
+$ docker system prune -a --volumes
+```
+
+#### Dockerfile
+Basic Setup
+```
+$ vi Dockerfile
+```
+Dockerfile
+```
+FROM <tag_image>
+WORKDIR <absolute_path>
+COPY <path_context (relative path)> <path_image (absolute or relative path)>
+RUN <command>
+CMD <default_command>
+```
+
+#### Docker compose
+Basic Setup
+```
+$ vi docker-compose.yaml
+```
+docker-compose.yaml
+```
+version: <x.y>
+services: ...
+networks: ...
+volumes: ...
+```
+##### Commands
+```
+$ docker-compose up <parameters (optionals)> <services (optionals)>
+$ docker-compose stop <services (optionals)>
+$ docker-compose down
+$ docker-compose run <parameters (optionals)> <services> <command (optional)>
+$ docker-compose logs <parameters (optionals)> <services (optionals)>
+```
+
+###### Examples
+Share image
+```
+$ docker build -t <username/image_name> .
+$ docker login
+$ docker push <username/image_name>
+```
+or
+```
+$ docker tag <id> <new_name>
+$ docker push <name>
+```
+Create network
+```
+$ docker network create <name> ...
+```
+Run
+```
+$ docker run -it --network create <name> ...
+$ docker run -dp 3000:3000 ...
+```
+Setup container image with dockerfile
 ```
 $ vi Dockerfile
 ```
@@ -73,7 +155,7 @@ Delete image
 ```
 $ docker image rm <id>
 ```
-Run the application
+Run the application (when run container image, it create a new container, a new process)
 ```
 $ docker run -it <id_image>
 $ docker run -it -p 80:80 <id_image>
@@ -90,12 +172,7 @@ Delete all inactive containers
 ```
 $ docker system prune 
 ```
-Delete everything - Remove all unused containers, volumes, networks and images
-```
-$ docker system prune -a --volumes
-```
-#### Create a new container image
-Setup container image
+Setup container image with dockerfile
 ```
 $ vi Dockerfile
 ```
@@ -103,8 +180,7 @@ Dockerfile
 ```
 FROM ...
 WORKDIR ...
-COPY . /usr/src/app
-WORKDIR /usr/src/app
+COPY . .
 RUN <command>
 CMD [...]
 ENTRYPOINT <command>
@@ -127,55 +203,6 @@ $ docker stop <id>
 Re-Build image
 ```
 $ docker build  -t <repo_name>:<version> .
-```
-#### Share image
-```
-$ docker login
-$ docker tag <id> <new_name>
-docker push <name>
-```
-#### Docker network
-Create
-```
-$ docker network create <name> ...
-```
-Run
-```
-$ docker run -it --network create <name> ...
-$ docker run -dp 3000:3000 ...
-```
-#### Dockerfile
-Basic Setup
-```
-$ vi Dockerfile
-```
-Dockerfile
-```
-FROM <tag_image>
-COPY <path_context (relative path)> <path_image (absolute or relative path)>
-RUN <command>
-WORKDIR <absolute_path>
-CMD <default_command>
-```
-#### Docker compose
-Basic Setup
-```
-$ vi docker-compose.yaml
-```
-docker-compose.yaml
-```
-version: <x.y>
-services: ...
-networks: ...
-volumes: ...
-```
-##### Commands
-````
-$ docker-compose up <parameters (optionals)> <services (optionals)>
-$ docker-compose stop <services (optionals)>
-$ docker-compose down
-$ docker-compose run <parameters (optionals)> <services> <command (optional)>
-$ docker-compose logs <parameters (optionals)> <services (optionals)>
 ```
 - - -
 ## Software Developer
