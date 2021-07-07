@@ -30,7 +30,7 @@
 * Volume
 
 ### Image
-#### Basic commands
+Basic commands
 ```
 $ docker search <image>
 $ docker pull <image>
@@ -40,7 +40,7 @@ $ docker build <parameter> <name_image> <path_context>
 ```
 
 ### Container
-#### Basic commands
+Basic commands
 ```
 $ docker run <parameter (optional)> <image> <command (optional)>
 $ docker exec <parameter (optional)> <container> <command>
@@ -51,7 +51,7 @@ $ docker rm <parameter (optional)> <container>
 ```
 
 ### Network
-#### Basic commands
+Basic commands
 ```
 $ docker network ls
 $ docker network create <name>
@@ -62,7 +62,7 @@ $ docker run --p <host_port:container_port>
 ```
 
 ### Volume
-#### Basic commands
+Basic commands
 ```
 $ docker volume ls
 $ docker volume create <name>
@@ -87,10 +87,16 @@ $ vi Dockerfile
 Dockerfile
 ```
 FROM <tag_image>
+RUN mkdir -p <absolute_path>
 WORKDIR <absolute_path>
 COPY <path_context (relative path)> <path_image (absolute or relative path)>
 RUN <command>
+EXPOSE <port>
 CMD <default_command>
+```
+.dockerignore
+```
+<directories and/or name files>
 ```
 
 #### Docker compose
@@ -100,13 +106,22 @@ $ vi docker-compose.yaml
 ```
 docker-compose.yaml
 ```
-version: <x.y>
-services: ...
-networks: ...
-volumes: ...
+version: <docker compose version>
+services:
+  <container image name>
+    <options>
+  <container image name>
+    <options>
+  ...
+networks:
+  <options>
+volumes:
+  <options>
 ```
-##### Commands
+Basic commands
 ```
+$ docker-compose --version
+$ docker-compose build
 $ docker-compose up <parameters (optionals)> <services (optionals)>
 $ docker-compose stop <services (optionals)>
 $ docker-compose down
