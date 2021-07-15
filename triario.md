@@ -3,7 +3,7 @@
 ## Projects ― (Collaborator)
 * Universidad de Antioquia / Feria virtual semilleros de investigación (2021/04/19 ― 2021/05/13)
   - [Private repository - frontend](https://github.com/mauroavargas/udea_app)
-* NetMédiK / Historia MédiK (2021/04/19 ― 2021/06/10, 2021/17/15)
+* NetMédiK / Historia MédiK (2021/04/19 ― 2021/06/10), (2021/17/15)
   - [Private repository - frontend](https://github.com/nmksoftware/netmedik_v2_app)
 * NetMédiK / Agenda MédiK (2021/06/11 ― Present)
   - [Private repository - backend](https://github.com/nmksoftware/agendamedik-api)
