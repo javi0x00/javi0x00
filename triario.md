@@ -8,6 +8,8 @@
 * NetMédiK / Agenda MédiK (2021/06/11 ― Present)
   - [Private repository - backend](https://github.com/nmksoftware/agendamedik-api)
   - [Private repository - frontend](https://github.com/nmksoftware/agendamedik-app)
+  - [Private repository - plugin](https://github.com/nmksoftware/agendamedik-pluginTwilio)
+  - [Private repository - wizard](https://github.com/nmksoftware/agendamedik-wizard)
 * CCLE (2021/07/14)
   - [Private repository - backend](https://github.com/nmkdarango/conectandonos_api)
   - [Private repository - frontend](https://github.com/nmkdarango/conectandonos_app_v2)
