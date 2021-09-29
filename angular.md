@@ -19,17 +19,20 @@
   - Install de Angular CLI
   - Create a workspace and initial application
   - Run the application
-  - Up and down app server
+  - Up app
+  - Down app
 * SPA
 * Structure
 * Flow
 * Default selector
-* Default Component
+* Default component
+* Selectors
 * Components
   * Decorator
-    - Selector
-    - Template
-    - Style
+    * Attributes
+      - Selector
+      - Template
+      - Styles
   * Class
     - Methods
     - Constructor
@@ -49,6 +52,9 @@
 * Two-way binding, bidirectional binding
 * Modules
   - Import module
+
+* Install packages
+* Config file
 
 - - -
 ## Software Developer
