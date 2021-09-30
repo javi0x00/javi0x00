@@ -49,9 +49,24 @@
 * Property binding
 * Event binding
 * Handling Events
-* Two-way binding, bidirectional binding
+* Two-way binding, bidirectional binding, Banana in a Box
 * Modules
-  - Import module
+  * Import module
+    - Ex: FormsModule
+* Directives
+  * Component
+    * Built-in
+      - @Component
+      - @Module
+    - Custom
+  * Structure
+    - Ex: ngIf, ngFor, ngSwitch, ngPlural, ngTemplate, ngComponentOutlet
+  * Attribute
+    - Ex: ngStyle, ngClass, ngModel
+* Component interaction
+  - @Input
+  - @Output
+* Services
 
 * Install packages
 * Config file
