@@ -67,6 +67,7 @@
   - @Input
   - @Output
 * Services
+  - Data Services
 
 * Install packages
 * Config file
