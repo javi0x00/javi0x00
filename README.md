@@ -1,7 +1,7 @@
 # Welcome
 :man_technologist: On September 2019, I joined to the school of computer science and software development 'Holberton School' to the foundation program and on May 2021 I finished my specialization in Full-Stack Web Development.  
-In April 2021 I got my first job as Frontend Software Developer in a company.  
-I'm currently looking for a full time job in a company that allows me to give the maximum of my professional skills.  
+I'm a software developer, I currently work at Vertical Technologies.
+
 Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
@@ -20,6 +20,10 @@ Thanks for visiting my GitHub profile.
 - - -
 ## :office: Triario ― Projects (Collaborator)
 :factory: [Summary](triario.md)
+- - -
+- - -
+## :office: Vertical Technologies ― Projects (Collaborator)
+:factory: [Summary](vertical.md)
 - - -
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [docker](docker.md) | [employment](employment.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md) | [markdown](markdown.md) | [nodejs](nodejs.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [setups](setups.md) | [typescript](typescript.md) | [vcs](vcs.md) | [webpack](webpack.md)
