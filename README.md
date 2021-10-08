@@ -18,12 +18,11 @@ Thanks for visiting my GitHub profile.
 ## :computer: Other repositories
 :octocat: Programming Challenges, Courses, Exercises, Examples, Development ― Private projects (Private repositories ― Developed for clients)
 - - -
+## :office: Vertical Technologies ― Projects (Collaborator)
+:factory: Confidential
+- - -
 ## :office: Triario ― Projects (Collaborator)
 :factory: [Summary](triario.md)
-- - -
-- - -
-## :office: Vertical Technologies ― Projects (Collaborator)
-:factory: [Summary](vertical.md)
 - - -
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [assets](assets.md) | [c](c.md) | [css](css.md) | [docker](docker.md) | [employment](employment.md) | [html](html.md) | [java](java.md) | [javascript](javascript.md) | [markdown](markdown.md) | [nodejs](nodejs.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [setups](setups.md) | [typescript](typescript.md) | [vcs](vcs.md) | [webpack](webpack.md)
