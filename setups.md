@@ -83,30 +83,41 @@ $ npm run deploy
 ### Visual Studio Code
 #### Extensions
 * Atom One Dark Theme - Mahmoud Ali
+* Auto Rename Tag - Jun Han
 * Better Comments - Aaron Bond
 * Bracket Pair Colorizer2 - CoenraadS
 * C/C++ - Microsoft
 * Code Runner - Jun Han
 * Debugger for Chrome - Microsoft
 * Debugger for Java - Microsoft
+* Docker - Microsoft
 * Dracula Official - Dracula Theme
 * ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
-* ESLint - Dirk Baeumer
+* ESLint - Microsoft
 * Flatland Monokai Theme - gerane
+* GitHub Copilot - GitHub
 * GitHub Pull Requests and Issues - GitHub
+* GitLens - GitKraken
+* Guides - spywhere
+* Highlight Matching Tag - vincaslt
 * Indent Rainbow - Oderwat
 * Java Extension Pack - Microsoft
 * Java Test Runner - Microsoft
 * JavaScript (ES6) code snippets - charalampos karypidis
 * Jupiter - Microsoft
+* Jupiter Keymap - Microsoft
+* Jupiter Notebook Renderers - Microsoft
 * Language Support for Java(TM) by Red Hat
 * Live Server - Ritwick Dey
-* One Dark Pro - binaryfy
 * Maven for Java - Microsoft
+* npm - Microsoft
+* npm Intellisense - Christian Kohler
+* One Dark Pro - binaryfy
 * PHP Intelephense - Ben Mewburn
 * PHP Intelephense - Felix Becker
 * Prettier Code formatter - Prettier
 * Project Manager for Java - Microsoft
+* Pylance - Mricrosoft
 * Python - Microsoft
 * Quokka Statusbar Buttons - Sketchbuch
 * Quokka.js - Wallaby.js
@@ -114,27 +125,29 @@ $ npm run deploy
 * Remove empty lines - Alexander
 * REST Client - Huachao Mao
 * Simple React Snippets - Burke Holland
+* SQL Formatter - adpyke
+* Svelte 3 Snippets - fivethree
+* Svelte Auto Import - pivaszbs
+* Svelte for VS Code - Svelte
+* Svelte Intellisente - ardenivanov
 * Tabnine Autocomplete AI - TabNine
-* Tailwind CSS IntelliSense - Brad Cornes
+* Tailwind CSS IntelliSense - Tailwind Labs
+* Version Lens - pflannery
 * Visual Studio IntelliCode - Microsoft
 * Vim - vscodevim
-* vscode-icons - Microsoft
-* vscode-styled-components - Julien Poissonnier
+* vscode-icons - VSCode Icons Team
+* vscode-styled-components - Styled Components
 
 #### settings.json
 ```
 {
+  "editor.bracketPairColorization.enabled": true,
+  "editor.detectIndentation": true,
   "editor.fontFamily": "'Consolas, 'Courier New', monospace",
-  "editor.tabSize": 2,
-  "editor.fontSize": 16,
-  //"editor.wordWrap": "wordWrapColumn",
-  "editor.wordWrap": "on",
-  "editor.autoIndent": "advanced",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
-  "editor.detectIndentation": true,
+  "editor.guides.bracketPairs": "active",
   "editor.multiCursorModifier": "ctrlCmd",
-  "editor.snippetSuggestions": "top",
   "editor.renderWhitespace": "all",
   "editor.rulers": [
     {
@@ -142,23 +155,24 @@ $ npm run deploy
       "color": "#FF00FF"
     }
   ],
-  "emmet.syntaxProfiles": {
-    "javascript": "html"
-  },
-  "emmet.includeLanguages": {
-    "javascript": "html"
-  },
-  "emmet.triggerExpansionOnTab": true,
+  "editor.snippetSuggestions": "top",
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
   "extensions.ignoreRecommendations": true,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
-  "workbench.startupEditor": "newUntitledFile",
-  "workbench.colorTheme": "Flatland Monokai",
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+  "typescript.preferences.quoteStyle": "single",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "vscode-icons",
-  "[markdown]": {
-    "editor.formatOnSave": false,
-    "files.trimTrailingWhitespace": false
-  },
+  "workbench.startupEditor": "none",
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -166,6 +180,9 @@ $ npm run deploy
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
@@ -177,32 +194,16 @@ $ npm run deploy
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
   },
-  "prettier.singleQuote": true,
-  "php.validate.executablePath": "C:/xampp/php/php.exe",
-  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
-  "terminal.integrated.fontSize": 16,
-  "python.showStartPage": false,
-  "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "python.languageServer": "Microsoft",
-  "workbench.sideBar.location": "left",
-  "vsicons.dontShowNewVersionMessage": false,
-  "java.home": "C:\\Program Files\\Java\\jdk-11.0.9",
-  "tabnine.experimentalAutoImports": true,
-  // Command Prompt
-  //"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
-  // PowerShell
-  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-  "javascript.preferences.quoteStyle": "single",
-  "typescript.preferences.quoteStyle": "single",
-  "prettier.jsxSingleQuote": true
-  // Git Bash
-  //"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
-  // Bash on Ubuntu (on Windows)
-  //"terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe"
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false,
+    "files.trimTrailingWhitespace": false
+  }
 }
 ```
 - - -
