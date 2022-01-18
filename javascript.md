@@ -1,6 +1,5 @@
 # :memo: Notes
 ## JAVASCRIPT
-
 ### Resources
 * [MDN Web Docs - JavaScript :copyright:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [JavaScript and HTML DOM Reference :copyright:](https://www.w3schools.com/jsref/default.asp)
@@ -25,7 +24,6 @@
 ### Terms and concepts
 * ECMAScript
 * JavaScript
-
 * JavaScript uses
   - Web language
   - Interactive

@@ -1,11 +1,11 @@
 # :memo: Notes
 ## HTML
-
 ### Resources
 * [W3C](https://www.w3.org/)
 * [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3C Developers](https://www.w3.org/developers/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
 * [WHATWG](https://whatwg.org/)
 * [The HTML validator](https://validator.w3.org/)
 * [W3C](https://www.w3.org/)
@@ -17,17 +17,51 @@
 * [HTML 5 en la educación](http://www.ite.educacion.es/formacion/materiales/182/cd/indice.htm)
 
 ### Terms and concepts
+* HTML or HyperText Markup Language
+* File HTML
+	- Document type declaration
+	* Elements
+		- Attribute
+		- Value
+	* Tag
+		- Open tag
+		- Close tag
+		- Self-closing tag
+	* Root element
+		- Basic elements
+	- Comments
+	- Identation
+	* Hierarchy
+		- Parent element
+		- Sibling element
+		- Child element
+* Generic element
+* Semantic tags
+* Tags
+	- Header
+	- Nav
+	- Main
+	- Aside
+	- Footer
+	- Headings
+	- Paragraph
+	- Image
+	* Link
+		- Dead link
+		* external
+			-	Prevent Tabnabbing
+	* Lists
+	* With style
+	* Horizontal line
+	* Line Break
+	* Form
+		- Labels
+		- Inputs
+		- Groups
+		- Buttons
 * DOM
 * Tree DOM
-* Element
-	* Attribute
-		- Value
-* Parent element
-* Sibling element
-* Child element
-* Tag
-* Semantic tag
-
+* SEO
 #### Summary
 ```
 <!-- HTML comments -->

@@ -1,6 +1,5 @@
 # :memo: Notes
 ## CSS
-
 ### Resources
 * [W3C CSS](https://www.w3.org/Style/CSS/)
 * [The CSS validator](https://jigsaw.w3.org/css-validator/)
@@ -31,6 +30,11 @@
 * [Coverr](https://coverr.co/)
 
 ### Terms and concepts
+* CSS or Cascading Style Sheets
+* Rules
+	- inline
+	- in tag
+	- in css file
 * Selector
 	* Attribute
 		- Value
