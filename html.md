@@ -30,7 +30,7 @@
 	* Root element
 		- Basic elements
 	- Comments
-	- Identation
+	- Indention
 	* Hierarchy
 		- Parent element
 		- Sibling element

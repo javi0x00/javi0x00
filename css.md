@@ -32,14 +32,37 @@
 ### Terms and concepts
 * CSS or Cascading Style Sheets
 * Rules
-	- inline
-	- in tag
+	- inline in element
+	- in block in element style
 	- in css file
+* Selectors
+	- universal
+	- type
+	- class
+	- Attribute
+	- id
+* Prioritize
 * Selector
-	* Attribute
-		- Value
-* Prefixed
+	- Element
+	- Attribute
+	- Value
+* Indention
+* Attributes
+	- Typography
+	- Container
+	- Content
+* Values and Units
+	- Absolute
+	- Relative
 
+* CSS browser prefixes
+	- Android: -webkit-
+	- Chrome: -webkit-
+	- Firefox: -moz-
+	- Internet Explorer: -ms-
+	- iOS: -webkit-
+	- Opera: -o-
+	- Safari: -webkit-
 #### Summary
 ```
 /* comentarios en css */
