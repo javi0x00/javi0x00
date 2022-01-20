@@ -23,6 +23,8 @@
 * [Emojipedia](https://emojipedia.org/)
 * [heroicons](https://heroicons.dev/)
 * [IcoMoon](https://icomoon.io/)
+* [css.gg](https://css.gg/)
+* [svgrepo](https://www.svgrepo.com/)
 #### Images
 * [tinypng](https://tinypng.com/)
 * [image](https://placeimg.com/400/200/animals)
@@ -32,9 +34,9 @@
 ### Terms and concepts
 * CSS or Cascading Style Sheets
 * Rules
-	- inline in element
-	- in block in element style
-	- in css file
+	- inline in element with attribute style
+	- in block in element with tag style
+	- external with css file
 * Selectors
 	- universal
 	- type

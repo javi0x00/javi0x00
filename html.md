@@ -2,11 +2,16 @@
 ## HTML
 ### Resources
 * [W3C](https://www.w3.org/)
+* [WHATWG](https://whatwg.org/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
+* [HTML Reference](https://htmlreference.io/)
+* [All HTML tags](https://allthetags.com/)
 * [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
+* [MDN HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [W3Schools HTML Element Reference](https://www.w3schools.com/TAGS/default.ASP)
+* [Can I use](https://caniuse.com/)
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3C Developers](https://www.w3.org/developers/)
-* [MDN Web Docs](https://developer.mozilla.org/en-US/)
-* [WHATWG](https://whatwg.org/)
 * [The HTML validator](https://validator.w3.org/)
 * [W3C](https://www.w3.org/)
 * [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
@@ -15,53 +20,78 @@
 * [WHATWG](https://whatwg.org/)
 * [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [HTML 5 en la educación](http://www.ite.educacion.es/formacion/materiales/182/cd/indice.htm)
-
+* [The Open Graph protocol](https://ogp.me/)
+* [UX](https://web.dev/)
+* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
+* [W3C Making the Web Accessible](https://www.w3.org/WAI/)
+* [HTML5 Accessibility](https://html5accessibility.com/)
+* [MDN A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 ### Terms and concepts
 * HTML or HyperText Markup Language
 * File HTML
-	- Document type declaration
-	* Elements
-		- Attribute
-		- Value
-	* Tag
-		- Open tag
-		- Close tag
-		- Self-closing tag
-	* Root element
-		- Basic elements
-	- Comments
-	- Indention
-	* Hierarchy
-		- Parent element
-		- Sibling element
-		- Child element
+	* Basic structure
+		- Document type declaration
+		* Root element
+			- Basic elements
+* Elements
+	- Attribute
+	- Value
+	* Default propierties
+		- Block
+		- Inline
+* Tag
+	- Open tag
+	- Close tag
+	- Self-closing tag
+* Comments
+* Indention
+* Hierarchy
+	- Parent element
+	- Sibling element
+	- Child element
+* Metadata
+	- Basic
+	- Advanced
 * Generic element
 * Semantic tags
-* Tags
-	- Header
-	- Nav
-	- Main
-	- Aside
-	- Footer
-	- Headings
-	- Paragraph
-	- Image
-	* Link
-		- Dead link
-		* external
-			-	Prevent Tabnabbing
-	* Lists
-	* With style
-	* Horizontal line
-	* Line Break
-	* Form
-		- Labels
-		- Inputs
-		- Groups
+	* Structure
+		- Header
+		- Nav
+		- Main
+		- Aside
+		- Footer
+		- Section
+		- Article
+	* Typography
+		- Headings
+		- Paragraph
+	* Content
+		- Image
+		* Link
+			- Dead link
+			- Internal
+			* external
+				-	Prevent Tabnabbing
+		- Lists
+		- Table
+		* Form
+			- Labels
+			- Inputs
+			- Groups
+			- Selects
+			- Areas
 		- Buttons
+		- Address
+		- Interactive
+		- Multimedia
+		- Iframes
+		- Horizontal line
+		- Line Break
+		- Script
 * DOM
 * Tree DOM
 * SEO
+* Accessibility
 #### Summary
 ```
 <!-- HTML comments -->
@@ -81,6 +111,10 @@
 		<meta name="description" content=""><!-- descripción del sitio, hasta 170 caracteres-->
 		<meta name="keywords" content=""><!-- palabras clave, recomendado 10 palabras -->
 		<meta http-equiv="refresh" content=""><!-- programar un refresco o redireccionamiento de la página -->
+		<meta name="theme-color" content=""><!-- color barra navegador -->
+		<meta property="" content=""><!-- The Open Graph protocol -->
+		<link rel="canonical" href=""><!-- página canonica -->
+		<link rel="apple-touch-icon" href=""><!-- ícono dispositivos touch -->
 		<link rel="shortcut icon" type="image/x-icon" href=""><!-- agregar icono "favicon" -->
 		<link rel="icon" href=""><!-- otra forma de agregar icono "favicon" -->
 		<link rel="stylesheet" type="text/css" href=""><!-- enlazar hoja de estilos css -->

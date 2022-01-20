@@ -9,6 +9,7 @@
   - Svelte 3 Snippets
   - Svelte Auto Import
   - Svelte Intellisense
+* [SvelteKit](https://kit.svelte.dev/docs#introduction)
 * [svelte-routing](https://github.com/EmilTholin/svelte-routing)
 
 ### Requirements
