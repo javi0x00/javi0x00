@@ -46,7 +46,13 @@
 	- Element
 	- Attribute
 	- Value
+* Variables
+* Hierarchy
+	- Parent element
+	- Sibling element
+	- Child element
 * Indention
+* Comments
 * Attributes
 	- Typography
 	- Container
