@@ -137,16 +137,20 @@ $ npm run deploy
 * Vim - vscodevim
 * vscode-icons - VSCode Icons Team
 * vscode-styled-components - Styled Components
-
-#### settings.json
+#### Fonts
+* [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+##### settings.json
 ```
 {
   "editor.bracketPairColorization.enabled": true,
   "editor.detectIndentation": true,
-  "editor.fontFamily": "'Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 13,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
+  "editor.fontLigatures": true,
   "editor.guides.bracketPairs": "active",
+  "editor.lineHeight": 22,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderWhitespace": "all",
   "editor.rulers": [
@@ -167,6 +171,7 @@ $ npm run deploy
   "javascript.updateImportsOnFileMove.enabled": "always",
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
+  "svelte.enable-ts-plugin": true,
   "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
   "typescript.preferences.quoteStyle": "single",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",

@@ -28,6 +28,7 @@
 * Hierarchy
 * Components
   - Props
+  - Computed property
 * Lifecycle
   - onMount
   - onDestroy
@@ -49,6 +50,7 @@
 * Loop block
 * Asynchronous block
 * Events
+* Custom events
 * Event modifiers
 * Depth
 * Dispatcher

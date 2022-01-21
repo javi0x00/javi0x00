@@ -36,7 +36,7 @@
 * Elements
 	- Attribute
 	- Value
-	* Default propierties
+	* Default properties
 		- Block
 		- Inline
 * Tag
