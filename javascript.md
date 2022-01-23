@@ -1,5 +1,6 @@
 # :memo: Notes
 ## JAVASCRIPT
+- - -
 ### Resources
 * [MDN Web Docs - JavaScript :copyright:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [JavaScript and HTML DOM Reference :copyright:](https://www.w3schools.com/jsref/default.asp)
@@ -17,10 +18,8 @@
 * [SVG Loaders - Sam Herbert](https://samherbert.net/svg-loaders/)
 #### Menu
 * [Hamburgers by Jonathan Suh](https://jonsuh.com/hamburgers/)
-
 ### Requirements
 * A browser or Nodejs
-
 ### Terms and concepts
 * ECMAScript
 * JavaScript
@@ -515,7 +514,6 @@
   - Webpack
   - Gulp
   - Style guide (Standard, Google, Airbnb)
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

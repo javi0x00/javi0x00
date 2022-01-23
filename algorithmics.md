@@ -1,6 +1,6 @@
 # :memo: Notes
 ## ALGORITHMS
-
+- - -
 ### Terms and concepts
 * Algorithmics
 * Algorithms
@@ -98,7 +98,6 @@
 * LRU
 * MRU
 * LFU
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

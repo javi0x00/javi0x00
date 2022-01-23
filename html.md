@@ -1,5 +1,6 @@
 # :memo: Notes
 ## HTML
+- - -
 ### Resources
 * [W3C](https://www.w3.org/)
 * [WHATWG](https://whatwg.org/)
@@ -267,7 +268,6 @@
 	</body>
 </html>
 ```
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

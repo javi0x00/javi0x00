@@ -1,6 +1,6 @@
 # :memo: Notes
 ## API
-
+- - -
 ### Resources
 #### External API
 * [Any API](http://any-api.com/)
@@ -23,7 +23,6 @@
 * [sepomex](https://api-sepomex.hckdrk.mx/documentacion/docs)
 * [Free IP Geolocation API](https://freegeoip.app/)
 * [7timer](http://7timer.info/)
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

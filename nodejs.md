@@ -1,10 +1,10 @@
 # :memo: Notes
 ## NODEJS
-
+- - -
 ### Resources
-* [Node.js](https://nodejs.org/en/)
+* [Node.js](https://nodejs.org)
 * [Node.js Documentation](https://nodejs.org/api/)
-* [Node.js](https://nodejs.org/)
+* [Nodejs nodesource distributions](https://github.com/nodesource/distributions/blob/master/README.md)
 * [Callback Hell](http://callbackhell.com/)
 * [AJAX](https://uniwebsidad.com/libros/ajax/capitulo-7)
 * [HTTP status code](https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP)
@@ -20,7 +20,6 @@
 * [Ghost](https://ghost.org/)
 * [MongoDB](https://www.mongodb.com/)
 * [MySQL](https://www.mysql.com/)
-
 ### Terms and concepts
 * Node.js
   * Fork
@@ -222,7 +221,6 @@
 * Isoformicas app
 * Full Stack JavaScript Developer
   - MERN (MongoDB, Express, React, Node)
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

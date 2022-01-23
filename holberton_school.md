@@ -1,6 +1,6 @@
 # :books: Holberton School
 ## Projects
-
+- - -
 ### :open_file_folder: Foundations
 * 0-Day ― 0-Day
 * Low-level programming & Algorithm ― Hatching out
@@ -22,14 +22,12 @@
 * Social Media ― Technical writing
 * More!
 * Portfolio Project
-
 ### :open_file_folder: Specializations
 * Interview Preparation ― Algorithms
 * Web Stack programming ― Front-end
 * Web Stack programming ― Back-end
 * Web Stack programming ― Just for fun!
 * Interview Preparation ― Prepare Yourself
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

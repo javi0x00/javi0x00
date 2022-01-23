@@ -1,6 +1,6 @@
 # :memo: Notes
 ## REACTJS
-
+- - -
 ### Resources
 * [React](https://reactjs.org/)
 * [styled-components](https://styled-components.com/)
@@ -12,10 +12,8 @@
   - create react app
   - serve
   - prop-types
-
 ### Requirements
 * Nodejs
-
 ### Terms and concepts
 * React
   - JavaScript library
@@ -166,7 +164,6 @@
 * parts
   - index
   - app
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

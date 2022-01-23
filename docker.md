@@ -1,11 +1,10 @@
 # :memo: Notes
-## Docker
-
+## DOCKER
+- - -
 ### Resources
 * [:copyright: Docker](https://www.docker.com/)
 * [:copyright: Docker Hub](https://hub.docker.com/)
 * [:copyright: Docker Docs](https://docs.docker.com/)
-
 ### Terms and concepts
 * Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)
@@ -28,7 +27,6 @@
     - Stoped
 * Network
 * Volume
-
 ### Image
 Basic commands
 ```
@@ -38,7 +36,6 @@ $ docker images
 $ docker rm image <image>
 $ docker build <parameter> <name_image> <path_context>
 ```
-
 ### Container
 Basic commands
 ```
@@ -49,7 +46,6 @@ $ docker stop <container>
 $ docker start <container>
 $ docker rm <parameter (optional)> <container>
 ```
-
 ### Network
 Basic commands
 ```
@@ -60,14 +56,12 @@ $ docker run --network <network>
 $ docker run --port <host_port:container_port>
 $ docker run --p <host_port:container_port>
 ```
-
 ### Volume
 Basic commands
 ```
 $ docker volume ls
 $ docker volume create <name>
 ```
-
 ### Common commands
 Basic
 ```
@@ -78,7 +72,6 @@ Delete everything - Remove all unused containers, volumes, networks and images
 ```
 $ docker system prune -a --volumes
 ```
-
 #### Dockerfile
 Basic Setup
 ```
@@ -98,7 +91,6 @@ CMD <default_command>
 ```
 <directories and/or name files>
 ```
-
 #### Docker compose
 Basic Setup
 ```
@@ -128,7 +120,6 @@ $ docker-compose down
 $ docker-compose run <parameters (optionals)> <services> <command (optional)>
 $ docker-compose logs <parameters (optionals)> <services (optionals)>
 ```
-
 ###### Examples
 Share image
 ```

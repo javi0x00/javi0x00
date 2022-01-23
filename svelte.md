@@ -1,6 +1,6 @@
 # :memo: Notes
 ## SVELTE
-
+- - -
 ### Resources
 * [Svelte](https://svelte.dev/)
 * [Documentation](https://svelte.dev/docs)
@@ -11,10 +11,8 @@
   - Svelte Intellisense
 * [SvelteKit](https://kit.svelte.dev/docs#introduction)
 * [svelte-routing](https://github.com/EmilTholin/svelte-routing)
-
 ### Requirements
 * Nodejs
-
 ### Terms and concepts
 * Svelte
 * Reactive
@@ -62,7 +60,6 @@
   - Slot props
 * Transitions
 * Key block
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

@@ -1,6 +1,6 @@
 # :memo: Notes
 ## EMPLOYMENT
-
+- - -
 ### Job Dashboard
 * [LinkedIn](https://linkedin.com)
 * [TheMuse](https://themuse.com)
@@ -15,11 +15,9 @@
 * [HIRED](https://hired.com/)
 * [WORKING NOMAD](https://working-nomads.com/)
 * [Interacpedia](https://interacpedia.com/website)
-
 ### Software Development Company
 * [GitHub](https://github.com/about/careers)
 * [Globant](https://www.globant.com/)
-
 #### Communities
 * [stackoverflow](https://stackoverflow.com/)
 * [DEV](https://dev.to/)

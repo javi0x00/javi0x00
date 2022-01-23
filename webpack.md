@@ -1,6 +1,6 @@
 # :memo: Notes
 ## WEBPACK
-
+- - -
 ### Resources
 * [Webpack](https://webpack.js.org/)
 * [Getting Started](https://webpack.js.org/guides/getting-started/)
@@ -8,18 +8,14 @@
 * [html-loader](https://webpack.js.org/loaders/html-loader/)
 * [style-loader](https://webpack.js.org/loaders/style-loader/)
 * [css-loader](https://webpack.js.org/loaders/css-loader/)
-
 ### Requirements
-#### Install
 * Nodejs
-
 ### Terms and concepts
 * Webpack
   - Entry
   - Output
   - Loaders
   - Plugins
-
 * Functionalities
   * Extensible
     - Plugins
@@ -27,14 +23,11 @@
     - Importing
     - Exporting
   - Minify code
-
 * Without config file
   - package.json
   - webpack cli (command line interface)
-
 * With config file
   - Add webpack.config.js file
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

@@ -1,10 +1,9 @@
 # :memo: Notes
 ## ANGULAR
-
+- - -
 ### Resources
 * [Angular](https://angular.io/)
 * [NodeJS](https://nodejs.org/en/)
-
 ### Requirements
 * HTML
 * CSS
@@ -12,7 +11,6 @@
 * Nodejs
 * npm
 * Angular CLI
-
 ### Terms and concepts
 * Angular
 * First steps
@@ -71,7 +69,6 @@
 
 * Install packages
 * Config file
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

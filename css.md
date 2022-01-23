@@ -1,5 +1,6 @@
 # :memo: Notes
 ## CSS
+- - -
 ### Resources
 * [W3C CSS](https://www.w3.org/Style/CSS/)
 * [The CSS validator](https://jigsaw.w3.org/css-validator/)
@@ -30,7 +31,6 @@
 * [image](https://placeimg.com/400/200/animals)
 #### Video
 * [Coverr](https://coverr.co/)
-
 ### Terms and concepts
 * CSS or Cascading Style Sheets
 * Rules
@@ -346,7 +346,6 @@ div:hover {
 	animation-delay: ;
 }
 @keyframes{}
-```
 
 /* comentarios en css */
 /*
@@ -618,7 +617,7 @@ div:hover {
 	animation-delay: ;
 }
 @keyframes{}
-
+```
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

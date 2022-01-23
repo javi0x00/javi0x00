@@ -1,6 +1,6 @@
 # :memo: Notes
 ## PROGRAMMING
-
+- - -
 ### Terms and concepts
 * Units of information
   - Bit, A binary digit, Zero or One
@@ -120,7 +120,6 @@
   - Values, Operators, Expressions, Keywords, Comments.
 * Expressions
   - Values, variables, and operators, which computes to a value.
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

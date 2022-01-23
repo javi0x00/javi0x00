@@ -1,6 +1,6 @@
 # :memo: Notes
 ## PYTHON
-
+- - -
 ### Resources
 * [Python :copyright:](https://www.python.org/)
 * [The Python Tutorial :copyright:](https://docs.python.org/3/tutorial/index.html)
@@ -8,7 +8,6 @@
 ##### Style
 * PEP8
 * Pycodestyle
-
 ##### Zen
 ```
 The Zen of Python, by Tim Peters
@@ -33,7 +32,6 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.  
 Namespaces are one honking great idea -- let's do more of those!
 ```
-
 ### Terms and concepts
 * Python interpreter
 * Python coding style
@@ -192,7 +190,6 @@ Namespaces are one honking great idea -- let's do more of those!
 
 * Doctest
 * Unitest
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)

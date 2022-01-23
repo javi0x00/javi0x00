@@ -1,13 +1,12 @@
 # :memo: Notes
 ## JAVA
-
+- - -
 ### Resources
 * [Java SE API v7](https://docs.oracle.com/javase/7/docs/api/)
 * [Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
 * [Java SE JDK v11 API](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html#s7.1-javadoc-formatting)
 * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
-
 ### Requirements
 #### Java Installation on Ubuntu system
 ```
@@ -17,7 +16,6 @@ $ apt install default-jre
 $ javac -version
 $ sudo apt install default-jdk
 ```
-
 ### Terms and concepts
 * Java Runtime Environment (JRE)
 * Java Development Kit (JDK)
@@ -168,7 +166,6 @@ $ sudo apt install default-jdk
 * Interfaces
   - Abstract methods
   - Constants
-
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
