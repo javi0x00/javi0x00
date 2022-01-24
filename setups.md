@@ -136,6 +136,7 @@ $ npm run deploy
 * Visual Studio IntelliCode - Microsoft
 * Vim - vscodevim
 * vscode-icons - VSCode Icons Team
+* vscode-pdf - tomoki1207
 * vscode-styled-components - Styled Components
 #### Fonts
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
