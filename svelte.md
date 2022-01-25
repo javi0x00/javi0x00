@@ -55,6 +55,12 @@
 * Context API
 * Bind
 * Routing
+  - Layout
+  - Dynamic routes
+  - Reset layout
+  - Error
+  - Layouts for pages
+  - Error for pages
 * Stores
 * Composition with Slot element
   - Slot props
