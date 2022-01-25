@@ -12,6 +12,7 @@
 * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 ### Terms and concepts
 * Version Control System
+* Version Control Hosting
 #### Basic setup
 ```
 $ sudo apt install git-all
