@@ -61,9 +61,10 @@
   - Error
   - Layouts for pages
   - Error for pages
-* Stores
 * Composition with Slot element
   - Slot props
+* Endpoints
+* Stores
 * Transitions
 * Key block
 - - -
