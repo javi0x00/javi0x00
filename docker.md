@@ -2,9 +2,9 @@
 ## DOCKER
 - - -
 ### Resources
-* [:copyright: Docker](https://www.docker.com/)
-* [:copyright: Docker Hub](https://hub.docker.com/)
-* [:copyright: Docker Docs](https://docs.docker.com/)
+* [Docker](https://www.docker.com/)
+* [Docker Hub](https://hub.docker.com/)
+* [Docker Docs](https://docs.docker.com/)
 ### Terms and concepts
 * Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)

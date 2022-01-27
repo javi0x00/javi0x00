@@ -2,8 +2,8 @@
 ## C
 - - -
 ### Resources
-* [:copyright: C language documentation](https://docs.microsoft.com/en-us/cpp/c-language/?view=vs-2019)
-* [:copyright: The GNU C Library Reference Manual](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)
+* [C language documentation](https://docs.microsoft.com/en-us/cpp/c-language/?view=vs-2019)
+* [The GNU C Library Reference Manual](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)
 ### Terms and concepts
 * C
   - Procedural

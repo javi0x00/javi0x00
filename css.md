@@ -5,32 +5,8 @@
 * [W3C CSS](https://www.w3.org/Style/CSS/)
 * [The CSS validator](https://jigsaw.w3.org/css-validator/)
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [The CSS validator](https://jigsaw.w3.org/css-validator/)
-* [W3C CSS](https://www.w3.org/Style/CSS/)
-* [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [MDN web docs](https://developer.mozilla.org/en-US/)
 * [Aspectos básicos del diseño web adaptable](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=es)
-* [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
-* [Normalize min](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
-* [Modernizr](https://modernizr.com/)
-* [-prefix-free](https://projects.verou.me/prefixfree/)
-* [Bootswatch](https://bootswatch.com/)
-* [Ceaser](https://www.matthewlein.com/tools/ceaser)
-#### Fonts
-* [Google fonts](https://fonts.google.com/)
-* [Adobe fonts](https://fonts.adobe.com/)
-* [font2web](http://www.font2web.com/)
-#### Icons
-* [Emojipedia](https://emojipedia.org/)
-* [heroicons](https://heroicons.dev/)
-* [IcoMoon](https://icomoon.io/)
-* [css.gg](https://css.gg/)
-* [svgrepo](https://www.svgrepo.com/)
-#### Images
-* [tinypng](https://tinypng.com/)
-* [image](https://placeimg.com/400/200/animals)
-#### Video
-* [Coverr](https://coverr.co/)
 ### Terms and concepts
 * CSS or Cascading Style Sheets
 * Rules

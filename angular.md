@@ -3,13 +3,8 @@
 - - -
 ### Resources
 * [Angular](https://angular.io/)
-* [NodeJS](https://nodejs.org/en/)
 ### Requirements
-* HTML
-* CSS
-* TypeScript
 * Nodejs
-* npm
 * Angular CLI
 ### Terms and concepts
 * Angular

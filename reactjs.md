@@ -3,8 +3,8 @@
 - - -
 ### Resources
 * [React](https://reactjs.org/)
-* [styled-components](https://styled-components.com/)
 * [React Bootstrap](https://react-bootstrap.github.io/)
+* [styled-components](https://styled-components.com/)
 * [MATERIAL-UI](https://material-ui.com/)
 * Extension
   - react developer tools
