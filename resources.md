@@ -93,6 +93,8 @@
 * [miro](https://miro.com/)
 * [lucidspark](https://lucidspark.com/)
 * [MURAL](https://www.mural.co/)
+#### Screenshot
+* [LightShot](https://app.prntscr.com/en/index.html)
 ### API's
 * [Any API](http://any-api.com/)
 * [jsonplaceholder](https://jsonplaceholder.typicode.com/)

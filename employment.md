@@ -3,6 +3,7 @@
 - - -
 ### Job Dashboard
 * [LinkedIn](https://linkedin.com)
+* [arc](https://arc.dev/get-featured?campaign=1&utm_source=influencer&utm_medium=video&utm_campaign=paid2022&utm_term=202201&utm_content=Jon-Mircha)
 * [TheMuse](https://themuse.com)
 * [Indeed](https://indeed.com)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
