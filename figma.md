@@ -50,7 +50,7 @@
 * Creative process UI - UX
   * Sketch
     - General
-    - Ideas
+    - Brainstorm
   * Wireframes
     - Indicators
     - Figures

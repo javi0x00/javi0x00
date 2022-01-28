@@ -13,11 +13,6 @@
 * [Javascript Deobfuscate](https://beautifier.io/)
 * [Google Hosted Libraries](https://developers.google.com/speed/libraries)
 * [Axios](https://github.com/axios/axios)
-#### Loaders
-* [SpinKit](https://tobiasahlin.com/spinkit/)
-* [SVG Loaders - Sam Herbert](https://samherbert.net/svg-loaders/)
-#### Menu
-* [Hamburgers by Jonathan Suh](https://jonsuh.com/hamburgers/)
 ### Requirements
 * A browser or Nodejs
 ### Terms and concepts
