@@ -46,7 +46,12 @@
 * [Google fonts](https://fonts.google.com/)
 * [Adobe fonts](https://fonts.adobe.com/)
 * [font2web](http://www.font2web.com/)
+#### Emoji
+* [getemoji](https://getemoji.com/)
+* [OpenMoji](https://openmoji.org/)
+* [flaticon](https://www.flaticon.com/free-icons/emoji)
 * [Emojipedia](https://emojipedia.org/)
+* [madgicx](https://madgicx.com/facebook-emojis/)
 #### Colors
 * [BrandColors](https://brandcolors.net/)
 #### Icons
@@ -71,6 +76,10 @@
 * [image](https://placeimg.com/400/200/animals)
 * [humaaans](https://www.humaaans.com/)
 * [tinypng](https://tinypng.com/)
+#### Random images
+* [Portrait](https://source.unsplash.com/150x150/?portrait)
+* [standard](https://source.unsplash.com/random/150x150/?img=1)
+* [Headshots](https://generated.photos/face-generator)
 #### Videos
 * [Coverr](https://coverr.co/)
 #### Loaders
