@@ -61,6 +61,7 @@
   - Error
   - Layouts for pages
   - Error for pages
+  - SPA mode
 * Composition with Slot element
   - Slot props
 * Endpoints
