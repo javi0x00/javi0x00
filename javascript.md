@@ -30,7 +30,7 @@
 
 * script
   * script js?
-    * The ```<script></script>``` Tag
+    * The script tag
       - async
       - defer
     - External file

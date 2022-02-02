@@ -10,6 +10,7 @@
   - Svelte Auto Import
   - Svelte Intellisense
 * [SvelteKit](https://kit.svelte.dev/docs#introduction)
+* [Adapter for SvelteKit](https://github.com/sveltejs/kit/tree/master/packages/adapter-static#spa-mode)
 * [svelte-routing](https://github.com/EmilTholin/svelte-routing)
 ### Requirements
 * Nodejs

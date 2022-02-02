@@ -99,6 +99,11 @@
 * [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
   * [Pattern Lab](https://patternlab.io/)
     - [Demo Pattern Lab](https://demo.patternlab.io/)
+#### Layouts
+* [W3Layouts](https://w3layouts.com/)
+#### References
+* [ROBBY LEONARDI](http://www.rleonardi.com/)
+* [Boy-Coy](https://boy-coy.com/)
 #### Whiteboard
 * [FigJam](https://www.figma.com)
 * [miro](https://miro.com/)
