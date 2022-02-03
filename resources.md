@@ -93,6 +93,11 @@
 #### Browser Extensions
 * [Wappalyzer](https://www.wappalyzer.com/)
 * [react developer tools](https://github.com/facebook/react-devtools)
+* adBlock
+* Clear Cache
+* ColorZilla
+* Moesif Origin & CORS Changer
+* Locale Switcher
 ### Design
 * [Why Do We Interface?](https://whydoweinterface.com/)
 #### Patterns

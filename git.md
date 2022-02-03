@@ -10,6 +10,7 @@
 * [GitLab](https://gitlab.com/)
 * [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 ### Terms and concepts
 * Version Control System
 * Version Control Hosting
@@ -27,6 +28,19 @@ $ git config --list
 $ git tag
 $ git tag <tag name>
 $ git push --tags
+```
+#### Basic commands
+```
+$ git clone
+$ git config
+$ git add
+$ git status
+$ git commit
+$ git push
+$ git pull
+$ git branch
+$ git checkout
+$ git merge
 ```
 #### Some commands
 ```
@@ -61,7 +75,7 @@ $ git stash
 $ git clean
 $ gitk
 $ git reflog
-$git reset
+$ git reset
 
 $ git remote
 $ git remote -v
