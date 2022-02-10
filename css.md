@@ -24,7 +24,7 @@
 	- Element
 	- Attribute
 	- Value
-* Variables
+* Custom properties or Variables
 * Hierarchy
 	- Parent element
 	- Sibling element

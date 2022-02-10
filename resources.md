@@ -37,6 +37,9 @@
 * [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 * [Normalize min](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
 #### CSS Framework
+* [Tailwind CSS](https://tailwindcss.com/docs/)
+  - [Tailwind CSS with SvelteKit](https://tailwindcss.com/docs/guides/sveltekit)
+  - [Tailwind with Preprocessors](https://tailwindcss.com/docs/using-with-preprocessors)
 * [Bootwatch](https://bootswatch.com/)
 * [Foundation](https://get.foundation/)
 * [960 Grid System](https://960.gs/)

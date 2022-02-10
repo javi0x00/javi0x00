@@ -11,6 +11,8 @@
 * [MIME extensions](https://es.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions)
 * [MIME types](http://sites.utoronto.ca/webdocs/HTMLdocs/Book/Book-3ed/appb/mimetype.html)
 * [Node.js Documentation](https://nodejs.org/api/)
+* [npm](https://npmjs.com/)
+* [yarn](https://yarnpkg.com/)
 * [npm Documentation](https://docs.npmjs.com/)
 * [Observer pattern](https://en.wikipedia.org/wiki/Observer_pattern)
 * [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)

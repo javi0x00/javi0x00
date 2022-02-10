@@ -3,15 +3,16 @@
 - - -
 ### Resources
 * [Svelte](https://svelte.dev/)
-* [Documentation](https://svelte.dev/docs)
+* [Svelte Documentation](https://svelte.dev/docs)
 * VSCode Extensions
   - Svelte
   - Svelte 3 Snippets
   - Svelte Auto Import
   - Svelte Intellisense
-* [SvelteKit](https://kit.svelte.dev/docs#introduction)
+* [SvelteKit](https://kit.svelte.dev/)
 * [Adapter for SvelteKit](https://github.com/sveltejs/kit/tree/master/packages/adapter-static#spa-mode)
-* [svelte-routing](https://github.com/EmilTholin/svelte-routing)
+* [Vite Env Variables and Modes](https://vitejs.dev/guide/env-and-mode.html)
+* [Environment variables with SvelteKit](https://timdeschryver.dev/blog/environment-variables-with-sveltekit)
 ### Requirements
 * Nodejs
 ### Terms and concepts
