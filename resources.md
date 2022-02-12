@@ -63,6 +63,7 @@
 * [IcoMoon](https://icomoon.io/)
 * [CSS Icons](https://css.gg/)
 * [Simple Icons](https://simpleicons.org/)
+* [svgicons](http://svgicons.sparkk.fr/)
 * [SVG Repo](https://www.svgrepo.com/)
 * [Boxicons](https://boxicons.com/)
 * [365cons](http://www.365cons.com/)
