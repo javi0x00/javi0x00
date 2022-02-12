@@ -49,14 +49,16 @@
 * [Google fonts](https://fonts.google.com/)
 * [Adobe fonts](https://fonts.adobe.com/)
 * [font2web](http://www.font2web.com/)
+#### Colors
+* [BrandColors](https://brandcolors.net/)
 #### Emoji
 * [getemoji](https://getemoji.com/)
 * [OpenMoji](https://openmoji.org/)
 * [flaticon](https://www.flaticon.com/free-icons/emoji)
 * [Emojipedia](https://emojipedia.org/)
 * [madgicx](https://madgicx.com/facebook-emojis/)
-#### Colors
-* [BrandColors](https://brandcolors.net/)
+* [EmojiTerra](https://emojiterra.com/)
+* [Flags of the World](https://flagpedia.net/)
 #### Icons
 * [Font Awesome](https://fontawesome.com/)
 * [heroicons](https://heroicons.dev/)
