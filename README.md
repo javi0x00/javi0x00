@@ -6,7 +6,7 @@ Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
 ### Personal site
-:star: [javierandresgp.com](https://www.javierandresgp.com)
+:star: [javierandres.dev](https://javierandres.dev)
 ### Development like volunteering
 :checkered_flag: [Prueba dinámica de agudeza visual](https://javierandresgp.github.io/development-optometrist/)  
 :checkered_flag: [Enfócate con propósito](http://www.enfocateconproposito.org/)
