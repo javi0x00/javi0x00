@@ -41,4 +41,4 @@
   - What?, Where?, When?, Who?, Whom?, Which?
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
