@@ -6,6 +6,7 @@
 * [JavaScript and HTML DOM Reference :copyright:](https://www.w3schools.com/jsref/default.asp)
 * [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)
+* [JavaScript at Microsoft](https://docs.microsoft.com/en-us/javascript/)
 * [date-fns](https://date-fns.org/)
 * [Momentjs](https://momentjs.com/)
 * [Cdnjs](https://cdnjs.com/)

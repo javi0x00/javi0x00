@@ -5,6 +5,9 @@
 * [Open Source Initiative (OSI)](https://opensource.org/)
 #### Document
 * [JSDoc](https://jsdoc.app/)
+* [JSDoc GitHub](https://github.com/jsdoc/jsdoc)
+  - [Documenting JavaScript Code With JSDocs](https://www.section.io/engineering-education/jsdoc-documentation/)
+  - [Code documentation for JavaScript with JSDoc](https://www.valentinog.com/blog/jsdoc/)
 #### Security
 * [Snyk](https://snyk.io/)
 #### Regular Expression

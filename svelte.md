@@ -3,7 +3,11 @@
 - - -
 ### Resources
 * [Svelte](https://svelte.dev/)
-* [Svelte Documentation](https://svelte.dev/docs)
+* [Documentation](https://svelte.dev/docs)
+* [Examples](https://svelte.dev/examples)
+* [Tutorial](https://svelte.dev/tutorial)
+* [Svelte for new developers](https://svelte.dev/blog/svelte-for-new-developers)
+* [The easiest way to get started with Svelte](https://svelte.dev/blog/the-easiest-way-to-get-started)
 * VSCode Extensions
   - Svelte
   - Svelte 3 Snippets
