@@ -144,6 +144,10 @@ $ npm run deploy
 ```
 {
   "editor.bracketPairColorization.enabled": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 1,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.detectIndentation": true,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 13,
@@ -163,7 +167,6 @@ $ npm run deploy
   "editor.snippetSuggestions": "top",
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
-  "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
   "extensions.ignoreRecommendations": true,
   "files.insertFinalNewline": true,
@@ -173,12 +176,13 @@ $ npm run deploy
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
   "svelte.enable-ts-plugin": true,
-  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
   "typescript.preferences.quoteStyle": "single",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "none",
+  "vsicons.dontShowNewVersionMessage": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
