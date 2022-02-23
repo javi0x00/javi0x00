@@ -137,6 +137,7 @@
 * [WordPress REST API](https://developer.wordpress.org/rest-api/)
 * [Pixabay](https://pixabay.com/api/docs/)
 * [Pokémon API](https://pokeapi.co/)
+* [Rick and Morty API](https://rickandmortyapi.com/documentation)
 * [TVmaze](http://www.tvmaze.com/api)
 * [CryptoCompare](https://min-api.cryptocompare.com/documentation)
 * [The Open Movie Database](http://www.omdbapi.com/)
