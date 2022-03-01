@@ -17,6 +17,10 @@
   - Options API
   - Composition API
 * Recommendation: SFC + Composition API to build full applications with Vue.
+* Declarative rendering
+* Reactivity fundamentals
+  - Reactive
+  - Ref
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandres.dev)
