@@ -348,6 +348,38 @@ COLISIÓN DE ESTILOS - JERARQUIA
 8. !important
 */
 
+RESET STYLES
+/* normalize.css */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	/* font-size: 10px; */
+	font-size: 62.5%;
+}
+img {
+	max-width: 100%;
+	display: block;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+ul {
+	list-style: none;
+}
+input, button {
+	font: inherit;
+	color: inherit;
+	border: none;
+	background-color: transparent;
+}
+i {
+	font-size: 16px;
+}
+
 @import url();/* Importadas (en un archivo css) importar otras hojas de estilos */
 
 /* SELECTOR \ ELEMENTO { PROPIEDAD \ ATRIBUTO : VALOR;} */
