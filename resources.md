@@ -46,6 +46,7 @@
 * [Bootwatch](https://bootswatch.com/)
 * [Foundation](https://get.foundation/)
 * [960 Grid System](https://960.gs/)
+* [Quasar](https://quasar.dev/)
 #### CSS animation
 * [Ceaser](https://www.matthewlein.com/tools/ceaser)
 #### Fonts

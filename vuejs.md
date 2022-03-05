@@ -5,9 +5,6 @@
 * [Vue 3 Docs](https://vuejs.org/guide/introduction.html)
 * [Vue CLI](https://cli.vuejs.org/)
 ### Requirements
-* HTML
-* CSS
-* JavaScript
 * NodeJS
 ### Terms and concepts
 * VueJS
@@ -19,6 +16,11 @@
 * API Styles
   - Options API
   - Composition API
+* Recommendation: SFC + Composition API to build full applications with Vue.
+* Declarative rendering
+* Reactivity fundamentals
+  - Reactive
+  - Ref
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandres.dev)
