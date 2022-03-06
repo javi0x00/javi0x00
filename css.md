@@ -12,32 +12,36 @@
 * Rules
 	- inline in element with attribute style
 	- in block in element with tag style
-	- external with css file
+	- link to external with css file
+	- import a style sheet into another style sheet
 * Selectors
 	- universal
 	- type
 	- class
 	- Attribute
 	- id
-* Prioritize
 * Selector
 	- Element
-	- Attribute
-	- Value
-* Custom properties or Variables
+	* Declaration
+		- Attribute
+		- Value
+* Indention
+* Comments
+* Prioritize
 * Hierarchy
 	- Parent element
 	- Sibling element
 	- Child element
-* Indention
-* Comments
 * Attributes
 	- Typography
 	- Container
 	- Content
+* Custom properties or Variables
 * Values and Units
 	- Absolute
 	- Relative
+
+* Reset styles
 
 * CSS browser prefixes
 	- Android: -webkit-
