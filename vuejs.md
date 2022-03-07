@@ -4,6 +4,7 @@
 ### Resources
 * [Vue 3 Docs](https://vuejs.org/guide/introduction.html)
 * [Vue CLI](https://cli.vuejs.org/)
+* [Vue Devtools](https://devtools.vuejs.org/)
 ### Requirements
 * NodeJS
 ### Terms and concepts
@@ -21,6 +22,20 @@
 * Reactivity fundamentals
   - Reactive
   - Ref
+
+* Composition API
+  * Methods
+    - setup
+
+* vue
+  - ref
+  - computed
+  - reactive
+  - toRefs
+  - watch
+
+* Data building
+
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandres.dev)
