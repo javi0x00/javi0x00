@@ -6,6 +6,7 @@
 * [The CSS validator](https://jigsaw.w3.org/css-validator/)
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [MDN web docs](https://developer.mozilla.org/en-US/)
+* [CSS Reference](https://cssreference.io/)
 * [Aspectos básicos del diseño web adaptable](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=es)
 ### Terms and concepts
 * CSS or Cascading Style Sheets
