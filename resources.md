@@ -51,12 +51,6 @@
 * [Quasar](https://quasar.dev/)
 #### CSS animation
 * [Ceaser](https://www.matthewlein.com/tools/ceaser)
-#### Fonts
-* [Google fonts](https://fonts.google.com/)
-* [Adobe fonts](https://fonts.adobe.com/)
-* [font2web](http://www.font2web.com/)
-#### Colors
-* [BrandColors](https://brandcolors.net/)
 #### Emoji
 * [getemoji](https://getemoji.com/)
 * [OpenMoji](https://openmoji.org/)
@@ -116,6 +110,27 @@
 * [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
   * [Pattern Lab](https://patternlab.io/)
     - [Demo Pattern Lab](https://demo.patternlab.io/)
+#### Wireframes
+* [Figma](https://www.figma.com/)
+* [NinjaMock](https://ninjamock.com/)
+* [Balsamiq](https://balsamiq.com/)
+* [Adobe XD](https://www.adobe.com/products/xd.html)
+#### Fonts
+* [Google fonts](https://fonts.google.com/)
+* [Adobe fonts](https://fonts.adobe.com/)
+* [font2web](http://www.font2web.com/)
+#### Logo
+* [FreeLogo Design](https://www.freelogodesign.org/)
+#### Colors
+* [Complete Guide to Color in Design](https://www.shutterstock.com/blog/complete-guide-color-in-design)
+* [Color tool](https://material.io/resources/color/)
+* [Coolors](https://coolors.co/)
+* [Color Hunt](https://colorhunt.co/)
+* [Paletton](https://paletton.com/)
+* [Colormind](http://colormind.io/)
+* [Muzli Colors](https://colors.muz.li/)
+* [Adobe Color](https://color.adobe.com/)
+* [BrandColors](https://brandcolors.net/)
 #### Layouts
 * [W3Layouts](https://w3layouts.com/)
 #### References
