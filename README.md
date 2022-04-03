@@ -1,12 +1,12 @@
 # Welcome
-:man_technologist: I'm a Full-Stack Web Developer, focus on JavaScript.  
-I'm currently working at Vertical Technologies.
+:man_technologist: I'm a Full-Stack Web Developer.  
+I'm currently working for an excellent company.
 
 Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
 ### Personal web page
-:star: [https://javierandres.dev](https://javierandres.dev)
+:star: [https://javierandresgp.com](https://javierandresgp.com)
 ### Development like volunteering
 :checkered_flag: [Prueba dinámica de agudeza visual](https://javierandresgp.github.io/development-optometrist/)  
 :checkered_flag: [Enfócate con propósito](http://www.enfocateconproposito.org/)
