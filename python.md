@@ -192,4 +192,4 @@ Namespaces are one honking great idea -- let's do more of those!
 * Unitest
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

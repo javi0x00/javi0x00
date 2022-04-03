@@ -186,4 +186,4 @@ cuando utilizar cada una)
 * [01](https://github.com/javierandresgp/bit-course-full_stack_01)
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

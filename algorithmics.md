@@ -100,4 +100,4 @@
 * LFU
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

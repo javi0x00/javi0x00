@@ -122,4 +122,4 @@
   - Values, variables, and operators, which computes to a value.
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandres.dev)
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
