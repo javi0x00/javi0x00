@@ -1,8 +1,13 @@
 # :memo: Notes
 ## RESOURCES
-- - -
+- - 
 ### Development
 * [Open Source Initiative (OSI)](https://opensource.org/)
+#### Text editor
+* [Visual Studio Code](https://code.visualstudio.com/)
+  - [vscodethemes](https://vscodethemes.com/)
+#### IDE
+* [JET BRAINS](https://www.jetbrains.com/)
 #### Document
 * [JSDoc](https://jsdoc.app/)
 * [JSDoc GitHub](https://github.com/jsdoc/jsdoc)
@@ -98,12 +103,13 @@
 * [-prefix-free](https://projects.verou.me/prefixfree/)
 #### Browser Extensions
 * [Wappalyzer](https://www.wappalyzer.com/)
-* [react developer tools](https://github.com/facebook/react-devtools)
+* React developer tools
+* Vue developer tools
 * adBlock
-* Clear Cache
-* ColorZilla
-* Moesif Origin & CORS Changer
 * Locale Switcher
+* ColorZilla
+* Clear Cache
+* Moesif Origin & CORS Changer
 ### Design
 * [Why Do We Interface?](https://whydoweinterface.com/)
 #### Patterns

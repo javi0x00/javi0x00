@@ -23,6 +23,8 @@
   - Reactive
   - Ref
 
+* Directives
+
 * Composition API
   * Methods
     - setup
