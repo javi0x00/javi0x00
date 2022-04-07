@@ -152,6 +152,7 @@
 ### API's
 * [Any API](http://any-api.com/)
 * [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+* [httpbin.org](httpbin.org)
 * [restcountries](https://www.restcountries.eu/)
 * [openweathermap](https://openweathermap.org/)
 * [TCRMH](https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3)

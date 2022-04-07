@@ -24,6 +24,7 @@
   - Ref
 
 * Directives
+* Modifiers
 
 * Composition API
   * Methods
