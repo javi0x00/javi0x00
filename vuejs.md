@@ -5,6 +5,7 @@
 * [Vue 3 Docs](https://vuejs.org/guide/introduction.html)
 * [Vue CLI](https://cli.vuejs.org/)
 * [Vue Devtools](https://devtools.vuejs.org/)
+* [Vuex](https://vuex.vuejs.org/)
 ### Requirements
 * NodeJS
 ### Terms and concepts
@@ -24,11 +25,35 @@
   - Ref
 
 * Directives
-* Modifiers
+  - Loops
+  - Conditionals
+  - Binds
+  - Events
+  - Key Modifiers
+
+* Methods
+* Computed
+
+* Lifecycle
+  - beforeCreate
+  - created
+  - beforeMount
+  - mounted
+  - beforeUpdate
+  - updated
+  - beforeDestroy
+  - destroyed
+
+* Components
+  - template
+  - data
+  - props
 
 * Composition API
   * Methods
     - setup
+
+* Data building
 
 * vue
   - ref
@@ -37,8 +62,14 @@
   - toRefs
   - watch
 
-* Data building
-
+* Vuex
+  - store
+  - state
+  - mapState
+  - mutations
+  - mapMutations
+  - actions
+  - mapActions
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

@@ -135,6 +135,7 @@
 * [Paletton](https://paletton.com/)
 * [Colormind](http://colormind.io/)
 * [Muzli Colors](https://colors.muz.li/)
+* [Flat UI Colors](https://flatuicolors.com/)
 * [Adobe Color](https://color.adobe.com/)
 * [BrandColors](https://brandcolors.net/)
 #### Layouts
