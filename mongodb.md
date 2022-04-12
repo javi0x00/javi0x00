@@ -14,7 +14,12 @@
 #### Basic commands
 
 ```
-$ 
+$ mongod
+$ mongo
+```
+
+```
+> show dbs
 ```
 - - -
 ## Software Developer
