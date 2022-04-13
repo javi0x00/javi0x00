@@ -3,6 +3,9 @@
 - - -
 ### Resources
 * [Angular](https://angular.io/)
+* [Angular Documentation](https://angular.io/docs)
+* [Angular tutorial](https://angular.io/tutorial)
+* [CLI Documentation](https://angular.io/cli)
 ### Requirements
 * Nodejs
 * Angular CLI

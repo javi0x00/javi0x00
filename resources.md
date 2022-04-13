@@ -8,6 +8,8 @@
   - [vscodethemes](https://vscodethemes.com/)
 #### IDE
 * [JET BRAINS](https://www.jetbrains.com/)
+#### Licence
+* [Choose an open source license](https://choosealicense.com/)
 #### Document
 * [JSDoc](https://jsdoc.app/)
 * [JSDoc GitHub](https://github.com/jsdoc/jsdoc)

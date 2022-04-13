@@ -70,6 +70,10 @@
   - mapMutations
   - actions
   - mapActions
+  - modules
+
+* Vue CLI
+
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
