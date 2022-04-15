@@ -46,27 +46,34 @@
 * Event binding
 * Handling Events
 * Two-way binding, bidirectional binding, Banana in a Box
-* Modules
-  * Import module
-    - Ex: FormsModule
+* Databinding
+  - Interpolation
+  * Binding
+    - One way binding
+    - Event binding
+    - Two way binding
 * Directives
   * Component
     * Built-in
       - @Component
       - @Module
     - Custom
-  * Structure
-    - Ex: ngIf, ngFor, ngSwitch, ngPlural, ngTemplate, ngComponentOutlet
   * Attribute
     - Ex: ngStyle, ngClass, ngModel
+  * Structure
+    - Ex: ngIf, ngFor, ngSwitch, ngPlural, ngTemplate, ngComponentOutlet
 * Component interaction
   - @Input
   - @Output
 * Services
   - Data Services
+* Modules
+  * Import module
+    - Ex: FormsModule
 
 * Install packages
 * Config file
+* The RxJS library
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
