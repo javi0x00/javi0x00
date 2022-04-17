@@ -55,13 +55,17 @@
   - values, variables, and operators, which computes to a value.
 
 * Variables
-  - Constants
+  * Stages
+    - Declaration
+    - Initializing
+    - Modification
   - Scope
   - Hoisting
   - Context
   * Coercion
     - Implicit
     - Explicit
+  - Constants
 
 * Data types
   * Primitives:
@@ -107,10 +111,11 @@
 
 * Operators
   - Arithmetic operators
+  - Increment operators
+  - Decrement operators
   - Assignment operators
   - Comparison operators
   - Logical Operators
-  - Increment and decrement operators
   - “Unary +” Operator
   - Grouping
   - Concatenation
@@ -168,6 +173,10 @@
   * Object constructor
     - Dynamic and reusable
   - Property method
+
+* Strings
+  - Properties
+  - Methods
 
 - Template literals or template strings or literal strings
 - Fragments
@@ -247,6 +256,7 @@
   - Prototypical inheritance
 
 * Object
+  - Static object (ej: Math)
 
 * Some Objects
   - Window
