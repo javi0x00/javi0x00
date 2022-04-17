@@ -15,8 +15,16 @@
 * [JSDoc GitHub](https://github.com/jsdoc/jsdoc)
   - [Documenting JavaScript Code With JSDocs](https://www.section.io/engineering-education/jsdoc-documentation/)
   - [Code documentation for JavaScript with JSDoc](https://www.valentinog.com/blog/jsdoc/)
+* [APIDOC](https://apidocjs.com/)
+* [Swagger](https://swagger.io/)
 #### Security
 * [Snyk](https://snyk.io/)
+#### Authentication
+* [JWT](https://jwt.io/)
+#### Authorization
+* [OAuth](https://oauth.net/)
+#### Specifications
+* [JSON API](https://jsonapi.org/)
 #### Regular Expression
 * [emailregex](http://emailregex.com/)
 #### Tunnel
