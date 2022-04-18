@@ -48,6 +48,8 @@
   - template
   - data
   - props
+  - emit
+  - suspense
 
 * Composition API
   * Methods
@@ -61,6 +63,7 @@
   - reactive
   - toRefs
   - watch
+  - inject
 
 * Vuex
   - store
