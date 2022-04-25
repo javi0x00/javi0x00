@@ -1,11 +1,53 @@
 # :memo: Notes
 ## RESOURCES
-- - 
+- - -
 ### Development
 * [Open Source Initiative (OSI)](https://opensource.org/)
 #### Text editor
 * [Visual Studio Code](https://code.visualstudio.com/)
-  - [vscodethemes](https://vscodethemes.com/)
+  * VS Code Extensions
+    - [Marketplace - Extensions for the Visual Studio family of products](https://marketplace.visualstudio.com/)
+    * Essential
+      - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+      - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+      - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+      - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+    * Recommended
+      - [VS Code Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+      - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+      - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+      - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+      - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+      - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+      - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+      - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+      - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+    * Themes
+      - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+      - [vscodethemes](https://vscodethemes.com/)
+    * CSS
+      - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+      * Frameworks
+        - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
+        - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+    * JavaScript
+      - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+      * Angular
+        - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+      * React
+        - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+        - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+      * Svelte
+        - [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
+        - [Svelte Intellisense](https://marketplace.visualstudio.com/items?itemName=ardenivanov.svelte-intellisense)
+        - [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets)
+        - [Svelte Auto Import](https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport)
+      * Vue
+        - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+        - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+        - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
+    * Client
+      - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 #### IDE
 * [JET BRAINS](https://www.jetbrains.com/)
 #### Online Code Editor

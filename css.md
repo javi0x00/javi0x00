@@ -131,40 +131,40 @@
 #### Examples
 ```
 /* RESET STYLES MANUALLY */
-* {
-	margin: 0;
-	padding: 0;
-}
 html {
-	font-size: 62.5%;
-	height: 100%;
-	scroll-behavior: smooth;
-	box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 62.5%;
+  height: 100%;
+  scroll-behavior: smooth;
 }
 *,
 *::before,
 *::after {
   box-sizing: inherit;
+  font-size: inherit;
+  margin: 0;
+  padding: 0;
 }
 body {
-	height: 100%;
+  height: 100%;
 }
 img {
-	max-width: 100%;
-	display: block;
+  max-width: 100%;
+  display: block;
 }
 a {
-	text-decoration: none;
-	color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
 ul {
-	list-style: none;
+  list-style: none;
 }
-input, button {
-	font: inherit;
-	color: inherit;
-	border: none;
-	background-color: transparent;
+input,
+button {
+  font: inherit;
+  color: inherit;
+  border: none;
+  background-color: transparent;
 }
 i {
 	font-size: 16px;
