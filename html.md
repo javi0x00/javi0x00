@@ -26,31 +26,40 @@
 * [MDN A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 ### Terms and concepts
 * HTML or HyperText Markup Language
+
+* Syntax
+* Indention
+* Comments
+
 * File HTML
 	* Basic structure
 		- Document type declaration
 		* Root element
 			- Basic elements
-* Elements
+
+* Markup or Tag or Element
 	- Attribute
 	- Value
 	* Default properties
 		- Block
 		- Inline
+
 * Tag
 	- Open tag
 	- Close tag
 	- Self-closing tag
-* Comments
-* Indention
+
 * Hierarchy
 	- Parent element
 	- Sibling element
 	- Child element
+
 * Metadata
 	- Basic
 	- Advanced
-* Generic element
+
+* Generic elements
+
 * Semantic tags
 	* Structure
 		- Header
@@ -86,11 +95,15 @@
 		- Horizontal line
 		- Line Break
 		- Script
+
 * DOM
+
 * Tree DOM
+
 * SEO
+
 * Accessibility
-#### Summary
+#### Examples
 ```
 <!-- HTML comments -->
 <!DOCTYPE html><!-- declaración estandar HTML5 -->

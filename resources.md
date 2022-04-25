@@ -10,6 +10,7 @@
 * [JET BRAINS](https://www.jetbrains.com/)
 #### Online Code Editor
 * [CodePen](https://codepen.io/)
+* [replit](https://replit.com/)
 #### Licence
 * [Choose an open source license](https://choosealicense.com/)
 #### Document
@@ -53,6 +54,9 @@
 * [UX](https://web.dev/)
 #### Responsive
 * [Responsively](https://responsively.app/)
+* [SCREEN SIZ.ES](https://screensiz.es/)
+#### CSS Methodology
+* [Get Bem](http://getbem.com/)
 #### CSS resets
 * [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 * [Normalize min](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
@@ -83,6 +87,7 @@
 * [CSS Icons](https://css.gg/)
 * [Simple Icons](https://simpleicons.org/)
 * [svgicons](http://svgicons.sparkk.fr/)
+* [ICONFINDER](https://www.iconfinder.com/)
 * [SVG Repo](https://www.svgrepo.com/)
 * [Boxicons](https://boxicons.com/)
 * [365cons](http://www.365cons.com/)
@@ -99,6 +104,7 @@
 * [image](https://placeimg.com/400/200/animals)
 * [humaaans](https://www.humaaans.com/)
 * [tinypng](https://tinypng.com/)
+* [placekitten](https://placekitten.com/)
 #### Random images
 * [Portrait](https://source.unsplash.com/150x150/?portrait)
 * [standard](https://source.unsplash.com/random/150x150/?img=1)
@@ -150,6 +156,7 @@
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Adobe Color](https://color.adobe.com/)
 * [BrandColors](https://brandcolors.net/)
+* [HSL COLOR PICKER](https://hslpicker.com/)
 #### Layouts
 * [W3Layouts](https://w3layouts.com/)
 #### References
