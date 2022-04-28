@@ -40,6 +40,7 @@
     - Reserved Words
     - Keywords
     - Strict mode
+  * The noscript tag
 
 * Debugging
   - ```console```
@@ -60,7 +61,9 @@
     - Initializing
     - Modification
   - Scope
-  - Hoisting
+  * Hoisting
+    - hoist variable declaration (not initialization)
+    - hoist functions declared
   - Context
   * Coercion
     - Implicit
@@ -185,6 +188,11 @@
 - Spread operator (to send)
 
 * Functions
+  * Funtion
+    * With arguments
+      - Parameter list
+    * Without arguments
+      - No parameter list
   - Built-in
   - Function declaration (search in the same object, in the current object)
   - Function expression
