@@ -61,9 +61,7 @@
     - Initializing
     - Modification
   - Scope
-  * Hoisting
-    - hoist variable declaration (not initialization)
-    - hoist functions declared
+  - Hoisting
   - Context
   * Coercion
     - Implicit
@@ -193,6 +191,7 @@
       - Parameter list
     * Without arguments
       - No parameter list
+  - Implicit return or default return
   - Built-in
   - Function declaration (search in the same object, in the current object)
   - Function expression
@@ -214,8 +213,35 @@
   - Pure function
 
 * Hoisting
+  - hoist variable declaration (not initialization)
+  - hoist functions declared
   - Register/Record
   - Execute
+
+* Scope
+  - Lexical scoping or static scoping
+  - Scope chain
+  - Global
+  - Function
+  - Block
+  - Module
+
+* Closures
+  - retorna una función desde otra función, con acceso al entorno de variables 
+  de un ámbito exterior
+  - Ex:
+```
+function IamAclosure() {
+  const varLocal = 'xyz'
+  return function() {
+    return varLocal.toUpperCase()
+  }
+}
+
+const closure = IamAclosure()
+```
+
+* IIFE or Inmediately Invoked Function Expression
 
 * Prototypes
   * Constructor object or constructor function
@@ -245,15 +271,6 @@
     - Overwrite methods
     - Polymorphism
   - Maps
-
-* Scope
-  - Global
-  - Function
-  - Block
-  - Module
-
-* IIFE
-* Clousures
 
 * this
   - call
