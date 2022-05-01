@@ -243,6 +243,10 @@ const closure = IamAclosure()
 
 * IIFE or Inmediately Invoked Function Expression
 
+* Callback
+  - Synchronous
+  - Asynchronous
+
 * Prototypes
   * Constructor object or constructor function
     - Dynamic and reusable
@@ -272,17 +276,21 @@ const closure = IamAclosure()
     - Polymorphism
   - Maps
 
-* this
-  - call
-  - apply
-  - bind
+* this keyword
+  - is a reference according to the context
+  * Mehods
+    - call
+    - apply
+    - bind
+
+* strict mode
 
 * Prototype
   - Prototypical inheritance
 
 * Object
   - Static object (ej: Math)
-
+ 
 * Some Objects
   - Window
   - Console
