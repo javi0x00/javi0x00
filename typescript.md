@@ -3,6 +3,8 @@
 - - -
 ### Resources
 * [TypeScript](https://www.typescriptlang.org/)
+* [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+* [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
 * [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 ### Requirements
 #### Install
@@ -15,7 +17,7 @@
 * Compile
 * Transpile
 
-* Types
+* Data Types
   * Primitives
     - boolean
     - number
@@ -90,6 +92,13 @@
 
 * Projects
   - tsconfig
+### Basic Commands
+```
+$ tsc -v
+$ tsc <file name> -w
+$ tsc -init
+$ tsc *.ts -w
+```
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

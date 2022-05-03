@@ -72,7 +72,7 @@
 * Template
   - Interpolation
 
-
+* Computed properties
 
 * Computed Caching vs Methods
 * Computed vs Watched Property

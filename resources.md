@@ -231,6 +231,7 @@
 * [CryptoCompare](https://min-api.cryptocompare.com/documentation)
 * [The Open Movie Database](http://www.omdbapi.com/)
 * [The GitHub Jobs API](https://jobs.github.com/api)
+* [GitHub API](https://api.github.com)
 * [reddit](https://www.reddit.com/dev/api/)
 * [Stripe API](https://stripe.com/docs/api)
 * [sepomex](https://api-sepomex.hckdrk.mx/documentacion/docs)
@@ -239,6 +240,7 @@
 ### Challenges
 * [Frontend Mentor](https://www.frontendmentor.io/)
 * [devChallenges](https://devchallenges.io/)
+* [exercism](https://exercism.org/)
 * [Iinterviewing](https://interviewing.io/practice/)
 * [Interview Cake](https://www.interviewcake.com/)
 - - -
