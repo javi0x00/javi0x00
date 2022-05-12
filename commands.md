@@ -18,6 +18,10 @@ Services
 ```
 $ ng generate service <name>
 ```
+Guards
+```
+$ ng generate guard <name>
+```
 ### Git
 Setup
 ```
