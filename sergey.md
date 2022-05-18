@@ -16,8 +16,9 @@ $ mkdir _imports
 ```
 Tag
 ```
-<sergey-import />
-<sergey-import></sergey-import>
+<sergey-import src="" />
+<sergey-import src="">...</sergey-import>
+<sergey-slot />
 ```
 - - -
 ## Software Developer
