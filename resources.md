@@ -206,6 +206,7 @@
 #### References
 * [ROBBY LEONARDI](http://www.rleonardi.com/)
 * [Boy-Coy](https://boy-coy.com/)
+* [The Simplest Ways to Handle HTML Includes](https://css-tricks.com/the-simplest-ways-to-handle-html-includes/)
 #### Whiteboard
 * [FigJam](https://www.figma.com)
 * [miro](https://miro.com/)
