@@ -132,30 +132,50 @@
 ```
 /* RESET STYLES MANUALLY */
 html {
-  box-sizing: border-box;
-  font-size: 62.5%;
   height: 100%;
+  font-size: 62.5%;
+  box-sizing: border-box;
   scroll-behavior: smooth;
 }
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
-  font-size: inherit;
   margin: 0;
   padding: 0;
+  box-sizing: inherit;
+	border-width: 0;
+  border-style: solid;
+  border-color: #000;
 }
 body {
   height: 100%;
 }
-img {
-  max-width: 100%;
+img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+	max-width: 100%;
   display: block;
+  vertical-align: middle;
 }
 a {
   text-decoration: none;
   color: inherit;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+ol,
 ul {
   list-style: none;
 }
@@ -166,8 +186,15 @@ button {
   border: none;
   background-color: transparent;
 }
+button:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+}
 i {
 	font-size: 16px;
+}
+.google-map * {
+  border-style: none;
 }
 
 /* SEUDOCLASES ":" de estado, de posición, de relación  */

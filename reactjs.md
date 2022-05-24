@@ -3,6 +3,7 @@
 - - -
 ### Resources
 * [React](https://reactjs.org/)
+* [DOM Elements](https://reactjs.org/docs/dom-elements.html)
 * [Create React App](https://create-react-app.dev/)
 * [React Bootstrap](https://react-bootstrap.github.io/)
 * [styled-components](https://styled-components.com/)
@@ -37,6 +38,9 @@
     - Content (html)
     - Presentation (css)
     - Interactivity (js)
+  * Export
+    - Named
+    - By default
   * With state or without state
   * Unidirectional, One-way Data Binding
     - Parent to child flow

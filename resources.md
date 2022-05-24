@@ -102,6 +102,7 @@
 #### CSS Methodology
 * [Get Bem](http://getbem.com/)
 #### CSS resets
+* [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 * [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 * [Normalize min](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
 #### CSS Framework
