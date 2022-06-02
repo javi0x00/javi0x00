@@ -36,8 +36,21 @@
 	- Universal
 	- Mark or Tag or Type
 	- Class
-	- Attribute / Attribute and value
+	- Attribute / Attribute and value [ * ^ $ ~ | ]
 	- Id
+	* Sibling element
+		- General ~
+		- Adjacent +
+	* Child element
+		- Direct >
+		- Descendant 
+	* Pseudo-class :
+		- State
+		- Position
+		- Relation
+	* Pseudo-element ::
+		- Typographic
+		- Content
 
 * Attributes
 	- Typography
@@ -87,14 +100,6 @@
 	- Automatic or default mode
 	- Manually or force mode
 	* CSS Combinators
-
-* Pseudo-class :
-	- State
-	- Position
-	- Relation
-* Pseudo-element ::
-	- Typographic
-	- Content
 
 * Color
 	* Values
