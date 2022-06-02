@@ -25,6 +25,11 @@
 ### Frontend
 #### Syntax
 * [Code Guide](https://codeguide.co/)
+#### 
+* [web.dev](https://web.dev/)
+#### Tags HTML
+* [Periodic table of HTML elements](https://madebymike.github.io/html5-periodic-table/)
+* [All The Tags](https://allthetags.com/)
 #### Static site generator
 * [Jamstack](https://jamstack.org/)
 * [Sergey](https://sergey.cool/)
@@ -37,10 +42,12 @@
 * [SCREEN SIZ.ES](https://screensiz.es/)
 #### CSS Methodology
 * [Get Bem](http://getbem.com/)
-#### CSS resets
+#### CSS Normalize
 * [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 * [Normalize](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 * [Normalize min](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
+#### CSS Resets
+* [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 #### CSS Framework
 * [Tailwind CSS](https://tailwindcss.com/docs/)
   - [Tailwind CSS with SvelteKit](https://tailwindcss.com/docs/guides/sveltekit)
@@ -121,6 +128,7 @@
 #### Prefix
 * [Modernizr](https://modernizr.com/)
 * [-prefix-free](https://projects.verou.me/prefixfree/)
+* [Autoprefixer CSS online](https://autoprefixer.github.io/)
 #### Browser Extensions
 * [Wappalyzer](https://www.wappalyzer.com/)
 * React developer tools

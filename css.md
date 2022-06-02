@@ -114,6 +114,8 @@
 
 * Fonts
 
+* Box model
+
 * Media queries
 	- Breakpoint
 	- X-device first
@@ -123,6 +125,8 @@
 * Animations
 
 * Reset styles
+	- Reset
+	- Normalize
 
 * CSS browser prefixes
 	- -webkit-	Chrome, Safari, Android
