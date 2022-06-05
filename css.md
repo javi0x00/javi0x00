@@ -135,6 +135,27 @@
 	- -ms-		Internet Explorer
 	- -khtml-		Konqueror
 
+* CSS effects
+	* Shadows
+		- box-shadow
+		- text-shadow
+		- drop-shadow
+	* Gradients
+		- linear
+		- radial
+		- conic
+	* Filters
+		- blur
+		- brightness
+		- contrast
+		- grayscale
+		- sepia
+		- hue-rotate
+		- invert
+		- opacity
+		- saturate
+		- backdrop-filter
+
 * CSS Methodlology
 	- BEM
 #### Examples
