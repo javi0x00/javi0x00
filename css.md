@@ -155,6 +155,18 @@
 		- opacity
 		- saturate
 		- backdrop-filter
+	* Blend modes
+		- mix-blens-mode
+		- background-blend-mode
+	* Masking
+		- clip-path
+	* Forms
+		- shape-outside
+	* Scrolling
+		- scroll-behavior
+		- scroll-margin
+		- scroll-snap-type
+		- scroll-snap-align
 
 * CSS Methodlology
 	- BEM
