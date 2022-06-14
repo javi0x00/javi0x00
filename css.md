@@ -117,12 +117,22 @@
 * Box model
 
 * Media queries
-	- Breakpoint
-	- X-device first
+	* Breakpoint
+		- 320px, 480px, 600px, 768px, 1024px, 1200px
+	* X-device first
+		- Mobile first
+		- Desktop firts
+	* Prefer Ems
+		- 320px / 16px = 20em
+		- 480px / 16px = 30em
+		- 600px / 16px = 37.5em
+		- 768px / 16px = 48em
+		- 1024px / 16px = 64em
+		- 1200px / 16px = 75em
+
+* Feature queries
 
 * Custom properties or Variables
-
-* Animations
 
 * Reset styles
 	- Reset
@@ -167,10 +177,63 @@
 		- scroll-margin
 		- scroll-snap-type
 		- scroll-snap-align
+	* Transitions
+		- transition
+		- transition-property
+		- transition-duration
+		- transition-timing-function
+		- transition-delay
+	* Transforms
+		- transform
+		- transform-origin
+		- translate
+		- scale
+		- rotate
+		- skew
+		- matrix
+		- perspective
+		- transform-style
+		- backface-visibility
+	* Animations
+		- animation
+		- animation-name
+		- animation-duration
+		- @keyframes
+		- animation-timing-function
+		- animation-delay
+		- animation-iteration-count
+		- animation-direction
+		- animation-fill-mode
+		- animation-play-state
 
-* CSS Methodlology
-	- BEM
-#### Examples
+* Multi device
+	- Responsive design
+	- Adaptive design
+	- Responsive design + Server Side Components (RESS)
+	- Responsible responsive design
+	- Fluid design
+
+* SEO
+
+* CSS architecture
+	- Predictable
+	- Reusable
+	- Stable
+	- Scalable
+
+* Components
+	- One only function
+	- Independent
+	- Auto-content
+	- Reusable
+
+* Tools
+	- Methodologies
+	- Frameworks
+	- Processors
+	- Style guide
+
+#### example.css
 ```
 /* RESET STYLES MANUALLY */
 html {
@@ -182,61 +245,27 @@ html {
 *,
 *::before,
 *::after {
-  margin: 0;
-  padding: 0;
   box-sizing: inherit;
-	border-width: 0;
-  border-style: solid;
-  border-color: #000;
 }
 body {
   height: 100%;
-}
-img,
-svg,
-video,
-canvas,
-audio,
-iframe,
-embed,
-object {
-	max-width: 100%;
-  display: block;
-  vertical-align: middle;
+	margin: 0;
 }
 a {
   text-decoration: none;
   color: inherit;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-size: inherit;
-  font-weight: inherit;
+
+img, audio, video, iframe, canvas, svg, picture {
+	max-width: 100%;
+	height: auto;
 }
-ol,
-ul {
-  list-style: none;
-}
-input,
-button {
-  font: inherit;
-  color: inherit;
-  border: none;
-  background-color: transparent;
-}
-button:focus {
-  outline: 1px dotted;
-  outline: 5px auto -webkit-focus-ring-color;
-}
-i {
-	font-size: 16px;
-}
-.google-map * {
-  border-style: none;
+
+img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: 0 50%;
 }
 
 /* SEUDOCLASES ":" de estado, de posición, de relación  */
