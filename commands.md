@@ -41,14 +41,14 @@ $ git push --tags
 Branch
 ```
 $ git checkout -b <branch name>
+$ git push --set-upstream origin <branch name>
 $ git branch -d <branch name>
 $ git branch -D <branch name>
 $ git push origin --delete <branch name>
 ```
 More
 ```
-$ git clone
-$ git config
+$ git clone <url>
 $ git add
 $ git status
 $ git commit
@@ -57,8 +57,6 @@ $ git pull
 $ git branch
 $ git checkout
 $ git merge
-$ git --version
-$ git config
 $ git init
 $ git add <filename>
 $ git rm <filename>
@@ -73,24 +71,18 @@ $ git log
 $ git log --stat
 $ git diff
 $ git diff <id> <id>
-$ git checkout
 $ git reset <id>
 $ git reset <id> --soft
 $ git reset <id> --hard
 $ git reset HEAD
-$ git clone <url>
-$ git push
-$ git pull
-$ git merge
 $ git fetch
-$ git branch
 $ git stash
 $ git clean
-$ gitk
 $ git reflog
 $ git reset
 $ git remote
 $ git remote -v
+$ gitk
 ```
 - - -
 ## Software Developer
