@@ -161,6 +161,11 @@
 		<mark></mark><!-- texto marcado resaltado -->
 		<summary></summary>
 		<p></p><!-- parrafos -->
+		<em></em>
+		strong
+		b
+		small
+		cite
 		<!-- No semánticos -->
 		<div></div><!-- contenedor generico, no semántico -->
 		<span></span><!-- no semántico, dar estilo, funciona el línea, no cambia comportamiento  -->
