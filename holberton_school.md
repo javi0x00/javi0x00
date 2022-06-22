@@ -1,4 +1,24 @@
 # :books: Holberton School
+## The Framework
+0. Read
+1. Think
+2. Think more + Whiteboard
+3. Ask why?
+4. Read the error messages
+5. Google
+6. Google again
+7. Ask a peer
+8. Ask a more peers
+9. Ask your TA
+10. Ask other TAs
+11. Ask staff / Alumni / Mentors
+## The Feynman Technique:
+1. Choose a concept you want to learn about
+2. Explain it to a 12 year old
+3. Reflect, Refine, and Simplify
+4. Organize and Review
+
+[link](https://fs.blog/feynman-technique/)
 ## Projects
 - - -
 ### :open_file_folder: Foundations
