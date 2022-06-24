@@ -143,6 +143,9 @@
 - Moesif Origin & CORS Changer
 #### Screenshot
 - https://app.prntscr.com/en/index.html
+#### Cross Domain Local Storage
+- https://github.com/ofirdagan/cross-domain-local-storage
+- https://rawgit.com/ofirdagan/cross-domain-local-storage/master/app/index.html
 ---
 ### Backend
 #### HTTP Client
