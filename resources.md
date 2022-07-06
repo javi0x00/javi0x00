@@ -1,5 +1,6 @@
 # :memo: Notes
 ## RESOURCES
+[JavaScript libraries](#javascript-libraries)
 - - -
 ### Design
 - https://whydoweinterface.com/
@@ -267,6 +268,8 @@
 - https://exercism.org/
 - https://interviewing.io/practice/
 - https://www.interviewcake.com/
+### JavaScript libraries
+here!
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
+<a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>
