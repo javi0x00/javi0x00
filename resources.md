@@ -3,7 +3,7 @@
 * [API's](#apis)
   - [Fake](#fake)
   - [Free](#free)
-* [Authentication](#athentication)
+* [Authentication](#authentication)
 * [Authorization](#authorization)
 * [Browsers](#browsers)
   - [Extensions](#extensions)
@@ -65,7 +65,7 @@
 #### Free
 - http://any-api.com/
 - https://jsonplaceholder.typicode.com/
-- httpbin.org
+- https://httpbin.org/
 - https://www.restcountries.eu/
 - https://openweathermap.org/
 - https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3
