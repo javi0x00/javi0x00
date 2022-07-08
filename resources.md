@@ -42,6 +42,7 @@
 * [IDE](#ide)
 * [JavaScript](#javascript)
   - [Cross Domain Local Storage](#cross-domain-local-storage)
+  - [Data Visualization](#data-visualization)
   - [Dates](#dates)
   - [JAM Stack](#jam-stack)
   - [Numbers](#numbers)
@@ -263,6 +264,8 @@
 #### Cross Domain Local Storage
 - https://github.com/ofirdagan/cross-domain-local-storage
 - https://rawgit.com/ofirdagan/cross-domain-local-storage/master/app/index.html
+#### Data visualization
+- https://www.chartjs.org/
 #### Dates
 - https://momentjs.com/
 #### JAM Stack
