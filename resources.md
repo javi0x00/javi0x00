@@ -47,6 +47,7 @@
   - [JAM Stack](#jam-stack)
   - [Numbers](#numbers)
 * [Licence](#licence)
+* [Learn](#learn)
 * [Online Code Editors](#online-code-editors)
 * [Open Source](#open-source)
 * [Regular Expression](#regular-expression)
@@ -276,6 +277,19 @@
 ---
 ### Licence
 - https://choosealicense.com/
+---
+### Learn
+- https://tutsplus.com/
+- https://www.sololearn.com/
+- https://www.javascript.com/
+- https://www.programiz.com/
+- https://www.w3schools.com/
+- https://www.codecademy.com/
+- https://www.studytonight.com/
+- https://www.freecodecamp.org/
+- https://www.geeksforgeeks.org/
+- https://developer.mozilla.org/
+- https://webdevelopermentor.com/
 ---
 ### Online Code Editors
 - https://runjs.app/
