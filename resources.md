@@ -295,6 +295,7 @@
 - https://runjs.app/
 - https://codepen.io/
 - https://replit.com/
+- https://codesandbox.io/
 ---
 ### Open Source
 - https://opensource.org/
@@ -322,7 +323,16 @@
 - https://formsubmit.co/
 ---
 ### Text editors
+- https://www.vim.org/
+- https://neovim.io/
+- https://www.gnu.org/software/emacs/
+- https://www.nano-editor.org/
 - https://code.visualstudio.com/
+- https://github.com/features/codespaces
+- https://www.sublimetext.com/
+- https://atom.io/
+- https://brackets.io/
+- https://notepad-plus-plus.org/
 #### VS Code Extensions
 - https://marketplace.visualstudio.com/
 * Essential
@@ -366,6 +376,8 @@
     - https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
 * Client
   - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+* Server
+  - https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server
 ---
 ### Tunnel
 - https://dashboard.ngrok.com/get-started/setup
