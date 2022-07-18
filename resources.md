@@ -44,8 +44,12 @@
   - [Cross Domain Local Storage](#cross-domain-local-storage)
   - [Data Visualization](#data-visualization)
   - [Dates](#dates)
+  - [Deobfuscate](#deobfuscate)
+  - [HTTP Client](#http-client)
   - [JAM Stack](#jam-stack)
+  - [Libraries](#libraries)
   - [Numbers](#numbers)
+  - [Obfuscator](#obfuscator)
 * [Licence](#licence)
 * [Learn](#learn)
 * [Online Code Editors](#online-code-editors)
@@ -268,12 +272,22 @@
 #### Data visualization
 - https://www.chartjs.org/
 #### Dates
+- https://date-fns.org/
 - https://momentjs.com/
+#### Deobfuscate
+- https://beautifier.io/
+#### HTTP Client
+- https://axios-http.com/
 #### JAM Stack
 - https://jamstack.org/
 - https://sergey.cool/
+#### Libraries
+- https://cdnjs.com/
+- https://developers.google.com/speed/libraries
 #### Numbers
 - http://openexchangerates.github.io/accounting.js/
+#### Obfuscator
+- http://javascript2img.com/
 ---
 ### Licence
 - https://choosealicense.com/
