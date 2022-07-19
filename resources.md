@@ -48,6 +48,7 @@
   - [HTTP Client](#http-client)
   - [JAM Stack](#jam-stack)
   - [Libraries](#libraries)
+  - [Node](#node)
   - [Numbers](#numbers)
   - [Obfuscator](#obfuscator)
 * [Licence](#licence)
@@ -284,6 +285,12 @@
 #### Libraries
 - https://cdnjs.com/
 - https://developers.google.com/speed/libraries
+#### Node
+- https://nodejs.org/
+- https://github.com/nvm-sh/nvm
+* https://github.com/coreybutler/nvm-windows
+  - https://tecadmin.net/install-nodejs-with-nvm-on-windows/
+- https://stackoverflow.com/questions/72401421/message-npm-warn-config-global-global-local-are-deprecated-use-loc
 #### Numbers
 - http://openexchangerates.github.io/accounting.js/
 #### Obfuscator
