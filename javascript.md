@@ -68,38 +68,47 @@
     - Boolean
     - undefined
     - null (Special primitive)
-    - Symbol
+    * Symbol
       - Descriptions
-  * Complex:
-    * Data structures
-      * Arrays
-        - Array of objects
-      * Objects (Special non-data)
-        * Propierties
-          - Key, Value
-          - getter
-          - setter
-          - prototype
-          - call
-          - apply
-        * Tools
-          - freeze
-          - seal
-      * Sets
-        - WeakSets
-      * Maps
-        - WeakMaps
-      * Proxies
-        - Handler
-      - Functions (non data structure)
-    - Properties
-    * Methods
-      - Strings methods
-      - Numbers methods
-      - Array methods
-      - Object methods
-      - Set methods
-      - Map methods
+  * Non-primitive:
+    - object (for more complex data structures)
+
+* Data structures
+  * Arrays
+    - Array of objects
+  * Objects (Special non-data)
+    * Propierties
+      - Key, Value
+      - getter
+      - setter
+      - prototype
+      - call
+      - apply
+    * Tools
+      - freeze
+      - seal
+  * Sets
+    - WeakSets
+  * Maps
+    - WeakMaps
+  * Proxies
+    - Handler
+  - Functions (non data structure)
+- Properties
+* Methods
+  - Strings methods
+  - Numbers methods
+  - Array methods
+  - Object methods
+  - Set methods
+  - Map methods
+
+* Operators
+  - Unary
+  - Binary
+  - Operand
+* Operands
+* Operations
 
 * Operators
   - Arithmetic operators
@@ -121,12 +130,15 @@
 * Control structures
   - Sequential
   * Conditional
+    - Comparisons
+    - Strict equality check
+    * Statements
       - if
       - if ... else
       - if ... else if ... else
       - switch
-      - Conditional (ternary) operator
-  * Loop
+      - Ternary operator
+  * Loops
     - While
     - Do While
     - For
@@ -169,6 +181,9 @@
 * Strings
   - Properties
   - Methods
+  - Single, double and backtick quotes
+  - Scaping characters
+  - Concatenating strings
 
 - Template literals or template strings or literal strings
 - Fragments
@@ -546,4 +561,4 @@ const closure = IamAclosure()
   - Style guide (Standard, Google, Airbnb)
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
+<a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>

@@ -432,7 +432,7 @@
 * Server
   - https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server
 * Markdown
-  * - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+  - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 ---
 ### Tunnel
 - https://dashboard.ngrok.com/get-started/setup
