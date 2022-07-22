@@ -102,6 +102,8 @@
 - https://github.com/typicode/json-server
 #### Free
 - http://any-api.com/
+- https://apilist.fun/
+- https://rapidapi.com/
 - https://jsonplaceholder.typicode.com/
 - https://httpbin.org/
 - https://www.restcountries.eu/
