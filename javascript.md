@@ -5,6 +5,8 @@
 * [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)
 * [JavaScript at Microsoft](https://docs.microsoft.com/en-us/javascript/)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+* [JavaScript Tutorial](https://www.javascripttutorial.net/)
 ### Requirements
 * A browser or Nodejs
 ### Terms and concepts
@@ -31,6 +33,7 @@
     - Reserved Words
     - Keywords
     - Strict mode
+    - Sloppy mode
   * The noscript tag
 
 * Debugging
@@ -61,17 +64,22 @@
 
 * Data types
   * Primitives:
+    - Boolean
     - String
     - Number
-    - BigInt
     - NaN - Not a Number
-    - Boolean
+    - BigInt
     - undefined
     - null (Special primitive)
     * Symbol
       - Descriptions
   * Non-primitive:
     - object (for more complex data structures)
+
+* Object wrapper
+  - Boolean
+  - String
+  - Number
 
 * Data structures
   * Arrays
@@ -232,6 +240,10 @@
   - Block
   - Module
 
+* Call Stack
+  - LIFO
+  - Stacktrace
+
 * Closures
   - retorna una función desde otra función, con acceso al entorno de variables 
   de un ámbito exterior
@@ -290,6 +302,16 @@ const closure = IamAclosure()
     - bind
 
 * strict mode
+  - avoid create global variables accidentally
+  - readonly attributes
+  - objects not extensibles
+  - avoid duplicate parameters
+  - octal system, octal literal
+  - avoid errors with delete operator
+  - 'arguments' and 'eval' are keywords
+  - 'with' statement not allowed
+  - more keywords
+  - free functions
 
 * Prototype
   - Prototypical inheritance

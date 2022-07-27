@@ -1,101 +1,73 @@
 # :memo: Notes
 ## RESOURCES
-- [:memo: Notes](#memo-notes)
-  - [RESOURCES](#resources)
-  - [* Tunnel](#-tunnel)
-    - [API's](#apis)
-      - [Fake](#fake)
-      - [Free](#free)
-  - [- http://7timer.info/](#--http7timerinfo)
-    - [Authentication](#authentication)
-  - [- https://jwt.io/](#--httpsjwtio)
-    - [Authorization](#authorization)
-  - [- https://oauth.net/](#--httpsoauthnet)
-    - [Browsers](#browsers)
-      - [Extensions](#extensions)
-  - [- Moesif Origin & CORS Changer](#--moesif-origin--cors-changer)
-    - [Challenges](#challenges)
-  - [- https://www.interviewcake.com/](#--httpswwwinterviewcakecom)
-    - [Community](#community)
-  - [- https://web.dev/](#--httpswebdev)
-    - [CSS](#css)
-      - [Animations](#animations)
-      - [Conversions](#conversions)
-      - [Frameworks](#frameworks)
-      - [Loaders](#loaders)
-      - [Menus](#menus)
-      - [Methodology](#methodology)
-      - [Normalize](#normalize)
-      - [Prefix](#prefix)
-      - [Resets](#resets)
-  - [- https://meyerweb.com/eric/tools/css/reset/](#--httpsmeyerwebcomerictoolscssreset)
-    - [Deploy](#deploy)
-  - [- https://www.netlify.com/](#--httpswwwnetlifycom)
-    - [Design](#design)
-      - [Colors](#colors)
-      - [Emojies](#emojies)
-      - [Fonts](#fonts)
-      - [Icons](#icons)
-      - [Illustrations](#illustrations)
-      - [Images](#images)
-      - [Layouts](#layouts)
-      - [Logos](#logos)
-      - [Patterns](#patterns)
-      - [Random images](#random-images)
-      - [References](#references)
-      - [Responsive](#responsive)
-      - [Videos](#videos)
-      - [Whiteboard](#whiteboard)
-      - [Wireframes](#wireframes)
-  - [- https://www.adobe.com/products/xd.html](#--httpswwwadobecomproductsxdhtml)
-    - [Documentation](#documentation)
-  - [- https://swagger.io/](#--httpsswaggerio)
-    - [HTML](#html)
-  - [- https://allthetags.com/](#--httpsallthetagscom)
-    - [HTTP Clients](#http-clients)
-  - [- https://insomnia.rest/](#--httpsinsomniarest)
-    - [IDE](#ide)
-  - [- https://coderunnerapp.com/](#--httpscoderunnerappcom)
-    - [JavaScript](#javascript)
-      - [Cross Domain Local Storage](#cross-domain-local-storage)
-      - [Data visualization](#data-visualization)
-      - [Dates](#dates)
-      - [Deobfuscate](#deobfuscate)
-      - [HTTP Client](#http-client)
-      - [JAM Stack](#jam-stack)
-      - [Libraries](#libraries)
-      - [Node](#node)
-      - [Numbers](#numbers)
-      - [Obfuscator](#obfuscator)
-  - [- http://javascript2img.com/](#--httpjavascript2imgcom)
-    - [Licence](#licence)
-  - [- https://choosealicense.com/](#--httpschoosealicensecom)
-    - [Learn](#learn)
-  - [- https://webdevelopermentor.com/](#--httpswebdevelopermentorcom)
-    - [Online Code Editors](#online-code-editors)
-  - [- https://codesandbox.io/](#--httpscodesandboxio)
-    - [Open Source](#open-source)
-  - [- https://opensource.org/](#--httpsopensourceorg)
-    - [Regular Expression](#regular-expression)
-  - [- http://emailregex.com/](#--httpemailregexcom)
-    - [Screenshot](#screenshot)
-  - [- https://app.prntscr.com/en/index.html](#--httpsappprntscrcomenindexhtml)
-    - [Security](#security)
-  - [- https://snyk.io/](#--httpssnykio)
-    - [SEO](#seo)
-  - [- https://ogp.me/](#--httpsogpme)
-    - [Specifications](#specifications)
-  - [- https://jsonapi.org/](#--httpsjsonapiorg)
-    - [SSL VPN](#ssl-vpn)
-  - [- https://www.fortinet.com/support/product-downloads](#--httpswwwfortinetcomsupportproduct-downloads)
-    - [Submissions](#submissions)
-  - [- https://formsubmit.co/](#--httpsformsubmitco)
-    - [Text editors](#text-editors)
-      - [VS Code Extensions](#vs-code-extensions)
-  - [* - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one](#---httpsmarketplacevisualstudiocomitemsitemnameyzhangmarkdown-all-in-one)
-    - [Tunnel](#tunnel)
-  - [- https://dashboard.ngrok.com/get-started/setup](#--httpsdashboardngrokcomget-startedsetup)
-  - [Software Developer](#software-developer)
+* [API's](#apis)
+  - [Fake](#fake)
+  - [Free](#free)
+* [Authentication](#authentication)
+* [Authorization](#authorization)
+* [Browsers](#browsers)
+  - [Extensions](#extensions)
+* [Challenges](#challenges)
+* [Community](#community)
+* [CSS](#css)
+  - [Animations](#animations)
+  - [Conversions](#conversions)
+  - [Frameworks](#frameworks)
+  - [Loaders](#loaders)
+  - [Menus](#menus)
+  - [Methodology](#methodology)
+  - [Normalize](#normalize)
+  - [Prefix](#prefix)
+  - [Resets](#resets)
+* [Debug](#debug)
+* [Deploy](#deploy)
+* [Design](#design)
+  - [Colors](#colors)
+  - [Emojies](#emojies)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Illustrations](#illustrations)
+  - [Images](#images)
+  - [Layouts](#layouts)
+  - [Logos](#logos)
+  - [Patterns](#patterns)
+  - [Random images](#random-images)
+  - [References](#references)
+  - [Responsive](#responsive)
+  - [Videos](#videos)
+  - [Whiteboard](#whiteboard)
+  - [Wireframes](#wireframes)
+* [Documentation](#documentation)
+* [HTML](#html)
+* [HTTP Clients](#http-clients)
+* [IDE](#ide)
+* [JavaScript](#javascript)
+  - [Concepts](#concepts)
+  - [Cross Domain Local Storage](#cross-domain-local-storage)
+  - [Data visualization](#data-visualization)
+  - [Dates](#dates)
+  - [Deobfuscate](#deobfuscate)
+  - [HTTP Client](#http-client)
+  - [JAM Stack](#jam-stack)
+  - [Libraries](#libraries)
+  - [Node](#node)
+  - [Numbers](#numbers)
+  - [Obfuscator](#obfuscator)
+* [Licence](#licence)
+* [Learn](#learn)
+* [Online Code Editors](#online-code-editors)
+* [Open Source](#open-source)
+* [Regular Expression](#regular-expression)
+* [Screenshot](#screenshot)
+* [Security](#security)
+* [SEO](#seo)
+* [Specifications](#specifications)
+* [SSL VPN](#ssl-vpn)
+* [Submissions](#submissions)
+* [Text editors](#text-editors)
+  - [VS Code Extensions](#vs-code-extensions)
+* [Timers](#timers)
+* [Tunnel](#tunnel)
 ---
 ### API's
 #### Fake
@@ -186,6 +158,12 @@
 - https://autoprefixer.github.io/
 #### Resets
 - https://meyerweb.com/eric/tools/css/reset/
+---
+### Debug
+- https://developer.mozilla.org/en-US/docs/Web/API/console
+- https://firefox-source-docs.mozilla.org/devtools-user/
+- https://developer.chrome.com/docs/devtools/
+- https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/
 ---
 ### Deploy
 - https://www.netlify.com/
@@ -300,6 +278,8 @@
 - https://coderunnerapp.com/
 ---
 ### JavaScript
+#### Concepts
+- https://github.com/leonardomso/33-js-concepts
 #### Cross Domain Local Storage
 - https://github.com/ofirdagan/cross-domain-local-storage
 - https://rawgit.com/ofirdagan/cross-domain-local-storage/master/app/index.html
@@ -325,6 +305,7 @@
   - https://tecadmin.net/install-nodejs-with-nvm-on-windows/
 - https://stackoverflow.com/questions/72401421/message-npm-warn-config-global-global-local-are-deprecated-use-loc
 #### Numbers
+- https://github.com/MikeMcl/bignumber.js/
 - http://openexchangerates.github.io/accounting.js/
 #### Obfuscator
 - http://javascript2img.com/
@@ -344,6 +325,7 @@
 - https://www.geeksforgeeks.org/
 - https://developer.mozilla.org/
 - https://webdevelopermentor.com/
+- https://leetcode.com/
 ---
 ### Online Code Editors
 - https://runjs.app/
@@ -417,15 +399,15 @@
   - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
   - Angular
     - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
-  - React
+  * React
     - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
     - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
-  - Svelte
+  * Svelte
     - https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode
     - https://marketplace.visualstudio.com/items?itemName=ardenivanov.svelte-intellisense
     - https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets
     - https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport
-  - Vue
+  * Vue
     - https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar
     - https://marketplace.visualstudio.com/items?itemName=octref.vetur
     - https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
@@ -436,8 +418,12 @@
 * Markdown
   - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 ---
+### Timers
+- https://pomofocus.io/app
+---
 ### Tunnel
 - https://dashboard.ngrok.com/get-started/setup
 ---
 ## Software Developer
-<a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>
+<a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>  
+[top](#resources)

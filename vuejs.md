@@ -109,4 +109,4 @@
 
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
+<a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>
