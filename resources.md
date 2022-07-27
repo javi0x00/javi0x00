@@ -426,4 +426,4 @@
 ---
 ## Software Developer
 <a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>  
-:top: [Resources](#resources)
+[:top: Resources](#resources)
