@@ -40,6 +40,7 @@
 * [Documentation](#documentation)
 * [Git](#git)
  - [Commit](#commit)
+ - [gitignore file](#gitignore-file)
 * [HTML](#html)
 * [HTTP Clients](#http-clients)
 * [IDE](#ide)
@@ -271,6 +272,8 @@
   - https://www.conventionalcommits.org/
   - https://github.com/commitizen/cz-cli
   - https://github.com/vuejs/core/blob/main/.github/commit-convention.md
+#### gitignore file
+- http://help.github.com/ignore-files/
 ---
 ### HTML
 - https://codeguide.co/
