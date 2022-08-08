@@ -3,25 +3,6 @@
 - - -
 ### Resources
 * [Node.js](https://nodejs.org)
-* [Node.js Documentation](https://nodejs.org/api/)
-* [Nodejs nodesource distributions](https://github.com/nodesource/distributions/blob/master/README.md)
-* [Callback Hell](http://callbackhell.com/)
-* [AJAX](https://uniwebsidad.com/libros/ajax/capitulo-7)
-* [HTTP status code](https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP)
-* [MIME extensions](https://es.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions)
-* [MIME types](http://sites.utoronto.ca/webdocs/HTMLdocs/Book/Book-3ed/appb/mimetype.html)
-* [Node.js Documentation](https://nodejs.org/api/)
-* [npm](https://npmjs.com/)
-* [yarn](https://yarnpkg.com/)
-* [npm Documentation](https://docs.npmjs.com/)
-* [Observer pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-* [The package.json guide](https://nodejs.dev/learn/the-package-json-guide)
-* [Semantic Versioning](https://semver.org/)
-* [Express](https://expressjs.com/)
-* [Jade Language](https://jade-lang.com/)
-* [Ghost](https://ghost.org/)
-* [MongoDB](https://www.mongodb.com/)
-* [MySQL](https://www.mysql.com/)
 ### Terms and concepts
 * Node.js
   * Fork
@@ -44,8 +25,9 @@
   * Single thread
     - Based on callbacks
     - Event loop
-* Download
-  - Install LTS (Long Term Support)
+
+* REPL
+
 * Good practices
   * Order
     - Libraries, Modules
@@ -58,16 +40,14 @@
   * Prefer
     - lowerCamelCase
     - Single quotes
-* Some Built-in
-  - ```__dirname```
-  - ```__filename```
-  * ```process```
-    - argv
-    - stdin
-    - stdout
-    - exit
-* Modules (export/require)
-* Core
+
+* Modules
+  * Types
+    - Core modules
+    - Local modules
+    - Third-party modules
+
+* Core modules or Built-in modules
   - Stability level
   * Some modules of the core
     - Globals
@@ -89,7 +69,16 @@
     - Debugger
     - v8
     - readLine
-* NPM (JS Package Manager)
+    - os
+    - url
+    - assert
+
+* Third-party modules
+
+* NPM (Node Package Manager)
+  - Package
+  - Module
+  - Dependency
   * Types packages
     - Globals
   * Installing packages
@@ -119,7 +108,9 @@
     - browserify
     - jshint
     - babel
+
 * Inheritance
+
 * Classes
   - class
   - constructor
@@ -129,12 +120,15 @@
   - setter
   - private field
   - public field
+
 * Callbacks
+
 * Promises
   - resolve
   - reject
   - then
   - catch
+
 * Some Nodejs frameworks
   - Express
   - Sails
@@ -148,6 +142,7 @@
   - Total
   - Partial
   - Flatiron
+
 * Express
   * Core
     - Express
@@ -163,6 +158,7 @@
     - Cookies
     - Sessions
     - Templates
+
 * Middlewares
   - Are functions that have access to the request object (req), the response object (res).
   * Scope
@@ -171,6 +167,7 @@
   * Type
     - Filters
     - Provider
+
 * Some middlewares
   * Built-in
     - static
@@ -180,8 +177,11 @@
     - cookie-parser
     - cookie-session
     - body-parser
+
 * Express generator
+
 * Manual generator
+
 * Templates Engines
   - Jade
   - Ejs
@@ -191,8 +191,10 @@
   - Mustache
   - Dust
   - Nunjucks
+
 * Ghost
   - Platform for creating a new media platform
+
 * Data Persistence
   - CRUD (Create, Read, Update, Delete)
   - REST (Representational State Transfer)
@@ -205,6 +207,7 @@
     - express-myconnection
     - express-method-override
   - API REST MongoDB
+
 * MongoDB
   - Based on JS
   - BSON format (Binary Script Object Notation)
@@ -221,6 +224,7 @@
     - Mongoose
 
 * Isoformicas app
+
 * Full Stack JavaScript Developer
   - MERN (MongoDB, Express, React, Node)
 - - -

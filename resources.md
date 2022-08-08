@@ -19,6 +19,7 @@
   - [Normalize](#normalize)
   - [Prefix](#prefix)
   - [Resets](#resets)
+* [Databases](#databases)
 * [Debug](#debug)
 * [Deploy](#deploy)
 * [Design](#design)
@@ -44,6 +45,7 @@
 * [HTML](#html)
 * [HTTP Clients](#http-clients)
 * [IDE](#ide)
+* [JSON](#json)
 * [JavaScript](#javascript)
   - [Concepts](#concepts)
   - [Cross Domain Local Storage](#cross-domain-local-storage)
@@ -64,13 +66,13 @@
 * [Screenshot](#screenshot)
 * [Security](#security)
 * [SEO](#seo)
-* [Specifications](#specifications)
 * [SSL VPN](#ssl-vpn)
 * [Submissions](#submissions)
 * [Text editors](#text-editors)
   - [VS Code Extensions](#vs-code-extensions)
 * [Timers](#timers)
 * [Tunnel](#tunnel)
+* [Versioning](#versioning)
 ---
 ### API's
 #### Fake
@@ -162,6 +164,10 @@
 #### Resets
 - https://meyerweb.com/eric/tools/css/reset/
 ---
+### Databases
+- https://www.mysql.com/
+- https://www.mongodb.com/
+---
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console
 - https://firefox-source-docs.mozilla.org/devtools-user/
@@ -235,6 +241,7 @@
 - https://bradfrost.com/blog/post/atomic-web-design/
   * https://patternlab.io/
     - https://demo.patternlab.io/
+- https://en.wikipedia.org/wiki/Observer_pattern
 #### Random images
 - https://source.unsplash.com/150x150/?portrait
 - https://source.unsplash.com/random/150x150/?img=1
@@ -288,9 +295,14 @@
 - https://www.jetbrains.com/
 - https://coderunnerapp.com/
 ---
+### JSON
+- https://nodejs.dev/learn/the-package-json-guide
+- https://jsonapi.org/
+---
 ### JavaScript
 #### Concepts
 - https://github.com/leonardomso/33-js-concepts
+- http://callbackhell.com/
 #### Cross Domain Local Storage
 - https://github.com/ofirdagan/cross-domain-local-storage
 - https://rawgit.com/ofirdagan/cross-domain-local-storage/master/app/index.html
@@ -311,10 +323,16 @@
 - https://developers.google.com/speed/libraries
 #### Node
 - https://nodejs.org/
+- https://nodejs.org/api/
+- https://github.com/nodesource/distributions/blob/master/README.md
 - https://github.com/nvm-sh/nvm
 * https://github.com/coreybutler/nvm-windows
   - https://tecadmin.net/install-nodejs-with-nvm-on-windows/
 - https://stackoverflow.com/questions/72401421/message-npm-warn-config-global-global-local-are-deprecated-use-loc
+- https://npmjs.com/
+- https://docs.npmjs.com/
+- https://yarnpkg.com/
+- https://expressjs.com/
 #### Numbers
 - https://github.com/MikeMcl/bignumber.js/
 - http://openexchangerates.github.io/accounting.js/
@@ -359,9 +377,6 @@
 ### SEO
 - https://caniuse.com/
 - https://ogp.me/
----
-### Specifications
-- https://jsonapi.org/
 ---
 ### SSL VPN
 - https://www.fortinet.com/support/product-downloads
@@ -434,6 +449,9 @@
 ---
 ### Tunnel
 - https://dashboard.ngrok.com/get-started/setup
+---
+### Versioning
+- https://semver.org/
 ---
 ## Software Developer
 <a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>  
