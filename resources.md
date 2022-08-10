@@ -167,6 +167,8 @@
 ### Databases
 - https://www.mysql.com/
 - https://www.mongodb.com/
+- https://www.pgadmin.org/
+- https://www.enterprisedb.com/
 ---
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console

@@ -56,7 +56,14 @@
     - Buffer
     - File System
     - Stream
-    - Events
+    * Events
+      - Action into app
+      - Define
+      - Emit
+      - Listen
+      * EventEmitter
+        - Emitters
+      - Event Handler or Event Listener
     - Util
     - Timers
     - Path
@@ -86,9 +93,15 @@
     - Global: ```npm install <package_name> -g```
     - Project dependency: ```npm install <package_name> --save``` (package.json)
     - Development dependency: ```npm install <package_name> --save-dev``` (package.json)
+  * Uninstalling packages
   * package.json
     - ```npm init``` (for a new project)
     - ```npm install``` (for an existing project)
+  * package-lock.json
+    - autogenerate when package.json or tree node_modules is modify
+    - hold record of all dependencies
+    - describe the tree generate for next installations
+    - contain details
   * Some packages project dependency
     - node-inspector
     - supervisor
@@ -109,6 +122,27 @@
     - jshint
     - babel
 
+* Promises
+  - pending
+  - resolve
+  - reject
+  - then
+  - catch
+  - chaining promises
+  - async
+  - await
+
+* Callback function
+
+* Method chaining
+
+* Model: client-server
+  * HTTP protocol
+    * Request
+      - Methods HTTP or Verbs HTTP
+    * Response
+      - Status codes HTTP
+
 * Inheritance
 
 * Classes
@@ -121,13 +155,6 @@
   - private field
   - public field
 
-* Callbacks
-
-* Promises
-  - resolve
-  - reject
-  - then
-  - catch
 
 * Some Nodejs frameworks
   - Express
