@@ -58,6 +58,7 @@
   - [Node](#node)
   - [Numbers](#numbers)
   - [Obfuscator](#obfuscator)
+  - [Spreadsheets](#spreadsheets)
 * [Licence](#licence)
 * [Learn](#learn)
 * [Online Code Editors](#online-code-editors)
@@ -340,6 +341,8 @@
 - http://openexchangerates.github.io/accounting.js/
 #### Obfuscator
 - http://javascript2img.com/
+#### Spreadsheets
+- https://sheetjs.com/
 ---
 ### Licence
 - https://choosealicense.com/

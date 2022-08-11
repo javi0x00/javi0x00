@@ -1,6 +1,6 @@
 # :memo: Notes
 ## NODEJS
-- - -
+---
 ### Resources
 * [Node.js](https://nodejs.org)
 ### Terms and concepts
@@ -52,10 +52,8 @@
   * Some modules of the core
     - Globals
     - Process
-    - HTTP
-    - Buffer
+    - OS
     - File System
-    - Stream
     * Events
       - Action into app
       - Define
@@ -64,21 +62,30 @@
       * EventEmitter
         - Emitters
       - Event Handler or Event Listener
+    * HTTP
+      * Model: client-server
+      * HTTP protocol
+      * Port
+      * Request
+        - Methods HTTP or Verbs HTTP
+      * Response
+        - Status codes HTTP
+    - URL
+    - Routing
+    - Buffer
+    - Stream
     - Util
     - Timers
     - Path
-    - URL
     - Query String
     - Sniffer
     * Forms
       - GET
       - POST
     - Debugger
-    - v8
     - readLine
-    - os
-    - url
     - assert
+    - v8
 
 * Third-party modules
 
@@ -102,25 +109,6 @@
     - hold record of all dependencies
     - describe the tree generate for next installations
     - contain details
-  * Some packages project dependency
-    - node-inspector
-    - supervisor
-    - nodemon
-    - forever
-    - pm2
-    - formidable
-    - fs-extra
-    - q
-  * Some packages development dependency
-    - grunt
-    - gulp
-    - webpack
-    -bower
-    - stylus
-    - less
-    - browserify
-    - jshint
-    - babel
 
 * Promises
   - pending
@@ -136,13 +124,6 @@
 
 * Method chaining
 
-* Model: client-server
-  * HTTP protocol
-    * Request
-      - Methods HTTP or Verbs HTTP
-    * Response
-      - Status codes HTTP
-
 * Inheritance
 
 * Classes
@@ -154,37 +135,6 @@
   - setter
   - private field
   - public field
-
-
-* Some Nodejs frameworks
-  - Express
-  - Sails
-  - Hapi
-  - Locomotive
-  - Koa
-  - Kraken
-  - Express.IO
-  - SocketStream
-  - Geddy
-  - Total
-  - Partial
-  - Flatiron
-
-* Express
-  * Core
-    - Express
-    - Application
-    - Request
-    - Response
-    - Router
-  * Web application framework
-    - Routes
-    - Parameters
-    - Forms
-    - Upload files
-    - Cookies
-    - Sessions
-    - Templates
 
 * Middlewares
   - Are functions that have access to the request object (req), the response object (res).
@@ -205,22 +155,12 @@
     - cookie-session
     - body-parser
 
-* Express generator
-
-* Manual generator
-
-* Templates Engines
-  - Jade
-  - Ejs
-  - Handlebars
-  - Pug
-  - Hogan
-  - Mustache
-  - Dust
-  - Nunjucks
-
-* Ghost
-  - Platform for creating a new media platform
+* Full Stack JavaScript Developer
+  - JAM stack (Javascript, APIs, Markup)
+  - MERN stack (MongoDB, Express, React, Node)
+  - MEAN stack (MongoDB, Express, Angular, Node)
+  - MEVN stack (MongoDB, Express, Vue, Node)
+  - MESN stack (MongoDB, Express, Svelte, Node)
 
 * Data Persistence
   - CRUD (Create, Read, Update, Delete)
@@ -234,26 +174,6 @@
     - express-myconnection
     - express-method-override
   - API REST MongoDB
-
-* MongoDB
-  - Based on JS
-  - BSON format (Binary Script Object Notation)
-  * Documental (records)
-    - Collections (tables)
-    - 16Mb limit
-  * Some commands
-    - mongod
-    - mongo
-    - show dbs
-    - use <name db>
-    - show collections
-  * ODM
-    - Mongoose
-
-* Isoformicas app
-
-* Full Stack JavaScript Developer
-  - MERN (MongoDB, Express, React, Node)
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
