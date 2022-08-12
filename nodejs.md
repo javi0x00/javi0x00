@@ -70,6 +70,7 @@
         - Methods HTTP or Verbs HTTP
       * Response
         - Status codes HTTP
+      - CRUD (Create, Read, Update, Delete)
     - URL
     - Routing
     - Buffer
@@ -161,19 +162,6 @@
   - MEAN stack (MongoDB, Express, Angular, Node)
   - MEVN stack (MongoDB, Express, Vue, Node)
   - MESN stack (MongoDB, Express, Svelte, Node)
-
-* Data Persistence
-  - CRUD (Create, Read, Update, Delete)
-  - REST (Representational State Transfer)
-  * SQL (Structured Query Language)
-    - MySQL
-  * NoSQL (Not only SQL)
-    - Mongo
-  * API REST MySQL
-    - mysql
-    - express-myconnection
-    - express-method-override
-  - API REST MongoDB
 ---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

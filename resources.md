@@ -336,6 +336,7 @@
 - https://docs.npmjs.com/
 - https://yarnpkg.com/
 - https://expressjs.com/
+- https://nodemon.io/
 #### Numbers
 - https://github.com/MikeMcl/bignumber.js/
 - http://openexchangerates.github.io/accounting.js/
