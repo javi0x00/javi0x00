@@ -138,7 +138,8 @@
   - public field
 
 * Middlewares
-  - Are functions that have access to the request object (req), the response object (res).
+  - Are functions that running after request and running before response.
+  - Are functions that have access to the request object (req), the response object (res) and the next() function.
   * Scope
     - Global
     - Local
