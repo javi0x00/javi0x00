@@ -27,6 +27,7 @@
   - [Emojies](#emojies)
   - [Fonts](#fonts)
   - [Icons](#icons)
+  - [Inspiration](#inspiration)
   - [Illustrations](#illustrations)
   - [Images](#images)
   - [Layouts](#layouts)
@@ -223,6 +224,10 @@
 - https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
 - https://svgporn.com/
 - https://icons8.com/
+#### Inspiration
+- https://dribbble.com/
+- https://jamstackthemes.dev/
+- https://github.com/Evavic44/portfolio-ideas
 #### Illustrations
 - https://iradesign.io/
 - https://undraw.co/
