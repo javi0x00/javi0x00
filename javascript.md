@@ -583,4 +583,4 @@ const closure = IamAclosure()
   - Style guide (Standard, Google, Airbnb)
 - - -
 ## Software Developer
-<a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
