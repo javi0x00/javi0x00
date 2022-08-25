@@ -1,6 +1,6 @@
 # :memo: Notes
 ## PROGRAMMING
-- - -
+---
 ### Terms and concepts
 * Units of information
   - Bit, A binary digit, Zero or One
@@ -120,6 +120,17 @@
   - Values, Operators, Expressions, Keywords, Comments.
 * Expressions
   - Values, variables, and operators, which computes to a value.
-- - -
+* Functions
+  - Parameter
+  - Argument
+  * Naming a function
+    - "show…" usually show something.
+    - "get…" return a value.
+    - "calc…" calculate something.
+    - "create…" create something.
+    - "is…" check something and return a boolean.
+    - "check…" check something and return a boolean.
+    - "verb…" make something, etc.
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

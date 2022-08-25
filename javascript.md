@@ -241,8 +241,11 @@
   - Module
 
 * Call Stack
-  - LIFO
+  - LIFO (Last In First Out)
   - Stacktrace
+  * Execution contexts
+    - Global execution context
+    - Function execution context
 
 * Closures
   - retorna una función desde otra función, con acceso al entorno de variables 
