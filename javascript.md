@@ -163,9 +163,22 @@
       - Break
       - Continue
 
-* Error handling
-  - Try ... Catch ... Finally
-  - Throw
+* Errors
+  * Anatomy (is an object)
+    * name/type
+      - SyntaxError
+      * Logic errors
+        - ReferenceError
+        - TypeError
+    * message
+      - Describe causing
+    - file name
+    - row or line
+    - column or character
+    - stack trace
+  * Error handling
+    - Try ... Catch ... Finally
+    - Throw
 
 * Destructuring
   - Assign by Destructuring
@@ -241,8 +254,11 @@
   - Module
 
 * Call Stack
-  - LIFO
+  - LIFO (Last In First Out)
   - Stacktrace
+  * Execution contexts
+    - Global execution context
+    - Function execution context
 
 * Closures
   - retorna una función desde otra función, con acceso al entorno de variables 

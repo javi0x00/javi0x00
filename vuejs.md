@@ -1,6 +1,6 @@
 # :memo: Notes
 ## VUEJS
-- - -
+---
 ### Resources
 * [API reference](https://vuejs.org/api/)
 * [Vue 3 Docs](https://vuejs.org/guide/introduction.html)
@@ -11,8 +11,8 @@
 ### Requirements
 * NodeJS
 ### Terms and concepts
-* VueJS
 * Vue CLI
+* VueJS
 
 * Core features
   - Declarative rendering
@@ -88,6 +88,9 @@
 * Data building
 
 * vue
+  - data
+  - methods
+  - computed
   - ref
   - computed
   - reactive
@@ -98,10 +101,11 @@
 * Vuex
   - store
   - state
-  - mapState
   - mutations
-  - mapMutations
   - actions
+  - getters
+  - mapState
+  - mapMutations
   - mapActions
   - modules
 
@@ -132,7 +136,6 @@
     - Plugin development
     - Animation
     - PWA
-
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

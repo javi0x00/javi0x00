@@ -2,6 +2,23 @@
 ## PROGRAMMING
 ---
 ### Terms and concepts
+Problem solving is the core thing software developers do.  The programming 
+languages and tools they use are secondary to this fundamental skill.
+
+* Problem solving
+  1. Understand the problem
+  2. Plan
+  3. Divide and conquer
+
+* Resources
+  - Basic paper and pencil
+  - Diagrams
+  - Questions
+  - Answers
+  - Sketch
+  - Algorithm
+  - Psudocode
+
 * Units of information
   - Bit, A binary digit, Zero or One
   - Crumb, two bits or quarter byte
@@ -120,6 +137,29 @@
   - Values, Operators, Expressions, Keywords, Comments.
 * Expressions
   - Values, variables, and operators, which computes to a value.
+
+* Functions
+  - Parameter
+  - Argument
+  * Naming a function
+    - "show…" usually show something.
+    - "get…" return a value.
+    - "calc…" calculate something.
+    - "create…" create something.
+    - "is…" check something and return a boolean.
+    - "check…" check something and return a boolean.
+    - "verb…" make something, etc.
+
+* Errors
+  * Understanding errors
+    - Syntax error
+    - Logic error
+  - Resolving errors
+
+* Resolving errors
+  - Read the error carefully
+  - Google
+  - Debugger
 
 * Clean code
   - Logic before coding
