@@ -1,6 +1,6 @@
 # :memo: Notes
 ## PROGRAMMING
-- - -
+---
 ### Terms and concepts
 * Units of information
   - Bit, A binary digit, Zero or One
@@ -120,6 +120,23 @@
   - Values, Operators, Expressions, Keywords, Comments.
 * Expressions
   - Values, variables, and operators, which computes to a value.
-- - -
+
+* Clean code
+  - Logic before coding
+  - Writing clean code
+  - Consistency
+  - Indentation
+  - Line length
+  * Naming things
+    - Variables with a noun or adjetive
+    - Functions with a verb
+  * Comments
+    - Explanatory
+    - Avoid abusing
+  - Short functions
+  - Respecting standards in use
+  - Avoid indiscriminate mixing of coding languages
+  - Caution with imports
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

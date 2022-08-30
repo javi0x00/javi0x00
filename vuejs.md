@@ -107,6 +107,32 @@
 
 * Vue CLI
 
+* Road map
+  0. JavaScript, HTML, CSS
+  1. Essential concepts
+    - Core features
+    - Component-based design
+    - SPA
+    - State management
+  2. Real-world Vue
+    - Project scalfolding
+    - Full-stack/Authenticated Vue
+    - Testing
+    - Optimization
+  3. Key related tools
+    - Modern JS
+    - Babel
+    - Webpack
+    - TypeScript
+  4. Vue frameworks
+    - Nuxt.js
+    - Vuetify
+    - NativeScript-Vue
+  5. Miscellaneous
+    - Plugin development
+    - Animation
+    - PWA
+
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
