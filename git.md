@@ -1,6 +1,6 @@
 # :memo: Notes
 ## GIT
-- - -
+---
 ### Resources
 * [Git](https://git-scm.com/)
 * [Git Reference Manual](https://git-scm.com/docs)
@@ -12,8 +12,11 @@
 * [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 ### Terms and concepts
-* Version Control System
-* Version Control Hosting
+- Version Control System
+- Version Control Hosting
+* Repository
+  - Clone
+  - Fork
 #### Basic setup
 ```
 $ sudo apt install git-all
@@ -79,7 +82,8 @@ $ git reset
 
 $ git remote
 $ git remote -v
+$ git remote add upstream
 ```
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

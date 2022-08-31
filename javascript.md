@@ -1,6 +1,6 @@
 # :memo: Notes
 ## JAVASCRIPT
-- - -
+---
 ### Resources
 * [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)
@@ -147,13 +147,14 @@
       - switch
       - Ternary operator
   * Loops
-    - While
     - Do While
+    - While
     - For
     - For ... in
     - For ... of
     - ForEach
     - map
+    - filter
     - "own loop"
     * Iterator object
       - keys
@@ -577,16 +578,6 @@ const closure = IamAclosure()
     - Namespace Pattern
     - Mediator Pattern
 
-* Testing
-  * Techniques
-    - Integration
-    - End to End
-    - Unit
-    - Static
-  * Tools
-  - Jest
-  - Cypress
-
 * Hashing
   - Auth
   - bcrypt
@@ -597,6 +588,17 @@ const closure = IamAclosure()
   - Webpack
   - Gulp
   - Style guide (Standard, Google, Airbnb)
-- - -
+
+* Testing
+  - Test Driven Development or TDD
+  * Techniques
+    - Integration
+    - End to End
+    - Unit
+    - Static
+  * Tools
+  - Jest
+  - Cypress
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
