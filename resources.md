@@ -459,6 +459,8 @@
   - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 * Server
   - https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server
+* Run
+  - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 * Markdown
   - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 ---

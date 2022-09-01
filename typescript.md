@@ -1,11 +1,13 @@
 # :memo: Notes
 ## TYPESCRIPT
-- - -
+---
 ### Resources
 * [TypeScript](https://www.typescriptlang.org/)
 * [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 * [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
+* [Node TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/node)
 * [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+* [Vue TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/vue)
 ### Requirements
 #### Install
 * Nodejs
@@ -43,6 +45,8 @@
   - Discriminating Unions
   - Intersection Types
 
+* Shape
+
 * Functions
   * Param and return
     - Types
@@ -66,11 +70,11 @@
     - setter
     - getter
 
-* Generic
-  - Data type
-  - Function
-  - Class
-  - Interface
+* Interfaces
+  - Attributes
+  - Functions
+  - Modifiers
+  - Inheritance
 
 * Inheritance
 
@@ -78,13 +82,29 @@
   - super
   - overwrite
 
-* Interfaces
-  - Attributes
-  - Functions
-  - Modifiers
-  - Inheritance
-
 * Encapsulation
+
+* OOP
+  - Hierarchi
+  - Encapsulation
+  - Polymorphism
+  - Abstraction
+
+* Decorator
+
+* Utility types or helpers
+  - Partial
+  - Required
+
+* Custom Type
+
+* Generic Type
+  - Data type
+  - Function
+  - Class
+  - Interface
+
+* Union types
 
 * Modularity
   - Export
@@ -99,6 +119,6 @@ $ tsc <file name> -w
 $ tsc -init
 $ tsc *.ts -w
 ```
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
