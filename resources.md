@@ -430,7 +430,7 @@
 * Doc Reader
   - https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 * Git
-- https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 * HTTP Client
   - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 * HTML
