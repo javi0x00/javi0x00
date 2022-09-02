@@ -415,33 +415,37 @@
 - https://notepad-plus-plus.org/
 #### VS Code Extensions
 - https://marketplace.visualstudio.com/
-* Essential
-  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-  - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+* Code Formatter
   - https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-* Recommended
-  - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
   - https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
-  - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
-  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+  - https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html
   - https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
-  - https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script
-  - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
-  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-  - https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
-  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
-* Themes
-  - https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
-  - https://vscodethemes.com/
 * CSS
   - https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
-  - Frameworks
+  - https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer
+  * CSS Frameworks
     - https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
     - https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+* Doc Reader
+  - https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
+* Git
+- https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+* HTTP Client
+  - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+* HTML
+  - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+* Icons
+  - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 * JavaScript
+  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
   - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
-  - Angular
+  - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  * NPM
+    - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+    - https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script
+  * Angular
     - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
   * React
     - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
@@ -455,12 +459,16 @@
     - https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar
     - https://marketplace.visualstudio.com/items?itemName=octref.vetur
     - https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
-* Client
-  - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+    - https://marketplace.visualstudio.com/items?itemName=Vue.volar
+    - https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets
+* Run Code
+  - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 * Server
   - https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server
-* Run
-  - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+* Themes
+  - https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+  - https://vscodethemes.com/
 * Markdown
   - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 ---
