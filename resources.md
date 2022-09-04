@@ -8,6 +8,9 @@
 * [Browsers](#browsers)
   - [Extensions](#extensions)
 * [Challenges](#challenges)
+* [Code editor](#code-editor)
+  - [Online Code Editors](#online-code-editors)
+  - [VS Code Extensions](#vs-code-extensions)
 * [Community](#community)
 * [CSS](#css)
   - [Animations](#animations)
@@ -48,6 +51,7 @@
 * [IDE](#ide)
 * [JSON](#json)
 * [JavaScript](#javascript)
+  - [Altering CSS](#altering-css)
   - [Concepts](#concepts)
   - [Cross Domain Local Storage](#cross-domain-local-storage)
   - [Data visualization](#data-visualization)
@@ -62,7 +66,6 @@
   - [Spreadsheets](#spreadsheets)
 * [Licence](#licence)
 * [Learn](#learn)
-* [Online Code Editors](#online-code-editors)
 * [Open Source](#open-source)
 * [Postmortem](#postmortem)
 * [Regular Expression](#regular-expression)
@@ -71,8 +74,6 @@
 * [SEO](#seo)
 * [SSL VPN](#ssl-vpn)
 * [Submissions](#submissions)
-* [Text editors](#text-editors)
-  - [VS Code Extensions](#vs-code-extensions)
 * [Timers](#timers)
 * [Tunnel](#tunnel)
 * [Versioning](#versioning)
@@ -130,6 +131,81 @@
 - https://exercism.org/
 - https://interviewing.io/practice/
 - https://www.interviewcake.com/
+---
+### Code editor
+- https://www.vim.org/
+- https://neovim.io/
+- https://www.gnu.org/software/emacs/
+- https://www.nano-editor.org/
+- https://code.visualstudio.com/
+- https://github.com/features/codespaces
+- https://www.sublimetext.com/
+- https://atom.io/
+- https://brackets.io/
+- https://notepad-plus-plus.org/
+#### Online Code Editors
+- https://runjs.app/
+- https://codepen.io/
+- https://replit.com/
+- https://codesandbox.io/
+#### VS Code Extensions
+- https://marketplace.visualstudio.com/
+* Code Formatter
+  - https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+  - https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+  - https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html
+  - https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+* CSS
+  - https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
+  - https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer
+  * CSS Frameworks
+    - https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
+    - https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+* Doc Reader
+  - https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
+* Git
+  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+* HTTP Client
+  - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+* HTML
+  - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+* Icons
+  - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+* JavaScript
+  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+  - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+  - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
+  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  * NPM
+    - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+    - https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script
+  * Angular
+    - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+  * React
+    - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+    - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
+  * Svelte
+    - https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode
+    - https://marketplace.visualstudio.com/items?itemName=ardenivanov.svelte-intellisense
+    - https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets
+    - https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport
+  * Vue
+    - https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar
+    - https://marketplace.visualstudio.com/items?itemName=octref.vetur
+    - https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
+    - https://marketplace.visualstudio.com/items?itemName=Vue.volar
+    - https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets
+* Run Code
+  - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+* Server
+  - https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server
+  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+* Themes
+  - https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+  - https://vscodethemes.com/
+* Markdown
+  - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 ---
 ### Community
 - https://web.dev/
@@ -309,6 +385,8 @@
 - https://jsonapi.org/
 ---
 ### JavaScript
+#### Altering CSS
+- http://domenlightenment.com/#6.2
 #### Concepts
 - https://github.com/leonardomso/33-js-concepts
 - http://callbackhell.com/
@@ -368,12 +446,6 @@
 - https://webdevelopermentor.com/
 - https://leetcode.com/
 ---
-### Online Code Editors
-- https://runjs.app/
-- https://codepen.io/
-- https://replit.com/
-- https://codesandbox.io/
----
 ### Open Source
 - https://opensource.org/
 ---
@@ -401,76 +473,6 @@
 ---
 ### Submissions
 - https://formsubmit.co/
----
-### Text editors
-- https://www.vim.org/
-- https://neovim.io/
-- https://www.gnu.org/software/emacs/
-- https://www.nano-editor.org/
-- https://code.visualstudio.com/
-- https://github.com/features/codespaces
-- https://www.sublimetext.com/
-- https://atom.io/
-- https://brackets.io/
-- https://notepad-plus-plus.org/
-#### VS Code Extensions
-- https://marketplace.visualstudio.com/
-* Code Formatter
-  - https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-  - https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
-  - https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html
-  - https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
-* CSS
-  - https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
-  - https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer
-  * CSS Frameworks
-    - https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
-    - https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
-* Doc Reader
-  - https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
-* Git
-  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-* HTTP Client
-  - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
-* HTML
-  - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
-* Icons
-  - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
-* JavaScript
-  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
-  - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
-  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
-  * NPM
-    - https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
-    - https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script
-  * Angular
-    - https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
-  * React
-    - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
-    - https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
-  * Svelte
-    - https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode
-    - https://marketplace.visualstudio.com/items?itemName=ardenivanov.svelte-intellisense
-    - https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets
-    - https://marketplace.visualstudio.com/items?itemName=pivaszbs.svelte-autoimport
-  * Vue
-    - https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar
-    - https://marketplace.visualstudio.com/items?itemName=octref.vetur
-    - https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
-    - https://marketplace.visualstudio.com/items?itemName=Vue.volar
-    - https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets
-* Run Code
-  - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
-* Server
-  - https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server
-  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-* Themes
-  - https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
-  - https://vscodethemes.com/
-* Markdown
-  - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 ---
 ### Timers
 - https://pomofocus.io/app

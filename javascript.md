@@ -188,6 +188,8 @@
 * Objects
   - Propierties or Attributes
   - Methods
+  - Dot notation
+  - Bracket notation
   - This
   * Binding
     - Implicit
@@ -469,21 +471,34 @@ const closure = IamAclosure()
       - CSSOM
   * External
 
-* DOM
-  - Nodes
-  - Methods
+* DOM or Document Object Model
+
+* DOM Nodes
+  * Node is an object with properties and methods
+    * Properties
+      - Like ids, classes, styles, texts, etc
+    * Methods
+      - For finding/adding/removing/altering or handle on manipulating
+  - tree nodes
+  - nodelist
+  - array of nodes
+  - Elements
   - Traversing
   - Fragments
-  * Events
-    - Listeners
-    - Remove
-  * Event flow
-    - Propagation
-    - Bubble
-    - Capture
-    - Stop propagation
-    - preventDefault
-  - Event delegation
+
+* DOM Events
+  - Allow handle on manipulating the DOM dynamically, or on demand
+  - Listeners
+  - Remove
+
+* DOM Event flow
+  - Propagation
+  - Bubble
+  - Capture
+  - Stop propagation or stop bubbling
+  - preventDefault
+
+* DOM Event delegation
 
 * DOM Methods
 * BOM Methods
