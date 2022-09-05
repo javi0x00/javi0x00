@@ -168,6 +168,7 @@
   - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 * HTTP Client
   - https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+  - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 * HTML
   - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 * Icons
