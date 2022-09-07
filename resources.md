@@ -52,6 +52,8 @@
 * [JSON](#json)
 * [JavaScript](#javascript)
   - [Altering CSS](#altering-css)
+  - [Bundler](#bundler)
+  - [Compiler](#compiler)
   - [Concepts](#concepts)
   - [Cross Domain Local Storage](#cross-domain-local-storage)
   - [Data visualization](#data-visualization)
@@ -195,6 +197,7 @@
     - https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar
     - https://marketplace.visualstudio.com/items?itemName=octref.vetur
     - https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
+    - https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets
     - https://marketplace.visualstudio.com/items?itemName=Vue.volar
     - https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets
 * Run Code
@@ -388,7 +391,15 @@
 ### JavaScript
 #### Altering CSS
 - http://domenlightenment.com/#6.2
+#### Bundler
+- https://browserify.org/
+- https://parceljs.org/
+- https://rollupjs.org/
+- https://webpack.js.org/
+#### Compiler
+- https://babeljs.io/
 #### Concepts
+- https://www.ecma-international.org/
 - https://github.com/leonardomso/33-js-concepts
 - http://callbackhell.com/
 #### Cross Domain Local Storage
