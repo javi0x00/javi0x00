@@ -47,6 +47,7 @@
  - [Commit](#commit)
  - [gitignore file](#gitignore-file)
 * [HTML](#html)
+  - [Email Template](#email-template)
 * [HTTP Clients](#http-clients)
 * [IDE](#ide)
 * [JSON](#json)
@@ -375,6 +376,9 @@
 - https://codeguide.co/
 - https://madebymike.github.io/html5-periodic-table/
 - https://allthetags.com/
+#### Email Template
+- [MJML](https://mjml.io/)
+- [Foundation for Emails](https://get.foundation/emails.html)
 ---
 ### HTTP Clients
 - https://www.postman.com/

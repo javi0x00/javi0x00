@@ -2,6 +2,7 @@
 ## HTML
 - - -
 ### Resources
+* [Web Standards Project](https://www.webstandards.org/)
 * [W3C](https://www.w3.org/)
 * [WHATWG](https://whatwg.org/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
