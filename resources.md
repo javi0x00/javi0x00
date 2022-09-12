@@ -16,6 +16,7 @@
   - [Animations](#animations)
   - [Conversions](#conversions)
   - [Frameworks](#frameworks)
+  - [Inliner](#inliner)
   - [Loaders](#loaders)
   - [Menus](#menus)
   - [Methodology](#methodology)
@@ -176,6 +177,7 @@
   - https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 * Icons
   - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+  - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 * JavaScript
   - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
   - https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
@@ -201,6 +203,8 @@
     - https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets
     - https://marketplace.visualstudio.com/items?itemName=Vue.volar
     - https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets
+* Path
+  - https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 * Run Code
   - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 * Server
@@ -208,6 +212,7 @@
   - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 * Themes
   - https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+  - https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
   - https://vscodethemes.com/
 * Markdown
   - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
@@ -230,6 +235,8 @@
 - https://get.foundation/
 - https://960.gs/
 - https://quasar.dev/
+#### Inliner
+- https://templates.mailchimp.com/resources/inline-css/
 #### Loaders
 - https://tobiasahlin.com/spinkit/
 - https://samherbert.net/svg-loaders/
