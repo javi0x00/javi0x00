@@ -21,8 +21,8 @@
 * Single File Component - SFC
 
 * API Styles
-  - Options API
-  - Composition API
+  - Options API (v2)
+  - Composition API (v3)
 
 * Recommendation: SFC + Composition API to build full applications with Vue.
 
@@ -76,6 +76,9 @@
 
 * Computed Caching vs Methods
 * Computed vs Watched Property
+
+* Custom events
+  - emit
 
 - emit
 - suspense
