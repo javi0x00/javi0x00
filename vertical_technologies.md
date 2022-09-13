@@ -1,17 +1,19 @@
-# :factory: BIT
+# :factory: Vertical Technologies
 ---
 ## Projects ― (Collaborator)
-- Bootcamp de Desarrollo Web Full Stack [Details](bit_plan_01.md)
+Confidential
 ## Tech Stack
 - HTML
 - CSS
 - Bootstrap
+- Tailwind
+- Quasar
 - JavaScript
-- Node
 - TypeScript
-- MongoDB
-- ExpressJS
-- Angular
+- Svelte
+- Vue
+- React
+- Docker
 ---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
