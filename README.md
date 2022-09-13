@@ -11,10 +11,10 @@ Thanks for visiting my GitHub profile.
 ### Development like volunteering
 :checkered_flag: [Prueba dinámica de agudeza visual](https://javierandresgp.github.io/development-optometrist/)
 ### Development for training
-:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Color Generator](https://javierandresgp.github.io/training-color_generator/) | [Pokémon Cards](https://javierandresgp.github.io/training-pokemon_cards/) | [Calculator](https://javierandresgp.github.io/training-calculator/) | [Counter](https://javierandresgp.github.io/training-counter/) | [Clock](https://javierandresgp.github.io/training-clock/) | [Responsive Navbar](https://javierandresgp.github.io/training-responsive_navbar/) | [Compose reggaeton](https://javierandresgp.github.io/training-compose_reggaeton/) | [Foreign Exchange](https://javierandresgp.github.io/training-foreign_exchange/)
+:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Color Generator](https://javierandresgp.github.io/training-color_generator/) | [Pokémon Cards](https://javierandresgp.github.io/training-pokemon_cards/) | [Calculator](https://javierandresgp.github.io/training-calculator/) | [Counter](https://javierandresgp.github.io/training-counter/) | [Clock](https://javierandresgp.github.io/training-clock/) | [Responsive Navbar](https://javierandresgp.github.io/training-responsive_navbar/) | [Compose reggaeton](https://javierandresgp.github.io/training-compose_reggaeton/) | [Foreign Exchange](https://javierandresgp.github.io/training-foreign_exchange/) | [Rock, Paper, Scissors](https://javierandresgp.github.io/odin-rock_paper_scissors/)
 - - -
 ## :office: Vertical Technologies ― Projects (Collaborator)
-:factory: Confidential
+:factory: [Summary](vertical_technologies.md)
 - - -
 ## :office: Triario ― Projects (Collaborator)
 :factory: [Summary](triario.md)
