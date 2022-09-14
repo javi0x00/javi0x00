@@ -6,12 +6,13 @@
 - NetMédiK / Agenda MédiK (2021/06/11 ― 2021/09/24)
 - CCLE (2021/07/14)
 ## Tech Stack
+- Git
+- Docker
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
 - React
-- Docker
+- Bootstrap
 ---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

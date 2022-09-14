@@ -20,7 +20,7 @@
 
 [link](https://fs.blog/feynman-technique/)
 ## Projects
-- - -
+---
 ### :open_file_folder: Foundations
 * 0-Day ― 0-Day
 * Low-level programming & Algorithm ― Hatching out
@@ -48,6 +48,6 @@
 * Web Stack programming ― Back-end
 * Web Stack programming ― Just for fun!
 * Interview Preparation ― Prepare Yourself
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)

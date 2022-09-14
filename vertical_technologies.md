@@ -3,17 +3,17 @@
 ## Projects ― (Collaborator)
 Confidential
 ## Tech Stack
+- Git
 - HTML
 - CSS
-- Bootstrap
-- Tailwind
-- Quasar
 - JavaScript
 - TypeScript
 - Svelte
-- Vue
 - React
-- Docker
+- Vue
+- Quasar
+- Tailwind
+- Bootstrap
 ---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
