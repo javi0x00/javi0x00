@@ -216,6 +216,8 @@
   - https://vscodethemes.com/
 * Markdown
   - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+* ...
+  - https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
 ---
 ### Community
 - https://web.dev/
