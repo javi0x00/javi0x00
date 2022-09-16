@@ -74,6 +74,7 @@
 * [Postmortem](#postmortem)
 * [Regular Expression](#regular-expression)
 * [Screenshot](#screenshot)
+* [Scrum](#scrum)
 * [Security](#security)
 * [SEO](#seo)
 * [SSL VPN](#ssl-vpn)
@@ -430,6 +431,11 @@
 #### JAM Stack
 - https://jamstack.org/
 - https://sergey.cool/
+* https://docs.astro.build/en/getting-started/
+  - https://docs.astro.build/en/install/manual/
+  - https://docs.astro.build/en/reference/configuration-reference/
+  - https://docs.astro.build/en/core-concepts/project-structure/
+  - https://docs.astro.build/en/guides/integrations-guide/
 #### Libraries
 - https://cdnjs.com/
 - https://developers.google.com/speed/libraries
@@ -486,10 +492,14 @@
 ### Screenshot
 - https://app.prntscr.com/en/index.html
 ---
+### Scrum
+- https://www.scrumpoker-online.org/en/
+---
 ### Security
 - https://snyk.io/
 ---
 ### SEO
+- https://developers.google.com/search/docs/advanced/robots/create-robots-txt
 - https://caniuse.com/
 - https://ogp.me/
 ---
