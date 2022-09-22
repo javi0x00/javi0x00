@@ -189,7 +189,7 @@
   - Propierties or Attributes
   - Methods
   - Dot notation
-  - Bracket notation
+  - Square bracket notation
   - This
   * Binding
     - Implicit
