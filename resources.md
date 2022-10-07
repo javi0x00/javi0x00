@@ -64,7 +64,8 @@
   - [HTTP Client](#http-client)
   - [JAM Stack](#jam-stack)
   - [Libraries](#libraries)
-  - [Node](#node)
+  * [Node](#node)
+    - [npm](#npm)
   - [Numbers](#numbers)
   - [Obfuscator](#obfuscator)
   - [Spreadsheets](#spreadsheets)
@@ -81,6 +82,7 @@
 * [Submissions](#submissions)
 * [Timers](#timers)
 * [Tunnel](#tunnel)
+* [Unicode](#unicode)
 * [Versioning](#versioning)
 ---
 ### API's
@@ -410,6 +412,7 @@
 - https://browserify.org/
 - https://parceljs.org/
 - https://rollupjs.org/
+- https://vitejs.dev/
 - https://webpack.js.org/
 #### Compiler
 - https://babeljs.io/
@@ -448,11 +451,13 @@
 * https://github.com/coreybutler/nvm-windows
   - https://tecadmin.net/install-nodejs-with-nvm-on-windows/
 - https://stackoverflow.com/questions/72401421/message-npm-warn-config-global-global-local-are-deprecated-use-loc
-- https://npmjs.com/
 - https://docs.npmjs.com/
 - https://yarnpkg.com/
 - https://expressjs.com/
 - https://nodemon.io/
+##### npm
+- https://npmjs.com/
+- https://www.npmjs.com/package/prop-types
 #### Numbers
 - https://github.com/MikeMcl/bignumber.js/
 - http://openexchangerates.github.io/accounting.js/
@@ -515,6 +520,9 @@
 ---
 ### Tunnel
 - https://dashboard.ngrok.com/get-started/setup
+---
+### Unicode
+- https://unicode.org/
 ---
 ### Versioning
 - https://semver.org/
