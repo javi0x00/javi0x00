@@ -48,7 +48,7 @@ languages and tools they use are secondary to this fundamental skill.
   - Not graphic: Pseudocode
 * Flowchart
   - Analysis
-  - Construction
+  * Construction
     - Start, step by step and End
     - ANSI standard
     - Order
@@ -57,7 +57,7 @@ languages and tools they use are secondary to this fundamental skill.
   - Desktop test
 * Nassi-Schneiderman diagram
   - Analysis
-  - Construction
+  * Construction
     - Start, step by step and End
     - Order
     - Symbols
@@ -65,16 +65,15 @@ languages and tools they use are secondary to this fundamental skill.
   - Desktop test
 * Pseudocode
   - Analysis
-  - Construction
+  * Construction
       - Start, step by step and End
       - Order
       - Line by line
   - Desktop test
 * Data types
-  - Simple
-    - Integers
-  - Structured
-    - Arrays
+  - boolean, int, float, double, char, string
+  * Only type, not data type
+    - Void
 * Identifiers
   - Names to store data types
 * Operators
@@ -90,15 +89,19 @@ languages and tools they use are secondary to this fundamental skill.
   - Membership
   - Bitwise
 * Data structures
-  * Primitive
-    - boolean, char, int, float, double
-  * Non primitive
+  * Simple or Primitive
+    - Varialble
+    - Constant
+  * Non primitive okr Structured
     * lineal
       - stack, queue, list, array
     * Non lineal
       - tree, grafo
   - Dynamic
   - Static
+  - Initialization
+  - Declaration
+  - Assignment
 * Control flow
   -  Sequential
   -  Selective
