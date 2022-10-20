@@ -133,12 +133,14 @@
 - Moesif Origin & CORS Changer
 ---
 ### Challenges
+- https://www.dailycodingproblem.com/
 - https://www.frontendmentor.io/
 - https://devchallenges.io/
 - https://exercism.org/
 - https://interviewing.io/practice/
 - https://www.interviewcake.com/
 - https://adventjs.dev/
+- https://adventofcode.com/
 ---
 ### Code editor
 - https://www.vim.org/

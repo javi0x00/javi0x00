@@ -81,6 +81,7 @@ languages and tools they use are secondary to this fundamental skill.
   - Assignment
   - Comparison
   - Logical
+  - Relational
   - Increment
   - Decrement
   - Grouping
@@ -103,8 +104,8 @@ languages and tools they use are secondary to this fundamental skill.
   - Declaration
   - Assignment
 * Control flow
-  -  Sequential
-  -  Selective
+  - Sequential
+  - Selective
   - Conditionals
   - Loops
   - Flow handling

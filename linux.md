@@ -58,6 +58,10 @@ $ cat
 $ echo
 $ more
 $ less
+$ chmod
+$ diff
+$ telnet
+$ ln
 ```
 #### System information
 ```
