@@ -32,12 +32,6 @@ $ git config --global user.email <email>
 $ git config --global core.editor "<editor --flag>"
 $ git config --list
 ```
-Tagging
-```
-$ git tag
-$ git tag <tag name>
-$ git push --tags
-```
 Branch
 ```
 $ git checkout -b <branch name>
@@ -45,6 +39,14 @@ $ git push --set-upstream origin <branch name>
 $ git branch -d <branch name>
 $ git branch -D <branch name>
 $ git push origin --delete <branch name>
+```
+Tagging
+```
+$ git tag
+$ git tag <tag name>
+$ git push --tags
+$ git push --delete origin <tag name>
+$ git tag -d <tag name>
 ```
 More
 ```
