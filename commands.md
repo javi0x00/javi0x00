@@ -1,6 +1,6 @@
 # :memo: Notes
 ## COMMANDS
-- - -
+---
 ### Angular
 Setup
 ```
@@ -34,7 +34,9 @@ $ git config --list
 ```
 Branch
 ```
+$ git branch
 $ git checkout -b <branch name>
+$ git checkout <branch name>
 $ git push --set-upstream origin <branch name>
 $ git branch -d <branch name>
 $ git branch -D <branch name>
@@ -48,26 +50,28 @@ $ git push --tags
 $ git push --delete origin <tag name>
 $ git tag -d <tag name>
 ```
-More
+Basic
 ```
 $ git clone <url>
-$ git add
 $ git status
-$ git commit
-$ git push
 $ git pull
-$ git branch
-$ git checkout
-$ git merge
-$ git init
+$ git add
 $ git add <filename>
 $ git rm <filename>
+$ git commit -m <description>
+$ git commit --amend -m <description>
+$ git push
+$ git merge
+```
+More
+```
+$ git checkout
+$ git init
 $ git rm --cached <filename>
 $ git rm --force <filename>
-$ git commit -m <description>
+$ git commit
 $ git commit -a <description>
 $ git commit -am <description>
-$ git status
 $ git show
 $ git log
 $ git log --stat
@@ -86,6 +90,6 @@ $ git remote
 $ git remote -v
 $ gitk
 ```
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
