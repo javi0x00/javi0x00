@@ -41,6 +41,8 @@ $ git push --set-upstream origin <branch name>
 $ git branch -d <branch name>
 $ git branch -D <branch name>
 $ git push origin --delete <branch name>
+$ git branch -a
+$ git checkout -b <remote branch name> origin/<remote branch name>
 ```
 Tagging
 ```
