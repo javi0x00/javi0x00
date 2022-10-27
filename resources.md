@@ -442,6 +442,7 @@
   - https://docs.astro.build/en/reference/configuration-reference/
   - https://docs.astro.build/en/core-concepts/project-structure/
   - https://docs.astro.build/en/guides/integrations-guide/
+  - https://github.com/yassinedoghri/astro-i18next
 #### Libraries
 - https://cdnjs.com/
 - https://developers.google.com/speed/libraries
