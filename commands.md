@@ -54,7 +54,7 @@ $ git tag -d <tag name>
 ```
 Basic
 ```
-$ git clone <url>
+$ git clone <REMOTE_URL>
 $ git status
 $ git pull
 $ git add
@@ -64,6 +64,15 @@ $ git commit -m <description>
 $ git commit --amend -m <description>
 $ git push
 $ git merge
+```
+Adding a local repository to VCH
+```
+$ git init -b main
+$ echo '# repo-name' > README.md
+$ git add . && git commit -m "initial commit"
+$ git remote add origin <REMOTE_URL>
+$ git remote -v
+$ git push origin main
 ```
 More
 ```
@@ -90,6 +99,8 @@ $ git reflog
 $ git reset
 $ git remote
 $ git remote -v
+$ git remote add upstream
+$ git show
 $ gitk
 ```
 ---
