@@ -391,6 +391,8 @@
 - https://codeguide.co/
 - https://madebymike.github.io/html5-periodic-table/
 - https://allthetags.com/
+- https://htmlreference.io/
+- https://marksheet.io/
 #### Email Template
 - [MJML](https://mjml.io/)
 - [Foundation for Emails](https://get.foundation/emails.html)
