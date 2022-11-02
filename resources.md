@@ -81,6 +81,7 @@
 * [SSL VPN](#ssl-vpn)
 * [Submissions](#submissions)
 * [Timers](#timers)
+* [Tracking](#tracking)
 * [Tunnel](#tunnel)
 * [Unicode](#unicode)
 * [Versioning](#versioning)
@@ -523,11 +524,20 @@
 ### Timers
 - https://pomofocus.io/app
 ---
+### Tracking
+- https://analytics.google.com/
+- https://developers.facebook.com/docs/meta-pixel
+---
 ### Tunnel
 - https://dashboard.ngrok.com/get-started/setup
 ---
 ### Unicode
 - https://unicode.org/
+- https://www.lookuptables.com/text/unicode-characters
+- https://www.lookuptables.com/text/alt-codes
+- https://www.asciitable.com/
+- https://www.lookuptables.com/text/html-character-codes
+- https://www.w3schools.com/charsets/ref_html_utf8.asp
 ---
 ### Versioning
 - https://semver.org/
