@@ -11,6 +11,7 @@
 - [CSS Cascading and Inheritance Level 5](https://www.w3.org/TR/css-cascade-5/)
 - [Introducing the CSS Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 - [Learn Responsive Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=es)
+- [CSS pixel](https://developer.mozilla.org/en-US/docs/Glossary/CSS_pixel)
 ### Terms and concepts
 - CSS or Cascading Style Sheets
 
@@ -21,9 +22,9 @@
 
 * Rules
 	* Implement
-		- inline in element with attribute style
-		- in block in element with tag style
-		- link to external with css file
+		- inline, in element with attribute style
+		- in block, in style element
+		- link to external css file
 		- import a style sheet into another style sheet
 
 * Selector
@@ -36,12 +37,14 @@
 
 - Box model
 
-* Selectors
+* Selector Type
 	- Universal
-	- Mark or Tag or Type
+	- Mark or Tag or Element
 	- Class
-	- Attribute / Attribute and value [ * ^ $ ~ | ]
 	- Id
+
+* Selector Combinations
+	- Attribute / Attribute and value [ * ^ $ ~ | ]
 	* Sibling element
 		- General ~
 		- Adjacent +
@@ -62,7 +65,7 @@
 	- Content
 
 * Values and Units
-	- Absolute (ej: px)
+	- Absolute (ej: px, 1px = 1/96th of 1in)
 	- Relative (ej: %, em, rem)
 
 * DOM
@@ -83,7 +86,7 @@
 	2. Inline
 	3. Identifier
 	4. Class and pseudo-class
-	5. Type and pseudo-element
+	5. Element and pseudo-element
 
 * Collision
 
@@ -92,7 +95,7 @@
 	2. Inline
 	3. Identifier
 	4. Class and pseudo-class
-	5. Markor Tag or Type and pseudo-element
+	5. Element and pseudo-element
 	6. Order
 	7. Author
 	8. User custom
