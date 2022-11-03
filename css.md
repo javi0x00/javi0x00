@@ -1,17 +1,18 @@
 # :memo: Notes
 ## CSS
-- - -
+---
 ### Resources
-* [W3C CSS](https://www.w3.org/Style/CSS/)
-* [The CSS validator](https://jigsaw.w3.org/css-validator/)
-* [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [MDN web docs](https://developer.mozilla.org/en-US/)
-* [CSS Reference](https://cssreference.io/)
-* [CSS Cascading and Inheritance Level 5](https://www.w3.org/TR/css-cascade-5/)
-* [Introducing the CSS Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
-* [Aspectos básicos del diseño web adaptable](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=es)
+- [W3C CSS](https://www.w3.org/Style/CSS/)
+- [The CSS validator](https://jigsaw.w3.org/css-validator/)
+- [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
+- [CSS Reference](https://cssreference.io/)
+- [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
+- [CSS Cascading and Inheritance Level 5](https://www.w3.org/TR/css-cascade-5/)
+- [Introducing the CSS Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+- [Learn Responsive Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=es)
 ### Terms and concepts
-* CSS or Cascading Style Sheets
+- CSS or Cascading Style Sheets
 
 * Syntax
 	- Shorthand
@@ -19,10 +20,11 @@
 * Comments
 
 * Rules
-	- inline in element with attribute style
-	- in block in element with tag style
-	- link to external with css file
-	- import a style sheet into another style sheet
+	* Implement
+		- inline in element with attribute style
+		- in block in element with tag style
+		- link to external with css file
+		- import a style sheet into another style sheet
 
 * Selector
 	* Element
@@ -31,6 +33,8 @@
 	* Declaration or block
 		- Attribute
 		- Value
+
+- Box model
 
 * Selectors
 	- Universal
@@ -60,6 +64,8 @@
 * Values and Units
 	- Absolute (ej: px)
 	- Relative (ej: %, em, rem)
+
+* DOM
 
 * Cascade
 	* Algorithm
@@ -113,8 +119,6 @@
 		- HSLA
 
 * Fonts
-
-* Box model
 
 * Media queries
 	* Breakpoint
@@ -443,6 +447,6 @@ SELECTOR {
 	top: 80vh;
 }
 ```
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
