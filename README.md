@@ -27,5 +27,5 @@ Thanks for visiting my GitHub profile.
 - - -
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [astro](astro.md) | [bit](bit.md) | [c](c.md) | [commands](commands.md) | [css](css.md) | [docker](docker.md) | [email template](email_template.md) | [employment](employment.md) | [english](english.md) | [expressjs](expressjs.md) | [figma](figma.md) | [git](git.md) | [html](html.md) | [interview](interview.md) | [java](java.md) | [javascript](javascript.md) | [linux](linux.md) | [markdown](markdown.md) | [mongodb](mongodb.md) | [nodejs](nodejs.md) | [postgresql](postgresql.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [resources](resources.md) | [seo](seo.md) | [sergey](sergey.md) | [setups](setups.md) | [ssh](ssh.md) | [svelte](svelte.md) | [typescript](typescript.md) | [versioning](versioning.md) | [vuejs](vuejs.md) | [webpack](webpack.md)
----
+- - -
 :copyright: 2020 - 2022
