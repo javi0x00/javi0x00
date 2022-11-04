@@ -69,6 +69,8 @@
 	- Relative (ej: %, em, rem)
 
 * DOM
+	- Inheritance
+	- Overriding
 
 * Cascade
 	* Algorithm

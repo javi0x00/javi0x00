@@ -353,6 +353,7 @@
 - https://source.unsplash.com/random/150x150/?img=1
 - https://generated.photos/face-generator
 #### References
+- https://a.singlediv.com/
 - http://www.rleonardi.com/
 - https://boy-coy.com/
 - https://css-tricks.com/the-simplest-ways-to-handle-html-includes/
@@ -542,6 +543,6 @@
 ### Versioning
 - https://semver.org/
 ---
-## Software Developer
-<a href="https://javierandresgp.com" target="_blank">Javier Andrés Garzón Patarroyo</a>  
 [:top: Resources](#resources)
+## Software Developer
+[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
