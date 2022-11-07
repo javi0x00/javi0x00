@@ -10,6 +10,7 @@
 - [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
 - [CSS Cascading and Inheritance Level 5](https://www.w3.org/TR/css-cascade-5/)
 - [Introducing the CSS Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
+- [Learn CSS](https://web.dev/learn/css/)
 - [Learn Responsive Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=es)
 - [CSS pixel](https://developer.mozilla.org/en-US/docs/Glossary/CSS_pixel)
 ### Terms and concepts
@@ -17,10 +18,15 @@
 
 * Syntax
 	- Shorthand
-* Indention
-* Comments
+- Indention
+- Comments
 
 * Rules
+	* Parts
+		- Selector
+		* Declaration
+			- Property
+			- Value
 	* Implement
 		- inline, in element with attribute style
 		- in block, in style element
@@ -32,19 +38,20 @@
 		- Block
 		- Inline
 	* Declaration or block
-		- Attribute
+		- Attribute or Property
 		- Value
 
 - Box model
 
-* Selector Type
-	- Universal
-	- Mark or Tag or Element
-	- Class
-	- Id
+* Selectors
+	- Universal selector
+	- Mark or Tag or Element or Type selector
+	- Class selector
+	- Attribute selector / Attribute and value [ * ^ $ ~ | ]
+	- Id selector
+	- Grouping selectors
 
-* Selector Combinations
-	- Attribute / Attribute and value [ * ^ $ ~ | ]
+* Selector Combinations or Grouping selectors
 	* Sibling element
 		- General ~
 		- Adjacent +
@@ -92,7 +99,7 @@
 	4. Class and pseudo-class
 	5. Element and pseudo-element
 
-* Collision
+- Collision
 
 *	Prioritize
 	1. !important keyword
@@ -125,7 +132,9 @@
 		- HSL
 		- HSLA
 
-* Fonts
+- Fonts
+
+- Layout
 
 * Media queries
 	* Breakpoint
@@ -141,9 +150,11 @@
 		- 1024px / 16px = 64em
 		- 1200px / 16px = 75em
 
-* Feature queries
+- Positioning
 
-* Custom properties or Variables
+- Feature queries
+
+- Custom properties or Variables
 
 * Reset styles
 	- Reset
@@ -224,7 +235,7 @@
 	- Responsible responsive design
 	- Fluid design
 
-* SEO
+- SEO
 
 * CSS architecture
 	- Predictable
@@ -247,16 +258,15 @@
 #### example.css
 ```
 /* RESET STYLES MANUALLY */
-html {
-  height: 100%;
-  font-size: 62.5%;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-}
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 body {
   height: 100%;
