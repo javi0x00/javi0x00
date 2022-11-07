@@ -60,15 +60,17 @@
 		- Content
 
 * Attributes
+	- Box or container
 	- Typography
-	- Container
-	- Content
+	- Other content
 
 * Values and Units
 	- Absolute (ej: px, 1px = 1/96th of 1in)
 	- Relative (ej: %, em, rem)
 
 * DOM
+	- Flow
+	- Default values
 	- Inheritance
 	- Overriding
 
