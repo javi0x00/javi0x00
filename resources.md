@@ -477,6 +477,8 @@
 - https://choosealicense.com/
 ---
 ### Learn
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/jwasham/coding-interview-university/blob/main/translations/README-es.md
 - https://tutsplus.com/
 - https://www.sololearn.com/
 - https://www.javascript.com/
