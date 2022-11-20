@@ -1,36 +1,36 @@
 # :memo: Notes
 ## HTML
-- - -
+---
 ### Resources
-* [Web Standards Project](https://www.webstandards.org/)
-* [W3C](https://www.w3.org/)
-* [WHATWG](https://whatwg.org/)
-* [MDN Web Docs](https://developer.mozilla.org/en-US/)
-* [HTML Reference](https://htmlreference.io/)
-* [All HTML tags](https://allthetags.com/)
-* [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
-* [MDN HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [W3Schools HTML Element Reference](https://www.w3schools.com/TAGS/default.ASP)
-* [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [W3C Developers](https://www.w3.org/developers/)
-* [The HTML validator](https://validator.w3.org/)
-* [W3C](https://www.w3.org/)
-* [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
-* [The HTML validator](https://validator.w3.org/)
-* [W3C Developers](https://www.w3.org/developers/)
-* [WHATWG](https://whatwg.org/)
-* [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [HTML 5 en la educación](http://www.ite.educacion.es/formacion/materiales/182/cd/indice.htm)
-* [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
-* [W3C Making the Web Accessible](https://www.w3.org/WAI/)
-* [HTML5 Accessibility](https://html5accessibility.com/)
-* [MDN A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [Web Standards Project](https://www.webstandards.org/)
+- [W3C](https://www.w3.org/)
+- [WHATWG](https://whatwg.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [HTML Reference](https://htmlreference.io/)
+- [All HTML tags](https://allthetags.com/)
+- [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
+- [MDN HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [W3Schools HTML Element Reference](https://www.w3schools.com/TAGS/default.ASP)
+- [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [W3C Developers](https://www.w3.org/developers/)
+- [The HTML validator](https://validator.w3.org/)
+- [W3C](https://www.w3.org/)
+- [W3C HTML5 Reference](https://dev.w3.org/html5/html-author/)
+- [The HTML validator](https://validator.w3.org/)
+- [W3C Developers](https://www.w3.org/developers/)
+- [WHATWG](https://whatwg.org/)
+- [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML 5 en la educación](http://www.ite.educacion.es/formacion/materiales/182/cd/indice.htm)
+- [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
+- [W3C Making the Web Accessible](https://www.w3.org/WAI/)
+- [HTML5 Accessibility](https://html5accessibility.com/)
+- [MDN A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 ### Terms and concepts
-* HTML or HyperText Markup Language
+- HTML or HyperText Markup Language
 
-* Syntax
-* Indention
-* Comments
+- Syntax
+- Indention
+- Comments
 
 * File HTML
 	* Basic structure
@@ -97,13 +97,11 @@
 		- Line Break
 		- Script
 
-* DOM
-
-* Tree DOM
-
-* SEO
-
-* Accessibility
+- Entity
+- DOM
+- Tree DOM
+- SEO
+- Accessibility
 #### Examples
 ```
 <!-- HTML comments -->
@@ -284,6 +282,6 @@
 	</body>
 </html>
 ```
-- - -
+---
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
