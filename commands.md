@@ -35,6 +35,8 @@ $ git config --list
 Branch
 ```
 $ git branch
+$ git branch -a
+$ git branch -r
 $ git checkout -b <branch name>
 $ git checkout <branch name>
 $ git push --set-upstream origin <branch name>
@@ -56,14 +58,24 @@ Basic
 ```
 $ git clone <REMOTE_URL>
 $ git status
-$ git pull
 $ git add
 $ git add <filename>
 $ git rm <filename>
 $ git commit -m <description>
 $ git commit --amend -m <description>
 $ git push
+$ git fetch
 $ git merge
+$ git pull
+```
+Fecth
+```
+$ git fetch
+$ git fetch <REMOTE BRANCH>
+$ git fetch --all
+$ git log --oneline <LOCAL BRANCH>..<REMOTE BRANCH>
+$ git merge <ORIGIN BRANCH>
+$ git push
 ```
 Adding a local repository to VCH
 ```
