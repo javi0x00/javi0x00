@@ -8,6 +8,8 @@ Confidential
 - CSS
 - JavaScript
 - TypeScript
+- Sergey
+- Astro
 - Svelte
 - React
 - Vue
