@@ -142,6 +142,11 @@
 - https://www.interviewcake.com/
 - https://adventjs.dev/
 - https://adventofcode.com/
+- https://www.w3resource.com/index.php
+- https://adriann.github.io/programming_problems.html
+- https://www.learneroo.com/subjects/3
+- https://workat.tech/problem-solving/lists/beginner-problems/practice
+- https://codeforwin.org/2015/05/basic-programming-practice-problems.html
 ---
 ### Code editor
 - https://www.vim.org/
