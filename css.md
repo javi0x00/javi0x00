@@ -74,6 +74,10 @@
 * Values and Units
 	- Absolute (ej: px, 1px = 1/96th of 1in)
 	- Relative (ej: %, em, rem)
+	* Recommended
+		- Font size: rem
+		- Padding and margin: em 
+		- Widths: em or percentage
 
 * DOM
 	- Flow
