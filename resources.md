@@ -2,7 +2,8 @@
 ## RESOURCES
 * [API's](#apis)
   - [Fake](#fake)
-  - [Free](#free)
+  - [Tested](#tested)
+  - [Unproved](#unproved)
 * [Authentication](#authentication)
 * [Authorization](#authorization)
 * [Browsers](#browsers)
@@ -87,15 +88,24 @@
 * [Versioning](#versioning)
 ---
 ### API's
+- Open APIs
+- Partner APIs
+- Public APIs
+- Private APIs
+- Composite APIs
+- Batch APIs
+- Inified APIs
 #### Fake
 - https://github.com/typicode/json-server
-#### Free
+#### Tested
+- https://jsonplaceholder.typicode.com/
+#### Unproved
+- https://developer.spotify.com/documentation/web-api/
 - http://any-api.com/
 - https://apilist.fun/
-- https://rapidapi.com/
-- https://jsonplaceholder.typicode.com/
+- https://restcountries.com/
+- https://rapidapi.com/hub
 - https://httpbin.org/
-- https://www.restcountries.eu/
 - https://openweathermap.org/
 - https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3
 - https://lyricsovh.docs.apiary.io/
@@ -104,17 +114,26 @@
 - https://developer.wordpress.org/rest-api/
 - https://pixabay.com/api/docs/
 - https://pokeapi.co/
-- https://rickandmortyapi.com/documentation
+- https://rickandmortyapi.com/
 - http://www.tvmaze.com/api
 - https://min-api.cryptocompare.com/documentation
 - http://www.omdbapi.com/
-- https://jobs.github.com/api
 - https://api.github.com
 - https://www.reddit.com/dev/api/
 - https://stripe.com/docs/api
 - https://api-sepomex.hckdrk.mx/documentacion/docs
 - https://freegeoip.app/
 - http://7timer.info/
+- https://developers.giphy.com/docs/api/
+- https://tenor.com/gifapi
+- https://api.nasa.gov/
+- https://github.com/davemachado/public-api
+- https://catfact.ninja/
+- https://www.boredapi.com/
+- https://agify.io/
+- https://genderize.io/
+- https://nationalize.io/
+- https://apipheny.io/free-api/
 ---
 ### Authentication
 - https://jwt.io/
