@@ -2,13 +2,15 @@
 ## JAVASCRIPT
 ---
 ### Resources
-* [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)
-* [JavaScript at Microsoft](https://docs.microsoft.com/en-us/javascript/)
-* [The Modern JavaScript Tutorial](https://javascript.info/)
-* [JavaScript Tutorial](https://www.javascripttutorial.net/)
+- [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)
+- [JavaScript at Microsoft](https://docs.microsoft.com/en-us/javascript/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [JavaScript Tutorial](https://www.javascripttutorial.net/)
+- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 ### Requirements
-* A browser or Nodejs
+- A browser or server environment
 ### Terms and concepts
 * ECMAScript
 * JavaScript
@@ -456,22 +458,17 @@ const closure = IamAclosure()
     - Bind
 
 * API (Application Programming Interface)
-  * Native
-    * Notification
-      - requestPermission
-    - IntersectionObserver
-    - Navigator.onLine
-    - requestFullscreen
-    - visibilityState
-    - SpeechRecognition
+  * Web APIs
+    - Console
+    - DOM (Document Object Model)
+    - CSSOM (CSS Object Model)
+    - BOM (Browser Object Model)
     - Fetch
-    * Web APIs
-      - DOM
-      - BOM
-      - CSSOM
-  * External
+  - External APIs
 
-* DOM or Document Object Model
+* API's Architectures
+  - REST (Representational State Transfer)
+  - SOAP (Simple Object Access Protocol)
 
 * DOM Nodes
   * Node is an object with properties and methods
@@ -500,23 +497,8 @@ const closure = IamAclosure()
 
 * DOM Event delegation
 
-* DOM Methods
-* BOM Methods
-
-- Local Storage
-- Session Storage
-- Cookies
-- Encapsulation
-- Namespacing
-* IndexDB
-  - Transactions
-  - Methods
-
 * Responsible and Responsive
 * User Agent
-
-* API's Architectures
-  - REST (Representational State Transfer)
 
 * CORS (Cross-Origin Resource Sharing)
 * HTTP response status codes
