@@ -4,15 +4,15 @@
   - [Fake](#fake)
   - [Tested](#tested)
   - [Unproved](#unproved)
-* [Authentication](#authentication)
-* [Authorization](#authorization)
+- [Authentication](#authentication)
+- [Authorization](#authorization)
 * [Browsers](#browsers)
   - [Extensions](#extensions)
-* [Challenges](#challenges)
+- [Challenges](#challenges)
 * [Code editor](#code-editor)
-  - [Online Code Editors](#online-code-editors)
   - [VS Code Extensions](#vs-code-extensions)
-* [Community](#community)
+- [Code Sharing](#code-sharing)
+- [Community](#community)
 * [CSS](#css)
   - [Animations](#animations)
   - [Conversions](#conversions)
@@ -24,9 +24,9 @@
   - [Normalize](#normalize)
   - [Prefix](#prefix)
   - [Resets](#resets)
-* [Databases](#databases)
-* [Debug](#debug)
-* [Deploy](#deploy)
+- [Databases](#databases)
+- [Debug](#debug)
+- [Deploy](#deploy)
 * [Design](#design)
   - [Colors](#colors)
   - [Emojies](#emojies)
@@ -44,15 +44,15 @@
   - [Videos](#videos)
   - [Whiteboard](#whiteboard)
   - [Wireframes](#wireframes)
-* [Documentation](#documentation)
+- [Documentation](#documentation)
 * [Git](#git)
   - [Commit](#commit)
   - [gitignore file](#gitignore-file)
 * [HTML](#html)
   - [Email Template](#email-template)
-* [HTTP Clients](#http-clients)
-* [IDE](#ide)
-* [JSON](#json)
+- [HTTP Clients](#http-clients)
+- [IDE](#ide)
+- [JSON](#json)
 * [JavaScript](#javascript)
   - [Altering CSS](#altering-css)
   - [Bundler](#bundler)
@@ -70,22 +70,22 @@
   - [Numbers](#numbers)
   - [Obfuscator](#obfuscator)
   - [Spreadsheets](#spreadsheets)
-* [Licence](#licence)
-* [Learn](#learn)
-* [Open Source](#open-source)
-* [Postmortem](#postmortem)
-* [Regular Expression](#regular-expression)
-* [Screenshot](#screenshot)
-* [Scrum](#scrum)
-* [Security](#security)
-* [SEO](#seo)
-* [SSL VPN](#ssl-vpn)
-* [Submissions](#submissions)
-* [Timers](#timers)
-* [Tracking](#tracking)
-* [Tunnel](#tunnel)
-* [Unicode](#unicode)
-* [Versioning](#versioning)
+- [Licence](#licence)
+- [Learn](#learn)
+- [Open Source](#open-source)
+- [Postmortem](#postmortem)
+- [Regular Expression](#regular-expression)
+- [Screenshot](#screenshot)
+- [Scrum](#scrum)
+- [Security](#security)
+- [SEO](#seo)
+- [SSL VPN](#ssl-vpn)
+- [Submissions](#submissions)
+- [Timers](#timers)
+- [Tracking](#tracking)
+- [Tunnel](#tunnel)
+- [Unicode](#unicode)
+- [Versioning](#versioning)
 ---
 ### API's
 - Open APIs
@@ -178,11 +178,6 @@
 - https://atom.io/
 - https://brackets.io/
 - https://notepad-plus-plus.org/
-#### Online Code Editors
-- https://runjs.app/
-- https://codepen.io/
-- https://replit.com/
-- https://codesandbox.io/
 #### VS Code Extensions
 - https://marketplace.visualstudio.com/
 * Code Formatter
@@ -249,6 +244,27 @@
   - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 * ...
   - https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
+---
+### Code Sharing
+- https://gist.github.com/
+- https://playcode.io/
+- https://runjs.app/
+- https://replit.com/
+- https://codesandbox.io/
+- https://codepen.io/
+- https://jsfiddle.net/
+- http://codepad.org/
+- https://codeshare.io/
+- https://jsbin.com/
+- https://liveweave.com/
+- https://dabblet.com/
+- https://www.codeply.com/
+- https://cssdeck.com/
+- https://snipplr.com/
+- https://www.codeproject.com/
+- https://collabedit.com/
+- https://controlc.com/
+- https://etherpad.org/
 ---
 ### Community
 - https://web.dev/
