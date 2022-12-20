@@ -607,6 +607,8 @@
 ---
 [:top: Resources](#resources)
 ###### Software Developer
+Built by 
 <a href="https://javierandres.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://javierandres.dev/software-developer_64x64.png" alt="software developer" title="Software Developer"/>
-</a> :copyright: 2023
+</a> :copyright: 2023  
+Found a bug or have an idea? [Contact me](https://javierandres.dev).
