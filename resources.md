@@ -45,9 +45,6 @@
   - [Whiteboard](#whiteboard)
   - [Wireframes](#wireframes)
 - [Documentation](#documentation)
-* [Git](#git)
-  - [Commit](#commit)
-  - [gitignore file](#gitignore-file)
 * [HTML](#html)
   - [Email Template](#email-template)
 - [HTTP Clients](#http-clients)
@@ -85,6 +82,14 @@
 - [Tracking](#tracking)
 - [Tunnel](#tunnel)
 - [Unicode](#unicode)
+* [Version Control Hosting](#version-control-hosting)
+  - [Bitbucket](#bitbucket)
+  - [GitHub](#github)
+  - [GitLab](#gitlab)
+* [Version Control System](#version-control-system)
+  * [Git](#git)
+    - [Commit](#commit)
+    - [gitignore file](#gitignore-file)
 - [Versioning](#versioning)
 ---
 ### API's
@@ -421,14 +426,6 @@
 - https://apidocjs.com/
 - https://swagger.io/
 ---
-### Git
-#### Commit
-  - https://www.conventionalcommits.org/
-  - https://github.com/commitizen/cz-cli
-  - https://github.com/vuejs/core/blob/main/.github/commit-convention.md
-#### gitignore file
-- http://help.github.com/ignore-files/
----
 ### HTML
 - https://codeguide.co/
 - https://madebymike.github.io/html5-periodic-table/
@@ -487,6 +484,7 @@
   - https://docs.astro.build/en/core-concepts/project-structure/
   - https://docs.astro.build/en/guides/integrations-guide/
   - https://github.com/yassinedoghri/astro-i18next
+- https://about.gitlab.com/blog/2016/06/03/ssg-overview-gitlab-pages-part-1-dynamic-x-static/
 #### Libraries
 - https://cdnjs.com/
 - https://developers.google.com/speed/libraries
@@ -582,9 +580,33 @@
 - https://www.lookuptables.com/text/html-character-codes
 - https://www.w3schools.com/charsets/ref_html_utf8.asp
 ---
+### Version Control Hosting
+#### Bitbucket
+- https://bitbucket.org/
+- https://bitbucket.org/product/guides
+#### GitHub
+- https://github.com/
+- https://docs.github.com/
+#### GitLab
+- https://gitlab.com/
+- https://docs.gitlab.com/
+- https://docs.gitlab.com/ee/user/project/pages/
+- https://how-to-stuff.gitlab.io/gitlab-pages-how-to/
+---
+### Version Control System
+#### Git
+##### Commit
+  - https://www.conventionalcommits.org/
+  - https://github.com/commitizen/cz-cli
+  - https://github.com/vuejs/core/blob/main/.github/commit-convention.md
+##### gitignore file
+- http://help.github.com/ignore-files/
+---
 ### Versioning
 - https://semver.org/
 ---
 [:top: Resources](#resources)
-## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
+###### Software Developer
+<a href="https://javierandres.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://javierandres.dev/software-developer_64x64.png" alt="software developer" title="Software Developer"/>
+</a> :copyright: 2023
