@@ -1,4 +1,4 @@
-# Welcome
+# Hi and welcome!
 :wave: I'm a software developer oriented to web development.  
 I'm currently working for a software company.
 
@@ -7,9 +7,7 @@ Thanks for visiting my GitHub profile.
 ---
 ## :globe_with_meridians: Online ― Projects
 ### Personal web page
-<a href="https://javierandres.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://javierandres.dev/software-developer_64x64.png" alt="software developer" title="Software Developer"/>
-</a> [https://javierandres.dev](https://javierandres.dev)
+:start: :start: :start: :start: :start: [https://javierandres.dev](https://javierandres.dev)
 ### Development like volunteering
 :checkered_flag: [Prueba dinámica de agudeza visual](https://javierandresgp.github.io/development-optometrist/)
 ### Development for training
