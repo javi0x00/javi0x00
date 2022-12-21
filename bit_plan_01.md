@@ -186,4 +186,5 @@ cuando utilizar cada una)
 * [01](https://github.com/javierandresgp/bit-course-full_stack_01)
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
+Built by [Javi](https://javierandres.dev) :copyright: 2022  
+Found a bug or have an idea? [Contact me](https://javierandres.dev).

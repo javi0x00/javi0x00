@@ -25,17 +25,16 @@
   - Mobile apps
 
 * script
-  * script js?
-    * The script tag
-      - async
-      - defer
-    - External file
-    - Comments
-    - Syntax
-    - Reserved Words
-    - Keywords
-    - Strict mode
-    - Sloppy mode
+  * The script tag
+    - async
+    - defer
+  - External file
+  - Comments
+  - Syntax
+  - Reserved Words
+  - Keywords
+  - Strict mode
+  - Sloppy mode
   * The noscript tag
 
 * Debugging
@@ -77,11 +76,9 @@
       - Descriptions
   * Non-primitive:
     - object (for more complex data structures)
-
-* Object wrapper
-  - Boolean
-  - String
-  - Number
+  * Operators
+    - typeof
+    - instanceof
 
 * Data structures
   * Arrays
@@ -104,14 +101,6 @@
   * Proxies
     - Handler
   - Functions (non data structure)
-- Properties
-* Methods
-  - Strings methods
-  - Numbers methods
-  - Array methods
-  - Object methods
-  - Set methods
-  - Map methods
 
 * Operators
   - Unary
@@ -126,22 +115,28 @@
   - Decrement operators
   - Assignment operators
   - Comparison operators
+  - Reverse boolean result
   - Logical Operators
   - “Unary +” Operator
+  - Bitwise Operators
+  - Short circuit operators
+  - Spread operator or Rest operator
   - Grouping
   - Concatenation
   - Type coercion
   - Type Operators
-  - Bitwise Operators
   - Constructor
-  - Short circuit operators
-  - Spread operator or Rest operator
 
 * Control structures
   - Sequential
   * Conditional
+    - Boolean logic
     - Comparisons
     - Strict equality check
+    * Truthy
+      - All values are truthy unless they are defined as falsy.
+    * Falsy
+      - false, 0, -0, 0n, "", '', ``, null, undefined, NaN and document.all
     * Statements
       - if
       - if ... else
@@ -204,12 +199,71 @@
     - Dynamic and reusable
   - Property method
 
-* Strings
-  - Properties
-  - Methods
+* Built-in objects
+  - String
+  - Number
+  - Boolean
+  - Array
+  - Object
+  - Math
+  - Date
+  - Set
+  - Map
+
+* String
   - Single, double and backtick quotes
   - Scaping characters
+  - Case sensitive
+  - Index
+  - Length
+  - Properties
+  - Methods
   - Concatenating strings
+
+* Number
+  - Properties
+  - Methods
+  - Convert string to number
+
+* Boolean
+  * Truthy
+    - All values are truthy unless they are defined as falsy.
+  * Falsy
+    - false, 0, -0, 0n, "", '', ``, null, undefined, NaN and document.all
+  - Properties
+  - Methods
+
+* Array
+  - Element
+  - Index
+  - Length
+  - Populating
+  - Properties
+  - Methods
+
+* Object
+  - Properties
+  - Methods
+
+* Math
+  - Properties
+  - Methods
+
+* Date
+  - Properties
+  - Methods
+  - One central object, contain both Date and time
+  - Internally time is stored as number of milliseconds since 1 Jan 1970
+  - month counting starts with zero, Sunday = 0
+  - 24 hour clock
+
+* Set
+  - Properties
+  - Methods
+
+* Map
+  - Properties
+  - Methods
 
 - Template literals or template strings or literal strings
 - Fragments
@@ -339,7 +393,7 @@ const closure = IamAclosure()
 
 * Object
   - Static object (ej: Math)
- 
+
 * Some Objects
   - Window
   - Console
@@ -598,4 +652,5 @@ const closure = IamAclosure()
   - Cypress
 ---
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Found a bug or have an idea? [Contact me](https://javierandres.dev).

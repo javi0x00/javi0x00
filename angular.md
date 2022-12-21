@@ -77,4 +77,5 @@
 * The RxJS library
 - - -
 ## Software Developer
-[Javier Andrés Garzón Patarroyo](https://javierandresgp.com)
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Found a bug or have an idea? [Contact me](https://javierandres.dev).
