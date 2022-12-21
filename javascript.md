@@ -183,11 +183,16 @@
   - Destructuring, Functions, Arrays and Objects
 
 * Objects
-  - Propierties or Attributes
-  - Methods
+  * Basics
+    - What are they?
+    - Syntax
+    - Definition (literals, constructor)
+  * Propierties
+    - Attributes
+    - Methods
   - Dot notation
   - Square bracket notation
-  - This
+  - this keyword (context)
   * Binding
     - Implicit
     - Explicit
@@ -197,7 +202,21 @@
     - Static and nonreusable
   * Object constructor
     - Dynamic and reusable
-  - Property method
+  - Static object
+
+* this keyword (context)
+  - this context: is a reference according to the context
+  - Functions needs access to runtime context.
+  - "this" maps to relevant context at runtime
+  * Mehods
+    - call
+    - apply
+    - bind
+
+* About the global object
+  - Default to "window" object in browser runtime
+  - Default to "global" object in Node.js runtime
+  - use "globalThis" keyword to reference the global object consistenly
 
 * Built-in objects
   - String
@@ -209,6 +228,8 @@
   - Date
   - Set
   - Map
+  - Function
+  - Promise
 
 * String
   - Single, double and backtick quotes
@@ -265,6 +286,23 @@
   - Properties
   - Methods
 
+* Function
+  - Properties
+  - Methods
+
+* Promise
+  - Properties
+  - Methods
+
+* JavaScript Object Notation or JSON
+  * Basics
+    - What is it?
+    - JSON format
+    - Serialize Object to JSON (Stringify)
+    - Deserialize JSON to Object (Parse)
+  - Properties
+  - Methods
+
 - Template literals or template strings or literal strings
 - Fragments
 - Templates and "clone"
@@ -272,7 +310,15 @@
 - Spread operator (to send)
 
 * Functions
-  * Funtion
+  * Basics
+    - What are they?
+    - Syntax
+    - Definition
+    - Invocation
+    - Naming
+    - Parameters
+    - Return
+  * Function
     * With arguments
       - Parameter list
     * Without arguments
@@ -369,13 +415,6 @@ const closure = IamAclosure()
     - Polymorphism
   - Maps
 
-* this keyword
-  - is a reference according to the context
-  * Mehods
-    - call
-    - apply
-    - bind
-
 * strict mode
   - avoid create global variables accidentally
   - readonly attributes
@@ -390,41 +429,6 @@ const closure = IamAclosure()
 
 * Prototype
   - Prototypical inheritance
-
-* Object
-  - Static object (ej: Math)
-
-* Some Objects
-  - Window
-  - Console
-  - Date
-  - Math
-  - RegExp
-  * Iterator object
-    - keys
-    - values
-    - entries
-
-* Some Methods
-  - alert
-  - confirm
-  - prompt
-  - test
-  - exec
-
-* Some Constructors
-  - Object
-  - Array
-  - RegExp
-
-* Some Object Methods
-  - ```use strict````
-  - Object.freeze
-  - Object.seal
-  - Object.assign
-  - Object.keys
-  - Object.values
-  - Object.entries
 
 * Regular Expressions
 
@@ -448,9 +452,21 @@ const closure = IamAclosure()
   - TimeInterval
   - ClearInterval
 
+- Synchronous
+- Asynchronous
+
 * Asynchronous
+  * Certain operations can take a while
+    - File I/O
+    - REST calls
+    - Database operations
+    - Complex computations
   - I/O
-  - Single thread
+  * Single thread
+    - One worker process
+    - One activity at a time
+    - No other tasks can execute
+    - User interface or application could appear frozen
   - Multi thread
   - Event loop
   - Stack
@@ -459,15 +475,9 @@ const closure = IamAclosure()
   - Parallelism
   - Blocking
   - Non-blocking
-  - Synchronous
-  - Asynchronous
 
 * Callbacks
-  - Callback hell
-
-* Recursive
-* Trampoline (technique)
-* Closure
+  - Callback hell, cascading becomes an issue
 
 * Promises
   - Pending
@@ -480,9 +490,13 @@ const closure = IamAclosure()
   * Methods
     - all
 
-* Async Await
-  - Try
-  - Catch
+* Async/Await
+  - Make asynchronous code look synchronous
+  - Recomended use Try/Catch
+
+* Recursive
+* Trampoline (technique)
+* Closure
 
 * Iterables & Iterators
   - next
@@ -557,10 +571,6 @@ const closure = IamAclosure()
 * CORS (Cross-Origin Resource Sharing)
 * HTTP response status codes
 * HTTP verbs
-
-* JSON
-  - Parse
-  - Stringify
 
 * XML
 * JSON
@@ -650,6 +660,13 @@ const closure = IamAclosure()
   * Tools
   - Jest
   - Cypress
+
+* Packages are also called dependencies or modules
+  - npm or Node Package Manager
+  * package.json file
+    - Metadata
+    - Dependencies and devDependencies
+    - Scripts
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
