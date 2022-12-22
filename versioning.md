@@ -1,8 +1,9 @@
 # :memo: Notes
 ## VERSIONING
-- - -
+---
 ### Resources
-* [Semantic Versioning](https://semver.org/)
+- [Semantic Versioning](https://semver.org/)
+- [GO - Module version numbering](https://go.dev/doc/modules/version-numbers)
 ### Requirements
 
 ### Terms and concepts
@@ -10,7 +11,7 @@
   - X: Major version
   - Y: Minor version
   - Z: patch version
-- - -
+---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

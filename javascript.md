@@ -219,6 +219,10 @@
   - use "globalThis" keyword to reference the global object consistenly
 
 * Built-in objects
+  * Basics
+    - The constructor property returns the function that created the JavaScript object prototype.
+    - prototype allows you to add new properties and methods to JavaScript objects.
+    - prototype is a property available with all JavaScript objects.
   - String
   - Number
   - Boolean
