@@ -604,8 +604,9 @@
 ---
 ### Versioning
 - https://semver.org/
+- https://go.dev/doc/modules/version-numbers
 ---
 [:top: Resources](#resources)
 ###### Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
