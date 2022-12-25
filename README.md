@@ -8,7 +8,7 @@ Thanks for visiting my GitHub profile.
 ## :globe_with_meridians: Online ― Projects
 ### Personal web page
 :star: [https://javierandres.dev](https://javierandres.dev)
-### :heart: Just for fun!
+### :muscle: Just for fun!
 |Project name|Code|Preview|
 |----|----|----|
 |Google Homepage|[View Code](https://github.com/javierandresgp/training-google_homepage)|[Live Preview](https://javierandresgp.github.io/training-google_homepage/)|
@@ -23,7 +23,7 @@ Thanks for visiting my GitHub profile.
 |Foreign Exchange|[View Code](https://github.com/javierandresgp/training-foreign_exchange)|[Live Preview](https://javierandresgp.github.io/training-foreign_exchange/)|
 |Rock, Paper, Scissors|[View Code](https://github.com/javierandresgp/odin-rock_paper_scissors)|[Live Preview](https://javierandresgp.github.io/odin-rock_paper_scissors/)|
 ### :checkered_flag: Development like volunteering
-- Prueba dinámica de agudeza visual|[View Code](https://github.com/javierandresgp/development-optometrist)|[Live Preview](https://javierandresgp.github.io/development-optometrist/)
+- Prueba dinámica de agudeza visual [View Code](https://github.com/javierandresgp/development-optometrist) | [Live Preview](https://javierandresgp.github.io/development-optometrist/)
 - --
 ## :office: Vertical Technologies ― Projects (Collaborator)
 :factory: [Summary](vertical_technologies.md)
@@ -38,7 +38,7 @@ Thanks for visiting my GitHub profile.
 :octocat: Programming Challenges, Courses, Exercises, Examples, Development ― Private projects (Private repositories ― Developed for clients)
 - - -
 ###### :memo: Notes
-:bookmark: [algorithmics](algorithmics.md)|[angular](angular.md)|[api](api.md)|[astro](astro.md)|[bit](bit.md)|[bootstrap](bootstrap.md)|[](c.md)|[commands](comands.md)|[cs](css.md)|[docke](docker.md)|email template](email_temlate.md)|employment](employment.d)|[english](nglish.md)|[expressjs(expressjs.md)|[figma](figma.md)|[gt](git.md)|[html](html.md)|interview](interview.md|[java](java.md)|[javascrpt](javascript.md|[layout](layut.md)|[linux](inux.md)|[markdow](markdown.md)|mongodb](mongodb.md)|[nodej](nodejs.md)|[postgesql](postgresql.d)|[practice](practice.md|[programming](programing.md)|[python](pthon.md)|[reactjs](reactjs.d)|[resources](resources.m)|[seo](seo.md)|[sergey](sergy.md)|[setups](setus.md)|[ssh](ssh.md)|[velte](svelte.md)|[typescrit](typescriptmd)|[versioning](vesioning.md)|[vuejs]vuejs.md)|[wepack](webpack.md)
-- -
+:bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [astro](astro.md) | [bit](bit.md) | [bootstrap](bootstrap.md) | [c](c.md) | [commands](commands.md) | [css](css.md) | [docker](docker.md) | [email template](email_template.md) | [employment](employment.md) | [english](english.md) | [expressjs](expressjs.md) | [figma](figma.md) | [git](git.md) | [html](html.md) | [interview](interview.md) | [java](java.md) | [javascript](javascript.md) | [layout](layout.md) | [linux](linux.md) | [markdown](markdown.md) | [mongodb](mongodb.md) | [nodejs](nodejs.md) | [postgresql](postgresql.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [resources](resources.md) | [seo](seo.md) | [sergey](sergey.md) | [setups](setups.md) | [ssh](ssh.md) | [svelte](svelte.md) | [typescript](typescript.md) | [versioning](versioning.md) | [vuejs](vuejs.md) | [webpack](webpack.md)
+- - -
 Found a bug or have an idea? [Contact me](https://javierandres.dev).  
 :copyright: Sep 8, 2019 - 2023
