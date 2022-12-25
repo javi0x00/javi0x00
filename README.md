@@ -7,11 +7,21 @@ Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
 ### Personal web page
-:star::star::star::star::star: [https://javierandres.dev](https://javierandres.dev)
-### Development like volunteering
-:checkered_flag: [Prueba dinámica de agudeza visual](https://javierandresgp.github.io/development-optometrist/)
-### Development for training
-:muscle: [Google Homepage](https://javierandresgp.github.io/training-google_homepage/) | [JSONplaceholder](https://javierandresgp.github.io/training-jsonplaceholder/) | [Color Generator](https://javierandresgp.github.io/training-color_generator/) | [Pokémon Cards](https://javierandresgp.github.io/training-pokemon_cards/) | [Calculator](https://javierandresgp.github.io/training-calculator/) | [Counter](https://javierandresgp.github.io/training-counter/) | [Clock](https://javierandresgp.github.io/training-clock/) | [Responsive Navbar](https://javierandresgp.github.io/training-responsive_navbar/) | [Compose reggaeton](https://javierandresgp.github.io/training-compose_reggaeton/) | [Foreign Exchange](https://javierandresgp.github.io/training-foreign_exchange/) | [Rock, Paper, Scissors](https://javierandresgp.github.io/odin-rock_paper_scissors/)
+:stars: [https://javierandres.dev](https://javierandres.dev)
+### :hearts: Just for fun!
+- Google Homepage [View Code](https://github.com/javierandresgp/training-google_homepage) [Live Preview](https://javierandresgp.github.io/training-google_homepage/)
+- JSONplaceholder [View Code](https://github.com/javierandresgp/training-jsonplaceholder) [Live Preview](https://javierandresgp.github.io/training-jsonplaceholder/)
+- Color Generator [View Code](https://github.com/javierandresgp/training-color_generator) [Live Preview](https://javierandresgp.github.io/training-color_generator/)
+- Pokémon Cards [View Code](https://github.com/javierandresgp/training-pokemon_cards) [Live Preview](https://javierandresgp.github.io/training-pokemon_cards/)
+- Calculator [View Code](https://github.com/javierandresgp/training-calculator) [Live Preview](https://javierandresgp.github.io/training-calculator/)
+- Counter [View Code](https://github.com/javierandresgp/training-counter) [Live Preview](https://javierandresgp.github.io/training-counter/)
+- Clock [View Code](https://github.com/javierandresgp/training-clock) [Live Preview](https://javierandresgp.github.io/training-clock/)
+- Responsive Navbar [View Code](https://github.com/javierandresgp/training-responsive_navbar) [Live Preview](https://javierandresgp.github.io/training-responsive_navbar/)
+- Compose reggaeton [View Code](https://github.com/javierandresgp/training-compose_reggaeton) [Live Preview](https://javierandresgp.github.io/training-compose_reggaeton/)
+- Foreign Exchange [View Code](https://github.com/javierandresgp/training-foreign_exchange) [Live Preview](https://javierandresgp.github.io/training-foreign_exchange/)
+- Rock, Paper, Scissors [View Code](https://github.com/javierandresgp/odin-rock_paper_scissors) [Live Preview](https://javierandresgp.github.io/odin-rock_paper_scissors/)
+### :checkered_flag: Development like volunteering
+- Prueba dinámica de agudeza visual [View Code](https://github.com/javierandresgp/development-optometrist) [Live Preview](https://javierandresgp.github.io/development-optometrist/)
 - - -
 ## :office: Vertical Technologies ― Projects (Collaborator)
 :factory: [Summary](vertical_technologies.md)
