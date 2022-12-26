@@ -8,19 +8,19 @@ I'm currently working for a software company.
 ### Personal web page
 :star: [https://javierandres.dev](https://javierandres.dev)
 ### :muscle: Just for fun!
-|Project|Code|Preview|
-|----|----|----|
-|Google Homepage|[View Code](https://github.com/javierandresgp/training-google_homepage)|[Live Preview](https://javierandresgp.github.io/training-google_homepage/)|
-|JSONplaceholder|[View Code](https://github.com/javierandresgp/training-jsonplaceholder)|[Live Preview](https://javierandresgp.github.io/training-jsonplaceholder/)|
-|Color Generator|[View Code](https://github.com/javierandresgp/training-color_generator)|[Live Preview](https://javierandresgp.github.io/training-color_generator/)|
-|Pokémon Cards|[View Code](https://github.com/javierandresgp/training-pokemon_cards)|[Live Preview](https://javierandresgp.github.io/training-pokemon_cards/)|
-|Calculator|[View Code](https://github.com/javierandresgp/training-calculator)|[Live Preview](https://javierandresgp.github.io/training-calculator/)|
-|Counter|[View Code](https://github.com/javierandresgp/training-counter)|[Live Preview](https://javierandresgp.github.io/training-counter/)|
-|Clock|[View Code](https://github.com/javierandresgp/training-clock)|[Live Preview](https://javierandresgp.github.io/training-clock/)|
-|Responsive Navbar|[View Code](https://github.com/javierandresgp/training-responsive_navbar)|[Live Preview](https://javierandresgp.github.io/training-responsive_navbar/)|
-|Compose reggaeton|[View Code](https://github.com/javierandresgp/training-compose_reggaeton)|[Live Preview](https://javierandresgp.github.io/training-compose_reggaeton/)|
-|Foreign Exchange|[View Code](https://github.com/javierandresgp/training-foreign_exchange)|[Live Preview](https://javierandresgp.github.io/training-foreign_exchange/)|
-|Rock, Paper, Scissors|[View Code](https://github.com/javierandresgp/odin-rock_paper_scissors)|[Live Preview](https://javierandresgp.github.io/odin-rock_paper_scissors/)|
+|Nº|Project|Code|Preview|
+|----|----|----|----|
+|1|Calculator|[View Code](https://github.com/javierandresgp/training-calculator)|[Live Preview](https://javierandresgp.github.io/training-calculator/)|
+|2|Color Generator|[View Code](https://github.com/javierandresgp/training-color_generator)|[Live Preview](https://javierandresgp.github.io/training-color_generator/)|
+|3|Compose reggaeton|[View Code](https://github.com/javierandresgp/training-compose_reggaeton)|[Live Preview](https://javierandresgp.github.io/training-compose_reggaeton/)|
+|4|Clock|[View Code](https://github.com/javierandresgp/training-clock)|[Live Preview](https://javierandresgp.github.io/training-clock/)|
+|5|Counter|[View Code](https://github.com/javierandresgp/training-counter)|[Live Preview](https://javierandresgp.github.io/training-counter/)|
+|6|Foreign Exchange|[View Code](https://github.com/javierandresgp/training-foreign_exchange)|[Live Preview](https://javierandresgp.github.io/training-foreign_exchange/)|
+|7|Google Homepage|[View Code](https://github.com/javierandresgp/training-google_homepage)|[Live Preview](https://javierandresgp.github.io/training-google_homepage/)|
+|8|JSONplaceholder|[View Code](https://github.com/javierandresgp/training-jsonplaceholder)|[Live Preview](https://javierandresgp.github.io/training-jsonplaceholder/)|
+|9|Pokémon Cards|[View Code](https://github.com/javierandresgp/training-pokemon_cards)|[Live Preview](https://javierandresgp.github.io/training-pokemon_cards/)|
+|10|Responsive Navbar|[View Code](https://github.com/javierandresgp/training-responsive_navbar)|[Live Preview](https://javierandresgp.github.io/training-responsive_navbar/)|
+|11|Rock, Paper, Scissors|[View Code](https://github.com/javierandresgp/odin-rock_paper_scissors)|[Live Preview](https://javierandresgp.github.io/odin-rock_paper_scissors/)|
 ### :checkered_flag: Development like volunteering
 - [Prueba dinámica de agudeza visual](https://javierandresgp.github.io/development-optometrist/)
 - - -
