@@ -2,8 +2,7 @@
 I'm a software developer oriented to web development.  
 I'm currently working for a software company.
 
-:man_technologist:
-Thanks for visiting my GitHub profile.
+:man_technologist: Thanks for visiting my GitHub profile.
 ---
 ## :globe_with_meridians: Online ― Projects
 ### Personal web page
