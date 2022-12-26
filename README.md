@@ -21,6 +21,7 @@ I'm currently working for a software company.
 |9|Pokémon Cards|[View Code](https://github.com/javierandresgp/training-pokemon_cards)|[Live Preview](https://javierandresgp.github.io/training-pokemon_cards/)|
 |10|Responsive Navbar|[View Code](https://github.com/javierandresgp/training-responsive_navbar)|[Live Preview](https://javierandresgp.github.io/training-responsive_navbar/)|
 |11|Rock, Paper, Scissors|[View Code](https://github.com/javierandresgp/odin-rock_paper_scissors)|[Live Preview](https://javierandresgp.github.io/odin-rock_paper_scissors/)|
+Alphabetic order.
 ### :checkered_flag: Development like volunteering
 - [Prueba dinámica de agudeza visual](https://javierandresgp.github.io/development-optometrist/)
 - - -
