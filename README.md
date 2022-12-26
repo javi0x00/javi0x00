@@ -9,7 +9,6 @@ Thanks for visiting my GitHub profile.
 ### Personal web page
 :star: [https://javierandres.dev](https://javierandres.dev)
 ### :muscle: Just for fun!
-|Project name|Code|Preview|
 |----|----|----|
 |Google Homepage|[View Code](https://github.com/javierandresgp/training-google_homepage)|[Live Preview](https://javierandresgp.github.io/training-google_homepage/)|
 |JSONplaceholder|[View Code](https://github.com/javierandresgp/training-jsonplaceholder)|[Live Preview](https://javierandresgp.github.io/training-jsonplaceholder/)|
