@@ -3,12 +3,13 @@ I'm a software developer oriented to web development.
 I'm currently working for a software company.
 
 :man_technologist:
-Thanks for visiting my GitHub profile.  
+Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online ― Projects
 ### Personal web page
 :star: [https://javierandres.dev](https://javierandres.dev)
 ### :muscle: Just for fun!
+|Project|Code|Preview|
 |----|----|----|
 |Google Homepage|[View Code](https://github.com/javierandresgp/training-google_homepage)|[Live Preview](https://javierandresgp.github.io/training-google_homepage/)|
 |JSONplaceholder|[View Code](https://github.com/javierandresgp/training-jsonplaceholder)|[Live Preview](https://javierandresgp.github.io/training-jsonplaceholder/)|
