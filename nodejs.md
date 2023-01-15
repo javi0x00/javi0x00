@@ -2,7 +2,11 @@
 ## NODEJS
 ---
 ### Resources
-* [Node.js](https://nodejs.org)
+- [Node.js](https://nodejs.org)
+* Node Version Manager
+  - [nvm](https://github.com/nvm-sh/nvm)
+  - [NVM for Windows](https://github.com/coreybutler/nvm-windows)
+  - [n](https://github.com/tj/n)
 ### Terms and concepts
 * Node.js
   * Fork
