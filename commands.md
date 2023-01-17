@@ -115,6 +115,13 @@ $ git remote add upstream
 $ git show
 $ gitk
 ```
+### React
+Setup
+```
+$ npx create-react-app <name>
+$ cd <name>
+$ npm start
+```
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  

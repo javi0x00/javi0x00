@@ -33,6 +33,8 @@
   * Syntax
     * jsx (sugar sintactic)
 
+- Structure by default
+
 * Components
   * Parts
     - Content (html)
