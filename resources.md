@@ -29,6 +29,7 @@
 - [Deploy](#deploy)
 * [Design](#design)
   - [Colors](#colors)
+  - [Drawing tools](#drawing-tools)
   - [Emojies](#emojies)
   - [Fonts](#fonts)
   - [Icons](#icons)
@@ -339,6 +340,12 @@
 - https://color.adobe.com/
 - https://brandcolors.net/
 - https://hslpicker.com/
+#### Drawing tools
+- https://www.autodraw.com/
+- https://kleki.com/
+- https://drawisland.com/
+- https://app.diagrams.net/
+- https://www.smartdraw.com/
 #### Emojies
 - https://getemoji.com/
 - https://openmoji.org/
