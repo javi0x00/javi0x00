@@ -587,6 +587,7 @@
 #### GitHub
 - https://github.com/
 - https://docs.github.com/
+- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
 #### GitLab
 - https://gitlab.com/
 - https://docs.gitlab.com/
