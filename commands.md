@@ -115,6 +115,33 @@ $ git remote add upstream
 $ git show
 $ gitk
 ```
+Config file
+```
+Host github.com
+  HostName github.com
+  User git
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/<KEY>
+
+Host gitlab.com
+  HostName gitlab.com
+  User git
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/<KEY>
+
+Host bitbucket.org
+  HostName bitbucket.org
+  User git
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/<KEY>
+
+Host bitbucket-<SECONDARY ACCOUNT>
+  HostName bitbucket.org
+  User git
+  PreferredAuthentications publickey
+  IdentitiesOnly yes
+  IdentityFile ~/.ssh/<SECONDARY KEY>
+```
 ### React
 Setup
 ```
