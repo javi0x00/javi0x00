@@ -66,7 +66,7 @@
       - componentWillMount
       - render
       - componentDidMount
-  * Upgrade
+  * Updating
     - when exists new props
     - when change the state
     - setState
@@ -76,7 +76,7 @@
       - componentWillUpdate
       - render
       - componentDidUpdate
-  * Disassembly
+  * Unmounting
     - one time
     - delete listeners
     - delete DOM references
