@@ -10,6 +10,11 @@
 * Meaning of a sentence
   * Context
     - The context determines the meaning of a sentence
+- Noun: Is a word that represents a person, thing, concept, or place.
+- Pronoun: Is a word that can replace a noun is a sentence.
+- Verb: Is a word used to describe an action, state, or occurrence.
+- Adjective: Is a word that modifies or describes a noun or pronoun.
+- Adverb: Is a word that modifies or describes a verb.
 #### Topics
 * Basic English sentence structure
   - Subject + Verb
@@ -23,8 +28,6 @@
   - AmAreIs
   - Affirmative form
   - Negative form
-* Prepositions of place
-  - In, On, At
 * Possesive adjetives
   - My, Your, His, Her, Its, Our, Their
 * Closed-Ended questions => Demand a yes/no, true/false or right/wrong answer.
@@ -76,6 +79,27 @@ There is / There are
     - Verbs ending with 1 vowel and 1 consonant, double the consonant and add -ing
     - 2 syllable verbs, if the first syllable is stressed, just add -ing
 
+* Prepositions of time
+  - In => General, bigger.  (Ex: Weeks, Months, Years, Decades, Centuries)
+  - On => More specific, smaller.  (Ex: Days Weekend)
+  - At => Very specific, smallest.  (Ex: Hours)
+
+* Prepositions of place
+  - In => General, bigger.  (Ex: Neighborhood, City, Country)
+  - On => More specific, smaller.  (Ex: Streets, Avenues)
+  - At => Very specific, smallest.  (Ex: Address, Specific location)
+
+* Frequency adverbs
+  - Always => 100%
+  - Usually => 85%
+  - Frequently => 75%
+  - Often => 60%
+  - Sometimes => 50%
+  - Ocasionally => 40%
+  - Rarely => 30%
+  - Seldom => 20%
+  - Hardly ever => 10%
+  - never => 0%
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
