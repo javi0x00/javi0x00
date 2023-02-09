@@ -106,6 +106,8 @@
 #### Tested
 - https://jsonplaceholder.typicode.com/
 #### Unproved
+- https://github.com/public-apis/public-apis
+- https://github.com/davemachado/public-api
 - https://developer.spotify.com/documentation/web-api/
 - http://any-api.com/
 - https://apilist.fun/
@@ -133,7 +135,6 @@
 - https://developers.giphy.com/docs/api/
 - https://tenor.com/gifapi
 - https://api.nasa.gov/
-- https://github.com/davemachado/public-api
 - https://catfact.ninja/
 - https://www.boredapi.com/
 - https://agify.io/
