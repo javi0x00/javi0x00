@@ -82,6 +82,7 @@
 - [Timers](#timers)
 - [Tracking](#tracking)
 - [Tunnel](#tunnel)
+- [Type](#type)
 - [Unicode](#unicode)
 * [Version Control Hosting](#version-control-hosting)
   - [Bitbucket](#bitbucket)
@@ -579,6 +580,15 @@
 ---
 ### Tunnel
 - https://ngrok.com/docs
+---
+### Type
+- https://www.typingclub.com/
+- https://monkeytype.com/
+- https://www.keybr.com/
+- https://typetest.io/
+- https://www.typing.com/
+- https://typistapp.ca/
+- https://github.com/max-niederman/ttyper
 ---
 ### Unicode
 - https://unicode.org/
