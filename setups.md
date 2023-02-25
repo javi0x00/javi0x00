@@ -80,82 +80,30 @@ $ npm run build
 $ npm run deploy
 ```
 - - -
-### Visual Studio Code
-#### Extensions
-* Atom One Dark Theme - Mahmoud Ali
-* Auto Rename Tag - Jun Han
-* Better Comments - Aaron Bond
-* Bracket Pair Colorizer2 - CoenraadS
-* C/C++ - Microsoft
-* Code Runner - Jun Han
-* Debugger for Chrome - Microsoft
-* Debugger for Java - Microsoft
-* Docker - Microsoft
-* Dracula Official - Dracula Theme
-* ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
-* ESLint - Microsoft
-* Flatland Monokai Theme - gerane
-* GitHub Copilot - GitHub
-* GitHub Pull Requests and Issues - GitHub
-* GitLens - GitKraken
-* Guides - spywhere
-* Highlight Matching Tag - vincaslt
-* Indent Rainbow - Oderwat
-* Java Extension Pack - Microsoft
-* Java Test Runner - Microsoft
-* JavaScript (ES6) code snippets - charalampos karypidis
-* Jupiter - Microsoft
-* Jupiter Keymap - Microsoft
-* Jupiter Notebook Renderers - Microsoft
-* Language Support for Java(TM) by Red Hat
-* Live Server - Ritwick Dey
-* Maven for Java - Microsoft
-* npm - Microsoft
-* npm Intellisense - Christian Kohler
-* One Dark Pro - binaryfy
-* PHP Intelephense - Ben Mewburn
-* PHP Intelephense - Felix Becker
-* Prettier Code formatter - Prettier
-* Project Manager for Java - Microsoft
-* Pylance - Mricrosoft
-* Python - Microsoft
-* Quokka Statusbar Buttons - Sketchbuch
-* Quokka.js - Wallaby.js
-* Remote WSL - Microsoft
-* Remove empty lines - Alexander
-* REST Client - Huachao Mao
-* Simple React Snippets - Burke Holland
-* SQL Formatter - adpyke
-* Svelte 3 Snippets - fivethree
-* Svelte Auto Import - pivaszbs
-* Svelte for VS Code - Svelte
-* Svelte Intellisente - ardenivanov
-* Tabnine Autocomplete AI - TabNine
-* Tailwind CSS IntelliSense - Tailwind Labs
-* Version Lens - pflannery
-* Visual Studio IntelliCode - Microsoft
-* Vim - vscodevim
-* vscode-icons - VSCode Icons Team
-* vscode-pdf - tomoki1207
-* vscode-styled-components - Styled Components
 #### Fonts
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-##### settings.json
+##### Visual Studio Code - CUSTOM settings.json
 ```
 {
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": [
+    "source.fixAll.eslint"
+  ],
   "editor.cursorBlinking": "expand",
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 1,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.detectIndentation": true,
   "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 13,
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
-  "editor.fontLigatures": true,
-  "editor.guides.bracketPairs": "active",
-  "editor.lineHeight": 22,
+  "editor.guides.bracketPairs": true,
+  "editor.lineHeight": 0,
+  "editor.minimap.enabled": false,
+  "editor.minimap.maxColumn": 80,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderWhitespace": "all",
   "editor.rulers": [
@@ -167,7 +115,8 @@ $ npm run deploy
   "editor.snippetSuggestions": "top",
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
-  "editor.wordWrapColumn": 80,
+  "editor.wordWrap": "wordWrapColumn",
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
   "extensions.ignoreRecommendations": true,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
@@ -177,9 +126,15 @@ $ npm run deploy
   "prettier.jsxSingleQuote": true,
   "svelte.enable-ts-plugin": true,
   "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.cursorBlinking": true,
   "typescript.preferences.quoteStyle": "single",
+  "typescript.tsdk": "node_modules/typescript/lib",
   "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "One Dark Pro Darker",
   "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
   "vsicons.dontShowNewVersionMessage": true,
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
@@ -211,6 +166,7 @@ $ npm run deploy
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[markdown]": {
+    "editor.defaultFormatter": null,
     "editor.formatOnSave": false,
     "files.trimTrailingWhitespace": false
   }

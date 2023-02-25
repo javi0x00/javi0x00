@@ -188,6 +188,24 @@
 - https://notepad-plus-plus.org/
 #### VS Code Extensions
 - https://marketplace.visualstudio.com/
+##### Essential (IntelliSense, Linting, Formatting)
+- ESLint
+- Prettier - Code formatter
+- EditorConfig for VS Code
+##### Recommended
+- One Dark Pro
+- Atom One Dark Theme
+- Auto Rename Tag
+- Better Comments
+- Code Runner
+- GitLens
+- Guides
+- Highlight Matching Tag
+- indent-rainbow
+- JavaScript (ES6) code snippets
+- Live Server
+- Path Intellisense
+
 * Code Formatter
   - https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
   - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
