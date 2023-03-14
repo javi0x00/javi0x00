@@ -6,7 +6,7 @@
 * [Docker Hub](https://hub.docker.com/)
 * [Docker Docs](https://docs.docker.com/)
 ### Terms and concepts
-* Docker Hub Service (Repositories for storing and sharing images)
+- Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)
   - Files
   - File tree
@@ -25,8 +25,10 @@
   * States
     - Running
     - Stoped
-* Network
-* Volume
+- Network
+- Volume
+### Installation
+Download and install
 ### Image
 Basic commands
 ```
@@ -176,7 +178,7 @@ $ docker ps -a
 ```
 Delete all inactive containers
 ```
-$ docker system prune 
+$ docker system prune
 ```
 Setup container image with dockerfile
 ```
@@ -212,5 +214,5 @@ $ docker build  -t <repo_name>:<version> .
 ```
 - - -
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
