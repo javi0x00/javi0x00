@@ -7,7 +7,7 @@
 - [Docker Docs](https://docs.docker.com/)
 - [Docker Reference documentation](https://docs.docker.com/reference/)
 ### Terms and concepts
-* Docker Hub Service (Repositories for storing and sharing images)
+- Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)
   - Files
   - File tree
@@ -26,8 +26,10 @@
   * States
     - Running
     - Stoped
-* Network
-* Volume
+- Network
+- Volume
+### Installation
+Download and install
 ### Image
 Basic commands
 ```

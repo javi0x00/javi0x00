@@ -362,6 +362,7 @@
 - https://hslpicker.com/
 #### Drawing tools
 - https://flameshot.org/
+- https://excalidraw.com/
 - https://www.autodraw.com/
 - https://kleki.com/
 - https://drawisland.com/
@@ -633,6 +634,11 @@
 - https://how-to-stuff.gitlab.io/gitlab-pages-how-to/
 ---
 ### Version Control System
+- https://git-scm.com/
+- http://savannah.nongnu.org/projects/cvs
+- https://subversion.apache.org/
+- https://www.mercurial-scm.org/
+- https://www.monotone.ca/
 #### Git
 ##### Commit
   - https://www.conventionalcommits.org/
