@@ -2,9 +2,10 @@
 ## DOCKER
 - - -
 ### Resources
-* [Docker](https://www.docker.com/)
-* [Docker Hub](https://hub.docker.com/)
-* [Docker Docs](https://docs.docker.com/)
+- [Docker](https://www.docker.com/)
+- [Docker Hub](https://hub.docker.com/)
+- [Docker Docs](https://docs.docker.com/)
+- [Docker Reference documentation](https://docs.docker.com/reference/)
 ### Terms and concepts
 * Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)
@@ -71,6 +72,14 @@ $ docker logs
 Delete everything - Remove all unused containers, volumes, networks and images
 ```
 $ docker system prune -a --volumes
+```
+Delete all containers including its volumes use
+```
+$ docker rm -vf $(docker ps -aq)
+```
+Delete all the images
+```
+$ docker rmi -f $(docker images -aq)
 ```
 #### Dockerfile
 Basic Setup
@@ -176,7 +185,7 @@ $ docker ps -a
 ```
 Delete all inactive containers
 ```
-$ docker system prune 
+$ docker system prune
 ```
 Setup container image with dockerfile
 ```
@@ -212,5 +221,5 @@ $ docker build  -t <repo_name>:<version> .
 ```
 - - -
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

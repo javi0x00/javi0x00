@@ -142,6 +142,10 @@ Host bitbucket-<SECONDARY ACCOUNT>
   IdentitiesOnly yes
   IdentityFile ~/.ssh/<SECONDARY KEY>
 ```
+Bitbucket - App passwords
+```
+$ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPACE/REPO.git
+```
 ### React
 Setup
 ```
@@ -151,5 +155,5 @@ $ npm start
 ```
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

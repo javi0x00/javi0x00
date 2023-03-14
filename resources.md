@@ -361,6 +361,7 @@
 - https://brandcolors.net/
 - https://hslpicker.com/
 #### Drawing tools
+- https://flameshot.org/
 - https://www.autodraw.com/
 - https://kleki.com/
 - https://drawisland.com/
@@ -570,6 +571,7 @@
 - http://emailregex.com/
 ---
 ### Screenshot
+- https://flameshot.org/
 - https://app.prntscr.com/en/index.html
 ---
 ### Scrum
@@ -645,5 +647,5 @@
 ---
 [:top: Resources](#resources)
 ###### Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
