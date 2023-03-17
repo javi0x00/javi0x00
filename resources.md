@@ -377,6 +377,7 @@
 - https://emojiterra.com/
 - https://flagpedia.net/
 #### Fonts
+- https://www.jetbrains.com/lp/mono/
 - https://fonts.google.com/
 - https://fonts.adobe.com/
 - http://www.font2web.com/

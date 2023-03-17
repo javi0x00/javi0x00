@@ -2,22 +2,36 @@
 ## TYPESCRIPT
 ---
 ### Resources
-* [TypeScript](https://www.typescriptlang.org/)
-* [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-* [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
-* [Node TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/node)
-* [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
-* [Vue TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/vue)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
+- [Node TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/node)
+- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+- [Vue TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/vue)
 ### Requirements
 #### Install
-* Nodejs
-* TypeScript
+- Nodejs
+- TypeScript
+##### Setup
+###### Basic
+```
+$ npm install --save-dev typescript
+$ node_modules/.bin/tsc --init
+$ node --save-dev
+```
+### Basic Commands
+```
+$ tsc -v
+$ tsc <file name> -w
+$ tsc -init
+$ tsc *.ts -w
+```
 ### Terms and concepts
-* ECMAScript
-* JavaScript
-* TypeScript
-* Compile
-* Transpile
+- ECMAScript
+- JavaScript
+- TypeScript
+- Compile
+- Transpile
 
 * Data Types
   * Primitives
@@ -45,7 +59,7 @@
   - Discriminating Unions
   - Intersection Types
 
-* Shape
+- Shape
 
 * Functions
   * Param and return
@@ -76,13 +90,13 @@
   - Modifiers
   - Inheritance
 
-* Inheritance
+- Inheritance
 
 * Hierarchi
   - super
   - overwrite
 
-* Encapsulation
+- Encapsulation
 
 * OOP
   - Hierarchi
@@ -90,13 +104,13 @@
   - Polymorphism
   - Abstraction
 
-* Decorator
+- Decorator
 
 * Utility types or helpers
   - Partial
   - Required
 
-* Custom Type
+- Custom Type
 
 * Generic Type
   - Data type
@@ -104,7 +118,7 @@
   - Class
   - Interface
 
-* Union types
+- Union types
 
 * Modularity
   - Export
@@ -112,14 +126,7 @@
 
 * Projects
   - tsconfig
-### Basic Commands
-```
-$ tsc -v
-$ tsc <file name> -w
-$ tsc -init
-$ tsc *.ts -w
-```
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

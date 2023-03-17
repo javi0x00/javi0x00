@@ -1,13 +1,13 @@
 # :memo: Notes
 ## REACTJS
-- - -
+---
 ### Resources
-* [React](https://reactjs.org/)
-* [DOM Elements](https://reactjs.org/docs/dom-elements.html)
-* [Create React App](https://create-react-app.dev/)
-* [React Bootstrap](https://react-bootstrap.github.io/)
-* [styled-components](https://styled-components.com/)
-* [MATERIAL-UI](https://material-ui.com/)
+- [React](https://reactjs.org/)
+- [DOM Elements](https://reactjs.org/docs/dom-elements.html)
+- [Create React App](https://create-react-app.dev/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [styled-components](https://styled-components.com/)
+- [MATERIAL-UI](https://material-ui.com/)
 * Extension
   - react developer tools
 * Package
@@ -15,7 +15,31 @@
   - serve
   - prop-types
 ### Requirements
-* Nodejs
+- Nodejs
+### Setup
+#### React & TypeScript
+```
+$ npx create-react-app my-app --template typescript
+$ npm install --save @types/react
+```
+#### Deploy to a Github page a React App
+Install gh-pages
+```
+$ npm install --save-dev gh-pages
+```
+Set package.json
+```
+"homepage": "https://<user>.github.io/<repo>"
+"scripts": {
+  "predeploy": "npm run build ",
+  "deploy": "gh-pages -d build"
+}
+```
+Run
+```
+$ npm run build
+$ npm run deploy
+```
 ### Terms and concepts
 * React
   - JavaScript library
@@ -89,7 +113,7 @@
 * Components
   * render
     - props
-    - state 
+    - state
   - fragment
   - reactivity
 
@@ -171,7 +195,7 @@
 * parts
   - index
   - app
-- - -
+---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
