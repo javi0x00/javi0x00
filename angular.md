@@ -1,28 +1,48 @@
 # :memo: Notes
 ## ANGULAR
-- - -
+---
 ### Resources
-* [Angular](https://angular.io/)
-* [Angular Documentation](https://angular.io/docs)
-* [Angular tutorial](https://angular.io/tutorial)
-* [CLI Documentation](https://angular.io/cli)
+- [Angular](https://angular.io/)
+- [Angular Documentation](https://angular.io/docs)
+- [Angular tutorial](https://angular.io/tutorial)
+- [CLI Documentation](https://angular.io/cli)
 ### Requirements
-* Nodejs
-* Angular CLI
+- Nodejs
+- Angular CLI
+### Setup
+```
+$ npm install -g @angular/cli
+$ ng --version
+$ ng new my-app
+$ cd my-app
+$ ng serve --open
+```
+Components
+```
+$ ng generate component <name>
+```
+Services
+```
+$ ng generate service <name>
+```
+Guards
+```
+$ ng generate guard <name>
+```
 ### Terms and concepts
-* Angular
+- Angular
 * First steps
   - Install de Angular CLI
   - Create a workspace and initial application
   - Run the application
   - Up app
   - Down app
-* SPA
-* Structure
-* Flow
-* Default selector
-* Default component
-* Selectors
+- SPA
+- Structure
+- Flow
+- Default selector
+- Default component
+- Selectors
 * Components
   * Decorator
     * Attributes
@@ -38,14 +58,14 @@
     - CLI
   - Template inline
   - Styles inline
-* Declarate a new component
-* Use a new component
-* Interpolation
-* Event
-* Property binding
-* Event binding
-* Handling Events
-* Two-way binding, bidirectional binding, Banana in a Box
+- Declarate a new component
+- Use a new component
+- Interpolation
+- Event
+- Property binding
+- Event binding
+- Handling Events
+- Two-way binding, bidirectional binding, Banana in a Box
 * Databinding
   - Interpolation
   * Binding
@@ -72,10 +92,10 @@
     - Ex: RouterModule
     - Ex: FormsModule
 
-* Install packages
-* Config file
-* The RxJS library
-- - -
+- Install packages
+- Config file
+- The RxJS library
+---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

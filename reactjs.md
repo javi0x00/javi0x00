@@ -4,6 +4,7 @@
 ### Resources
 - [React](https://reactjs.org/)
 - [DOM Elements](https://reactjs.org/docs/dom-elements.html)
+- [ViteJS](https://vitejs.dev/)
 - [Create React App](https://create-react-app.dev/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [styled-components](https://styled-components.com/)
@@ -17,7 +18,21 @@
 ### Requirements
 - Nodejs
 ### Setup
-#### React & TypeScript
+#### Vite
+```
+$ npm create vite@latest my-app --template react
+```
+#### Vite & TypeScript
+```
+$ npm create vite@latest my-app --template react-ts
+```
+#### CRA
+```
+$ npx create-react-app <name>
+$ cd <name>
+$ npm start
+```
+#### CRA & TypeScript
 ```
 $ npx create-react-app my-app --template typescript
 $ npm install --save @types/react
