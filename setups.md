@@ -2,12 +2,12 @@
 ## SETUPS
 ---
 ### JSDoc
-Install jsdoc
+Install
 ```
 $ yarn add jsdoc
 $ npm i jsdoc
 ```
-Set jsdoc.json file
+jsdoc.json file
 ```
 {
   "plugins": [],
@@ -33,7 +33,7 @@ Run
 $ jsdoc -c jsdoc.json
 $ npx jsdoc -c jsdoc.json
 ```
-Set package.json file
+package.json file
 ```
 {
   "scripts": {
@@ -41,7 +41,7 @@ Set package.json file
   }
 }
 ```
-Set .vscode/settings.json file
+.vscode/settings.json file
 ```
 {
   "javascript.implicitProjectConfig.checksJs": true
@@ -173,14 +173,16 @@ set shiftwidth =4
 set expandtab
 ```
 #### C
-```set cindent```
+```
+set cindent
+```
 ---
 ### Shell
 #### Betty linter
-* Clone the [Betty repo](https://github.com/holbertonschool/Betty)
-* ```cd``` into the Betty directory
-* Install the linter with ```sudo ./install.sh```
-* New file called ```betty```, and copy the script below:
+- Clone the [Betty repo](https://github.com/holbertonschool/Betty)
+- ```cd``` into the Betty directory
+- Install the linter with ```sudo ./install.sh```
+- New file called ```betty```, and copy the script below:
 ```
 #!/bin/bash
 # Simply a wrapper script to keep you from having to use betty-style
@@ -203,9 +205,9 @@ for argument in "$@" ; do
     ${BIN_PATH}/${BETTY_DOC} "$argument"
 done
 ```
-* Once saved, exit file and change permissions to apply to all users with ```chmod a+x betty```
-* Move the ```betty``` file into ```/bin/``` directory or somewhere else in your ```$PATH``` with ```sudo mv betty /bin/```
-* You can now type ```betty <filename>``` to run the Betty linter!
+- Once saved, exit file and change permissions to apply to all users with ```chmod a+x betty```
+- Move the ```betty``` file into ```/bin/``` directory or somewhere else in your ```$PATH``` with ```sudo mv betty /bin/```
+- You can now type ```betty <filename>``` to run the Betty linter!
 ---
 ###### :globe_with_meridians: Social
 [WebSite](https://javierandres.dev)  |  [GitHub](https://github.com/javierandresgp/)  |  [Linkedin](https://www.linkedin.com/in/javierandresgp/)  |  [Twitter](https://twitter.com/javierandresgp0)  |  [freeCodeCamp](https://www.freecodecamp.org/javierandresgp)  |  [HackerRank](https://www.hackerrank.com/javierandresgp)  |  |  [Reddit](https://www.reddit.com/user/javierandresgp0)  |  [StackOverflow](https://stackoverflow.com/users/13728583/javierandresgp)  |  [Medium](https://medium.com/@javierandresgp)  |  [Quora](https://es.quora.com/profile/Javier-Andr%C3%A9s-9)  |  [Meetup](https://www.meetup.com/es/members/305321275/)  |  [Facebook](https://www.facebook.com/javierandresgp0/)  |  [Instagram](https://www.instagram.com/javierandresgp/)
