@@ -5,6 +5,41 @@
 
 ### Terms and concepts
 ### Setup
+#### Create a Django project in virtual environment
+Create virtual environment
+```
+$ python -m venv <virtual_environment_name>
+```
+Activate virtual environment
+```
+$ source <virtual_environment_name>/bin/activate
+```
+requirements.txt file
+```
+Django==4.1
+```
+Create project
+```
+$ django-admin startproject <project_name> .
+```
+Apply the migrations
+```
+$ python manage.py migrate
+```
+Create super user
+```
+$ python manage.py createsuperuser
+```
+Run server
+```
+$ python manage.py runserver
+```
+##### Create a Django application
+Create application
+```
+$ python manage.py startapp <application_name>
+```
+Add application in settings.py file
 #### Create a Django project in Docker
 docker-compose.yml file
 ```
@@ -33,7 +68,7 @@ Django==4.1
 ```
 Create project
 ```
-$ docker-compose run web django-admin startproject djangoDocker .
+$ docker-compose run web django-admin startproject <project_name> .
 ```
 Apply the migrations
 ```

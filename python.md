@@ -5,6 +5,7 @@
 - [Python](https://www.python.org/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python Documentation contents](https://docs.python.org/3/contents.html)
+- [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)
 ##### Style
 - PEP8
 - Pycodestyle
@@ -31,6 +32,24 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+```
+### Setup
+### Setup Virtual Environment
+Create virtual environment
+```
+$ python -m venv <virtual_environment_name>
+```
+Activate virtual environment
+```
+$ source <virtual_environment_name>/bin/activate
+```
+Deactivate virtual environment
+```
+$ deactivate
+```
+### COMMANDS
+```
+$ python --version
 ```
 ### Terms and concepts
 1. What and why
