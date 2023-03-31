@@ -1,6 +1,6 @@
 # :memo: Notes
 ## DOCKER
-- - -
+---
 ### Resources
 - [Docker](https://www.docker.com/)
 - [Docker Hub](https://hub.docker.com/)
@@ -216,12 +216,14 @@ $ docker run -d -v <path> -p 3000:3000 <name>
 Stop image
 ```
 $ docker stop <id>
+$ docker stop $(docker ps -q)
+$ docker kill $(docker ps -q)
 ```
 Re-Build image
 ```
 $ docker build  -t <repo_name>:<version> .
 ```
-- - -
+---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
