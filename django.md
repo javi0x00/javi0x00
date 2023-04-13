@@ -2,9 +2,52 @@
 ## DJANGO
 ---
 ### Resources
-
+- [Django](https://www.djangoproject.com/)
+- [Django documentation](https://docs.djangoproject.com/)
+- [Topics](https://docs.djangoproject.com/en/4.2/topics/)
+- [API Reference](https://docs.djangoproject.com/en/4.2/ref/)
+- [“How-to” guides](https://docs.djangoproject.com/en/4.2/howto/)
+- [django-admin and manage.py](https://docs.djangoproject.com/en/4.2/ref/django-admin/)
+### Requirements
+- [Python](https://www.python.org/)
 ### Terms and concepts
+1. What and why
+2. What do
+3. Why use
+4. Getting started
+5. Concepts
+6. Code samples
+7. API documentation
+- Python web framework
+- Installation
+- django-admin and manage.py
+- Project
+- Development server
+- Application
+- Views
+- Urls
+- Database
+- Models
+- Super user
+- Administrative interface
+- Public interface
+- Templates
+- Forms
+- Tests
+- Styles
+- Debug Toolbar
 ### Setup
+Verifying  
+To verify that Django can be seen by Python, type python from your shell. Then at the Python prompt, try to import Django:
+```
+>>> import django
+>>> print(django.get_version())
+4.2
+```
+Or you can tell Django is installed and which version by running the following command in a shell prompt:
+```
+python -m django --version
+```
 #### Create a Django project in virtual environment
 Create virtual environment
 ```
@@ -16,7 +59,7 @@ $ source <virtual_environment_name>/bin/activate
 ```
 requirements.txt file
 ```
-Django==4.1
+Django==4.2
 ```
 Create project
 ```
