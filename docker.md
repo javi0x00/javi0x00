@@ -71,9 +71,21 @@ Basic
 $ docker -v
 $ docker logs
 ```
-Delete everything - Remove all unused containers, volumes, networks and images
+Get docker container including size:
 ```
-$ docker system prune -a --volumes
+$ docker ps -s
+```
+Get docker container disk utilization:
+```
+$ docker system df
+```
+Stop all running containers
+```
+$ docker stop $(docker ps -aq)
+```
+Delete all containers
+```
+$ docker rm $(docker ps -aq)
 ```
 Delete all containers including its volumes use
 ```
@@ -82,6 +94,15 @@ $ docker rm -vf $(docker ps -aq)
 Delete all the images
 ```
 $ docker rmi -f $(docker images -aq)
+```
+Delete everything - Remove all unused containers, volumes, networks and images
+```
+$ docker system prune -a --volumes
+```
+Reset docker
+```
+$ docker stop $(docker ps -aq)
+$ docker system prune --all --force
 ```
 #### Dockerfile
 Basic Setup
