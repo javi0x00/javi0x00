@@ -113,6 +113,10 @@ Create project
 ```
 $ docker-compose run web django-admin startproject <project_name> .
 ```
+Change the ownership of the new files
+```
+$ chown -R $USER:$USER web manage.py
+```
 Apply the migrations
 ```
 $ docker-compose run web python manage.py migrate
@@ -128,6 +132,10 @@ $ docker-compose up
 Done!
 - http://127.0.0.1:8000/
 - http://127.0.0.1:8000/admin/
+Run bash
+```
+$ docker exec -it <container> bash
+```
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2023
