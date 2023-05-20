@@ -6,6 +6,8 @@
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python Documentation contents](https://docs.python.org/3/contents.html)
 - [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)
+- [PEP - Python Enhancement Proposals](https://www.python.org/dev/peps/)
+- [Python Package Index](https://pypi.org/)
 ##### Style
 - PEP8
 - Pycodestyle
@@ -59,9 +61,11 @@ $ python --version
 5. Concepts
 6. Code samples
 7. API documentation
+- Python REPL (Read-Evaluate-Print-Loop)
 - Python interpreter
 - Python coding style
 - Python scripts
+- PIP
 - Basic syntax
   * Keywords
     * I/O
@@ -87,6 +91,7 @@ $ python --version
   * Identity
   * Membership
   * Bitwise
+  * Ternary
 - Data Structures
   * Variables
   * Lists
