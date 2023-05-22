@@ -8,6 +8,7 @@
 - [API Reference](https://docs.djangoproject.com/en/4.2/ref/)
 - [“How-to” guides](https://docs.djangoproject.com/en/4.2/howto/)
 - [django-admin and manage.py](https://docs.djangoproject.com/en/4.2/ref/django-admin/)
+- [Classy Class-Based Views](https://ccbv.co.uk/)
 ### Requirements
 - [Python](https://www.python.org/)
 ### Terms and concepts
