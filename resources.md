@@ -321,6 +321,10 @@
 - https://jonsuh.com/hamburgers/
 #### Methodology
 - http://getbem.com/
+- https://dev.to/cglikpo/css-bem-made-easy-40i3
+- https://dev.to/nouran96/oocss-methodology-92d
+- https://www.toptal.com/css/smacss-scalable-modular-architecture-css
+- https://dev.to/daaahailey/css-methodologies-oocss-smacss-bem-1e6k
 #### Normalize
 - https://github.com/sindresorhus/modern-normalize
 - https://github.com/necolas/normalize.css/blob/master/normalize.css
