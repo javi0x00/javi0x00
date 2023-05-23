@@ -305,6 +305,7 @@
 * https://tailwindcss.com/docs/
   - https://tailwindcss.com/docs/guides/sveltekit
   - https://tailwindcss.com/docs/using-with-preprocessors
+  - https://tailwindui.com/
 - https://getbootstrap.com/
 - https://bootstrap-cheatsheet.themeselection.com/
 - https://bootswatch.com/
