@@ -26,6 +26,28 @@ $ npm create vite@latest my-app --template react
 ```
 $ npm create vite@latest my-app --template react-ts
 ```
+#### Deploy to a Github pages a React App (Vite)
+Install gh-pages
+```
+$ npm install --save-dev gh-pages
+```
+Set package.json
+```
+"homepage": "https://<user>.github.io/<repo>"
+"scripts": {
+  "predeploy": "npm run build ",
+  "deploy": "gh-pages -d dist"
+}
+```
+Set vite.config.js
+```
+base: "/<repo>"
+```
+Run
+```
+$ npm run predeploy
+$ npm run deploy
+```
 #### CRA
 ```
 $ npx create-react-app <name>
@@ -37,7 +59,7 @@ $ npm start
 $ npx create-react-app my-app --template typescript
 $ npm install --save @types/react
 ```
-#### Deploy to a Github page a React App
+#### Deploy to a Github pages a React App (CRA)
 Install gh-pages
 ```
 $ npm install --save-dev gh-pages
@@ -52,7 +74,7 @@ Set package.json
 ```
 Run
 ```
-$ npm run build
+$ npm run predeploy
 $ npm run deploy
 ```
 ### Terms and concepts
