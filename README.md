@@ -8,19 +8,19 @@ I'm a software developer oriented to web development.
 :star: [https://javierandres.dev](https://javierandres.dev)
 ### :muscle: Just for fun!
 ###### Alphabetic order
-|Nº|Project|Code|Preview|
-|----|----|----|----|
-|1|Calculator|[View Code](https://github.com/javierandres-dev/training-calculator)|[Live Preview](https://javierandres-dev.github.io/training-calculator/)|
-|2|Color Generator|[View Code](https://github.com/javierandres-dev/training-color_generator)|[Live Preview](https://javierandres-dev.github.io/training-color_generator/)|
-|3|Compose reggaeton|[View Code](https://github.com/javierandres-dev/training-compose_reggaeton)|[Live Preview](https://javierandres-dev.github.io/training-compose_reggaeton/)|
-|4|Clock|[View Code](https://github.com/javierandres-dev/training-clock)|[Live Preview](https://javierandres-dev.github.io/training-clock/)|
-|5|Counter|[View Code](https://github.com/javierandres-dev/training-counter)|[Live Preview](https://javierandres-dev.github.io/training-counter/)|
-|6|Foreign Exchange|[View Code](https://github.com/javierandres-dev/training-foreign_exchange)|[Live Preview](https://javierandres-dev.github.io/training-foreign_exchange/)|
-|7|Google Homepage|[View Code](https://github.com/javierandres-dev/training-google_homepage)|[Live Preview](https://javierandres-dev.github.io/training-google_homepage/)|
-|8|JSONplaceholder|[View Code](https://github.com/javierandres-dev/training-jsonplaceholder)|[Live Preview](https://javierandres-dev.github.io/training-jsonplaceholder/)|
-|9|Pokémon Cards|[View Code](https://github.com/javierandres-dev/training-pokemon_cards)|[Live Preview](https://javierandres-dev.github.io/training-pokemon_cards/)|
-|10|Responsive Navbar|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
-|11|Rock, Paper, Scissors|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
+|Nº|Project|Stack|Code|Preview|
+|----|----|----|----|----|
+|1|Calculator|:icecream::yum: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-calculator)|[Live Preview](https://javierandres-dev.github.io/training-calculator/)|
+|2|Color Generator|:icecream::yum: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-color_generator)|[Live Preview](https://javierandres-dev.github.io/training-color_generator/)|
+|3|Compose reggaeton|:icecream::yum: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-compose_reggaeton)|[Live Preview](https://javierandres-dev.github.io/training-compose_reggaeton/)|
+|4|Clock|:icecream::yum: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-clock)|[Live Preview](https://javierandres-dev.github.io/training-clock/)|
+|5|Counter|:icecream::yum: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-counter)|[Live Preview](https://javierandres-dev.github.io/training-counter/)|
+|6|Foreign Exchange|:icecream::yum: HTML, CSS, JavaScript, API|[View Code](https://github.com/javierandres-dev/training-foreign_exchange)|[Live Preview](https://javierandres-dev.github.io/training-foreign_exchange/)|
+|7|Google Homepage|:icecream::yum: HTML, CSS|[View Code](https://github.com/javierandres-dev/training-google_homepage)|[Live Preview](https://javierandres-dev.github.io/training-google_homepage/)|
+|8|JSONplaceholder|Bootstrap, JavaScript, API|[View Code](https://github.com/javierandres-dev/training-jsonplaceholder)|[Live Preview](https://javierandres-dev.github.io/training-jsonplaceholder/)|
+|9|Pokémon Cards|:icecream::yum: HTML, CSS, JavaScript, API|[View Code](https://github.com/javierandres-dev/training-pokemon_cards)|[Live Preview](https://javierandres-dev.github.io/training-pokemon_cards/)|
+|10|Responsive Navbar|:icecream::yum: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
+|11|Rock, Paper, Scissors|:icecream::yum: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
 ### :checkered_flag: Development like volunteering
 - [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
 - - -
