@@ -297,10 +297,6 @@
   - Properties
   - Methods
 
-* Function
-  - Properties
-  - Methods
-
 * Promise
   - Properties
   - Methods
@@ -337,15 +333,16 @@
   - Implicit return or default return
   - Built-in
   - Function declaration (search in the same object, in the current object)
-  - Function expression
+  * Function expression
+    - Regular function
+    - Arrow function (search in the global window)
   - Call function
   - Parameters function
   - Arguments function
   - Parameters by default
   - Anonymous function
   - Self-executing anonymous function
-  - Immediately Invoked Function Expression
-  - Fat Arrow Function (search in the global window)
+  - IIFE or Immediately Invoked Function Expression
   - Constructor function
   - Generator function (return an iterator)
   - IIFE function (runs as soon as it is defined)
@@ -354,6 +351,7 @@
   - Promises
   - First-class function
   - Pure function
+  - Methods
 
 * Hoisting
   - hoist variable declaration (not initialization)
