@@ -2,7 +2,7 @@
 ## ENGLISH
 ---
 ### Resources
-* [Francisco Ochoa Inglés Fácil](https://www.youtube.com/c/FranciscoOchoa/featured)
+- [YouGlish](https://youglish.com/)
 ### Terms and concepts
 * English
   - Why learn english

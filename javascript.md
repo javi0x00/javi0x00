@@ -65,7 +65,8 @@
 
 * Data types
   * Primitives:
-    - String
+    * String
+      - Used with objects
     - Number
     - Boolean
     - null (Special primitive)
@@ -73,12 +74,21 @@
     - Symbol (Descriptions)
     - BigInt
     - NaN - Not a Number
-  * Non-primitive:
+  * Non-primitive or Reference Types:
     - object (for more complex data structures)
-    - All JavaScript values, except primitives, are objects.
+    * All types of objects
+      - All JavaScript values, except primitives, are objects.
   * Operators
     - typeof
     - instanceof
+
+* Stack & Heap
+  * Stack
+    - Store value of primitives types
+    - Have space limited
+    - Store reference to non primitives types (pointer)
+  * Heap
+    - Store value of non primitives types
 
 * Data structures
   * Arrays
@@ -212,7 +222,9 @@
     - In JavaScript, this keyword refers to an object.
     - Which object depends on how this is being invoked (ised or called).
     * The this keyword refers to different objects depending on how it is used:
-      - In an object method, this refers to the object.
+      * In an object method:
+        - In a regular function, this refers to the object.
+        - In a arrow function, this refers to the global object.
       - Alone, this refers to the global object.
       - In a function, this refers to the global object.
       - In a function, in strict mode, this is undefined.
@@ -278,8 +290,10 @@
   - Methods
 
 * Math
-  - Properties
-  - Methods
+  * Properties
+    - PI
+  * Methods
+    - round
 
 * Date
   - Properties
@@ -547,13 +561,21 @@ const closure = IamAclosure()
   - REST (Representational State Transfer)
   - SOAP (Simple Object Access Protocol)
 
+* DOM (Document Object Model)
+  - Created by the browser
+  * "document" object
+    - Properties
+    - Methods
+  - Allow interacting with the browser
+
 * DOM Nodes
   * Node is an object with properties and methods
     * Properties
       - Like ids, classes, styles, texts, etc
     * Methods
       - For finding/adding/removing/altering or handle on manipulating
-  - tree nodes
+  * tree nodes
+    - "html" is the root node
   - nodelist
   - array of nodes
   - Elements
