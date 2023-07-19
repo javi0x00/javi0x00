@@ -43,6 +43,16 @@
 * Constants
   - Constants are automatically global and can be used across the entire script.
   - All constants names are case-sensitive
+* Global Variables or Superglobals
+  - $GLOBALS
+  - $_SERVER
+  - $_REQUEST
+  - $_POST
+  - $_GET
+  - $_FILES
+  - $_ENV
+  - $_COOKIE
+  - $_SESSION
 * Data types
   - String
   - Integer
@@ -52,7 +62,23 @@
   - Object
   - NULL
   - Resource
-
+* Operators
+  - Arithmetic
+  - Operator precedence
+  - Assignment
+  - Comparison
+  - Increment/Decrement
+  - Logical
+  - String
+  - Array
+  - Conditional assignment
+* Conditionals statements
+  - if
+  - if...else
+  - if...elseif...else
+  - switch
+* Math functions
+* Predefined Math Constants
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2023
