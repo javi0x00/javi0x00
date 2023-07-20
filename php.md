@@ -10,7 +10,7 @@
 - [Configure a WEB site (PHP-Apache-Mysql) in 5 minutes with Docker](https://doc4dev.com/en/create-a-web-site-php-apache-mysql-in-5-minutes-with-docker/)
 ### Requirements
 - Code editor
-- Development Environment
+- Development environment
 ### Terms and concepts
 1. What and why
 2. What do
@@ -22,13 +22,16 @@
 - PHP (Before: Personal Homepage.  Currently: PHP Hypertext Preprocessor)
 - PHP engine
 * Backend
+  - Loosely typed programming language
   - PHP files can contain text, HTML, CSS, JS, and PHP code.
   - Scripts are executed on the server
   - The result is returned to the browser as plain HTML
   - PHP can also be embed in HTML
-* Development Environment
-  - Web server
-  - Database server
+* Development environment
+  * Environment setup
+    - Web server
+    - Database
+    - PHP Parser
 * Basic syntax
   - Keywords, classes, functions, and user-defined functions are not case-sensitive.
   - PHP tags
@@ -40,10 +43,11 @@
 * Variables
   - All variable names are case-sensitive
   - Scope (local, global, static)
+  - Basic functions: var_dump, gettype, isset, empty, is_null
 * Constants
   - Constants are automatically global and can be used across the entire script.
   - All constants names are case-sensitive
-* Global Variables or Superglobals
+* Global variables or Superglobals
   - $GLOBALS
   - $_SERVER
   - $_REQUEST
@@ -53,15 +57,37 @@
   - $_ENV
   - $_COOKIE
   - $_SESSION
+* Magic constants
+  - __LINE__
+  - __FILE__
+  - __DIR__
+  - __FUNCTION__
+  - __CLASS__
+  - __TRAIT__
+  - __METHOD__
+  - __NAMESPACE__
+  - ClassName::class
 * Data types
   - String
   - Integer
-  - Float (floating point numbers - also called double)
+  - Float or Doubles
   - Boolean
   - Array
   - Object
   - NULL
   - Resource
+* Type juggling
+* Type casting
+  * Cast operators
+    - Array
+    - Boolean
+    - Integer
+    - Object
+    - Float
+    - String
+* String functions
+* Number functions
+* Predefined Number constants
 * Operators
   - Arithmetic
   - Operator precedence
@@ -71,14 +97,25 @@
   - Logical
   - String
   - Array
+  - Ternary
   - Conditional assignment
+* Math functions
+* Predefined Math constants
 * Conditionals statements
   - if
   - if...else
   - if...elseif...else
   - switch
-* Math functions
-* Predefined Math Constants
+* Loops
+  - while
+  - do...while
+  - for
+  - foreach
+* Control flow
+  - break
+  - continue
+* Arrays
+  - Array functions
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2023
