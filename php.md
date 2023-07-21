@@ -7,7 +7,7 @@
 - [PHP The Right Way](https://phptherightway.com/)
 - [XAMPP](https://www.apachefriends.org/)
 - [WAMP](https://www.wampserver.com/)
-- [Configure a WEB site (PHP-Apache-Mysql) in 5 minutes with Docker](https://doc4dev.com/en/create-a-web-site-php-apache-mysql-in-5-minutes-with-docker/)
+- [PHP-Apache-Mysql with Docker](https://doc4dev.com/en/create-a-web-site-php-apache-mysql-in-5-minutes-with-docker/)
 ### Requirements
 - Code editor
 - Development environment
@@ -47,6 +47,60 @@
 * Constants
   - Constants are automatically global and can be used across the entire script.
   - All constants names are case-sensitive
+* Data types
+  - String
+  - Integer
+  - Float or Doubles
+  - Boolean
+  - Array
+  - Object
+  - NULL
+  - Resource
+* Type juggling
+* Type casting
+  * Cast operators
+    - Array
+    - Boolean
+    - Integer
+    - Object
+    - Float
+    - String
+* Built-in string functions
+* Built-in number functions
+* Built-in predefined number constants
+* Operators
+  - Arithmetic
+  - Operator precedence
+  - Assignment
+  - Comparison
+  - Increment/Decrement
+  - Logical
+  - String
+  - Array
+  * Conditional assignment
+    - Ternary
+    - Null coalescing
+* Built-in math functions
+* Built-in predefined math constants
+* Conditionals statements
+  - if
+  - if...else
+  - if...elseif...else
+  - switch
+* Loops
+  - while
+  - do...while
+  - for
+  - foreach
+* Control flow
+  - break
+  - continue
+* Arrays
+  - Indexed
+  - Associative
+  - Multidimensional
+* Built-in array functions
+* Dealing with forms
 * Global variables or Superglobals
   - $GLOBALS
   - $_SERVER
@@ -67,55 +121,6 @@
   - __METHOD__
   - __NAMESPACE__
   - ClassName::class
-* Data types
-  - String
-  - Integer
-  - Float or Doubles
-  - Boolean
-  - Array
-  - Object
-  - NULL
-  - Resource
-* Type juggling
-* Type casting
-  * Cast operators
-    - Array
-    - Boolean
-    - Integer
-    - Object
-    - Float
-    - String
-* String functions
-* Number functions
-* Predefined Number constants
-* Operators
-  - Arithmetic
-  - Operator precedence
-  - Assignment
-  - Comparison
-  - Increment/Decrement
-  - Logical
-  - String
-  - Array
-  - Ternary
-  - Conditional assignment
-* Math functions
-* Predefined Math constants
-* Conditionals statements
-  - if
-  - if...else
-  - if...elseif...else
-  - switch
-* Loops
-  - while
-  - do...while
-  - for
-  - foreach
-* Control flow
-  - break
-  - continue
-* Arrays
-  - Array functions
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2023
