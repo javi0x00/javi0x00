@@ -101,6 +101,8 @@
   - Multidimensional
 * Built-in array functions
 * Dealing with forms
+  - Sanitize inputs
+  - Validate inpits
 * Global variables or Superglobals
   - $GLOBALS
   - $_SERVER
@@ -121,6 +123,23 @@
   - __METHOD__
   - __NAMESPACE__
   - ClassName::class
+* Functions
+  * Built-in, PHP has more than 1000 built-in functions.
+    - include
+    - require
+  * User defined functions, create own functions.
+    - Define
+    - Call
+    - Parameters vs Arguments
+    - Define with and define without parameters
+    - Default value
+    - Return value
+    - Passing arguments by reference
+* PHP Cookies
+* PHP Sessions
+* PHP Redirect
+* PHP hashing
+* PHP Working with database
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2023
