@@ -597,6 +597,7 @@
 ---
 ### SSL VPN
 - https://www.fortinet.com/support/product-downloads
+- https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-install-FortiClient-on-Ubuntu-22-04-LTS/ta-p/217162
 ---
 ### Submissions
 - https://formsubmit.co/
