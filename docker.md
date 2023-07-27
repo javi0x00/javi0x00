@@ -28,6 +28,10 @@
     - Stoped
 - Network
 - Volume
+* Docker CLI
+* Docker compose
+* Docker desktop
+* Port mapping
 ### Installation
 Download and install
 ### Image
@@ -48,6 +52,17 @@ $ docker ps <parameter (optional)>
 $ docker stop <container>
 $ docker start <container>
 $ docker rm <parameter (optional)> <container>
+$ docker logs <container id or container name>
+```
+Create own container
+```
+$ docker pull <image base>
+$ docker container create <image base> or docker create <image base>
+$ docker start <container id>
+```
+or
+```
+$ docker run -d <image base>
 ```
 ### Network
 Basic commands
