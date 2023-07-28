@@ -31,7 +31,17 @@
 * Docker CLI
 * Docker compose
 * Docker desktop
+  - Docker CLI
+  - Docker compose
 * Port mapping
+* Dockerfile
+  - Docker build
+* Docker network
+* Docker volumes
+  - Anonymous
+  - Named
+  - Host
+* Dockerignore
 ### Installation
 Download and install
 ### Image
@@ -64,6 +74,7 @@ or
 ```
 $ docker run -d <image base>
 ```
+or Dockerfile
 ### Network
 Basic commands
 ```
@@ -73,6 +84,10 @@ $ docker network rm <network>
 $ docker run --network <network>
 $ docker run --port <host_port:container_port>
 $ docker run --p <host_port:container_port>
+```
+Create own network
+```
+$ docker network create <name>
 ```
 ### Volume
 Basic commands
@@ -126,10 +141,10 @@ $ vi Dockerfile
 ```
 Dockerfile
 ```
-FROM <tag_image>
-RUN mkdir -p <absolute_path>
-WORKDIR <absolute_path>
-COPY <path_context (relative path)> <path_image (absolute or relative path)>
+FROM <image base>
+RUN mkdir -p <absolute_path into container>
+WORKDIR <absolute_path into container>
+COPY <path_context (relative path) (source code)> <path_image (absolute or relative path) (destination)>
 RUN <command>
 EXPOSE <port>
 CMD <default_command>
@@ -148,14 +163,25 @@ docker-compose.yaml
 version: <docker compose version>
 services:
   <container image name>
+      <options>
+  <container name>
     <options>
-  <container image name>
-    <options>
+  <container name>
+    build:
+    ports:
+    links:
+  <container name>
+    image: <image name>
+    ports:
+    environment:
+    volumes:
+      - example-data: <path>
   ...
 networks:
   <options>
 volumes:
   <options>
+  example-data:
 ```
 Basic commands
 ```

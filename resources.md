@@ -45,6 +45,7 @@
   - [Videos](#videos)
   - [Whiteboard](#whiteboard)
   - [Wireframes](#wireframes)
+- [Docker](#docker)
 - [Documentation](#documentation)
 * [HTML](#html)
   - [Email Template](#email-template)
@@ -270,6 +271,7 @@
   - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 * ...
   - https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
+  - https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx
 ---
 ### Code Sharing
 - https://gist.github.com/
@@ -341,6 +343,7 @@
 - https://www.mongodb.com/
 - https://www.pgadmin.org/
 - https://www.enterprisedb.com/
+- https://dbeaver.io/
 ---
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console
@@ -454,6 +457,9 @@
 - https://balsamiq.com/
 - https://www.adobe.com/products/xd.html
 ---
+### Docker
+- https://devtalles.com/files/docker-cheat-sheet.pdf
+---
 ### Documentation
 - https://jsdoc.app/
 * https://github.com/jsdoc/jsdoc
@@ -483,6 +489,7 @@
 ### JSON
 - https://nodejs.dev/learn/the-package-json-guide
 - https://jsonapi.org/
+- https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
 ---
 ### JavaScript
 #### Altering CSS
