@@ -134,6 +134,11 @@ Reset docker
 $ docker stop $(docker ps -aq)
 $ docker system prune --all --force
 ```
+Disable docker container autostart
+```
+$ docker inspect <container>
+$ docker update --restart=no <container>
+```
 #### Dockerfile
 Basic Setup
 ```

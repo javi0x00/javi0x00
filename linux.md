@@ -77,8 +77,9 @@ htop (package)
 #### Networking
 ```
 $ ifconfig
-net-tools (package)
 $ ip
+$ netstat --help
+net-tools (package)
 ```
 #### Package manager
 ```
@@ -95,6 +96,14 @@ $ vi <file name>
 $ vim <file name>
 $ nano <file name>
 $ emacs <file name>
+```
+#### systemctl commands
+Handle apache2
+```
+$ sudo systemctl stop apache2
+$ sudo systemctl restart apache2
+$ sudo systemctl disable apache2
+$ sudo systemctl enable apache2
 ```
 - - -
 ## Software Developer

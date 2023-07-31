@@ -8,6 +8,7 @@
 - [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)
 - [PEP - Python Enhancement Proposals](https://www.python.org/dev/peps/)
 - [Python Package Index](https://pypi.org/)
+- [Tools and Features for Python Development](https://www.jetbrains.com/research/python-developers-survey-2017/#tools-and-features)
 ##### Style
 - PEP8
 - Pycodestyle
