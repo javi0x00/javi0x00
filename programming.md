@@ -1,6 +1,15 @@
 # :memo: Notes
 ## PROGRAMMING
 ---
+### Resources
+- [What is software development?](https://www.ibm.com/topics/software-development)
+1. What and why
+2. What do
+3. Why use
+4. Getting started
+5. Concepts
+6. Code samples
+7. API documentation
 ### Terms and concepts
 Problem solving is the core thing software developers do.  The programming 
 languages and tools they use are secondary to this fundamental skill.

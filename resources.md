@@ -24,7 +24,8 @@
   - [Normalize](#normalize)
   - [Prefix](#prefix)
   - [Resets](#resets)
-- [Databases](#databases)
+* [Databases](#databases)
+  - [ORM](#orm)
 - [Debug](#debug)
 - [Deploy](#deploy)
 * [Design](#design)
@@ -344,6 +345,8 @@
 - https://www.pgadmin.org/
 - https://www.enterprisedb.com/
 - https://dbeaver.io/
+#### ORM
+- https://www.sqlalchemy.org/
 ---
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console
