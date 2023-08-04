@@ -21,8 +21,20 @@
 5. Concepts
 6. Code samples
 7. API documentation
+- Python
+- Python module
+- Python types
 - Python web framework
 - Installation
+- API
+- Rest API
+- Routes
+* Parameters
+  - Path
+  - Query
+* Automatic API documentation
+  - Interactive API docs
+  - Alternative API docs
 ### Setup
 #### Create a FastAPI project in virtual environment
 #### Create a FastAPI project in Docker
