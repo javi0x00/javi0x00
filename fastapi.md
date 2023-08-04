@@ -28,13 +28,30 @@
 - Installation
 - API
 - Rest API
+* Automatic API documentation
+  - Interactive API docs
+  - Alternative API docs
 - Routes
 * Parameters
   - Path
   - Query
-* Automatic API documentation
-  - Interactive API docs
-  - Alternative API docs
+  - Headers
+  - Cookies
+  - Form fields
+  - Files
+- Validation constraints
+- Dependency injection system
+- Security
+- Authentication
+- Deeply nested JSON models
+- Web sockets
+- Tests
+- CORS
+- Cookie sessions
+- Performance
+- Optional dependencies
+- ORM
+- ODM
 ### Setup
 #### Create a FastAPI project in virtual environment
 #### Create a FastAPI project in Docker
