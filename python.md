@@ -37,6 +37,12 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 ### Setup
+Install ENV as package for creating virtual environment
+```
+$ sudo apt install python3-dev python3-venv
+```
+Install VIRTUALENV as package for creating virtual environment...
+Install PIPENV as package for creating virtual environment...
 ### Setup Virtual Environment
 Create virtual environment
 ```

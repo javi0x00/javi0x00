@@ -5,6 +5,7 @@
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
 - [The OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)
+- [OpenAPI Specification](https://swagger.io/specification/)
 - [Starlette](https://www.starlette.io/)
 - [Pydantic](https://docs.pydantic.dev/)
 - [Uvicorn](https://www.uvicorn.org/)
@@ -24,22 +25,48 @@
 - Python
 - Python module
 - Python types
+- Python enumerations
 - Python web framework
-- Installation
 - API
 - Rest API
 * Automatic API documentation
   - Interactive API docs
   - Alternative API docs
-- Routes
+* Installation
+  - Import FastAPI
+  - Create an instance of FastAPI
+- Path or Endpoint or Route
+- Operation
+- Decorator
+- Function
+- Path operation decorator
+- Path operation function
+- Validation constraints or Data parsing
 * Parameters
-  - Path
-  - Query
+  - Path parameters
+  - Path parameters with types
+  - Order matters
+  - Predefined values
+  * Path parameters containing paths
+    - Path convertor
+  * Query parameters
+    - Set parameters
+    - Optional parameters
+    - Default parameters
+    - Multiple path and query parameters
+    - Required query parameters
   - Headers
   - Cookies
   - Form fields
   - Files
-- Validation constraints
+* Request body
+  * BaseModel
+    - Schema
+    - Required value
+    - Default value
+    - Optional value
+  - Request body + path parameters
+- Response body
 - Dependency injection system
 - Security
 - Authentication
