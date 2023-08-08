@@ -66,6 +66,8 @@
     - Default value
     - Optional value
   - Request body + path parameters
+  - Request body + path + query parameters
+- Query parameters and String validations
 - Response body
 - Dependency injection system
 - Security
