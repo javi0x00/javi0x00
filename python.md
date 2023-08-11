@@ -92,10 +92,13 @@ $ python --version
   - Strings
   - Booleans
 * Operators
-  - Arithmetics
+  * Arithmetics
+    - PEMDAS (Parentheses, Exponent, Multiplication, Division, Addition, Subtraction)
   - Assignment
-  - Comparison
-  - Logical
+  - Comparison or relational
+  * Logical
+    - Truth table
+    - Priority (not, and, or, left to right)
   - Identity
   - Membership
   - Bitwise
