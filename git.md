@@ -12,13 +12,69 @@
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Multiple Accounts and SSH Keys](https://dbushell.com/2013/01/27/multiple-accounts-and-ssh-keys/)
+### Terms and concepts
+* Version Control System (local)
+  - Installation
+  - Configuration
+* Version Control Hosting (remote)
+  - Sign up
+  - Clone
+  - Remote
+  - Tokens
+  - Fetch
+  - Merge
+  - Pull
+  - Push
+  - Fork
+* Repository
+  - Local
+  - Remote
+  - Clone
+  - Fork
+  - Pull request
+  - Issues
+* Repository
+  - Initialize
+  - Delete
+* Repository
+  * Areas
+    - Working directory
+    - Preparation area or staging area
+    * .git directory or core or repository
+      - Metadata
+      - All versions
+  * Status (A specific version of the file)
+    - Modified
+    - Staged or prepared
+    - Committed or confirmed
+- CLI
+- Tracking
+- Status
+- Add
+- Unstage
+* Commit
+  - Timeline, status record
+  - SHA ID or Secure Hash Algorithm ID
+  - User
+  - Email
+  - Date
+  - Custom message
+- History
+- Change last commit message
+- Undo last commit
+* Branch
+  - Independent line of development
+- Merge
+- Conflicts
 ### Setup
 ```
 $ sudo apt install git-all
 $ git --version
+$ git config --global init.defaultBranch <name>
 $ git config --global user.name "<name>"
 $ git config --global user.email <email>
 $ git config --global core.editor "<editor --flag>"
+$ git config --global core.editor "<code --wait>"
 $ git config --global color.ui <auto/always/true/false>
 $ git config --global color.branch <true/false/always>
 $ git config --global color.diff <true/false/always>
@@ -32,14 +88,23 @@ Branch
 $ git branch
 $ git branch -a
 $ git branch -r
+$ git branch <name>
 $ git checkout -b <branch name>
 $ git checkout <branch name>
+$ git branch -m <current name> <new name>
+$ git branch -m <new name>
 $ git push --set-upstream origin <branch name>
 $ git branch -d <branch name>
 $ git branch -D <branch name>
 $ git push origin --delete <branch name>
 $ git branch -a
 $ git checkout -b <remote branch name> origin/<remote branch name>
+```
+History
+```
+$ git log
+$ git log --oneline
+$ git log --p
 ```
 Tagging
 ```
@@ -57,10 +122,15 @@ $ git add
 $ git add <filename>
 $ git rm <filename>
 $ git commit -m <description>
+$ git commit <see text editor>
 $ git commit --amend -m <description>
+$ git commit --amend <see text editor>
+$ git reset --soft HEAD~1
+$ git reset --hard HEAD~1
 $ git push
 $ git fetch
 $ git merge
+$ git merge --continue
 $ git pull
 ```
 Fecth
@@ -71,6 +141,31 @@ $ git fetch --all
 $ git log --oneline <LOCAL BRANCH>..<REMOTE BRANCH>
 $ git merge <ORIGIN BRANCH>
 $ git push
+```
+Remote
+```
+$ git remote
+$ git remote -v
+$ git pull
+$ git fetch
+$ git checkout origin/main
+$ git push
+```
+Create a new repository on the command line
+```
+$ echo '# repo-name' > README.md
+$ git init
+$ git add README.md
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin <REMOTE_URL>
+$ git push -u origin main
+```
+Push an existing repository from the command line
+```
+$ git remote add origin <REMOTE_URL>
+$ git branch -M main
+$ git push -u origin main
 ```
 Adding a local repository to VCH
 ```
@@ -91,7 +186,6 @@ $ git commit
 $ git commit -a <description>
 $ git commit -am <description>
 $ git show
-$ git log
 $ git log --stat
 $ git diff
 $ git diff <id> <id>
@@ -141,12 +235,6 @@ Bitbucket - App passwords
 ```
 $ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPACE/REPO.git
 ```
-### Terms and concepts
-- Version Control System
-- Version Control Hosting
-* Repository
-  - Clone
-  - Fork
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
