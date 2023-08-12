@@ -112,6 +112,7 @@ languages and tools they use are secondary to this fundamental skill.
   - Initialization
   - Declaration
   - Assignment
+  - Scope
 * Control flow
   - Sequential
   - Selective
@@ -152,8 +153,8 @@ languages and tools they use are secondary to this fundamental skill.
   - Values, variables, and operators, which computes to a value.
 
 * Functions
-  - Parameter
-  - Argument
+  - Parameter (variable)
+  - Argument (value)
   * Naming a function
     - "show…" usually show something.
     - "get…" return a value.
@@ -162,6 +163,10 @@ languages and tools they use are secondary to this fundamental skill.
     - "is…" check something and return a boolean.
     - "check…" check something and return a boolean.
     - "verb…" make something, etc.
+  - Scope
+  * Recursion
+    - Base case
+    - Recursive case
 
 * Errors
   * Understanding errors
@@ -190,6 +195,8 @@ languages and tools they use are secondary to this fundamental skill.
   - Respecting standards in use
   - Avoid indiscriminate mixing of coding languages
   - Caution with imports
+
+- DRY (Don't Repeat Yourself)
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  

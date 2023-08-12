@@ -9,6 +9,7 @@
 - [“How-to” guides](https://docs.djangoproject.com/en/4.2/howto/)
 - [django-admin and manage.py](https://docs.djangoproject.com/en/4.2/ref/django-admin/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
+ -[Design philosophies](https://docs.djangoproject.com/en/4.2/misc/design-philosophies/)
 ### Requirements
 - [Python](https://www.python.org/)
 ### Terms and concepts
@@ -19,16 +20,34 @@
 5. Concepts
 6. Code samples
 7. API documentation
+- Python
+- Python package
 - Python web framework
 - Installation
-- django-admin and manage.py
-- Project
+- Project container
+* Project
+  - django-admin
+  - manage.py
+  - settings.py
+  - urls.py
 - Development server
-- Application
+* Application
+  - include the app in the project
 - Views
-- Urls
-- Database
-- Models
+* Urls
+  - include
+  - path
+* Database
+  - settings.py
+  - migrate
+* All the common database relationships
+  - many-to-one
+  - many-to-many
+  - one-to-one
+* Models
+  - Activating models
+  - makemigrations
+  - migrate
 - Super user
 - Administrative interface
 - Public interface
@@ -47,7 +66,52 @@ To verify that Django can be seen by Python, type python from your shell. Then a
 ```
 Or you can tell Django is installed and which version by running the following command in a shell prompt:
 ```
-python -m django --version
+$ python -m django --version
+```
+#### Create a Django project in virtual environment
+Create virtual environment
+```
+$ python -m venv <virtual_environment_name>
+```
+Activate virtual environment
+```
+$ source <virtual_environment_name>/bin/activate
+```
+Deactivate virtual environment
+```
+$ deactivate
+```
+Install Django
+```
+$ python -m pip install Django
+```
+Verifying
+```
+$ python3 -m django --version
+```
+Creating a project
+```
+$ django-admin startproject <name>
+```
+Interactive Python shell
+```
+$ python manage.py shell
+```
+Creating an application
+```
+$ django-admin startapp <name>
+```
+Sync database
+```
+$ python manage.py migrate
+```
+Create super user
+```
+$ python manage.py createsuperuser --email admin@example.com --username admin
+```
+Run server
+```
+$ python manage.py runserver
 ```
 #### Create a Django project in virtual environment
 Create virtual environment

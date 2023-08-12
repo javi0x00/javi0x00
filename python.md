@@ -118,12 +118,16 @@ $ python --version
   - Dictionary
   - Set
 * Functions
-  - Parameters/arguments
+  - Parameters
+  - Arguments
   * Return
     - Reference
     - Value
   - Scope
   - Lambda
+  * Recursion
+    - Base case
+    - Recursive case
 * Control flow
   * Conditionals
     - if
@@ -150,6 +154,9 @@ $ python --version
     - except
     - finaly
     - raise
+    - try ... except ... finaly
+    - try ... except ... else
+    - try ... except ... else ... finaly
 * POO
   * Object
     - Properties/Attributes
@@ -163,6 +170,7 @@ $ python --version
   - Instance
   * Modularity
     - import
+    - import ... as ...
     - from ... import
     - Packages
     * Building and Distributing Packages
