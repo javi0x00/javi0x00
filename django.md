@@ -32,7 +32,7 @@
   - urls.py
 - Development server
 * Application
-  - include the app in the project
+  - include the app in the project, add application in settings.py file
 - Views
 * Urls
   - include
@@ -48,9 +48,12 @@
   - Activating models
   - makemigrations
   - migrate
-- Super user
+- Admin user or Super user
 - Administrative interface
-- Public interface
+* Public interface "view"
+  - URL dispatcher
+  - template
+  - namespace
 - Templates
 - Forms
 - Tests
@@ -107,47 +110,12 @@ $ python manage.py migrate
 ```
 Create super user
 ```
-$ python manage.py createsuperuser --email admin@example.com --username admin
-```
-Run server
-```
-$ python manage.py runserver
-```
-#### Create a Django project in virtual environment
-Create virtual environment
-```
-$ python -m venv <virtual_environment_name>
-```
-Activate virtual environment
-```
-$ source <virtual_environment_name>/bin/activate
-```
-requirements.txt file
-```
-Django==4.2
-```
-Create project
-```
-$ django-admin startproject <project_name> .
-```
-Apply the migrations
-```
-$ python manage.py migrate
-```
-Create super user
-```
 $ python manage.py createsuperuser
 ```
 Run server
 ```
 $ python manage.py runserver
 ```
-##### Create a Django application
-Create application
-```
-$ python manage.py startapp <application_name>
-```
-Add application in settings.py file
 #### Create a Django project in Docker
 docker-compose.yml file
 ```
