@@ -345,6 +345,7 @@
 - https://www.pgadmin.org/
 - https://www.enterprisedb.com/
 - https://dbeaver.io/
+- https://sqlitebrowser.org/
 #### ORM
 - https://www.sqlalchemy.org/
 ---

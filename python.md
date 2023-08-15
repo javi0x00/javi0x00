@@ -74,6 +74,7 @@ $ python --version
 - Python coding style
 - Python scripts
 - PIP
+- Environment
 * Basic syntax
   * Keywords
     * I/O
@@ -84,13 +85,20 @@ $ python --version
       - return
   - Indentation
   - Comments single line, inline and multiline
+- Variable
 * Data types
   * Numbers
     - Integers
     - Floating-Point
     - Complex
-  - Strings
+  * Strings
+    - escape characters
+    - concatenation
+    - indexing
+    - methods
+    - properties
   - Booleans
+- Type conversion
 * Operators
   * Arithmetics
     - PEMDAS (Parentheses, Exponent, Multiplication, Division, Addition, Subtraction)
