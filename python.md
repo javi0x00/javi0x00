@@ -12,6 +12,7 @@
 ##### Style
 - PEP8
 - Pycodestyle
+- Black formatter
 ##### Zen
 ```
 The Zen of Python, by Tim Peters
@@ -113,7 +114,8 @@ $ python --version
   - Ternary
 * Data Structures
   - Variables
-  - Lists
+  * Lists
+    - 2D lists
   - Tuples
   - Dictionaries
   - Sets
@@ -145,6 +147,7 @@ $ python --version
     - for in
     - while
     - while else
+    - Nested loops
   - pass
   - continue
   - break
@@ -200,6 +203,8 @@ $ python --version
     * io module
       - Creation, Opening, Manipulation, Closing.
       - Pointer
+    - Reading files
+    - Writing files
   * Files
     - Binary files
     - JSON files
