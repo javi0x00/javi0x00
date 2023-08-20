@@ -5,6 +5,7 @@
 - [Python](https://www.python.org/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python Documentation contents](https://docs.python.org/3/contents.html)
+- [Python Module Index](https://docs.python.org/3/py-modindex.html)
 - [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)
 - [PEP - Python Enhancement Proposals](https://www.python.org/dev/peps/)
 - [Python Package Index](https://pypi.org/)
@@ -180,6 +181,10 @@ $ python --version
     - Methods
   - Instance
   * Modularity
+    * Modules
+      - Built-in
+      - External
+      - Own
     - import
     - import ... as ...
     - from ... import

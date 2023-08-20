@@ -100,7 +100,10 @@ languages and tools they use are secondary to this fundamental skill.
   - Bitwise
 * Data structures
   * Simple or Primitive
-    - Varialble
+    * Variable
+      - type
+      - name
+      - value or reference
     - Constant
   * Non primitive okr Structured
     * lineal
@@ -136,6 +139,7 @@ languages and tools they use are secondary to this fundamental skill.
   - Low level
   - High level
   - Program structure
+  - Syntax
   - Keywords
   - Translators
   - Instructions
@@ -197,6 +201,29 @@ languages and tools they use are secondary to this fundamental skill.
   - Caution with imports
 
 - DRY (Don't Repeat Yourself)
+---
+#### Introduction to Programming and Computer Science
+- Introduction
+- What is programming?
+- How do we write code?
+- How do we get information from computers?
+- What can Computer's do?
+- What are variables?
+- How do we manipulate variables?
+- What are conditional statements?
+- What are arrays?
+- What are loops?
+- What are errors?
+- How do we debug code?
+- What are functions?
+- How can we import functions?
+- How do we make our own functions?
+- What are array lists and dictionaries?
+- How can we use data structures?
+- What is recursion?
+- What is pseudocode?
+- Choosing the right language?
+- Applications of programming
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
