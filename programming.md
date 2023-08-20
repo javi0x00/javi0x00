@@ -105,17 +105,23 @@ languages and tools they use are secondary to this fundamental skill.
       - name
       - value or reference
     - Constant
-  * Non primitive okr Structured
-    * lineal
-      - stack, queue, list, array
+  * Non primitive or Structured
+    * Lineal
+      - stack, queue, list, array, linked list, hash table
     * Non lineal
-      - tree, grafo
+      - tree, grafo, dictionary
   - Dynamic
   - Static
   - Initialization
   - Declaration
   - Assignment
   - Scope
+  * Efficiency
+    - Searching algorithms
+    - Sorted
+    - Unsorted
+    - Worst case scenario O(n), O(log n)
+    - Average scenario O(n/2), O(log n)
 * Control flow
   - Sequential
   - Selective
@@ -159,6 +165,7 @@ languages and tools they use are secondary to this fundamental skill.
 * Functions
   - Parameter (variable)
   - Argument (value)
+  - Return value
   * Naming a function
     - "show…" usually show something.
     - "get…" return a value.
@@ -175,13 +182,18 @@ languages and tools they use are secondary to this fundamental skill.
 * Errors
   * Understanding errors
     - Syntax error
+    - Runtime error
     - Logic error
   - Resolving errors
 
 * Resolving errors
   - Read the error carefully
-  - Google
-  - Debugger
+  * Debugger
+    - Version manager
+    - Run program frequently
+    - Breakpoint debugging
+    - Commenting
+  - External resources (Search, forum, etc)
 
 * Clean code
   - Logic before coding
