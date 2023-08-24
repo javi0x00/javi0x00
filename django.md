@@ -9,7 +9,8 @@
 - [“How-to” guides](https://docs.djangoproject.com/en/4.2/howto/)
 - [django-admin and manage.py](https://docs.djangoproject.com/en/4.2/ref/django-admin/)
 - [Classy Class-Based Views](https://ccbv.co.uk/)
- -[Design philosophies](https://docs.djangoproject.com/en/4.2/misc/design-philosophies/)
+- [Design philosophies](https://docs.djangoproject.com/en/4.2/misc/design-philosophies/)
+- [Django Debug Toolbar](https://django-debug-toolbar.readthedocs.io/)
 ### Requirements
 - [Python](https://www.python.org/)
 ### Terms and concepts
@@ -20,6 +21,12 @@
 5. Concepts
 6. Code samples
 7. API documentation
+* Database
+  - Table
+  - Column
+  - Key
+  - Relationship
+- ORM or Object-Relational Mapper
 - Python
 - Python package
 - Python web framework
@@ -94,7 +101,7 @@ $ python3 -m django --version
 ```
 Creating a project
 ```
-$ django-admin startproject <name>
+$ django-admin startproject <name> .
 ```
 Interactive Python shell
 ```

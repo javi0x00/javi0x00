@@ -213,6 +213,10 @@ languages and tools they use are secondary to this fundamental skill.
   - Caution with imports
 
 - DRY (Don't Repeat Yourself)
+
+* Architecture
+  - Monolithic
+  - Microservices
 ---
 #### Introduction to Programming and Computer Science
 - Introduction
