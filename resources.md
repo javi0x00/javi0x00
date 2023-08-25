@@ -32,6 +32,7 @@
   - [Colors](#colors)
   - [Drawing tools](#drawing-tools)
   - [Emojies](#emojies)
+  - [Favicons](#favicons)
   - [Fonts](#fonts)
   - [Icons](#icons)
   - [Inspiration](#inspiration)
@@ -389,6 +390,8 @@
 - https://madgicx.com/facebook-emojis/
 - https://emojiterra.com/
 - https://flagpedia.net/
+#### Favicons
+- https://favicon.io/
 #### Fonts
 - https://www.jetbrains.com/lp/mono/
 - https://fonts.google.com/
@@ -579,6 +582,7 @@
 - https://leetcode.com/
 - https://www.codedex.io/
 - https://github.com/Asabeneh?tab=repositories
+- https://scrimba.com/
 ---
 ### Open Source
 - https://opensource.org/
