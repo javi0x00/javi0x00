@@ -98,7 +98,8 @@ $ git branch -d <branch name>
 $ git branch -D <branch name>
 $ git push origin --delete <branch name>
 $ git branch -a
-$ git checkout -b <remote branch name> origin/<remote branch name>
+$ git checkout -b <new local branch name> origin/<remote branch name>
+$ git checkout -t origin/<remote branch name>
 ```
 History
 ```
