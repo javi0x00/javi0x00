@@ -145,6 +145,8 @@
 - https://genderize.io/
 - https://nationalize.io/
 - https://apipheny.io/free-api/
+- https://www.randomlists.com/data/words.json
+- http://www.poslarchive.com/math/scrabble/lists/
 ---
 ### Authentication
 - https://jwt.io/
