@@ -169,6 +169,25 @@ $ python --version
     - try ... except ... finaly
     - try ... except ... else
     - try ... except ... else ... finaly
+
+* Inmutable
+  - str
+  - int
+  - float
+  - bool
+  - bytes
+  - tuple
+* Mutable
+  - list
+  - dictionary
+  - set
+
+- List comprehensions
+- Function argument
+- Parameter types
+- Magic functions
+- Global interpreter lock or GIL
+
 * POO
   * Object
     - Properties/Attributes
@@ -235,7 +254,7 @@ $ python --version
 * Graphic User Interface
   - tkinter module
 
-* Some special methods
+* Special methods or magic functions
   - __init__
   - __str__
   -  ...
