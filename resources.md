@@ -225,6 +225,8 @@
     - https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
 * Doc Reader
   - https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
+* Emojis
+  - https://marketplace.visualstudio.com/items?itemName=bierner.emojisense
 * Git
   - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 * HTTP Client
@@ -266,6 +268,7 @@
   - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 * Server
   - https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server
+  - https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
   - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 * Themes
   - https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
