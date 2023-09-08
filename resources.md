@@ -379,6 +379,7 @@
 - https://color.adobe.com/
 - https://brandcolors.net/
 - https://hslpicker.com/
+- https://uigradients.com/
 #### Drawing tools
 - https://flameshot.org/
 - https://excalidraw.com/
