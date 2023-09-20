@@ -240,6 +240,17 @@ languages and tools they use are secondary to this fundamental skill.
 - What is pseudocode?
 - Choosing the right language?
 - Applications of programming
+##### SOLID Principles
+* Single Responsibility Principle
+  - One task, only one responsibility.
+* Open/Close Principle
+  - Open for extensión, close for modification.
+* Liskov Substitution Principle
+  - Every subclass or derived class should be substitutable for their base or parent class.
+* Interface Segregation Principle
+  - Only require what is used.
+* Dependency Inversion Principle
+  - Entities must depend on abstractions, not on concretions.
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  

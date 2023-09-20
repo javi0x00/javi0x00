@@ -92,6 +92,8 @@ $ ng generate guard <name>
     - Ex: RouterModule
     - Ex: FormsModule
 
+- Routing
+
 - Install packages
 - Config file
 - The RxJS library
