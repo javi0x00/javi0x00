@@ -52,6 +52,10 @@ $ ng generate guard <name>
   * Class
     - Methods
     - Constructor
+  * Lifecycle
+    - ngOnInit
+    - ngOnChanges
+    - ngOnDestroy
 * Create a new component
   - Manually
   * Automatically
@@ -66,7 +70,7 @@ $ ng generate guard <name>
 - Event binding
 - Handling Events
 - Two-way binding, bidirectional binding, Banana in a Box
-* Databinding
+* Data binding
   - Interpolation
   * Binding
     - One way binding
