@@ -30,6 +30,13 @@ Guards
 $ ng generate guard <name>
 ```
 ### Terms and concepts
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 - Angular
 * First steps
   - Install de Angular CLI

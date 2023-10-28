@@ -5,6 +5,13 @@
 * [MongoDB](https://www.mongodb.com/)
 * [MongoDB Documentation](https://www.mongodb.com/docs/)
 ### Terms and concepts
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 * Database
 * MongoDB Editions
 * MongoDB Shell

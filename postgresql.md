@@ -7,6 +7,13 @@
 #### Help
 * [Create local server](https://stackoverflow.com/questions/53267642/create-new-local-server-in-pgadmin)
 ### Terms and concepts
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 #### Basic setup
 ```
 $ sudo apt install postgresql postgresql-contrib

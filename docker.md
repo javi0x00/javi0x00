@@ -7,6 +7,13 @@
 - [Docker Docs](https://docs.docker.com/)
 - [Docker Reference documentation](https://docs.docker.com/reference/)
 ### Terms and concepts
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 - Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)
   - Files

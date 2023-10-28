@@ -15,13 +15,13 @@
 ### Requirements
 - [Python](https://www.python.org/)
 ### Terms and concepts
-1. What and why
-2. What do
-3. Why use
+1. What is it
+2. What does it do
+3. Why to use it
 4. Getting started
 5. Concepts
 6. Code samples
-7. API documentation
+7. Documentation
 - Python
 - Python module
 - Python types

@@ -20,6 +20,13 @@
 ### Requirements
 - Nodejs
 ### Terms and concepts
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 - Svelte
 - Sapper
 - SvelteKit
@@ -61,21 +68,38 @@
 - Depth
 - Dispatcher
 - Context API
-- Bind
-- Routing
-  * Layout
-  * Dynamic routes
-  * Reset layout
-  * Error
-  * Layouts for pages
-  * Error for pages
-  * SPA mode
+- User input
+- Data binding
+- Reactive values
+- Inline event handlers
+- Event forwarding
+- Page
+- Routes
+- Reusable components
+- Layout component
+- Reset layout
+- Dynamic routes
+- Redirects
+* Routing
+  - Error
+  - Layouts for pages
+  - Error for pages
+  - SPA mode
+- Slots
 - Composition with Slot element
   * Slot props
+- Loading data & SSR
+- Client side vs Server-side code
 - Endpoints
 - Stores
-- Transitions
 - Key block
+- CSS & Conditional styles
+- Transitions
+- Tweens
+- Animations
+- Wrap up
+- Prefetching data
+- API Routes
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
