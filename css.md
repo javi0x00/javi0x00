@@ -15,12 +15,11 @@
 - [CSS pixel](https://developer.mozilla.org/en-US/docs/Glossary/CSS_pixel)
 ### Terms and concepts
 - CSS or Cascading Style Sheets
-
+- Box model
 * Syntax
 	- Shorthand
 - Indention
 - Comments
-
 * Rules
 	* Parts
 		- Selector
@@ -32,17 +31,13 @@
 		- in block, in style element
 		- link to external css file
 		- import a style sheet into another style sheet
-
 * Selector
 	* Element
 		- Block
-		- Inline
+		- Line
 	* Declaration or block
 		- Attribute or Property
 		- Value
-
-- Box model
-
 * Selectors
 	- Universal selector
 	- Mark or Tag or Element or Type selector
@@ -50,7 +45,6 @@
 	- Attribute selector / Attribute and value [ * ^ $ ~ | ]
 	- Id selector
 	- Grouping selectors
-
 * Selector Combinations or Grouping selectors
 	* Sibling element
 		- General ~
@@ -65,12 +59,10 @@
 	* Pseudo-element ::
 		- Typographic
 		- Content
-
 * Attributes
 	- Box or container
 	- Typography
 	- Other content
-
 * Values and Units
 	- Absolute (ej: px, 1px = 1/96th of 1in)
 	- Relative (ej: %, em, rem)
@@ -78,33 +70,27 @@
 		- Font size: rem
 		- Padding and margin: em 
 		- Widths: em or percentage
-
 * DOM
 	- Flow
 	- Default values
 	- Inheritance
 	- Overriding
-
 * Cascade
 	* Algorithm
 		- Origin
 		- Specificity
 		- Order
-
 * Origin
 	1. Author
 	2. User custom
 	3. User Agent stylesheet / Browser
-
 * Specificity
 	1. !important keyword
 	2. Inline
 	3. Identifier
 	4. Class and pseudo-class
 	5. Element and pseudo-element
-
 - Collision
-
 *	Prioritize
 	1. !important keyword
 	2. Inline
@@ -115,7 +101,6 @@
 	7. Author
 	8. User custom
 	9. User Agent stylesheet / Browser
-
 * Hierarchy
 	- Descendant
 	- Parent element
@@ -124,7 +109,6 @@
 	- Automatic or default mode
 	- Manually or force mode
 	* CSS Combinators
-
 * Color
 	* Values
 		- keywords
@@ -135,11 +119,8 @@
 		- RGBA
 		- HSL
 		- HSLA
-
 - Fonts
-
 - Layout
-
 * Media queries
 	* Breakpoint
 		- 320px, 480px, 600px, 768px, 1024px, 1200px
@@ -153,24 +134,18 @@
 		- 768px / 16px = 48em
 		- 1024px / 16px = 64em
 		- 1200px / 16px = 75em
-
 - Positioning
-
 - Feature queries
-
 - Custom properties or Variables
-
 * Reset styles
 	- Reset
 	- Normalize
-
 * CSS browser prefixes
 	- -webkit-	Chrome, Safari, Android
 	- -moz-		Firefox
 	- -o-			Opera
 	- -ms-		Internet Explorer
 	- -khtml-		Konqueror
-
 * CSS effects
 	* Shadows
 		- box-shadow
@@ -231,34 +206,28 @@
 		- animation-direction
 		- animation-fill-mode
 		- animation-play-state
-
 * Multi device
 	- Responsive design
 	- Adaptive design
 	- Responsive design + Server Side Components (RESS)
 	- Responsible responsive design
 	- Fluid design
-
 - SEO
-
 * CSS architecture
 	- Predictable
 	- Reusable
 	- Stable
 	- Scalable
-
 * Components
 	- One only function
 	- Independent
 	- Auto-content
 	- Reusable
-
 * Tools
 	- Methodologies
 	- Frameworks
 	- Processors
 	- Style guide
-
 #### example.css
 ```
 /* RESET STYLES MANUALLY */
@@ -280,12 +249,10 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
 img, audio, video, iframe, canvas, svg, picture {
 	max-width: 100%;
 	height: auto;
 }
-
 img {
 	width: 100%;
 	height: 100%;

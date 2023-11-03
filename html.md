@@ -25,42 +25,36 @@
 - [W3C Making the Web Accessible](https://www.w3.org/WAI/)
 - [HTML5 Accessibility](https://html5accessibility.com/)
 - [MDN A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [HTML Dog](https://www.htmldog.com/)
 ### Terms and concepts
 - HTML or HyperText Markup Language
-
 - Syntax
 - Indention
 - Comments
-
+- Case-insensitive
 * File HTML
 	* Basic structure
 		- Document type declaration
 		* Root element
 			- Basic elements
-
+* Metadata
+	- Basic
+	- Advanced
 * Markup or Tag or Element
 	- Attribute
 	- Value
 	* Default properties
-		- Block
-		- Inline
-
+		- Block type
+		- Line type
 * Tag
 	- Open tag
 	- Close tag
 	- Self-closing tag
-
 * Hierarchy
 	- Parent element
 	- Sibling element
 	- Child element
-
-* Metadata
-	- Basic
-	- Advanced
-
-* Generic elements
-
+- Generic elements
 * Semantic tags
 	* Structure
 		- Header
@@ -68,10 +62,12 @@
 		- Main
 		- Aside
 		- Footer
+	* Substructure
 		- Section
 		- Article
 	* Typography
 		- Headings
+		- Headings group
 		- Paragraph
 	* Content
 		- Image
@@ -82,37 +78,39 @@
 				-	Prevent Tabnabbing
 		- Lists
 		- Table
-		* Form
-			- Labels
-			- Inputs
-			- Groups
-			- Selects
-			- Areas
-		- Buttons
 		- Address
 		- Interactive
 		- Multimedia
 		- Iframes
 		- Horizontal line
 		- Line Break
+		- Buttons
+		* Form
+			- Labels
+			- Inputs
+			- Groups
+			- Selects
+			- Areas
 		- Script
-
-- Entity
-- DOM
-- Tree DOM
-- SEO
+- Character entities
+- Character sets
+- Tree structure
 - Accessibility
+- SEO
+- DOM and tree DOM
 #### Examples
 ```
 <!-- HTML comments -->
+<!--  -->
 <!DOCTYPE html><!-- declaración estandar HTML5 -->
 <html lang="en" dir="ltr"><!-- indicar el idioma del contenido del documento -->
 <html lang="es-co"><!-- mejores resultados a nivel local -->
 	<head><!-- información para navegadores y buscadores -->
-    <meta name="google-site-verification" content=""><!-- código de verificación del sitio suministrado por google -->
-  	<meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- compatibilidad iexplorer -->
     <meta charset="UTF-8"><!-- indicar codificación, interpretación de acentos y caracteres especiales -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"><!-- responsive -->
+    <title>Tags</title><!-- título de la pestaña del documento -->
+    <meta name="google-site-verification" content=""><!-- código de verificación del sitio suministrado por google -->
+  	<meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- compatibilidad iexplorer -->
 		<meta name="robots" content=""><!-- permisos al robot de busqueda -->
 		<meta name="copyright" content=""><!-- copyright del documento -->
 		<meta name="owner" content=""><!-- propietario del documento -->
@@ -123,6 +121,7 @@
 		<meta http-equiv="refresh" content=""><!-- programar un refresco o redireccionamiento de la página -->
 		<meta name="theme-color" content=""><!-- color barra navegador -->
 		<meta property="" content=""><!-- The Open Graph protocol -->
+		<base href="" target="_blank"><!-- Specify a default URL and a default target for all links on a page -->
 		<link rel="canonical" href=""><!-- página canonica -->
 		<link rel="apple-touch-icon" href=""><!-- ícono dispositivos touch -->
 		<link rel="shortcut icon" type="image/x-icon" href=""><!-- agregar icono "favicon" -->
@@ -134,7 +133,6 @@
  		<script type="text/javascript"></script><!-- agregar código javascript -->
 		<script language="javascript" type="text/javascript" src=""></script><!-- Llamar librerías externas -->
 		<noscript></noscript><!-- para mostrar mensaje si no tiene habilitado javascript -->
-    <title>Tags</title><!-- título de la pestaña del documento -->
 	</head>
 	<body><!-- lo incluido en "body" es lo que visualiza el usuario en el navegador -->
 		<!-- Semánticos -->
