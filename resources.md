@@ -127,6 +127,7 @@
 - https://genderize.io/
 - https://github.com/davemachado/public-api
 - https://httpbin.org/
+- https://icanhazdadjoke.com/
 - https://nationalize.io/
 - https://min-api.cryptocompare.com/documentation
 - https://openweathermap.org/
