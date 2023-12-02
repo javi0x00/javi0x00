@@ -24,7 +24,7 @@
 Install
 ```
 $ apt-get install openssh-server
-$ systemclt enable ssh
+$ systemctl enable ssh
 $ 
 ```
 Connect
