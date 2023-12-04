@@ -6,6 +6,7 @@
 - [Docker Hub](https://hub.docker.com/)
 - [Docker Docs](https://docs.docker.com/)
 - [Docker Reference documentation](https://docs.docker.com/reference/)
+- [Docker Engine overview](https://docs.docker.com/engine/)
 ### Terms and concepts
 1. What is it
 2. What does it do
@@ -50,7 +51,14 @@
   - Host
 * Dockerignore
 ### Installation
-Download and install
+- Docker Engine
+- Docker Desktop (optional)
+
+Verify
+```
+$ docker -v
+$ sudo docker run hello-world
+```
 ### Image
 Basic commands
 ```
