@@ -243,6 +243,14 @@ Bitbucket - App passwords
 ```
 $ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPACE/REPO.git
 ```
+### Git Branching
+1. A **develop** branch is created from **main**
+2. A *release* branch is created from **develop** `release/vX.X.X`
+3. *feature* branches are created from **develop** `feature/myfeature`
+4. When a *feature* is complete it is merged into the **develop** branch
+5. When the *release* branch is done it is merged into **develop** and **main**
+6. If an issue in **main** is detected a *hotfix* branch is created from **main** `hotfix/myfix`
+7. Once the *hotfix* is complete it is merged to both **develop** and **main**
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023

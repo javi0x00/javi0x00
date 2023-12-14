@@ -7,6 +7,28 @@
   - [nvm](https://github.com/nvm-sh/nvm)
   - [NVM for Windows](https://github.com/coreybutler/nvm-windows)
   - [n](https://github.com/tj/n)
+* Node Package Manager
+  - [npm](https://www.npmjs.com/)
+  - [pnpm](https://pnpm.io/)
+### NVM
+Verify
+```
+$ nvm -v
+$ nvm install --lts
+$ nvm ls
+$ nvm ls-remote
+$ nvm install vA.B.C
+$ nvm use vA.B.C
+```
+### pnpm
+Install
+```
+$ npm install -g pnpm
+```
+Verify
+```
+$ pnpm -v
+```
 ### Terms and concepts
 * Node.js
   * Fork
