@@ -74,16 +74,16 @@ Always respond with JSON, keep single structure:
 
 1. result: "successful" or "error", just one of these two strings
 2. message: A string according to the case, never an empty string
-3. data: According to the case or None, only one of these two options
+3. data: According to the case or null, only one of these two options
 
 Sample of a successful case:
 ```
-    {"result": "successful", "message": "Done", "data": None}
+    {"result": "successful", "message": "Done", "data": null}
 ```
 
 Sample of an error case:
 ```
-    {"result": "error", "message": "Underdone", "data": None}
+    {"result": "error", "message": "Underdone", "data": null}
 ```
 ---
 # Technical documentation
