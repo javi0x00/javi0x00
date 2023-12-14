@@ -77,14 +77,14 @@ Always respond with JSON, keep single structure:
 3. data: According to the case or None, only one of these two options
 
 Sample of a successful case:
-`
+```
     {"result": "successful", "message": "Done", "data": None}
-`
+```
 
 Sample of an error case:
-`
+```
     {"result": "error", "message": "Underdone", "data": None}
-`
+```
 ---
 # Technical documentation
 ## Getting Started
