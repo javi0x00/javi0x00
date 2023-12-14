@@ -1,6 +1,14 @@
 # :memo: Notes
 ## SETUPS
 ---
+### Mapping of IP addresses to URLs
+/etc/hosts
+```
+127.0.0.1	localhost
+::1		localhost
+# 127.0.1.1	pop-os.localdomain	pop-os
+# xxx.xxx.xxx.xxx	subdomain.domain.com
+```
 ### JSDoc
 Install
 ```
