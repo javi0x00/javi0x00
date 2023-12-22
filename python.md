@@ -77,17 +77,21 @@ $ python --version
 - Python scripts
 - PIP
 - Environment
+
 * Basic syntax
-  * Keywords
-    * I/O
-      - format()
-      - input()
-      - open()
-      - print()
-      - return
+  - Keywords
   - Indentation
-  - Comments single line, inline and multiline
-- Variable
+  * Comments
+    - Inline
+    - Multiline
+
+* Variable
+  * Declaring
+    - Single
+    - Multiple
+  - Hierarchy
+  - Scope
+
 * Data types
   * Numbers
     - Integers
@@ -100,7 +104,8 @@ $ python --version
     - methods
     - properties
   - Booleans
-- Type conversion
+  - Type conversion
+
 * Operators
   * Arithmetics
     - PEMDAS (Parentheses, Exponent, Multiplication, Division, Addition, Subtraction)
@@ -113,32 +118,7 @@ $ python --version
   - Membership
   - Bitwise
   - Ternary
-* Data Structures
-  - Variables
-  * Lists
-    - 2D lists
-  - Tuples
-  - Dictionaries
-  - Sets
-  - Extra
-    - Arrays
-* Methods
-  - String
-  - List
-  - Tuple
-  - Dictionary
-  - Set
-* Functions
-  - Parameters
-  - Arguments
-  * Return
-    - Reference
-    - Value
-  - Scope
-  - Lambda
-  * Recursion
-    - Base case
-    - Recursive case
+
 * Control flow
   * Conditionals
     - if
@@ -153,10 +133,58 @@ $ python --version
   - continue
   - break
   - Nested
-* Generators
-  - yield
-  - yield from
-  - next
+
+* Data Structures
+  - Variables
+  * Lists
+    - Matrix, 2D list or more
+  - Tuples
+  - Dictionaries
+  - Sets
+  - Extra
+    - Arrays
+
+* Inmutable
+  - str
+  - int
+  - float
+  - bool
+  - bytes
+  - tuple
+
+* Mutable
+  - list
+  - dictionary
+  - set
+
+* Functions
+  * Parameters
+    - *args
+    - **kwargs
+  - Arguments
+  * Return
+    - Reference
+    - Value
+  - Nested
+  - Scope
+  - Lambda
+  * Recursion
+    - Base case
+    - Recursive case
+  * Built-in
+    * Interaction I/O
+      - input()
+      - print()
+    * Methods
+      - String
+      - List
+      - Tuple
+      - Dictionary
+      - Set
+    - Common
+
+* Decorators
+
 * Errors and Exceptions
   - Errors
   - Exceptions
@@ -170,17 +198,10 @@ $ python --version
     - try ... except ... else
     - try ... except ... else ... finaly
 
-* Inmutable
-  - str
-  - int
-  - float
-  - bool
-  - bytes
-  - tuple
-* Mutable
-  - list
-  - dictionary
-  - set
+* Generators
+  - yield
+  - yield from
+  - next
 
 - List comprehensions
 - Function argument
@@ -258,12 +279,6 @@ $ python --version
   - __init__
   - __str__
   -  ...
-
-*  Some Built-in functions
-  - range()
-  - len()
-  - super()
-  - isinstance()
 
 * Some external libraries
   - smtplib

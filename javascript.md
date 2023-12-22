@@ -52,9 +52,12 @@
 
 * Variables
   * Stages
-    - Declaration
+    * Declaration
+      - Single
+      - Multiple
     - Initializing
     - Modification
+  - Hierarchy
   - Scope
   - Hoisting
   - Context
@@ -93,6 +96,7 @@
 * Data structures
   * Arrays
     - Array of objects
+    - Matrix, 2D array or more
   * Objects (Special non-data)
     * Propierties
       - Key, Value
@@ -120,7 +124,8 @@
 * Operations
 
 * Operators
-  - Arithmetic operators
+  * Arithmetic operators
+    - PEMDAS (Parentheses, Exponent, Multiplication, Division, Addition, Subtraction)
   - Increment operators
   - Decrement operators
   - Assignment operators
@@ -345,7 +350,13 @@
     * Without arguments
       - No parameter list
   - Implicit return or default return
-  - Built-in
+  * Built-in
+    * Interaction methods I/O
+      - prompt
+      - confirm
+      - alert
+      - write
+      - console
   - Function declaration (search in the same object, in the current object)
   * Function expression
     - Regular function
