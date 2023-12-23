@@ -194,6 +194,7 @@ $ python --version
     - except
     - finaly
     - raise
+    - try ... except
     - try ... except ... finaly
     - try ... except ... else
     - try ... except ... else ... finaly
