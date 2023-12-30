@@ -9,8 +9,8 @@
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [Vue TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/vue)
 ### Requirements
-#### Install
 - Nodejs
+#### Install
 - TypeScript
 ##### Setup
 ###### Basic
@@ -22,6 +22,7 @@ $ node --save-dev
 ### Basic Commands
 ```
 $ tsc -v
+$ tsc <file name>
 $ tsc <file name> -w
 $ tsc -init
 $ tsc *.ts -w
@@ -45,12 +46,8 @@ $ tsc *.ts -w
     - boolean
     - number
     - string
-  * Special
-    * Generic
-      - any
-    - void
-    - null
     - undefined
+    - null
   * Complex
     - array
     - tuple
@@ -59,6 +56,14 @@ $ tsc *.ts -w
     * Generic
       - utility
       - custom
+  * Special
+    * Generic
+      - any
+    - void
+  * Custom
+    - class
+    - interface
+    - type
   - Inference
   - Alias
   - Literals
