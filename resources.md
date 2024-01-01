@@ -479,6 +479,7 @@
 - https://devtalles.com/files/docker-cheat-sheet.pdf
 ---
 ### Documentation
+- https://devdocs.io/
 - https://jsdoc.app/
 * https://github.com/jsdoc/jsdoc
   - https://www.section.io/engineering-education/jsdoc-documentation/
