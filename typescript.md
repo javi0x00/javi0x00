@@ -13,7 +13,17 @@
 #### Install
 - TypeScript
 ##### Setup
-###### Basic
+Global
+```
+$ npm install -g typescript
+```
+
+Project
+```
+$ tsc -init
+```
+
+###### Basics
 ```
 $ npm install --save-dev typescript
 $ node_modules/.bin/tsc --init
@@ -70,6 +80,9 @@ $ tsc *.ts -w
   - Union
   - Discriminating Unions
   - Intersection Types
+  - Implicit
+  - Explicit
+  - Casting or overriding
 
 - Shape
 
