@@ -87,6 +87,10 @@ $ tsc *.ts -w
 - Shape
 
 * Functions
+  - Optional parameter
+  - Default argument
+  - Return type
+  - Signature
   * Param and return
     - Types
     - Type Inference
@@ -146,6 +150,7 @@ $ tsc *.ts -w
 - Union types
 
 * Modularity
+  - Settings
   - Export
   - Import
 
