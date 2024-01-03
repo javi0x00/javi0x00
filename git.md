@@ -118,7 +118,8 @@ Tagging
 ```
 $ git tag
 $ git tag <tag name>
-$ git push --tags
+$ git describe -tag
+$ git push --tag
 $ git push --delete origin <tag name>
 $ git tag -d <tag name>
 ```
@@ -253,5 +254,5 @@ $ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPAC
 7. Once the *hotfix* is complete it is merged to both **develop** and **main**
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

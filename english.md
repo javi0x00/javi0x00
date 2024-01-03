@@ -80,5 +80,5 @@
 - Frequency adverbs
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
