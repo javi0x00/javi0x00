@@ -97,6 +97,7 @@
     - [gitignore file](#gitignore-file)
 - [Versioning](#versioning)
 ---
+[:top: Back to menu](#resources)
 ### API's
 - Open APIs
 - Partner APIs
@@ -150,13 +151,17 @@
 - https://www.randomlists.com/data/words.json
 - http://www.tvmaze.com/api
 ---
+[:top: Back to menu](#resources)
 ### Authentication
 - https://jwt.io/
 ---
+[:top: Back to menu](#resources)
 ### Authorization
 - https://oauth.net/
 ---
+[:top: Back to menu](#resources)
 ### Browsers
+- https://browsehappy.com/
 #### Extensions
 - https://www.wappalyzer.com/
 - React developer tools
@@ -167,6 +172,7 @@
 - Clear Cache
 - Moesif Origin & CORS Changer
 ---
+[:top: Back to menu](#resources)
 ### Challenges
 - https://www.dailycodingproblem.com/
 - https://www.frontendmentor.io/
@@ -182,6 +188,7 @@
 - https://workat.tech/problem-solving/lists/beginner-problems/practice
 - https://codeforwin.org/2015/05/basic-programming-practice-problems.html
 ---
+[:top: Back to menu](#resources)
 ### Code editor
 - https://www.vim.org/
 - https://neovim.io/
@@ -282,6 +289,7 @@
   - https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
   - https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx
 ---
+[:top: Back to menu](#resources)
 ### Code Sharing
 - https://gist.github.com/
 - https://playcode.io/
@@ -303,10 +311,14 @@
 - https://controlc.com/
 - https://etherpad.org/
 - https://killedbygoogle.com/
+- https://www.codewars.com/
 ---
+[:top: Back to menu](#resources)
 ### Community
+- https://developers.google.com/
 - https://web.dev/
 ---
+[:top: Back to menu](#resources)
 ### CSS
 #### Animations
 - https://www.matthewlein.com/tools/ceaser
@@ -347,6 +359,7 @@
 #### Resets
 - https://meyerweb.com/eric/tools/css/reset/
 ---
+[:top: Back to menu](#resources)
 ### Databases
 - https://www.mysql.com/
 - https://www.mongodb.com/
@@ -357,15 +370,18 @@
 #### ORM
 - https://www.sqlalchemy.org/
 ---
+[:top: Back to menu](#resources)
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console
 - https://firefox-source-docs.mozilla.org/devtools-user/
 - https://developer.chrome.com/docs/devtools/
 - https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/
 ---
+[:top: Back to menu](#resources)
 ### Deploy
 - https://www.netlify.com/
 ---
+[:top: Back to menu](#resources)
 ### Design
 - https://whydoweinterface.com/
 #### Colors
@@ -475,9 +491,11 @@
 - https://balsamiq.com/
 - https://www.adobe.com/products/xd.html
 ---
+[:top: Back to menu](#resources)
 ### Docker
 - https://devtalles.com/files/docker-cheat-sheet.pdf
 ---
+[:top: Back to menu](#resources)
 ### Documentation
 - https://devdocs.io/
 - https://jsdoc.app/
@@ -487,6 +505,7 @@
 - https://apidocjs.com/
 - https://swagger.io/
 ---
+[:top: Back to menu](#resources)
 ### HTML
 - https://codeguide.co/
 - https://madebymike.github.io/html5-periodic-table/
@@ -497,19 +516,23 @@
 - [MJML](https://mjml.io/)
 - [Foundation for Emails](https://get.foundation/emails.html)
 ---
+[:top: Back to menu](#resources)
 ### HTTP Clients
 - https://www.postman.com/
 - https://insomnia.rest/
 ---
+[:top: Back to menu](#resources)
 ### IDE
 - https://www.jetbrains.com/
 - https://coderunnerapp.com/
 ---
+[:top: Back to menu](#resources)
 ### JSON
 - https://nodejs.dev/learn/the-package-json-guide
 - https://jsonapi.org/
 - https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
 ---
+[:top: Back to menu](#resources)
 ### JavaScript
 #### Altering CSS
 - http://domenlightenment.com/#6.2
@@ -573,72 +596,102 @@
 #### Spreadsheets
 - https://sheetjs.com/
 ---
+[:top: Back to menu](#resources)
 ### Licence
 - https://choosealicense.com/
 ---
+[:top: Back to menu](#resources)
 ### Learn
+- https://code.org/
+- https://chuidiang.org/
+- https://desarrolloweb.com/
+- https://developer.mozilla.org/
+- https://github.com/Asabeneh?tab=repositories
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/jwasham/coding-interview-university/blob/main/translations/README-es.md
+- https://learn.microsoft.com/
+- https://leetcode.com/
+- https://programacion.net/
+- https://scrimba.com/
 - https://tutsplus.com/
-- https://www.sololearn.com/
-- https://www.javascript.com/
-- https://www.programiz.com/
-- https://www.w3schools.com/
+- https://uniwebsidad.com/
+- https://w3cx.org/
+- https://webdevelopermentor.com/
+- https://www.aprenderaprogramar.com/
 - https://www.codecademy.com/
-- https://www.studytonight.com/
+- https://www.codedex.io/
+- https://www.coursera.org/
+- https://www.edx.org/
 - https://www.freecodecamp.org/
 - https://www.geeksforgeeks.org/
-- https://developer.mozilla.org/
-- https://webdevelopermentor.com/
-- https://leetcode.com/
-- https://www.codedex.io/
-- https://github.com/Asabeneh?tab=repositories
-- https://scrimba.com/
+- http://www.ite.educacion.es/formacion/materiales/182/cd/indice.htm
+- https://www.javascript.com/
+- https://www.jotajotavm.com/
+- https://www.khanacademy.org/
+- https://www.pildorasinformaticas.es/
+- https://www.programiz.com/
+- https://www.sololearn.com/
+- https://www.studytonight.com/
+- https://www.w3schools.com/
+- https://www.yopuedoprogramar.com/
 ---
+[:top: Back to menu](#resources)
 ### Open Source
 - https://opensource.org/
 ---
+[:top: Back to menu](#resources)
 ### Postmortem
 - https://www.atlassian.com/incident-management/postmortem
 - https://www.atlassian.com/incident-management/postmortem/reports
 - https://docs.microsoft.com/en-us/compliance/assurance/assurance-sim-post-incident-activity
 - https://sre.google/sre-book/postmortem-culture/
 ---
+[:top: Back to menu](#resources)
 ### Regular Expression
 - http://emailregex.com/
 ---
+[:top: Back to menu](#resources)
 ### Screenshot
 - https://flameshot.org/
 - https://app.prntscr.com/en/index.html
 ---
+[:top: Back to menu](#resources)
 ### Scrum
 - https://www.scrumpoker-online.org/en/
 ---
+[:top: Back to menu](#resources)
 ### Security
 - https://snyk.io/
 ---
+[:top: Back to menu](#resources)
 ### SEO
 - https://developers.google.com/search/docs/advanced/robots/create-robots-txt
 - https://caniuse.com/
 - https://ogp.me/
 ---
+[:top: Back to menu](#resources)
 ### SSL VPN
 - https://www.fortinet.com/support/product-downloads
 - https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-install-FortiClient-on-Ubuntu-22-04-LTS/ta-p/217162
 ---
+[:top: Back to menu](#resources)
 ### Submissions
 - https://formsubmit.co/
 ---
+[:top: Back to menu](#resources)
 ### Timers
 - https://pomofocus.io/app
 ---
+[:top: Back to menu](#resources)
 ### Tracking
 - https://analytics.google.com/
 - https://developers.facebook.com/docs/meta-pixel
 ---
+[:top: Back to menu](#resources)
 ### Tunnel
 - https://ngrok.com/docs
 ---
+[:top: Back to menu](#resources)
 ### Type
 - https://www.typingclub.com/
 - https://monkeytype.com/
@@ -648,6 +701,7 @@
 - https://typistapp.ca/
 - https://github.com/max-niederman/ttyper
 ---
+[:top: Back to menu](#resources)
 ### Unicode
 - https://unicode.org/
 - https://www.lookuptables.com/text/unicode-characters
@@ -656,6 +710,7 @@
 - https://www.lookuptables.com/text/html-character-codes
 - https://www.w3schools.com/charsets/ref_html_utf8.asp
 ---
+[:top: Back to menu](#resources)
 ### Version Control Hosting
 #### Bitbucket
 - https://bitbucket.org/
@@ -670,6 +725,7 @@
 - https://docs.gitlab.com/ee/user/project/pages/
 - https://how-to-stuff.gitlab.io/gitlab-pages-how-to/
 ---
+[:top: Back to menu](#resources)
 ### Version Control System
 - https://git-scm.com/
 - http://savannah.nongnu.org/projects/cvs
@@ -684,11 +740,11 @@
 ##### gitignore file
 - http://help.github.com/ignore-files/
 ---
+[:top: Back to menu](#resources)
 ### Versioning
 - https://semver.org/
 - https://go.dev/doc/modules/version-numbers
 ---
-[:top: Resources](#resources)
 ###### Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

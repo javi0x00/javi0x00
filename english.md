@@ -4,6 +4,7 @@
 ### Resources
 - [YouGlish](https://youglish.com/)
 - [English Grammar Guide](https://www.geeksforgeeks.org/learn-english-grammar-online/)
+- https://www.5minuteenglish.com/
 ### Terms and concepts
 * English
   - Why learn english
