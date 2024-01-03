@@ -2,9 +2,43 @@
 ## ENGLISH
 ---
 ### Resources
-- [YouGlish](https://youglish.com/)
-- [English Grammar Guide](https://www.geeksforgeeks.org/learn-english-grammar-online/)
+- https://agendaweb.org/
+- https://corp.oup.com/
+- https://elt.oup.com/
+- https://inglesnaturalmente.com/
+- https://langclub.live/
+- https://languages.oup.com/
+- https://learnenglish.britishcouncil.org/
+- https://lingua.com/
+- https://lyricstraining.com/
+- https://youglish.com/
 - https://www.5minuteenglish.com/
+- https://www.conversationexchange.com/
+- https://www.cuadernodeingles.com/
+- https://www.dailygrammar.com/
+- https://www.duolingo.com/
+- https://www.easylanguageexchange.com/
+- https://www.ef.com/
+- https://www.englishclub.com/
+- https://www.englishgrammar.org/
+- https://www.englishgrammar101.com/
+- https://www.englishpage.com/
+- https://www.engvid.com/
+- https://www.eslfast.com/
+- https://www.examenglish.com/
+- https://www.geeksforgeeks.org/learn-english-grammar-online/
+- https://www.italki.com/
+- https://www.manythings.org/
+- https://www.memrise.com/
+- https://www.pacho8a.com/
+- https://www.perfect-english-grammar.com/
+- https://www.speaky.com/
+- https://www.talkenglish.com/
+- https://www.usalearns.org/
+- https://www.usingenglish.com/
+#### Dictionaries
+- https://dictionary.cambridge.org/
+- https://www.wordreference.com/
 ### Terms and concepts
 * English
   - Why learn english

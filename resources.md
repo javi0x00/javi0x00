@@ -621,6 +621,7 @@
 - https://www.codecademy.com/
 - https://www.codedex.io/
 - https://www.coursera.org/
+- https://www.educative.io/
 - https://www.edx.org/
 - https://www.freecodecamp.org/
 - https://www.geeksforgeeks.org/
