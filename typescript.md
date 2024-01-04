@@ -56,8 +56,6 @@ $ tsc *.ts -w
     - boolean
     - number
     - string
-    - undefined
-    - null
   * Complex
     - array
     - tuple
@@ -67,8 +65,12 @@ $ tsc *.ts -w
       - utility
       - custom
   * Special
+    - undefined
+    - null
     * Generic
       - any
+    - unknown
+    - never
     - void
   * Custom
     - class
