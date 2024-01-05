@@ -11,18 +11,15 @@
 ### Requirements
 - Nodejs
 #### Install
-- TypeScript
-##### Setup
 Global
 ```
 $ npm install -g typescript
 ```
-
+##### Setup
 Project
 ```
-$ tsc -init
+$ tsc --init
 ```
-
 ###### Basics
 ```
 $ npm install --save-dev typescript
@@ -34,8 +31,9 @@ $ node --save-dev
 $ tsc -v
 $ tsc <file name>
 $ tsc <file name> -w
-$ tsc -init
+$ tsc --init
 $ tsc *.ts -w
+$ tsc --watch
 ```
 ### Terms and concepts
 1. What is it
@@ -85,6 +83,7 @@ $ tsc *.ts -w
   - Implicit
   - Explicit
   - Casting or overriding
+  - Enums
 
 - Shape
 

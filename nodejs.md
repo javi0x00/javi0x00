@@ -10,6 +10,14 @@
 * Node Package Manager
   - [npm](https://www.npmjs.com/)
   - [pnpm](https://pnpm.io/)
+### Node
+Verify
+```
+$ node -v
+$ npm -v
+$ node <file>
+$ node --watch <file>
+```
 ### NVM
 Verify
 ```
