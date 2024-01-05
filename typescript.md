@@ -54,6 +54,13 @@ $ tsc --watch
     - boolean
     - number
     - string
+  * Special
+    - undefined
+    - null
+    - any
+    - unknown
+    - never
+    - void
   * Complex
     - array
     - tuple
@@ -62,14 +69,6 @@ $ tsc --watch
     * Generic
       - utility
       - custom
-  * Special
-    - undefined
-    - null
-    * Generic
-      - any
-    - unknown
-    - never
-    - void
   * Custom
     - class
     - interface
