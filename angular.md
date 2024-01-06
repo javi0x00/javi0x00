@@ -2,19 +2,25 @@
 ## ANGULAR
 ---
 ### Resources
-- [Angular](https://angular.io/)
-- [Angular Documentation](https://angular.io/docs)
-- [Angular tutorial](https://angular.io/tutorial)
-- [CLI Documentation](https://angular.io/cli)
+- [Angular Docs](https://angular.dev/)
+- [Angular Tutorials](https://angular.dev/tutorials)
+- [The Angular CLI](https://angular.dev/tools/cli)
+- [Angular Language Service](https://angular.dev/tools/language-service)
+- [Angular DevTools](https://angular.dev/tools/devtools)
 ### Requirements
 - Nodejs
-- Angular CLI
-### Setup
+### Install
+Angular CLI
 ```
 $ npm install -g @angular/cli
-$ ng --version
+$ ng version
+```
+### Setup
+Project
+```
 $ ng new my-app
 $ cd my-app
+$ ng serve
 $ ng serve --open
 ```
 Components
@@ -110,5 +116,5 @@ $ ng generate guard <name>
 - The RxJS library
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
