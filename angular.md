@@ -25,7 +25,11 @@ $ ng serve --open
 ```
 Components
 ```
-$ ng generate component <name>
+$ ng generate component <name> or ng gc <name>
+```
+Simple component
+```
+$ ng generate component <name> --skip-tests --inline-style --inline-template
 ```
 Services
 ```
