@@ -118,7 +118,7 @@ Tagging
 ```
 $ git tag
 $ git tag <tag name>
-$ git describe -tag
+$ git describe --tag
 $ git push --tag
 $ git push --delete origin <tag name>
 $ git tag -d <tag name>

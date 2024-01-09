@@ -16,7 +16,11 @@ Confidential
 - Quasar
 - Tailwind
 - Bootstrap
+- Django
+- Django Rest Framework
+- SQL
+- Docker
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2021 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2021 - 2024  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
