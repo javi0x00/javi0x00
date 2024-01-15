@@ -9,6 +9,8 @@
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
+- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [HTMLElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
 ### Requirements
 - A browser or server environment
 ### Terms and concepts
@@ -711,5 +713,5 @@ const closure = IamAclosure()
     - Scripts
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).

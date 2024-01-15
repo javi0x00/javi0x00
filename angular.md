@@ -2,11 +2,16 @@
 ## ANGULAR
 ---
 ### Resources
+v17
+
 - [Angular Docs](https://angular.dev/)
 - [Angular Tutorials](https://angular.dev/tutorials)
 - [The Angular CLI](https://angular.dev/tools/cli)
 - [Angular Language Service](https://angular.dev/tools/language-service)
 - [Angular DevTools](https://angular.dev/tools/devtools)
+
+v16
+- [Angular Docs](https://v16.angular.io/docs)
 ### Requirements
 - Nodejs
 ### Install

@@ -18,6 +18,23 @@ $ npm -v
 $ node <file>
 $ node --watch <file>
 ```
+Install package
+```
+$ npm install -g <name>
+$ npm install <name>
+$ npm install <name> --save
+$ npm install <name> --save-dev
+```
+Uninstall package
+```
+$ npm uninstall -g <name>
+$ npm uninstall <name>
+```
+Clear chache
+```
+$ npm cache verify
+$ npm cache clean --force
+```
 ### NVM
 Verify
 ```

@@ -5,6 +5,8 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
+- [DOM Manipulation](https://www.typescriptlang.org/docs/handbook/dom-manipulation.html)
+- [DOM type definitions](https://github.com/microsoft/TypeScript/blob/main/src/lib/dom.generated.d.ts)
 - [Node TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/node)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [Vue TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/vue)
@@ -156,6 +158,17 @@ $ tsc --watch
 
 * Projects
   - tsconfig
+
+* DOM Manipulation
+  * HTMLElement
+    - HTMLParagraphElement
+  * Methods
+    * children
+      - HTMLCollection
+    * childNodes
+      - NodeList
+  - The ! non-null assertion operator
+  - Type casting
 ---
 ## Software Developer
 Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
