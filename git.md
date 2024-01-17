@@ -12,6 +12,7 @@
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Multiple Accounts and SSH Keys](https://dbushell.com/2013/01/27/multiple-accounts-and-ssh-keys/)
+- [tj/git-extras](https://github.com/tj/git-extras)
 ### Terms and concepts
 1. What is it
 2. What does it do
@@ -212,6 +213,19 @@ $ git remote -v
 $ git remote add upstream
 $ git show
 $ gitk
+```
+Git Extras
+```
+$ sudo apt-get install git-extras
+$ git extras --version
+$ git extras --help
+$ git extras update
+$ git info
+$ git count
+$ git count --all
+$ git effort
+$ git effort --above 15
+$ git effort -- --since='last month'
 ```
 Config file
 ```
