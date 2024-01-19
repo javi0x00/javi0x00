@@ -736,9 +736,11 @@
 - https://www.monotone.ca/
 #### Git
 ##### Commit
+  - https://www.internalpointers.com/post/squash-commits-into-one-git
   - https://www.conventionalcommits.org/
   - https://github.com/commitizen/cz-cli
   - https://github.com/vuejs/core/blob/main/.github/commit-convention.md
+  - https://onthedock.github.io/post/210121-combinar-commits/
 ##### gitignore file
 - http://help.github.com/ignore-files/
 ---
