@@ -31,8 +31,8 @@ I'm a software developer oriented to web development.
 ### :office: Triario ― Projects (Collaborator)
 :factory: [Summary](triario.md)
 - - -
-### :snake: Holberton School ― Projects
-:school: [Summary](holberton_school.md)
+### :snake: hbtn ― Projects
+:school: [Summary](hbtn.md)
 - - -
 ### :bulb: Other repositories
 - :unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.
