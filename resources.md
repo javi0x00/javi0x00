@@ -51,6 +51,7 @@
 - [Documentation](#documentation)
 * [HTML](#html)
   - [Email Template](#email-template)
+  - [Mobile input types](http://mobileinputtypes.com/)
 - [HTTP Clients](#http-clients)
 - [IDE](#ide)
 - [JSON](#json)

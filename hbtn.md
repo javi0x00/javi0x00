@@ -1,4 +1,4 @@
-# :books: Holberton School
+# :books: hbtn
 ## The Framework
 0. Read
 1. Think
