@@ -666,6 +666,7 @@
 [:top: Back to menu](#resources)
 ### Scrum
 - https://www.scrumpoker-online.org/en/
+- https://www.agilealliance.org/agile101/agile-glossary/
 ---
 [:top: Back to menu](#resources)
 ### Security
