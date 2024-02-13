@@ -9,6 +9,7 @@
 * [Browsers](#browsers)
   - [Extensions](#extensions)
 - [Challenges](#challenges)
+- [Cheatsheets](#cheatsheets)
 * [Code editor](#code-editor)
   - [VS Code Extensions](#vs-code-extensions)
 - [Code Sharing](#code-sharing)
@@ -188,6 +189,10 @@
 - https://www.learneroo.com/subjects/3
 - https://workat.tech/problem-solving/lists/beginner-problems/practice
 - https://codeforwin.org/2015/05/basic-programming-practice-problems.html
+---
+[:top: Back to menu](#resources)
+### Cheatsheets
+- https://devhints.io/
 ---
 [:top: Back to menu](#resources)
 ### Code editor

@@ -114,6 +114,10 @@ History
 $ git log
 $ git log --oneline
 $ git log --p
+$ git log --author="<user name>"
+$ git log --since=1.month.ago --until=1.day.ago
+$ git log --pretty="format:%h %s"
+$ git restore --source <id>
 ```
 Tagging
 ```
