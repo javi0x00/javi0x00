@@ -252,6 +252,73 @@ languages and tools they use are secondary to this fundamental skill.
 * Dependency Inversion Principle
   - Entities must depend on abstractions, not on concretions.
 ---
+### Logic Programming
+* Programming
+  - What
+  - Why
+- Human language
+  - Idioms
+  - Pseudocode
+  - Diagrams
+  - Desktop testing
+- Machine language
+* Programming language
+  - High level
+  - Low level
+* Algorithm
+  - Start
+  * Steps
+    * Process
+      - Operations
+      - Conditions
+      - Loops
+  - End
+* Data or Information
+  - Datum
+* Data types
+  * Generics
+    - Integer
+    - Float or Real
+    - Logic or Boolean
+    - Character / Characters
+* Variables
+  - Naming
+  - Declaration
+  - Initialization
+  - Assignment
+  - Read
+  - Write
+  - Read and Write
+  - Constants
+- Input
+- Output
+- Process
+* Operations
+* Operators
+  - Arithmetic
+  - Relational
+  - Logics
+* Conditional
+  - if
+  - if...else
+  - Nesting or Multiple
+* Loop or Bucle or Cicle or Repetition
+  - while
+  * Base condition
+    - Guard
+    - Count
+  - At least once
+  - Infinite
+* Arrays
+  - Unidimensional or Vector
+  - Multi-Dimensional or Matriz
+  - Index
+  - Element
+  - Length
+* Subprograms
+  - Procedural
+  - Functions
+---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
+Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://javierandres.dev).
