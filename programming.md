@@ -252,10 +252,11 @@ languages and tools they use are secondary to this fundamental skill.
 * Dependency Inversion Principle
   - Entities must depend on abstractions, not on concretions.
 ---
-### Logic Programming
+### Programming Logic
 * Programming
   - What
   - Why
+  - How
 - Human language
   - Idioms
   - Pseudocode
@@ -267,11 +268,13 @@ languages and tools they use are secondary to this fundamental skill.
   - Low level
 * Algorithm
   - Start
+  - Input
   * Steps
     * Process
       - Operations
       - Conditions
       - Loops
+  - Output
   - End
 * Data or Information
   - Datum
@@ -295,6 +298,7 @@ languages and tools they use are secondary to this fundamental skill.
 - Process
 * Operations
 * Operators
+  - Assignment
   - Arithmetic
   - Relational
   - Logics
