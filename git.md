@@ -34,6 +34,7 @@
   - Pull
   - Push
   - Fork
+  - Rebase
 * Repository
   - Local
   - Remote
@@ -164,6 +165,11 @@ $ git pull
 $ git fetch
 $ git checkout origin/main
 $ git push
+```
+Rebase
+```
+$ git rebase -i <commit> or git rebase --interactive <commit>
+$ git push or git push --force-with-lease
 ```
 Create a new repository on the command line
 ```

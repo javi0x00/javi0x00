@@ -755,6 +755,7 @@
   - https://github.com/vuejs/core/blob/main/.github/commit-convention.md
   - https://onthedock.github.io/post/210121-combinar-commits/
   - https://sdq.kastel.kit.edu/wiki/Git_pull_--rebase_vs._--merge
+  - https://docs.gitlab.com/ee/topics/git/git_rebase.html
 ##### gitignore file
 - http://help.github.com/ignore-files/
 ---
