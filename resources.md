@@ -457,6 +457,8 @@
 - https://undraw.co/
 - https://lukaszadam.com/illustrations
 #### Images
+- https://www.freeimages.com/
+- https://morguefile.com/
 - https://unsplash.com/
 - https://pixabay.com/
 - https://www.pexels.com/
