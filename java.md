@@ -1,12 +1,14 @@
 # :memo: Notes
 ## JAVA
-- - -
+---
 ### Resources
-* [Java SE API v7](https://docs.oracle.com/javase/7/docs/api/)
-* [Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
-* [Java SE JDK v11 API](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
-* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html#s7.1-javadoc-formatting)
-* [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+- [Java](https://www.java.com/)
+- [Java SE API v7](https://docs.oracle.com/javase/7/docs/api/)
+- [Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
+- [Java SE JDK v11 API](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html#s7.1-javadoc-formatting)
+- [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+- [NetBeans](https://netbeans.org/kb/)
 ### Requirements
 #### Java Installation on Ubuntu system
 ```
@@ -17,8 +19,11 @@ $ javac -version
 $ sudo apt install default-jdk
 ```
 ### Terms and concepts
-* Java Runtime Environment (JRE)
-* Java Development Kit (JDK)
+- J2SE (Java2 Standard Edition)
+- J2EE (Java2 Enterprise Edition)
+- IDE (Integrated Development Environment)
+* JRE (Java Runtime Environment)
+* JDK (Java Development Kit)
 * Source file (.java)
   - Code Comments
     - Multi-line, Single-line, Java Doc
@@ -64,8 +69,8 @@ $ sudo apt install default-jdk
     - long
     - float
     - double
-    - char
     - boolean
+    - char
   * Non-primitive
     - String
     * Array
@@ -166,7 +171,7 @@ $ sudo apt install default-jdk
 * Interfaces
   - Abstract methods
   - Constants
-- - -
+---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2023  
-Found a bug or have an idea? [Contact me](https://javierandres.dev).
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
