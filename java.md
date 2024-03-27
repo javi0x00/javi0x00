@@ -22,18 +22,20 @@ $ sudo apt install default-jdk
 - J2SE (Java2 Standard Edition)
 - J2EE (Java2 Enterprise Edition)
 - IDE (Integrated Development Environment)
-* JRE (Java Runtime Environment)
-* JDK (Java Development Kit)
+- JRE (Java Runtime Environment)
+- JDK (Java Development Kit)
 * Source file (.java)
-  - Code Comments
-    - Multi-line, Single-line, Java Doc
+  * Code Comments
+    - Single-line, Multi-line, Java Doc
   - The main Class
   - The main Method
-  - Standard input (System.in)
-  - Standard output (System.out)
-* Compile the source file (javac)
-* Bytecode (.class)
-* Run the program (java)
+  * Standard input (System.in)
+    - 
+  * Standard output (System.out)
+    - print, println
+- Compile the source file (javac)
+- Bytecode (.class)
+- Run the program (java)
 * Errors
   - Syntax
   - Compilation
@@ -61,6 +63,10 @@ $ sudo apt install default-jdk
     - Default (Package), Private, Protected, Public
   * Scope
     - Package, Class, Subclass, All
+* Variables
+  - Identifiers
+  - Final Variables
+  - Scope
 * Data types
   * Primitive
     - byte
@@ -71,7 +77,7 @@ $ sudo apt install default-jdk
     - double
     - boolean
     - char
-  * Non-primitive
+  * Non-primitive or reference types
     - String
     * Array
       - Vector
@@ -83,17 +89,18 @@ $ sudo apt install default-jdk
     - Type ```enum```
   * Casting
     * Type Casting
-      - Widening Casting
-      - Narrowing Casting
+      - Widening Casting (automatically) smaller to larger
+      - Narrowing Casting (manually) larger to smaller
     * Ways
       - Automatically
       - Manually
 * Data structures
   - Variable
   - Constant
+- Boolean expressions
 * Operators
-  - Arithmetic
   - Assignment
+  - Arithmetic
   - Comparison
   - Logical
   - Bitwise
@@ -103,29 +110,52 @@ $ sudo apt install default-jdk
   - Sequential
   * Conditional
     - if
-    - if... else (too short hand - Ternary Operator)
-    - if... else if... else
+    - if...else (too short hand or Ternary Operator)
+    - if...else if...else
     - switch
   * Loop
     - for
     - for-Each
     - while
-    - do... while
+    - do/while
+    - Nested loops
   * Flow handling
     - Break
     - Continue
 * Some Built-in classes
   * The class Object is super class in Java
     - All classes in Java by default "extend" the Object class
-  - Math
-  - String
-  - Array
+  * String
+    - Concatenation
+    * Special characters
+      * Escape character
+        - Escape sequences
+    - Methods
+    - Access the characters of a String
+  * Array
+    - Access the elements of an Array
+    - Methods
+    - Property
+    - Multi-Dimensional Arrays
+  * Math
+    - Methods
   - Thread
   * ... Java API
     * Package
       - Default (java.lang), ...more packages(import)
       - Classes
-* OOP (Object-oriented programming)
+* Methods or Functions
+  - Pre-Defined methods
+  - Own or Custom methods
+  - Call operator
+  - Parameters
+  - Arguments
+  - Return
+  - Overloading
+  - Scope
+  * Recursion
+    - Halting condition
+- OOP (Object-oriented programming)
 * Classes
   - Class Definition
   - Access modifier
@@ -152,16 +182,16 @@ $ sudo apt install default-jdk
   - Propierties/Attributes
   - Methods/Actions
   - State
-* Modularity
-* Encapsulation
+- Modularity
+- Encapsulation
 * Inheritance
   - Superclass
   - Subclass
   - Only one inheritance, not multiply
   * Design inheritance
     - Rule "It is a/an..."
-  * Polymorphism
-  * Casting objects
+  - Polymorphism
+  - Casting objects
   * Stop inheritance with ```final```
     - Class
     - Method
