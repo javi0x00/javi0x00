@@ -4,10 +4,8 @@ I'm a software developer oriented to web development.
 :man_technologist: Thanks for visiting my GitHub profile.
 - - -
 ## :globe_with_meridians: Online projects
-### Personal web page
-{::comment}
-:star: [https://javierandres.dev](https://javierandres.dev)
-{:/comment}
+<!-- ### Personal web page
+:star: [https://javierandres.dev](https://javierandres.dev) -->
 ### :muscle: Just for fun!
 ###### Alphabetic order
 |Nº|Project|Stack|Code|Preview|
