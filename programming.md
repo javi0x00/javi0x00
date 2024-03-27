@@ -324,5 +324,5 @@ languages and tools they use are secondary to this fundamental skill.
   - Functions
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
-Found a bug or have an idea? [Contact me](https://javierandres.dev).
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

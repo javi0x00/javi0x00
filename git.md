@@ -278,5 +278,5 @@ $ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPAC
 7. Once the *hotfix* is complete it is merged to both **develop** and **main**
 ---
 ## Software Developer
-Built by [Javi](https://javierandres.dev) :copyright: 2020 - 2024  
-Found a bug or have an idea? [Contact me](https://javierandres.dev).
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
