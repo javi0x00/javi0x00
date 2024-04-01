@@ -119,6 +119,9 @@ $ sudo apt install default-jdk
     - while
     - do/while
     - Nested loops
+    * Control
+      - Counter
+      - Guard
   * Flow handling
     - Break
     - Continue
@@ -137,6 +140,7 @@ $ sudo apt install default-jdk
     - Methods
     - Property
     - Multi-Dimensional Arrays
+    - Iterate
   * Math
     - Methods
   - Thread

@@ -307,18 +307,21 @@ languages and tools they use are secondary to this fundamental skill.
   - if...else
   - Nesting or Multiple
 * Loop or Bucle or Cicle or Repetition
+  - for
   - while
-  * Base condition
-    - Guard
+  * Base condition or Control or exit condition
     - Count
-  - At least once
+    - Guard
   - Infinite
+  - At least once
 * Arrays
   - Unidimensional or Vector
   - Multi-Dimensional or Matriz
   - Index
   - Element
   - Length
+  - Access the elements
+  - Iterate or Go through
 * Subprograms
   - Procedural
   - Functions
