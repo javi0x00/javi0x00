@@ -22,6 +22,7 @@ $ sudo apt install default-jdk
 - J2SE (Java2 Standard Edition)
 - J2EE (Java2 Enterprise Edition)
 - IDE (Integrated Development Environment)
+- JVM (Java Virtual Machine)
 - JRE (Java Runtime Environment)
 - JDK (Java Development Kit)
 * Source file (.java)
@@ -35,6 +36,8 @@ $ sudo apt install default-jdk
     - print, println
 - Compile the source file (javac)
 - Bytecode (.class)
+- JIT (Just In Time compiler)
+- WORA (Write Once, Run Everywhere)
 - Run the program (java)
 * Errors
   - Syntax
