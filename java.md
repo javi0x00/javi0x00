@@ -8,15 +8,25 @@
 - [Java SE JDK v11 API](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html#s7.1-javadoc-formatting)
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+- [OpenJDK](https://openjdk.org/)
+- [IntelliJ](https://www.jetbrains.com/idea/)
 - [NetBeans](https://netbeans.org/kb/)
 ### Requirements
 #### Java Installation on Ubuntu system
+Default
 ```
 $ sudo apt update
 $ java -version
 $ apt install default-jre
 $ javac -version
 $ sudo apt install default-jdk
+```
+OpenJDK
+```
+$ sudo apt-get install openjdk-21-jdk
+$ sudo update-alternatives --config java
+$ javac -version
+$ java -version
 ```
 ### Terms and concepts
 - J2SE (Java2 Standard Edition)
@@ -138,6 +148,8 @@ $ sudo apt install default-jdk
         - Escape sequences
     - Methods
     - Access the characters of a String
+    - Format
+    - Text block
   * Array
     - Access the elements of an Array
     - Methods
