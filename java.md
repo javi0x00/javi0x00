@@ -40,10 +40,11 @@ $ java -version
     - Single-line, Multi-line, Java Doc
   - The main Class
   - The main Method
-  * Standard input (System.in)
-    - 
-  * Standard output (System.out)
-    - print, println
+  * Interaction
+    * Standard input (System.in)
+      - Scanner
+    * Standard output (System.out)
+      - print, println
 - Compile the source file (javac)
 - Bytecode (.class)
 - JIT (Just In Time compiler)
