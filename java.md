@@ -176,6 +176,8 @@ $ java -version
   * Recursion
     - Halting condition
 - OOP (Object-oriented programming)
+* Model class (structure, template)
+  - Instance (object)
 * Classes
   - Class Definition
   - Access modifier
@@ -199,8 +201,9 @@ $ java -version
   - Inner class
   - Local inner class
 * Object
-  - Propierties/Attributes
-  - Methods/Actions
+  * Attributes
+    - Propierties/Characteristics
+    - Methods/Actions/Behaviours
   - State
 - Modularity
 - Encapsulation

@@ -325,6 +325,29 @@ languages and tools they use are secondary to this fundamental skill.
 * Subprograms
   - Procedural
   - Functions
+### Programming Paradigms
+- Paradigm
+* Imperative programming paradigm
+  - Procedural programming
+  * Structured programming
+    - Sequential
+    - Conditional
+    - Repetition
+  * Object oriented programming (OOP)
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
+    - Abstraction
+    * Classes
+      - Instances
+    * Objects
+      * Attributes
+        - Properties or characteristics
+        - Methods or actions or behaviours
+* Declarative programming paradigm
+  - Logic programming paradigms
+  - Functional programming paradigms
+  - Database/Data driven programming approach
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
