@@ -180,10 +180,15 @@ $ java -version
   - Instance (object)
 * Classes
   - Class Definition
-  - Access modifier
+  * Access modifier or Visibility modifier
+    - default or package-private
+    - public
+    - private
+    - protected
   * Constructor method
     - Default constructor method
     - Define constructor method
+  - this
   - Setter method
   - Getter method
   - Instances
@@ -224,6 +229,7 @@ $ java -version
 * Interfaces
   - Abstract methods
   - Constants
+- Package
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
