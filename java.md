@@ -216,6 +216,8 @@ $ java -version
   - Superclass
   - Subclass
   - Only one inheritance, not multiply
+  * Annotations
+    - @Override
   * Design inheritance
     - Rule "It is a/an..."
   - Polymorphism
