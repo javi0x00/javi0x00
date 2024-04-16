@@ -2,6 +2,7 @@
 ## JAVA
 ---
 ### Resources
+- Java Doc
 - [Java](https://www.java.com/)
 - [Java SE API v7](https://docs.oracle.com/javase/7/docs/api/)
 - [Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
@@ -81,6 +82,7 @@ $ java -version
   - Identifiers
   - Final Variables
   - Scope
+  - Type Inference
 * Data types
   * Primitive
     - byte
@@ -96,6 +98,7 @@ $ java -version
     * Array
       - Vector
       - Matriz
+      - array vs ArrayList
     - Class
     - Interface
     * (import package)
@@ -193,6 +196,7 @@ $ java -version
   - Getter method
   - Instances
   - Objects
+  - Type Inference
   * Methods
     * Parts of a method
       - Range modifier
@@ -232,6 +236,14 @@ $ java -version
   - Abstract methods
   - Constants
 - Package
+* ArrayList
+  - array vs ArrayList
+  - Methods
+  - Loop through an ArrayList
+* Constructors
+  - Default
+  - Custom
+  - Parameters
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
