@@ -2,7 +2,7 @@
 ## JAVA
 ---
 ### Resources
-- Java Doc
+- [Java SE & JDK Version 22 API Specification](https://docs.oracle.com/en/java/javase/22/docs/api/index.html)
 - [Java](https://www.java.com/)
 - [Java SE API v7](https://docs.oracle.com/javase/7/docs/api/)
 - [Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
@@ -12,6 +12,7 @@
 - [OpenJDK](https://openjdk.org/)
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [NetBeans](https://netbeans.org/kb/)
+- Java Doc
 ### Requirements
 #### Java Installation on Ubuntu system
 Default
@@ -244,6 +245,11 @@ $ java -version
   - Default
   - Custom
   - Parameters
+* Package Manager
+  - Maven
+  - Gradle
+  - Ant
+- JAR (Java Archive)
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  

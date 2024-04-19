@@ -55,7 +55,7 @@
   - [Mobile input types](http://mobileinputtypes.com/)
 - [HTTP Clients](#http-clients)
 - [IDE](#ide)
-- [JSON](#json)
+* [Java](#java)
 * [JavaScript](#javascript)
   - [Altering CSS](#altering-css)
   - [Bundler](#bundler)
@@ -73,12 +73,14 @@
   - [Numbers](#numbers)
   - [Obfuscator](#obfuscator)
   - [Spreadsheets](#spreadsheets)
+- [JSON](#json)
 - [Licence](#licence)
 - [Learn](#learn)
 - [Open Source](#open-source)
 - [Postmortem](#postmortem)
 - [Programming](#programming)
 - [Regular Expression](#regular-expression)
+- [Repositories](#repositories)
 - [Screenshot](#screenshot)
 - [Scrum](#scrum)
 - [Security](#security)
@@ -124,6 +126,7 @@
 - https://apipheny.io/free-api/
 - https://catfact.ninja/
 - https://developers.giphy.com/docs/api/
+- https://developer.imdb.com/
 - https://developer.spotify.com/documentation/web-api/
 - https://developer.wordpress.org/rest-api/
 - https://freegeoip.app/
@@ -134,6 +137,7 @@
 - https://icanhazdadjoke.com/
 - https://nationalize.io/
 - https://min-api.cryptocompare.com/documentation
+- https://www.omdbapi.com/
 - https://openweathermap.org/
 - https://pixabay.com/api/docs/
 - https://pokeapi.co/
@@ -537,10 +541,10 @@
 - https://coderunnerapp.com/
 ---
 [:top: Back to menu](#resources)
-### JSON
-- https://nodejs.dev/learn/the-package-json-guide
-- https://jsonapi.org/
-- https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+### Java
+- https://www.java.com/
+- https://github.com/google/gson
+- https://mvnrepository.com/artifact/com.google.code.gson/gson
 ---
 [:top: Back to menu](#resources)
 ### JavaScript
@@ -607,6 +611,12 @@
 - https://sheetjs.com/
 ---
 [:top: Back to menu](#resources)
+### JSON
+- https://nodejs.dev/learn/the-package-json-guide
+- https://jsonapi.org/
+- https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+---
+[:top: Back to menu](#resources)
 ### Licence
 - https://choosealicense.com/
 ---
@@ -665,6 +675,9 @@
 [:top: Back to menu](#resources)
 ### Regular Expression
 - http://emailregex.com/
+---
+### Repositories
+- https://mvnrepository.com/
 ---
 [:top: Back to menu](#resources)
 ### Screenshot
