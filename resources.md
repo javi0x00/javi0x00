@@ -137,6 +137,8 @@
 - https://icanhazdadjoke.com/
 - https://nationalize.io/
 - https://min-api.cryptocompare.com/documentation
+- https://mixedanalytics.com/
+- https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 - https://www.omdbapi.com/
 - https://openweathermap.org/
 - https://pixabay.com/api/docs/
@@ -152,6 +154,7 @@
 - https://lyricsovh.docs.apiary.io/
 - https://www.boredapi.com/
 - https://www.datos.gov.co/Econom-a-y-Finanzas/Tasa-de-Cambio-Representativa-del-Mercado-TRM/32sa-8pi3
+- https://www.exchangerate-api.com/
 - http://www.omdbapi.com/
 - http://www.poslarchive.com/math/scrabble/lists/
 - https://www.reddit.com/dev/api/
