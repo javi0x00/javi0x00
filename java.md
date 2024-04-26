@@ -37,6 +37,8 @@ $ java -version
 - JVM (Java Virtual Machine)
 - JRE (Java Runtime Environment)
 - JDK (Java Development Kit)
+- OOP (Object-oriented programming)
+- Garbage Collector
 * Source file (.java)
   * Code Comments
     - Single-line, Multi-line, Java Doc
