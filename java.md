@@ -247,7 +247,7 @@ $ java -version
   - Default
   - Custom
   - Parameters
-* Package Manager
+* Build automation tools
   - Maven
   - Gradle
   - Ant

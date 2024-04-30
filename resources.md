@@ -125,6 +125,7 @@
 - https://agify.io/
 - https://apipheny.io/free-api/
 - https://catfact.ninja/
+- https://coffee.alexflipnote.dev/random.json
 - https://developers.giphy.com/docs/api/
 - https://developer.imdb.com/
 - https://developer.spotify.com/documentation/web-api/
