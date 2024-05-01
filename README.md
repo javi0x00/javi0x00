@@ -22,17 +22,17 @@ I'm a software developer oriented to web development.
 |10|Responsive Navbar|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
 |11|Rock, Paper, Scissors|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
 ### :checkered_flag: Development like volunteering
-- [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
+- *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
 - - -
 ## :octocat: Other projects
 ### :office: Vertical ― Projects (Collaborator)
-:factory: [Summary](vertical.md)
+:factory: *Oct 2021 - Mar 2024* [Summary](vertical.md)
 - - -
 ### :office: Triario ― Projects (Collaborator)
-:factory: [Summary](triario.md)
+:factory: *Apr 2021 - Sep 2021* [Summary](triario.md)
 - - -
 ### :snake: hbtn ― Projects
-:school: [Summary](hbtn.md)
+:school: *Sep 2019 - May 2021* [Summary](hbtn.md)
 - - -
 ### :bulb: Other repositories
 - :unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.
