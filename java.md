@@ -252,6 +252,20 @@ $ java -version
   - Gradle
   - Ant
 - JAR (Java Archive)
+* Collections
+  * Interfaces
+    - List
+    - Set
+    - Queue
+    - Map
+  - Abstrac class
+  * Concret class
+    - ArrayList
+    - LinkedList
+    - HashSet,
+    - TreeSet
+    - HashMap
+    - TreeMap
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  

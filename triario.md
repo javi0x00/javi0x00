@@ -1,4 +1,5 @@
 # :factory: Triario International
+Apr 2021 - Sep 2021
 ---
 ## Projects ― (Collaborator)
 - Universidad de Antioquia / Feria virtual semilleros de investigación (2021/04/19 ― 2021/05/13)

@@ -16,8 +16,16 @@
     - pom.xml file
   - Gradle
   - Ant
+- Structure
 * Interfaces
   - CommanLineRunner
+* Dependencies
+  * jackson
+    - Serialize
+    - Deserialize
+    - JsonAlias
+    - JsonProperty
+- Generics
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
