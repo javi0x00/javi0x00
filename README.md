@@ -25,8 +25,8 @@ I'm a software developer oriented to web development.
 - [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
 - - -
 ## :octocat: Other projects
-### :office: Vertical Technologies ― Projects (Collaborator)
-:factory: [Summary](vertical_technologies.md)
+### :office: Vertical ― Projects (Collaborator)
+:factory: [Summary](vertical.md)
 - - -
 ### :office: Triario ― Projects (Collaborator)
 :factory: [Summary](triario.md)
