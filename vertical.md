@@ -1,5 +1,4 @@
 # :factory: Vertical
-Oct 2021 - Mar 2024
 ---
 ## Projects ― (Collaborator)
 Confidential

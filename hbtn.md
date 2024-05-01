@@ -1,5 +1,4 @@
 # :books: hbtn
-Sep 2019 - May 2021
 ---
 ## The Framework
 0. Read
