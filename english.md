@@ -39,6 +39,15 @@
 #### Dictionaries
 - https://dictionary.cambridge.org/
 - https://www.wordreference.com/
+### English Alphabeth
+| Letter | Pronunciation | Letter | Pronunciation | Letter | Pronunciation | Letter | Pronunciation | Letter | Pronunciation
+| :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
+| **A** | ei | **B** | bii | **C** | sii | **D** | dii | **E** | ii |
+| **F** | ef | **G** | lli | **H** | eich | **I** | ai | **J** | llei |
+| **K** | key | **L** | el | **M** | em | **N** | en | **O** | ou |
+| **P** | pii | **Q** | kiu | **R** | ar | **S** | es | **T** | tii |
+| **U** | iuu | **V** | vii | **W** | doble iu | **X** | eks | **Y** | wai |
+| **Z** | zi |
 ### Terms and concepts
 * English
   - Why learn english
