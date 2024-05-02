@@ -40,14 +40,31 @@
 - https://dictionary.cambridge.org/
 - https://www.wordreference.com/
 ### English Alphabeth
-| Letter | Pronunciation | Letter | Pronunciation | Letter | Pronunciation | Letter | Pronunciation | Letter | Pronunciation
-| :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
-| **A** | ei | **B** | bii | **C** | sii | **D** | dii | **E** | ii |
-| **F** | ef | **G** | lli | **H** | eich | **I** | ai | **J** | llei |
-| **K** | key | **L** | el | **M** | em | **N** | en | **O** | ou |
-| **P** | pii | **Q** | kiu | **R** | ar | **S** | es | **T** | tii |
-| **U** | iuu | **V** | vii | **W** | doble iu | **X** | eks | **Y** | wai |
-| **Z** | zi |
+Pronunciation
+| A | B | C | D | E |
+| :---: | :---: | :---: | :---: | :---: |
+| ei | bii | sii | dii | ii |
+
+| F | G | H | I | J |
+| :---: | :---: | :---: | :---: | :---: |
+| ef | lli | eich | ai | llei |
+
+| K | L | M | N | O |
+| :---: | :---: | :---: | :---: | :---: |
+| key | el | em | en | ou |
+
+| P | Q | R | S | T |
+| :---: | :---: | :---: | :---: | :---: |
+| pii | kiu | ar | es | tii |
+
+| U | V | W | X | Y |
+| :---: | :---: | :---: | :---: | :---: |
+| iuu | vii | doble iu | eks | wai |
+
+| Z |
+| :---: |
+| zi |
+
 ### Terms and concepts
 * English
   - Why learn english
