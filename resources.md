@@ -144,6 +144,7 @@
 - https://openweathermap.org/
 - https://pixabay.com/api/docs/
 - https://pokeapi.co/
+- https://publicapis.dev/
 - https://restcountries.com/
 - https://rapidapi.com/hub
 - https://rickandmortyapi.com/

@@ -41,13 +41,21 @@
 - https://www.wordreference.com/
 ### English Alphabeth
 Pronunciation
-| A | B | C | D | E | F | G | H | I | J | K | L | M |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ei | bii | sii | dii | ii | ef | lli | eich | ai | llei | key | el | em |
+| A | B | C | D | E | F | G | H |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ei | bii | sii | dii | ii | ef | lli | eich |
 
-| N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| en | ou | pii | kiu | ar | es | tii | iuu | vii | doble iu | eks | wai | zi |
+| I | J | K | L | M | N | O | P |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ai | llei | key | el | em | en | ou | pii |
+
+| Q | R | S | T | U | V | W | X |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| kiu | ar | es | tii | iuu | vii | doble iu | eks |
+
+| Y | Z |
+| :---: | :---: |
+| wai | zi |
 
 ### Terms and concepts
 * English

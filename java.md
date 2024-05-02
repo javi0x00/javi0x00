@@ -266,6 +266,15 @@ $ java -version
     - TreeSet
     - HashMap
     - TreeMap
+  - Nested
+  * streams
+    - Intermediate operations
+    - final operations
+* Functions
+  - Lambda or anonymous
+* Constructors
+  - Custom constructor
+- Dates
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
