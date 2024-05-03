@@ -105,9 +105,12 @@ Pronunciation
 - Colours
 - Countries
 - Nationalities
+- Subject pronouns
+- Introduce yourself and others
 - Describe yourself
-- Introduce your self
 - Greetings
+- Verb to be
+- Contractions with be
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
