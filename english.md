@@ -106,11 +106,11 @@ Pronunciation
 - Countries
 - Nationalities
 - Subject pronouns
+- Verb to be
+- Contractions with be
 - Introduce yourself and others
 - Describe yourself
 - Greetings
-- Verb to be
-- Contractions with be
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
