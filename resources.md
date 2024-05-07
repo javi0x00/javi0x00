@@ -134,6 +134,7 @@
 - https://github.com/public-apis/public-apis
 - https://genderize.io/
 - https://github.com/davemachado/public-api
+- https://gutendex.com/
 - https://httpbin.org/
 - https://icanhazdadjoke.com/
 - https://nationalize.io/

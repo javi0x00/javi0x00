@@ -270,6 +270,8 @@ $ java -version
   * streams
     - Intermediate operations
     - final operations
+* Container Object
+  - Opctional
 * Functions
   - Lambda or anonymous
 * Constructors
