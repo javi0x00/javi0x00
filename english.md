@@ -119,6 +119,9 @@ Pronunciation
 - Vocubulary travel objects
 - Demostrative pronouns
 
+- Demostrative Pronouns
+- this/that
+- these/those
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
