@@ -131,9 +131,10 @@
 - https://developer.spotify.com/documentation/web-api/
 - https://developer.wordpress.org/rest-api/
 - https://freegeoip.app/
-- https://github.com/public-apis/public-apis
 - https://genderize.io/
 - https://github.com/davemachado/public-api
+- https://github.com/LeonardoSalvucci/big-bang-theory
+- https://github.com/public-apis/public-apis
 - https://gutendex.com/
 - https://httpbin.org/
 - https://icanhazdadjoke.com/

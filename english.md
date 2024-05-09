@@ -122,6 +122,10 @@ Pronunciation
 - Demostrative Pronouns
 - this/that
 - these/those
+
+- Possessives
+- Possessives Adjectives
+- Family Vocabulary
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
