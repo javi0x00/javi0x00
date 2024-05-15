@@ -57,7 +57,7 @@ Pronunciation
 | :---: | :---: |
 | wai | zi |
 
-### Terms and concepts
+### General
 * English
   - Why learn english
 * Fundamentals
@@ -80,7 +80,7 @@ Pronunciation
 - Verb: Is a word used to describe an action, state, or occurrence.
 - Adjective: Is a word that modifies or describes a noun or pronoun.
 - Adverb: Is a word that modifies or describes a verb.
-#### Topics
+### Terms and concepts
 * Basic English sentence structure
   - Forms
 - Personal pronouns
@@ -98,34 +98,39 @@ Pronunciation
 - Frequency adverbs
 ---
 ### ILUD
+- [Aula](https://aulasvirtualesilud.udistrital.edu.co/)
 #### Introductory 1
-* Alphabeth
-  - Spell
-- Numbers
-- Colours
-- Countries
-- Nationalities
+- [Pearson English Portal](https://pearsonenglish.com/login)
+- [speakout](https://pearsonenglish.com/speakout)
+- [help](https://mypearsonhelp.com/portal)
+##### Topics
+* LEAD-IN
+  * Alphabeth
+    - Spell
+  - numbers
+  - colours
+  - objects
+  - questions words
+* 1.1
+  - present simple: be
+  - word stress
+  - countries and nationalities
+* 1.2
+  - this/that, these/those; possessives
+  - word stress
+  - objects
 
 - Subject pronouns
-- Verb to be
-- Contractions with be
-- Introduce yourself and others
-- Describe yourself
-- Greetings
-
-- Vocabulary Jobs and Professions
-- Articles A/AN
-- Present simple YES/NO questions
-- Vocubulary travel objects
+- Singular
+- Plural
+- Articles a/an
+- Present simple yes/no questions
 - Demostrative pronouns
-
-- Demostrative Pronouns
-- this/that
-- these/those
-
 - Possessives
 - Possessives Adjectives
-- Family Vocabulary
+- Regular verbs
+- Irregular verbs
+- Helping/Auxiliar verbs
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
