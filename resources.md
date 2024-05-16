@@ -145,6 +145,7 @@
 - https://www.omdbapi.com/
 - https://openweathermap.org/
 - https://pixabay.com/api/docs/
+- https://platform.openai.com/docs/
 - https://pokeapi.co/
 - https://publicapis.dev/
 - https://restcountries.com/
