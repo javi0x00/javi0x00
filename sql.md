@@ -53,6 +53,8 @@
   - OneToMany
   - ManyToOne
   - ManyToMany
+  - ManyToAny
+  - Unidirectional
   - Bidirectional
 ---
 ## Software Developer
