@@ -40,6 +40,8 @@
 ### Basic commands
 #### Working with directories, files and file content
 ```
+$ cat /etc/lsb-release
+$ ps --no-headers -o comm 1
 $ man man
 $ man sudo
 $ uname -m

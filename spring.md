@@ -35,6 +35,8 @@
   * JPA or Java Persistence API
     - JPQL or Jakarta Persistence Query Language (mix Java, SQL)
     - Hibernate
+    - JPA Queries
+    - JPA Derived Queries
 - Entity
 - Entity Manager
 
