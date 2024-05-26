@@ -41,6 +41,9 @@
 - Entity Manager
 
 - Dependency Injection
+
+- Native Queries
+- JPQL or Java Persistence Query Language
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
