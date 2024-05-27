@@ -12,7 +12,6 @@
 5. Concepts
 6. Code samples
 7. Documentation
-- Database
 - MongoDB Editions
 - MongoDB Shell
 - MongoDB Compass
@@ -23,8 +22,29 @@
   * Documental (records)
     - Collections (tables)
     - 16Mb limit
-  * ODM
-    - Mongoose
+
+- Database
+- Collections
+- Documents
+
+- adding new documents
+- finding documents
+- sorting
+- limiting data
+- nested
+- operators
+- complex queries
+- $in & $nin
+- querying arrays
+- deleting documents
+- updating documents
+
+- Drivers
+- Connecting
+
+- mongodb (node package)
+* ODM
+  - Mongoose
 #### Commands
 Run
 ```
