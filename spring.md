@@ -44,6 +44,12 @@
 
 - Native Queries
 - JPQL or Java Persistence Query Language
+
+- Spring web
+- MVC
+- DTO
+- CORS
+- Live Reload
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
