@@ -50,6 +50,8 @@
 - DTO
 - CORS
 - Live Reload
+
+- Annotations
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
