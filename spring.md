@@ -52,6 +52,20 @@
 - Live Reload
 
 - Annotations
+
+### Sample
+* spring initializr
+  * dependecies
+    - postgresql driver
+    - spring boot devtolls
+    - spring data jpa
+    - spring web
+* intellij
+  * settings
+* postgres
+  - set database
+- new class <name>
+- new controller
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
