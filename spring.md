@@ -57,9 +57,10 @@
 * spring initializr
   * dependecies
     - postgresql driver
-    - spring boot devtolls
+    - spring boot devtools
     - spring data jpa
     - spring web
+    - lombok
 * intellij
   * settings
 * postgres
