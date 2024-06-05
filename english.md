@@ -117,8 +117,14 @@ Pronunciation
   - countries and nationalities
 * 1.2
   - this/that, these/those; possessives
-  - word stress
+  - word stress; this, that, these, those
   - objects
+* 1.3
+  - making requests
+  - polite intonation; sentence stress
+  - tourist places
+* 1.4
+  - 
 
 - Subject pronouns
 - Singular
