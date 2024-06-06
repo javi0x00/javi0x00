@@ -46,9 +46,9 @@
 - JPQL or Java Persistence Query Language
 
 - Spring web
-- MVC
-- DTO
-- CORS
+- MVC or Model View Controller
+- DTO or Data Transfer Object
+- CORS or Cross-Origin Resource Sharing
 - Live Reload
 
 - Annotations
@@ -67,6 +67,11 @@
   - set database
 - new class <name>
 - new controller
+- @RestController
+- @RestMapping
+- @PostMapping
+- @RequestBody
+
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
