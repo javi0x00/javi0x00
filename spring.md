@@ -72,6 +72,15 @@
 - @PostMapping
 - @RequestBody
 
+- pom.xml file
+- application.properties file
+- application.yml file
+
+- DAO or Data Access Object
+- Repository
+
+- Bean Validation
+
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
