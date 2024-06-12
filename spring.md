@@ -71,6 +71,7 @@
 - @RestMapping
 - @PostMapping
 - @RequestBody
+- GetMapping
 
 - pom.xml file
 - application.properties file
