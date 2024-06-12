@@ -710,8 +710,10 @@
 ---
 [:top: Back to menu](#resources)
 ### SSL VPN
+- http://www.fortinet.com
 - https://www.fortinet.com/support/product-downloads
 - https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-install-FortiClient-on-Ubuntu-22-04-LTS/ta-p/217162
+- https://help.queens.edu/hc/en-us/articles/360000438083-How-to-install-Forticlient-VPN-v6-0-Apple-MacOS-10-12-and-higher
 ---
 [:top: Back to menu](#resources)
 ### Submissions
