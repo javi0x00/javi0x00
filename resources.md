@@ -76,6 +76,7 @@
 - [JSON](#json)
 - [Licence](#licence)
 - [Learn](#learn)
+- [NLP](#lnp)
 - [Open Source](#open-source)
 - [Postmortem](#postmortem)
 - [Programming](#programming)
@@ -664,6 +665,11 @@
 - https://www.tutorialesprogramacionya.com/
 - https://www.w3schools.com/
 - https://www.yopuedoprogramar.com/
+---
+[:top: Back to menu](#resources)
+### LNP
+- https://www.tronya.co/fracasos-de-exitosos/
+- https://www.tuproposito.es/
 ---
 [:top: Back to menu](#resources)
 ### Open Source
