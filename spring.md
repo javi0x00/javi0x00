@@ -71,7 +71,10 @@
 - @RestMapping
 - @PostMapping
 - @RequestBody
-- GetMapping
+- @GetMapping
+- @PutMapping
+- @DeleteMapping
+- @PathVariable
 
 - pom.xml file
 - application.properties file
@@ -82,6 +85,7 @@
 
 - Bean Validation
 
+- Mass Assignment Attack
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
