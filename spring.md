@@ -75,6 +75,10 @@
 - @PutMapping
 - @DeleteMapping
 - @PathVariable
+- @RestControllerAdvice
+- @ExceptionHandler
+
+- ResponseEntity
 
 - pom.xml file
 - application.properties file
