@@ -470,16 +470,17 @@
 - https://undraw.co/
 - https://lukaszadam.com/illustrations
 #### Images
-- https://www.freeimages.com/
 - https://morguefile.com/
-- https://unsplash.com/
-- https://pixabay.com/
-- https://www.pexels.com/
-- https://www.freepik.com/
 - https://placeimg.com/400/200/animals
-- https://www.humaaans.com/
-- https://tinypng.com/
 - https://placekitten.com/
+- https://pixabay.com/
+- https://svgl.app/
+- https://tinypng.com/
+- https://unsplash.com/
+- https://www.freeimages.com/
+- https://www.freepik.com/
+- https://www.humaaans.com/
+- https://www.pexels.com/
 #### Layouts
 - https://w3layouts.com/
 #### Logos
@@ -504,9 +505,11 @@
 #### Videos
 - https://coverr.co/
 #### Whiteboard
-- https://www.figma.com
-- https://miro.com/
 - https://lucidspark.com/
+- https://miro.com/
+- https://www.figma.com/
+- https://www.menti.com/
+- https://www.mentimeter.com/
 - https://www.mural.co/
 #### Wireframes
 - https://www.figma.com/
@@ -631,6 +634,7 @@
 ---
 [:top: Back to menu](#resources)
 ### Learn
+- http://bit.ly/wtfjavascript
 - https://code.org/
 - https://chuidiang.org/
 - https://desarrolloweb.com/
@@ -639,6 +643,7 @@
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/jwasham/coding-interview-university/blob/main/translations/README-es.md
 - https://learn.microsoft.com/
+- https://learnxinyminutes.com/
 - https://leetcode.com/
 - https://programacion.net/
 - https://scrimba.com/

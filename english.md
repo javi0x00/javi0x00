@@ -5,6 +5,7 @@
 - https://agendaweb.org/
 - https://corp.oup.com/
 - https://elt.oup.com/
+- https://gliglish.com/
 - https://inglesnaturalmente.com/
 - https://langclub.live/
 - https://languages.oup.com/
@@ -31,10 +32,14 @@
 - https://www.italki.com/
 - https://www.manythings.org/
 - https://www.memrise.com/
+- https://www.newsinlevels.com/
 - https://www.pacho8a.com/
 - https://www.perfect-english-grammar.com/
+- https://www.robinsoncrusoeinlevels.com/
 - https://www.speaky.com/
 - https://www.talkenglish.com/
+- https://www.testlanguages.com/
+- https://www.thelittleprinceinlevels.com/
 - https://www.usalearns.org/
 - https://www.usingenglish.com/
 #### Dictionaries

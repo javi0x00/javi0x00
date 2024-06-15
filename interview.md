@@ -1,24 +1,25 @@
 # :memo: Notes
 ## INTERVIEW
-- - -
+---
 ### Resources
-* [Codeo](https://codeo.app/)
-* [Pramp](https://www.pramp.com/)
-* [Algo Expert](https://www.algoexpert.io/)
-* [LeetCode](https://leetcode.com/problemset/)
-* [Topcoder](https://www.topcoder.com/)
-* [Codechef](https://www.codechef.com/)
-* [Interviewbit](https://www.interviewbit.com/)
-* [Daily Coding Problem](https://dailycodingproblem.com/)
-* [CodeJam](https://codingcompetitions.withgoogle.com/codejam)
-* [Codeforces](https://codeforces.com/)
-* [Hackerrank / Project Euler](https://www.hackerrank.com/contests/projecteuler/challenges)
-* [Hackerrank](https://www.hackerrank.com/)
-* [GeekForGeeks](https://www.geeksforgeeks.org/)
-* [Byte by Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w)
-* [Youtube-codes](https://github.com/mission-peace/interview/tree/master/src/com/interview)
-* [coding-interview-resources](https://github.com/pakistani-women-in-computing/coding-interview-resources/blob/master/google-interview-preparation.md)
-- - -
+- [algo expert](https://www.algoexpert.io/)
+- [byte by byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w)
+- [codeo](https://codeo.app/)
+- [codejam](https://codingcompetitions.withgoogle.com/codejam)
+- [codechef](https://www.codechef.com/)
+- [codeforces](https://codeforces.com/)
+- [coding-interview-resources](https://github.com/pakistani-women-in-computing/coding-interview-resources/blob/master/google-interview-preparation.md)
+- [codesignal](https://codesignal.com/)
+- [daily coding problem](https://dailycodingproblem.com/)
+- [geekforgeeks](https://www.geeksforgeeks.org/)
+- [hackerrank](https://www.hackerrank.com/)
+- [hackerrank / project euler](https://www.hackerrank.com/contests/projecteuler/challenges)
+- [interviewbit](https://www.interviewbit.com/)
+- [leetcode](https://leetcode.com/problemset/)
+- [pramp](https://www.pramp.com/)
+- [topcoder](https://www.topcoder.com/)
+- [youtube-codes](https://github.com/mission-peace/interview/tree/master/src/com/interview)
+---
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
