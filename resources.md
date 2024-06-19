@@ -178,6 +178,7 @@
 [:top: Back to menu](#resources)
 ### Browsers
 - https://browsehappy.com/
+- https://www.browserling.com/tools/
 #### Extensions
 - https://www.wappalyzer.com/
 - React developer tools

@@ -53,6 +53,13 @@
 
 - Annotations
 
+* Repository
+  - Repositories
+
+- Authorization
+* Authentication
+  - Stateful
+  - Stateless
 ### Sample
 * spring initializr
   * dependecies
@@ -60,6 +67,7 @@
     - spring boot devtools
     - spring data jpa
     - spring web
+    - spring security
     - lombok
 * intellij
   * settings
@@ -90,6 +98,8 @@
 - Bean Validation
 
 - Mass Assignment Attack
+
+- Hashing
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
