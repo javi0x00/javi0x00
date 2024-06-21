@@ -100,6 +100,14 @@
 - Mass Assignment Attack
 
 - Hashing
+- Filters
+- Filter chain
+
+* Tests
+  - black box
+  - white box
+
+- build
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
