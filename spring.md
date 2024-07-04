@@ -60,6 +60,14 @@
 * Authentication
   - Stateful
   - Stateless
+
+* Data persistence
+  - Entity
+  - Repository
+  - Service
+  - Controller
+
+- spring initializr
 ### Sample
 * spring initializr
   * dependecies

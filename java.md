@@ -277,6 +277,17 @@ $ java -version
 * Constructors
   - Custom constructor
 - Dates
+
+- JDBC or Java Database Connectivity
+- DAO or Data Access Object
+
+* Maven
+  - pom or Project Object Model file
+
+- Spring
+- Hibernate
+- ORM or Object-Relational Mapping
+- HQL or Hibernate Query Language
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
