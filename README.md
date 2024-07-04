@@ -21,6 +21,14 @@ I'm a software developer oriented to web development.
 |9|Pokémon Cards|:icecream: HTML, CSS, JavaScript, API|[View Code](https://github.com/javierandres-dev/training-pokemon_cards)|[Live Preview](https://javierandres-dev.github.io/training-pokemon_cards/)|
 |10|Responsive Navbar|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
 |11|Rock, Paper, Scissors|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
+##### Demos
+###### Date descending order
+|Date|Project|Stack|Code|Demo|
+|----|----|----|----|----|
+|Jun 2024|Foro Hub|Java, Spring, MySQL|[View Code](https://github.com/javierandres-dev/challenge-one_g6-foro_hub)|[View Demo](https://youtu.be/_WqN0zh7yYc)|
+|Jun 2024|Literature|Java, Spring, PostgreSQL|[View Code](https://github.com/javierandres-dev/challenge-one_g6-literature)|[View Demo](https://youtu.be/JupZOzY2WaA)|
+|Apr 2024|Conversor de moneda|:icecream: Java|[View Code](https://github.com/javierandres-dev/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
+|Dec 2021|Bank|MERN, PostgreSQL|[View Code](https://github.com/javierandres-dev/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
 ### :checkered_flag: Development like volunteering
 - *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
 - - -
