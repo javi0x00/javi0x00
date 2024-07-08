@@ -85,7 +85,7 @@ $ git config --global user.name "<name>"
 $ git config --global user.email <email>
 $ git config --global core.editor "<editor --flag>"
 $ git config --global core.editor "<code --wait>"
-$ git config --global color.ui <auto/always/true/false>
+$ git config --global color.ui <true/false/always/auto>
 $ git config --global color.branch <true/false/always>
 $ git config --global color.diff <true/false/always>
 $ git config --global color.interactive <true/false/always>
