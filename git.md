@@ -78,6 +78,7 @@
 ### Setup
 ```
 $ sudo apt install git-all
+$ sudo apt-get install install-info
 $ git --version
 $ git config --global init.defaultBranch <name>
 $ git config --global user.name "<name>"
