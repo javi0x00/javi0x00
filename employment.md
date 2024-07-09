@@ -3,6 +3,8 @@
 ---
 ### Job Dashboard
 - [LinkedIn](https://linkedin.com)
+- [magneto](https://www.magneto365.com/)
+- [servicio de empleo | personas](https://personas.serviciodeempleo.gov.co/)
 - [arc](https://arc.dev/get-featured?campaign=1&utm_source=influencer&utm_medium=video&utm_campaign=paid2022&utm_term=202201&utm_content=Jon-Mircha)
 - [TheMuse](https://themuse.com)
 - [Indeed](https://indeed.com)

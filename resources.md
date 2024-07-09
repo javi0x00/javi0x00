@@ -8,6 +8,7 @@
 - [Authorization](#authorization)
 * [Browsers](#browsers)
   - [Extensions](#extensions)
+- [Boards](#boards)
 - [Challenges](#challenges)
 - [Cheatsheets](#cheatsheets)
 * [Code editor](#code-editor)
@@ -188,6 +189,10 @@
 - ColorZilla
 - Clear Cache
 - Moesif Origin & CORS Changer
+---
+[:top: Back to menu](#resources)
+### Boards
+- https://padlet.com/
 ---
 [:top: Back to menu](#resources)
 ### Challenges
@@ -407,19 +412,20 @@
 ### Design
 - https://whydoweinterface.com/
 #### Colors
-- https://htmlcolorcodes.com/
-- https://www.shutterstock.com/blog/complete-guide-color-in-design
-- https://material.io/resources/color/
-- https://coolors.co/
+- https://brandcolors.net/
+- https://color.adobe.com/
 - https://colorhunt.co/
-- https://paletton.com/
 - http://colormind.io/
 - https://colors.muz.li/
+- https://coolors.co/
 - https://flatuicolors.com/
-- https://color.adobe.com/
-- https://brandcolors.net/
 - https://hslpicker.com/
+- https://htmlcolorcodes.com/
+- https://material.io/resources/color/
+- https://mycolor.space/
+- https://paletton.com/
 - https://uigradients.com/
+- https://www.shutterstock.com/blog/complete-guide-color-in-design
 #### Drawing tools
 - https://flameshot.org/
 - https://excalidraw.com/
@@ -534,10 +540,11 @@
 ---
 [:top: Back to menu](#resources)
 ### HTML
-- https://codeguide.co/
-- https://madebymike.github.io/html5-periodic-table/
 - https://allthetags.com/
+- https://codeguide.co/
+- https://html5up.net/
 - https://htmlreference.io/
+- https://madebymike.github.io/html5-periodic-table/
 - https://marksheet.io/
 #### Email Template
 - [MJML](https://mjml.io/)
@@ -635,9 +642,11 @@
 ---
 [:top: Back to menu](#resources)
 ### Learn
+- https://avanzatec.gov.co/portal/
 - http://bit.ly/wtfjavascript
 - https://code.org/
 - https://chuidiang.org/
+- https://claseflix.io/
 - https://desarrolloweb.com/
 - https://developer.mozilla.org/
 - https://github.com/Asabeneh?tab=repositories
@@ -648,9 +657,11 @@
 - https://leetcode.com/
 - https://programacion.net/
 - https://scrimba.com/
+- https://talentodigital.mintic.gov.co/734/w3-propertyvalue-217941.html
 - https://tutsplus.com/
 - https://uniwebsidad.com/
 - https://w3cx.org/
+- https://web.dev/learn
 - https://webdevelopermentor.com/
 - https://www.aprenderaprogramar.com/
 - https://www.codecademy.com/
@@ -666,6 +677,9 @@
 - https://www.khanacademy.org/
 - https://www.pildorasinformaticas.es/
 - https://www.programiz.com/
+- https://www.proteccion.com/universidad
+- https://www.ptech.org/es/
+- https://www.santanderopenacademy.com/es/index.html
 - https://www.sololearn.com/
 - https://www.studytonight.com/
 - https://www.tutorialesprogramacionya.com/
@@ -695,6 +709,7 @@
 ---
 [:top: Back to menu](#resources)
 ### Regular Expression
+- https://www.regexone.com/
 - http://emailregex.com/
 ---
 ### Repositories
