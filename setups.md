@@ -68,14 +68,19 @@ package.json file
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 1,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false,
+    "files.trimTrailingWhitespace": false
+  },
   "editor.detectIndentation": true,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 13,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.guides.bracketPairs": true,
-  "editor.lineHeight": 0,
+  "editor.lineHeight": 1.3,
   "editor.minimap.enabled": false,
   "editor.minimap.maxColumn": 80,
   "editor.multiCursorModifier": "ctrlCmd",
@@ -100,50 +105,16 @@ package.json file
   "prettier.jsxSingleQuote": true,
   "svelte.enable-ts-plugin": true,
   "terminal.integrated.fontFamily": "JetBrains Mono",
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 13,
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.cursorBlinking": true,
   "typescript.preferences.quoteStyle": "single",
   "typescript.tsdk": "node_modules/typescript/lib",
   "workbench.colorTheme": "One Dark Pro",
-  "workbench.colorTheme": "One Dark Pro Darker",
-  "workbench.iconTheme": "vscode-icons",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
   "vsicons.dontShowNewVersionMessage": true,
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[svelte]": {
-    "editor.defaultFormatter": "svelte.svelte-vscode"
-  },
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[markdown]": {
-    "editor.defaultFormatter": null,
-    "editor.formatOnSave": false,
-    "files.trimTrailingWhitespace": false
-  }
 }
 ```
 ---

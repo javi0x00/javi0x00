@@ -36,8 +36,9 @@ $ npm cache verify
 $ npm cache clean --force
 ```
 ### NVM
-Verify
+Install
 ```
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 $ nvm -v
 $ nvm install --lts
 $ nvm ls
