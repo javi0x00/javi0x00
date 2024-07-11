@@ -23,8 +23,9 @@ $ ng version
 ### Setup
 Project
 ```
-$ ng new my-app
-$ cd my-app
+$ ng new <app name>
+$ ng new <app name> --directory ./
+$ cd <app name>
 $ ng serve
 $ ng serve --open
 ```

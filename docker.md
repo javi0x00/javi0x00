@@ -52,11 +52,14 @@
 * Dockerignore
 ### Installation
 - Docker Engine
+- Docker Compose
 - Docker Desktop (optional)
 
 Verify
 ```
+$ docker --version
 $ docker -v
+$ docker compose version
 $ sudo docker run hello-world
 ```
 ### Image
@@ -172,6 +175,15 @@ CMD <default_command>
 .dockerignore
 ```
 <directories and/or name files>
+```
+Create image
+```
+$ docker build -t <image name> .
+```
+Run docker container
+```
+$ docker run <image name>
+$ docker run -p 4201:4200 <image name>
 ```
 #### Docker compose
 Basic Setup
@@ -307,5 +319,5 @@ $ docker build  -t <repo_name>:<version> .
 ```
 ---
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
