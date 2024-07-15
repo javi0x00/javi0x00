@@ -24,10 +24,21 @@ $ psql --version
 $ psql -V
 $ pg_isready
 $ service postgresql status
-
+```
+Enter
+```
 $ sudo -u postgres psql
 postgres=# \l
+postgres=# \conninfo
+postgres=# \c template1
 postgres=# \q
+```
+Modify password for role postgres
+```
+$ sudo -u postgres psql postgres
+postgres=# alter user postgres with password 'postgres';
+ALTER ROLE
+postgres=# 
 ```
 ---
 ## Software Developer
