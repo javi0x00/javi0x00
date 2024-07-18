@@ -9,6 +9,8 @@
 - https://linkedin.com
 - https://personas.serviciodeempleo.gov.co/
 - https://remoteok.io/
+- https://rutanmedellin.org/
+- https://smartalentit.com/
 - https://themuse.com
 - https://triplebyte.com/
 - https://torre.co/
