@@ -18,18 +18,56 @@
   - Gradle
   - Ant
 - Structure
-* Interfaces
-  - CommanLineRunner
-* Dependencies
-  * jackson
-    - Serialize
-    - Deserialize
-    - JsonAlias
-    - JsonProperty
+- Packages
+- Interfaces
+- Dependencies
 - Generics
+- Mapping
+- Annotations
 
+* Naming conventions
+  - Pascal case
+  - Camel case
+  - Sanke case
+  - Kebab case
+  - lower case
+  - upper case
+
+- Client
+- Web Server Container
+  * Tomcat
+    - Jakarta
+    - Servlet
+    - Websocket
+- Dispatcher
+  - Servlet
+* Rest API
+  * Request
+    - HTTP Methods
+    - URL
+    - Header
+    - Body
+  * Response
+    - HTTP Status Codes
+    - Header
+    - Body
+
+- Data persistence
+* Architecture / Layers
+  - Controller / Endpoints / Rutes
+  * Service / Business Rules / Business Logic
+    - DTO or Data Transfer Object
+  - Repository / DAO or Data Access Object
+  - Entity / Model / Objects
+  - Database
 - CRUD
 
+* Code structure
+  - By feature
+  - By Layer
+
+- Spring Initializr
+- Dependency Injection
 - JDBC or Java Database Connector
 * ORM or Object Relational Mapping
   * JPA or Java Persistence API
@@ -37,71 +75,23 @@
     - Hibernate
     - JPA Queries
     - JPA Derived Queries
+    - Query methods
+* Annotations / Add metadata
+  - Architecture
+  - HTTP Verbs
+  - Data requests
+  - Data responses
+
 - Entity
 - Entity Manager
 
-- Dependency Injection
-
 - Native Queries
 - JPQL or Java Persistence Query Language
-
-- Spring web
-- MVC or Model View Controller
-- DTO or Data Transfer Object
-- CORS or Cross-Origin Resource Sharing
-- Live Reload
-
-- Annotations
-
-* Repository
-  - Repositories
 
 - Authorization
 * Authentication
   - Stateful
   - Stateless
-
-* Data persistence
-  - Entity
-  - Repository
-  - Service
-  - Controller
-
-- spring initializr
-### Sample
-* spring initializr
-  * dependecies
-    - postgresql driver
-    - spring boot devtools
-    - spring data jpa
-    - spring web
-    - spring security
-    - lombok
-* intellij
-  * settings
-* postgres
-  - set database
-- new class <name>
-- new controller
-- @RestController
-- @RestMapping
-- @PostMapping
-- @RequestBody
-- @GetMapping
-- @PutMapping
-- @DeleteMapping
-- @PathVariable
-- @RestControllerAdvice
-- @ExceptionHandler
-
-- ResponseEntity
-
-- pom.xml file
-- application.properties file
-- application.yml file
-
-- DAO or Data Access Object
-- Repository
 
 - Bean Validation
 
@@ -115,6 +105,17 @@
   - black box
   - white box
 
+- MVC or Model View Controller
+- CORS or Cross-Origin Resource Sharing
+- Live Reload
+### Sample
+- Database
+* spring initializr
+  * dependecies
+    - H2 Database
+- pom.xml file
+- application.properties file
+- application.yml file
 - build
 ---
 ## Software Developer
