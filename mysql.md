@@ -15,6 +15,22 @@
 5. Concepts
 6. Code samples
 7. Documentation
+- [SQL](./sql.md)
+- MySQL
+- IDE
+- Not case-sensitive
+* Queries
+  - Subqueries
+* Commands
+  - Basic
+  - Advanced
+* Entities
+  * Database
+    - Table
+    - Schema
+    - View
+    - Procedure
+    - Trigger
 #### Basic setup
 Installing MySQL
 ```
@@ -55,6 +71,28 @@ $ hello-world
 $ sudo snap remove hello-world
 $ hello-world
 $ snap install mysql-workbench-community
+```
+#### Commands
+Working with databases
+```
+mysql> SHOW DATABASES;
+mysql> SELECT DATABASE();
+mysql> CREATE SCHEMA <db_name>;
+mysql> CREATE DATABASE IF NOT EXISTS <db_name>;
+mysql> CREATE DATABASE <db_name> DEFAULT CHARACTER SET utf8;
+mysql> USE <db_name>;
+mysql> DROP SCHEMA <db_name>;
+mysql> DROP DATABASE IF EXISTS <db_name>;
+```
+Working with tables
+```
+mysql> SHOW TABLES;
+mysql> CREATE TABLE <table_name>;
+mysql> CREATE TABLE <db_name>.<tb_name>(<attributes>);
+mysql> CREATE TABLE <table_name>(<attributes>);
+mysql> SHOW COLUMNS FROM <table_name>;
+mysql> DROP TABLE <table_name>;
+mysql> DROP TABLE <db_name>.<table_name>;
 ```
 ---
 ## Software Developer

@@ -16,14 +16,24 @@
 7. Documentation
 - Database
 - Database Modeling
-- SQL
+- SQL or Structured Query Language
+- CRUD or Create Read Update Delete
+- DDL or Data Definition Language
+- DML or Data Manipulation Languge
+- DCL or Data Control Languge
+- DBA or DataBase Administrator
 - Syntax
 - Keywords
 - Operators
-* Entity
-  - Tables
-* Attribute
-  - Columns
+* Structure (Entities)
+  * DB or Database
+    * Table
+      * Columns or Fields or Attributes
+        - Define (data type, name)
+        - Limit
+      * Rows or Records
+        - Ilimit (optional)
+      - Index
 - Cardinality
 * Keys
   - Primary
@@ -33,7 +43,6 @@
 * Commands
   - Basic
   - Advanced
-
 * Relationship between tables
   - OneToOne
   - OneToMany
@@ -42,11 +51,6 @@
   - ManyToAny
   - Unidirectional
   - Bidirectional
-
-- CRUD or Create Read Update Delete
-- DDL or Data Definition Language
-- DML or Data Manipulation Languge
-- DCL or Data Control Languge
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023 - 2024  

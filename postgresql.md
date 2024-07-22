@@ -15,6 +15,21 @@
 5. Concepts
 6. Code samples
 7. Documentation
+- [SQL](./sql.md)
+- PostgreSQL
+- IDE
+* Queries
+  - Subqueries
+* Commands
+  - Basic
+  - Advanced
+* Entities
+  * Database
+    - Table
+    - Schema
+    - View
+    - Procedure
+    - Trigger
 #### Basic setup
 Ubuntu includes PostgreSQL by default
 ```
