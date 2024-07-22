@@ -2,7 +2,10 @@
 ## SQL
 ---
 ### Resources
+- [SQL](https://www.iso.org/standard/76583.html)
 ### Requirements
+- [MySQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org/)
 ### Terms and concepts
 1. What is it
 2. What does it do
@@ -11,6 +14,8 @@
 5. Concepts
 6. Code samples
 7. Documentation
+- Database
+- Database Modeling
 - SQL
 - Syntax
 - Keywords
@@ -24,29 +29,10 @@
   - Primary
   - Foreing
 * Queries
-  * SELECT
-    - Universal selector
-  - FROM
-  - WHERE
-  - INSERT
-  - SET
-  - UPDATE
-  - DELETE
-  - ORDER BY
-  - GROUP BY
-  - COUNT
-  - SUM
-  - MIN
-  - MAX
-  - AVG
-  * JOIN
-    - INNER
-    - LEFT
-    - RIGHT
-    - FULL
-  - ON
-  - IN
-- Subqueries
+  - Subqueries
+* Commands
+  - Basic
+  - Advanced
 
 * Relationship between tables
   - OneToOne
@@ -56,6 +42,11 @@
   - ManyToAny
   - Unidirectional
   - Bidirectional
+
+- CRUD or Create Read Update Delete
+- DDL or Data Definition Language
+- DML or Data Manipulation Languge
+- DCL or Data Control Languge
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023 - 2024  

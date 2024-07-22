@@ -26,18 +26,34 @@ $ systemctl start mysql.service
 $ systemctl stop mysql.service
 $ systemctl restart mysql.service
 $ mysql
-mysql> \q or exit
+mysql> \q
+$ mysql
+mysql> exit
 ```
 Configure MySQL server
 ```
 $ mysql_secure_installation
 
 $ mysql
+mysql> SHOW VARIABLES LIKE 'validate_password%';
+mysql> SET GLOBAL validate_password.policy=<0, 1, 2>;
+mysql> SET GLOBAL validate_password.check_user_name = OFF;
+mysql> SET GLOBAL validate_password.length = 0;
+mysql> SET GLOBAL validate_password.mixed_case_count = 0;
+mysql> SET GLOBAL validate_password.number_count = 0;
+mysql> SET GLOBAL validate_password.special_char_count = 0;
 mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
-mysql> exit or \q
+mysql> exit
+$ mysql -h localhost -u root -p
 ```
 Workbench Installation
 ```
+$ apt update
+$ apt install snapd
+$ sudo snap install hello-world
+$ hello-world
+$ sudo snap remove hello-world
+$ hello-world
 $ snap install mysql-workbench-community
 ```
 ---
