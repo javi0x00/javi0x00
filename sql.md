@@ -1,6 +1,5 @@
 # :memo: Notes
 ## SQL
----
 ### Resources
 - [SQL](https://www.iso.org/standard/76583.html)
 ### Requirements

@@ -1,6 +1,5 @@
 # :memo: Notes
 ## MYSQL
----
 ### Resources
 - [MySQL](https://www.mysql.com/)
 - [Workbench](https://www.mysql.com/products/workbench/)
@@ -87,12 +86,24 @@ mysql> DROP DATABASE IF EXISTS <db_name>;
 Working with tables
 ```
 mysql> SHOW TABLES;
-mysql> CREATE TABLE <table_name>;
+mysql> CREATE TABLE <tb_name>;
 mysql> CREATE TABLE <db_name>.<tb_name>(<attributes>);
-mysql> CREATE TABLE <table_name>(<attributes>);
-mysql> SHOW COLUMNS FROM <table_name>;
-mysql> DROP TABLE <table_name>;
-mysql> DROP TABLE <db_name>.<table_name>;
+mysql> CREATE TABLE <tb_name>(<attributes>);
+mysql> SHOW COLUMNS FROM <tb_name>;
+mysql> DROP TABLE <tb_name>;
+mysql> DROP TABLE <db_name>.<tbe_name>;
+```
+Working with records
+```
+mysql> SELECT * FROM <tb_name>;
+mysql> INSERT INTO <tb_name>(<attributes>) VALUES (<values>);
+mysql> UPDATE <tb_name> SET <attribute> = <new_value> WHERE <condition>;
+mysql> DELETE FROM <tb_name> WHERE <condition>;
+mysql> ALTER TABLE <tb_name> ADD COLUMN(<attribute> <data type>);
+```
+Working with keys
+```
+mysql> ALTER TABLE <tb_name> ADD PRIMARY KEY(<attribute>);
 ```
 ---
 ## Software Developer

@@ -104,7 +104,7 @@
     - [gitignore file](#gitignore-file)
 - [Versioning](#versioning)
 ---
-[:top: Back to menu](#resources)
+[:top: Top](#resources)
 ### API's
 - Open APIs
 - Partner APIs
@@ -642,6 +642,7 @@
 ---
 [:top: Back to menu](#resources)
 ### Learn
+- https://anywhere.epam.com/es/blog/career/advice
 - https://avanzatec.gov.co/portal/
 - http://bit.ly/wtfjavascript
 - https://code.org/
@@ -655,6 +656,7 @@
 - https://learn.microsoft.com/
 - https://learnxinyminutes.com/
 - https://leetcode.com/
+- https://mimo.org/
 - https://programacion.net/
 - https://scrimba.com/
 - https://talentodigital.mintic.gov.co/734/w3-propertyvalue-217941.html

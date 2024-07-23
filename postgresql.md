@@ -1,6 +1,5 @@
 # :memo: Notes
 ## POSTGRESQL
----
 ### Resources
 - [postgreSQL](https://www.postgresql.org/)
 - [pgAdmin](https://www.pgadmin.org/)
