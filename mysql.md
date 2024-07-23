@@ -20,6 +20,7 @@
 - Not case-sensitive
 * Queries
   - Subqueries
+  - Aliases
 * Commands
   - Basic
   - Advanced
@@ -104,6 +105,25 @@ mysql> ALTER TABLE <tb_name> ADD COLUMN(<attribute> <data type>);
 Working with keys
 ```
 mysql> ALTER TABLE <tb_name> ADD PRIMARY KEY(<attribute>);
+```
+Working with SELECT
+```
+mysql> SELECT * FROM <tb_name>;
+mysql> SELECT <attribute> FROM <tb_name>;
+mysql> SELECT <attribute>, <attribute> FROM <tb_name>;
+mysql> SELECT <attribute> AS <alias> FROM <tb_name>;
+mysql> SELECT <attribute> FROM <tb_name> LIMIT <number>;
+```
+Working with filters
+```
+mysql> SELECT * FROM <tb_name> WHERE <condition>;
+mysql> UPDATE <tb_name> SET <attribute> = <new_value> WHERE <condition>;
+mysql> DELETE FROM <tb_name> WHERE <condition>;
+mysql> SELECT * FROM <tb_name> WHERE <condition> AND <condition>;
+mysql> SELECT * FROM <tb_name> WHERE <condition> OR <condition>;
+mysql> SELECT * FROM <tb_name> WHERE <condition> BETWEEN <value> AND <value>;
+mysql> SELECT * FROM <tb_name> WHERE YEAR(<date_attribute>) <condition>;
+mysql> SELECT * FROM <tb_name> WHERE DAY(<date_attribute>) <condition>;
 ```
 ---
 ## Software Developer
