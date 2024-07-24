@@ -1,5 +1,7 @@
 # :memo: Notes
 ## POSTGRESQL
+### Requirements
+- [SQL](./sql.md)
 ### Resources
 - [postgreSQL](https://www.postgresql.org/)
 - [pgAdmin](https://www.pgadmin.org/)
@@ -14,14 +16,9 @@
 5. Concepts
 6. Code samples
 7. Documentation
-- [SQL](./sql.md)
 - PostgreSQL
 - IDE
-* Queries
-  - Subqueries
-* Commands
-  - Basic
-  - Advanced
+- Functions
 * Entities
   * Database
     - Table

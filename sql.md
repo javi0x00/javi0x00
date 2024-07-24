@@ -2,9 +2,6 @@
 ## SQL
 ### Resources
 - [SQL](https://www.iso.org/standard/76583.html)
-### Requirements
-- [MySQL](https://www.mysql.com/)
-- [PostgreSQL](https://www.postgresql.org/)
 ### Terms and concepts
 1. What is it
 2. What does it do
@@ -22,8 +19,20 @@
 - DCL or Data Control Languge
 - DBA or DataBase Administrator
 - Syntax
-- Keywords
-- Operators
+* Comments
+  - Single line
+  - Multi-line
+* Keywords
+  - Not case-sensitive
+- Statements
+- Conditionals
+* Operators
+  - Arithmetic
+  - Bitwise
+  - Comparison
+  - Compound
+  - Logical
+- Truth table
 * Structure (Entities)
   * DB or Database
     * Table
@@ -39,9 +48,11 @@
   - Foreing
 * Queries
   - Subqueries
+  - Aliases
 * Commands
   - Basic
   - Advanced
+  - Scripts
 * Relationship between tables
   - OneToOne
   - OneToMany
@@ -50,6 +61,11 @@
   - ManyToAny
   - Unidirectional
   - Bidirectional
+- Database structure
+- ER Diagram or Entity-Relationship model
+* SQL environment
+  - Backup
+  - Recovery
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023 - 2024  

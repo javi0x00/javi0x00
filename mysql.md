@@ -1,5 +1,7 @@
 # :memo: Notes
 ## MYSQL
+### Requirements
+- [SQL](./sql.md)
 ### Resources
 - [MySQL](https://www.mysql.com/)
 - [Workbench](https://www.mysql.com/products/workbench/)
@@ -14,16 +16,9 @@
 5. Concepts
 6. Code samples
 7. Documentation
-- [SQL](./sql.md)
 - MySQL
 - IDE
-- Not case-sensitive
-* Queries
-  - Subqueries
-  - Aliases
-* Commands
-  - Basic
-  - Advanced
+- Functions
 * Entities
   * Database
     - Table
@@ -72,7 +67,7 @@ $ sudo snap remove hello-world
 $ hello-world
 $ snap install mysql-workbench-community
 ```
-#### Commands
+#### Basic commands
 Working with databases
 ```
 mysql> SHOW DATABASES;
@@ -119,11 +114,6 @@ Working with filters
 mysql> SELECT * FROM <tb_name> WHERE <condition>;
 mysql> UPDATE <tb_name> SET <attribute> = <new_value> WHERE <condition>;
 mysql> DELETE FROM <tb_name> WHERE <condition>;
-mysql> SELECT * FROM <tb_name> WHERE <condition> AND <condition>;
-mysql> SELECT * FROM <tb_name> WHERE <condition> OR <condition>;
-mysql> SELECT * FROM <tb_name> WHERE <condition> BETWEEN <value> AND <value>;
-mysql> SELECT * FROM <tb_name> WHERE YEAR(<date_attribute>) <condition>;
-mysql> SELECT * FROM <tb_name> WHERE DAY(<date_attribute>) <condition>;
 ```
 ---
 ## Software Developer
