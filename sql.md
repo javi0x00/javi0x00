@@ -66,6 +66,7 @@
 * SQL environment
   - Backup
   - Recovery
+- SQL Server Functions
 ---
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023 - 2024  
