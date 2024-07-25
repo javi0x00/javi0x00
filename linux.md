@@ -1,6 +1,5 @@
 # :memo: Notes
 ## LINUX
----
 ### Resources
 - [UNIX](https://unix.org/)
 - [Unix](https://en.wikipedia.org/wiki/Unix)
@@ -89,6 +88,7 @@ net-tools (package)
 ```
 $ man apt
 $ sudo apt update
+$ apt list --upgradable
 $ sudo apt upgrade
 $ sudo apt search <package name>
 $ sudo apt install <package name>
