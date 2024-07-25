@@ -18,14 +18,8 @@
 7. Documentation
 - PostgreSQL
 - IDE
-- Functions
-* Entities
-  * Database
-    - Table
-    - Schema
-    - View
-    - Procedure
-    - Trigger
+- PostgreSQL Functions
+- Reports
 #### Basic setup
 Ubuntu includes PostgreSQL by default
 ```

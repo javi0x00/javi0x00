@@ -653,6 +653,7 @@
 - https://github.com/Asabeneh?tab=repositories
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/jwasham/coding-interview-university/blob/main/translations/README-es.md
+- https://ikigaitest.com/es/
 - https://learn.microsoft.com/
 - https://learnxinyminutes.com/
 - https://leetcode.com/

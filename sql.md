@@ -49,6 +49,7 @@
 * Queries
   - Subqueries
   - Aliases
+  - Views
 * Commands
   - Basic
   - Advanced
@@ -63,6 +64,13 @@
   - Bidirectional
 - Database structure
 - ER Diagram or Entity-Relationship model
+* Entities
+  * Database
+    - Table
+    - Schema
+    - View
+    - Procedure
+    - Trigger
 * SQL environment
   - Backup
   - Recovery

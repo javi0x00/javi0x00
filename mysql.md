@@ -18,14 +18,8 @@
 7. Documentation
 - MySQL
 - IDE
-- Functions
-* Entities
-  * Database
-    - Table
-    - Schema
-    - View
-    - Procedure
-    - Trigger
+- MySQL Functions
+- Reports
 #### Basic setup
 Installing MySQL
 ```
