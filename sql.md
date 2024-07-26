@@ -15,9 +15,10 @@
 - SQL or Structured Query Language
 - CRUD or Create Read Update Delete
 - DDL or Data Definition Language
-- DML or Data Manipulation Languge
-- DCL or Data Control Languge
+- DML or Data Manipulation Language
+- DCL or Data Control Language
 - DBA or DataBase Administrator
+- ETL or Extracting Transforming Loading
 - Syntax
 * Comments
   - Single line
@@ -64,13 +65,14 @@
   - Bidirectional
 - Database structure
 - ER Diagram or Entity-Relationship model
-* Entities
-  * Database
-    - Table
+* Database (Basic unit)
+  * Entities
+    - Table (Basic entity)
     - Schema
     - View
-    - Procedure
     - Trigger
+    - Procedure
+    - Stored Procedures
 * SQL environment
   - Backup
   - Recovery

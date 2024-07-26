@@ -1,5 +1,8 @@
 # :memo: Notes
 ## EMPLOYMENT
+### CV
+- https://www.resumego.net/
+- https://www.resumego.net/resume-checker/
 ### Job Dashboard
 - https://anywhere.epam.com/es/find-me-a-job
 - https://arc.dev/
