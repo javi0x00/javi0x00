@@ -423,6 +423,7 @@
 - https://htmlcolorcodes.com/
 - https://material.io/resources/color/
 - https://mycolor.space/
+- https://palettemaker.com/
 - https://paletton.com/
 - https://uigradients.com/
 - https://www.shutterstock.com/blog/complete-guide-color-in-design
