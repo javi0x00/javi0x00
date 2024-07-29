@@ -1,9 +1,13 @@
 # :memo: Notes
 ## ALGORITHMS
-- - -
+### Resources
+- https://algorithm-visualizer.org/
+- https://visualgo.net/en
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- https://www.toptal.com/developers/sorting-algorithms
 ### Terms and concepts
-* Algorithmics
-* Algorithms
+- Algorithmics
+- Algorithms
 * Characteristics of an algorithm
   - Independent
   - Definite
@@ -76,9 +80,9 @@
   - Blind search
   - Informed search
   - Metaheuristic algorithms
-* Asymptotic analysis of algorithms
-* DFS (Depth-first search)
-* BFS (Breadth-first search)
+- Asymptotic analysis of algorithms
+- DFS (Depth-first search)
+- BFS (Breadth-first search)
 * Big O notations
   - O(1)
   - O(n)
@@ -89,16 +93,16 @@
   - log(n) -> O(log(n))
   - n * log(n) -> O(nlog(n))
   - ...
-* Time complexity
-* Space complexity
-* Stacks
-* Queues
-* LIFO
-* FIFO
-* LRU
-* MRU
-* LFU
-- - -
+- Time complexity
+- Space complexity
+- Stacks
+- Queues
+- LIFO
+- FIFO
+- LRU
+- MRU
+- LFU
+---
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

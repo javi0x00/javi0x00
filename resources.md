@@ -77,6 +77,7 @@
 - [JSON](#json)
 - [Licence](#licence)
 - [Learn](#learn)
+- [Mail](#mail)
 - [NLP](#lnp)
 - [Open Source](#open-source)
 - [Postmortem](#postmortem)
@@ -113,11 +114,7 @@
 - Composite APIs
 - Batch APIs
 - Inified APIs
-#### Fake
-- https://github.com/typicode/json-server
-#### Tested
-- https://jsonplaceholder.typicode.com/
-#### Unproved
+#### API
 - http://7timer.info/
 - http://any-api.com/
 - https://apilist.fun/
@@ -137,9 +134,11 @@
 - https://github.com/davemachado/public-api
 - https://github.com/LeonardoSalvucci/big-bang-theory
 - https://github.com/public-apis/public-apis
+- https://github.com/typicode/json-server
 - https://gutendex.com/
 - https://httpbin.org/
 - https://icanhazdadjoke.com/
+- https://jsonplaceholder.typicode.com/
 - https://nationalize.io/
 - https://min-api.cryptocompare.com/documentation
 - https://mixedanalytics.com/
@@ -150,8 +149,10 @@
 - https://platform.openai.com/docs/
 - https://pokeapi.co/
 - https://publicapis.dev/
-- https://restcountries.com/
+- https://publicapis.io/
 - https://rapidapi.com/hub
+- https://restcountries.com/
+- https://retool.com/api-generator
 - https://rickandmortyapi.com/
 - https://reqres.in/
 - https://stripe.com/docs/api
@@ -196,6 +197,7 @@
 ---
 [:top: Back to menu](#resources)
 ### Challenges
+- https://100dayscss.com/
 - https://www.dailycodingproblem.com/
 - https://www.frontendmentor.io/
 - https://devchallenges.io/
@@ -216,16 +218,18 @@
 ---
 [:top: Back to menu](#resources)
 ### Code editor
-- https://www.vim.org/
-- https://neovim.io/
-- https://www.gnu.org/software/emacs/
-- https://www.nano-editor.org/
-- https://code.visualstudio.com/
-- https://github.com/features/codespaces
-- https://www.sublimetext.com/
 - https://atom.io/
 - https://brackets.io/
+- https://code.visualstudio.com/
+- https://github.com/features/codespaces
+- https://idx.dev/
+- https://idx.google.com/
+- https://neovim.io/
 - https://notepad-plus-plus.org/
+- https://www.gnu.org/software/emacs/
+- https://www.nano-editor.org/
+- https://www.sublimetext.com/
+- https://www.vim.org/
 #### VS Code Extensions
 - https://marketplace.visualstudio.com/
 ##### Essential (IntelliSense, Linting, Formatting)
@@ -341,11 +345,15 @@
 ---
 [:top: Back to menu](#resources)
 ### Community
+- https://daily.dev/
 - https://developers.google.com/
 - https://web.dev/
 ---
 [:top: Back to menu](#resources)
 ### CSS
+- https://lottiefiles.com/
+- https://uiverse.io/
+- https://v0.dev/
 #### Animations
 - https://www.matthewlein.com/tools/ceaser
 #### Conversions
@@ -388,12 +396,15 @@
 ---
 [:top: Back to menu](#resources)
 ### Databases
-- https://www.mysql.com/
-- https://www.mongodb.com/
-- https://www.pgadmin.org/
-- https://www.enterprisedb.com/
+- https://dbdiagram.io/
 - https://dbeaver.io/
+- https://github.com/drawdb-io/drawdb
 - https://sqlitebrowser.org/
+- https://www.enterprisedb.com/
+- https://www.mongodb.com/
+- https://www.mysql.com/
+- https://www.pgadmin.org/
+- https://www.sql-practice.com/
 #### ORM
 - https://www.sqlalchemy.org/
 ---
@@ -410,7 +421,11 @@
 ---
 [:top: Back to menu](#resources)
 ### Design
+- https://designstripe.com/
+- https://sapiens.ui8.net/
 - https://whydoweinterface.com/
+- https://www.checklist.design/
+- https://www.openpeeps.com/
 #### Colors
 - https://brandcolors.net/
 - https://color.adobe.com/
@@ -418,6 +433,7 @@
 - http://colormind.io/
 - https://colors.muz.li/
 - https://coolors.co/
+- https://colourcontrast.cc/
 - https://flatuicolors.com/
 - https://hslpicker.com/
 - https://htmlcolorcodes.com/
@@ -458,6 +474,7 @@
 #### Icons
 - https://fontawesome.com/
 - https://heroicons.dev/
+- https://iconify.design/
 - https://icomoon.io/
 - https://css.gg/
 - https://simpleicons.org/
@@ -545,6 +562,7 @@
 - https://codeguide.co/
 - https://html5up.net/
 - https://htmlreference.io/
+- https://htmlrev.com/
 - https://madebymike.github.io/html5-periodic-table/
 - https://marksheet.io/
 #### Email Template
@@ -607,6 +625,7 @@
 - https://about.gitlab.com/blog/2016/06/03/ssg-overview-gitlab-pages-part-1-dynamic-x-static/
 #### Libraries
 - https://cdnjs.com/
+- https://driverjs.com/
 - https://developers.google.com/speed/libraries
 #### Node
 - https://nodejs.org/
@@ -651,15 +670,22 @@
 - https://claseflix.io/
 - https://desarrolloweb.com/
 - https://developer.mozilla.org/
+- https://docs.python-guide.org/
+- https://fullstackopen.com/en/
+- https://github.com/andersontr15/clean-code-javascript-es
 - https://github.com/Asabeneh?tab=repositories
+- https://github.com/codecrafters-io/build-your-own-x
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/jwasham/coding-interview-university/blob/main/translations/README-es.md
+- https://github.com/mrcodedev/frontend-developer-resources
 - https://ikigaitest.com/es/
 - https://learn.microsoft.com/
 - https://learnxinyminutes.com/
 - https://leetcode.com/
+- https://linuxjourney.com/
 - https://mimo.org/
 - https://programacion.net/
+- https://refactoring.guru/
 - https://scrimba.com/
 - https://talentodigital.mintic.gov.co/734/w3-propertyvalue-217941.html
 - https://tutsplus.com/
@@ -679,16 +705,23 @@
 - https://www.javascript.com/
 - https://www.jotajotavm.com/
 - https://www.khanacademy.org/
+- https://www.mygreatlearning.com/
+- https://www.mygreatlearning.com/academy
 - https://www.pildorasinformaticas.es/
 - https://www.programiz.com/
 - https://www.proteccion.com/universidad
 - https://www.ptech.org/es/
 - https://www.santanderopenacademy.com/es/index.html
 - https://www.sololearn.com/
+- https://www.sqlbolt.com/
 - https://www.studytonight.com/
 - https://www.tutorialesprogramacionya.com/
 - https://www.w3schools.com/
 - https://www.yopuedoprogramar.com/
+---
+[:top: Back to menu](#resources)
+### Mail
+- https://mailtrap.io/
 ---
 [:top: Back to menu](#resources)
 ### LNP
@@ -713,8 +746,9 @@
 ---
 [:top: Back to menu](#resources)
 ### Regular Expression
-- https://www.regexone.com/
 - http://emailregex.com/
+- https://regex101.com/
+- https://www.regexone.com/
 ---
 ### Repositories
 - https://mvnrepository.com/
@@ -731,6 +765,7 @@
 ---
 [:top: Back to menu](#resources)
 ### Security
+- https://auth0.com/
 - https://snyk.io/
 ---
 [:top: Back to menu](#resources)

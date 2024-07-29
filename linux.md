@@ -12,6 +12,7 @@
 - [die.net](https://www.die.net/)
 - [man7.org](https://man7.org/)
 - [Command line reference](https://ss64.com/)
+- https://distrosea.com/
 ### Terms and concepts
 - UNIX OS
 - The kernel
