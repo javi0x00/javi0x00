@@ -10,17 +10,18 @@ I'm a software developer oriented to web development.
 ###### Alphabetic order
 |Nº|Project|Stack|Code|Preview|
 |----|----|----|----|----|
-|1|Calculator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-calculator)|[Live Preview](https://javierandres-dev.github.io/training-calculator/)|
-|2|Color Generator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-color_generator)|[Live Preview](https://javierandres-dev.github.io/training-color_generator/)|
-|3|Compose reggaeton|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-compose_reggaeton)|[Live Preview](https://javierandres-dev.github.io/training-compose_reggaeton/)|
-|4|Clock|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-clock)|[Live Preview](https://javierandres-dev.github.io/training-clock/)|
-|5|Counter|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-counter)|[Live Preview](https://javierandres-dev.github.io/training-counter/)|
-|6|Foreign Exchange|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-foreign_exchange)|[Live Preview](https://javierandres-dev.github.io/training-foreign_exchange/)|
-|7|Google Homepage|:icecream: HTML, CSS|[View Code](https://github.com/javierandres-dev/training-google_homepage)|[Live Preview](https://javierandres-dev.github.io/training-google_homepage/)|
-|8|JSONplaceholder|:ice_cream: Bootstrap, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-jsonplaceholder)|[Live Preview](https://javierandres-dev.github.io/training-jsonplaceholder/)|
-|9|Pokémon Cards|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-pokemon_cards)|[Live Preview](https://javierandres-dev.github.io/training-pokemon_cards/)|
-|10|Responsive Navbar|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
-|11|Rock, Paper, Scissors|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
+|01|Calculator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-calculator)|[Live Preview](https://javierandres-dev.github.io/training-calculator/)|
+|02|Color Generator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-color_generator)|[Live Preview](https://javierandres-dev.github.io/training-color_generator/)|
+|03|Common words|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/just_for_fun-common_words)|[Live Preview](https://javierandres-dev.github.io/just_for_fun-common_words/)|
+|04|Compose reggaeton|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-compose_reggaeton)|[Live Preview](https://javierandres-dev.github.io/training-compose_reggaeton/)|
+|05|Clock|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-clock)|[Live Preview](https://javierandres-dev.github.io/training-clock/)|
+|06|Counter|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-counter)|[Live Preview](https://javierandres-dev.github.io/training-counter/)|
+|07|Foreign Exchange|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-foreign_exchange)|[Live Preview](https://javierandres-dev.github.io/training-foreign_exchange/)|
+|08|Google Homepage|:icecream: HTML, CSS|[View Code](https://github.com/javierandres-dev/training-google_homepage)|[Live Preview](https://javierandres-dev.github.io/training-google_homepage/)|
+|09|JSONplaceholder|:ice_cream: Bootstrap, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-jsonplaceholder)|[Live Preview](https://javierandres-dev.github.io/training-jsonplaceholder/)|
+|10|Pokémon Cards|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-pokemon_cards)|[Live Preview](https://javierandres-dev.github.io/training-pokemon_cards/)|
+|11|Responsive Navbar|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
+|12|Rock, Paper, Scissors|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
 ##### Demos
 ###### Date descending order
 |Date|Project|Stack|Code|Demo|
