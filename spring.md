@@ -1,6 +1,5 @@
 # :memo: Notes
 ## SPRING
----
 ### Resources
 - [Spring projects](https://spring.io/projects)
 - [Spring Guides](https://spring.io/guides)
@@ -8,7 +7,7 @@
 - [MVN Repository](https://mvnrepository.com/)
 - [Spring Data JPA](https://docs.spring.io/spring-data/jpa/reference/)
 ### Requirements
-
+- Java
 ### Terms and concepts
 - Framework
 - JAR (Java Archive)
