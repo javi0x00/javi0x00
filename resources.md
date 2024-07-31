@@ -351,6 +351,7 @@
 ---
 [:top: Back to menu](#resources)
 ### CSS
+- https://lenguajecss.com/
 - https://lottiefiles.com/
 - https://uiverse.io/
 - https://v0.dev/
@@ -563,6 +564,7 @@
 - https://html5up.net/
 - https://htmlreference.io/
 - https://htmlrev.com/
+- https://lenguajehtml.com/
 - https://madebymike.github.io/html5-periodic-table/
 - https://marksheet.io/
 #### Email Template
@@ -587,6 +589,7 @@
 ---
 [:top: Back to menu](#resources)
 ### JavaScript
+- https://lenguajejs.com/
 #### Altering CSS
 - http://domenlightenment.com/#6.2
 #### Bundler
@@ -689,6 +692,7 @@
 - https://scrimba.com/
 - https://talentodigital.mintic.gov.co/734/w3-propertyvalue-217941.html
 - https://tutsplus.com/
+- https://tutorai.me/
 - https://uniwebsidad.com/
 - https://w3cx.org/
 - https://web.dev/learn
