@@ -2,6 +2,7 @@
 ## SQL
 ### Resources
 - [SQL](https://www.iso.org/standard/76583.html)
+- [Keywords](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 ### Terms and concepts
 1. What is it
 2. What does it do
@@ -72,7 +73,6 @@
     - View
     - Trigger
     - Procedure
-    - Stored Procedures
 * SQL environment
   - Backup
   - Recovery

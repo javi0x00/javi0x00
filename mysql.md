@@ -5,6 +5,7 @@
 ### Resources
 - [MySQL](https://www.mysql.com/)
 - [Workbench](https://www.mysql.com/products/workbench/)
+- [Keywords and Reserved Words](https://dev.mysql.com/doc/refman/8.4/en/keywords.html)
 #### Help
 - [How to Install MySQL WorkBench on Ubuntu?](https://www.geeksforgeeks.org/how-to-install-mysql-workbench-on-ubuntu/)
 - [How To Install MySQL on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
@@ -20,11 +21,16 @@
 - IDE
 - MySQL Functions
 - Reports
+* Stored Procedures
+  * Variables
+    - Data types
 #### Basic setup
 Installing MySQL
 ```
 $ apt-get update
 $ apt install mysql-server
+$ dpkg -l mysql-server
+$ mysql -V
 $ systemctl is-active mysql
 $ systemctl status mysql.service
 $ systemctl start mysql.service
@@ -53,6 +59,7 @@ $ mysql -h localhost -u root -p
 ```
 Workbench Installation
 ```
+$ sudo apt-get install mysql-workbench
 $ apt update
 $ apt install snapd
 $ sudo snap install hello-world

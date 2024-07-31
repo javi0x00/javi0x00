@@ -20,6 +20,7 @@
 - IDE
 - PostgreSQL Functions
 - Reports
+- Stored Procedures
 #### Basic setup
 Ubuntu includes PostgreSQL by default
 ```
