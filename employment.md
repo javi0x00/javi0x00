@@ -1,5 +1,6 @@
 # :memo: Notes
 ## EMPLOYMENT
+ATS or Applicant Tracking System
 ### CV
 - https://www.resumego.net/
 - https://www.resumego.net/resume-checker/
@@ -35,7 +36,6 @@
 - https://www.remotely.jobs/
 - https://www.turing.com/
 - https://www.upwork.com/
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
