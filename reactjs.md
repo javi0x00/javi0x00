@@ -1,30 +1,23 @@
 # :memo: Notes
 ## REACTJS
----
 ### Resources
-- [React](https://reactjs.org/)
-- [DOM Elements](https://reactjs.org/docs/dom-elements.html)
+- [React](https://react.dev/)
+
 - [ViteJS](https://vitejs.dev/)
 - [Create React App](https://create-react-app.dev/)
+
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [styled-components](https://styled-components.com/)
 - [MATERIAL-UI](https://material-ui.com/)
+
 * Extension
   - react developer tools
-* Package
-  - create react app
-  - serve
-  - prop-types
 ### Requirements
 - Nodejs
 ### Setup
 #### Vite
 ```
-$ npm create vite@latest my-app --template react
-```
-#### Vite & TypeScript
-```
-$ npm create vite@latest my-app --template react-ts
+$ npm create vite@latest
 ```
 #### Deploy to a Github pages a React App (Vite)
 Install gh-pages
@@ -85,6 +78,7 @@ $ npm run deploy
 5. Concepts
 6. Code samples
 7. Documentation
+
 * React
   - JavaScript library
   - based on components
@@ -101,7 +95,8 @@ $ npm run deploy
   * Syntax
     * jsx (sugar sintactic)
 
-- Structure by default
+* Project structure
+  - Structure by default
 
 * Components
   * Parts
@@ -122,42 +117,11 @@ $ npm run deploy
     - Child to parent (event of the son altering the state of the father)
     - Unrelated components
 
-* Lifecycle
-  * Mounting
-    - always
-    - one time
-    - set initial state
-    - get props
-    - first render
-    * Methods
-      - Constructor
-      - componentWillMount
-      - render
-      - componentDidMount
-  * Updating
-    - when exists new props
-    - when change the state
-    - setState
-    * Methods
-      - componentWillReceiveProps
-      - shouldComponentUpdate
-      - componentWillUpdate
-      - render
-      - componentDidUpdate
-  * Unmounting
-    - one time
-    - delete listeners
-    - delete DOM references
-    * Methods
-      - componentWillUnmount
-* Error cycle
-  * Method
-    - componentDidCatch
-
 * Components
   * render
     - props
     - state
+    - conditional
   - fragment
   - reactivity
 
@@ -169,6 +133,10 @@ $ npm run deploy
   - Props like attribute
   - Prop Types
   - key
+* Props
+  - Values
+  - Children
+  - Functions
 
 * State
   - Inmutable
@@ -177,56 +145,24 @@ $ npm run deploy
   - Asynchronous
   - A functional component can't have state
 
-* Props
-  - Children
-
-* Methods
-  - setState (asynchronous)
-
-* Events on class components
-  - bind
-  - Property Initializers
-  - arrow function to bind
-
 * Events
   - Native
   - Synthetics
   - Custom
 
-* Events
-  - onClick
-  - onSubmit
-  - onChange
-  - onInput
-  - onInvalid
+* State
+  - Managing state
 
 * Hooks
-  * useState
-    - Default props
-  * useEffect
-    - Render
-    * Dependencies list
-      * Exists empty
-        - componentDidMount, render content only one time
-      * Exist with specifit value
-        - componentDidUpdate, render content when specific value change, state variable
-      * Non-existent
-        - componentDidUpdate, render content when any change (discouraged)
-    * Return
-      - componentWillUnmount
-  - useContext
-  - useRef
-  - useReducer
-  - useCallback
-  - useMemo
-  * custom hooks
-    - use<hook_name>
+  - State
+  - Context
+  - Ref
+  - Effect
+  - Performance
+  - Other
+  - Own
 
-* Refs
-  * Class component
-    - createRef
-  * Functional component
-    - useRef
+- Lifecycle
 
 * Forms
   - Controlled input element
@@ -235,11 +171,6 @@ $ npm run deploy
   - composition instead of inheritance
   - stateless components
   - pattern: container / content
-
-* parts
-  - index
-  - app
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
