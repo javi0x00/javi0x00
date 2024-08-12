@@ -1,6 +1,5 @@
 # :memo: Notes
 ## BOOTSTRAP
----
 ### Resources
 - [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap docs](https://getbootstrap.com/docs/)
@@ -36,7 +35,6 @@
   - columns according to breakpoint name
 - Components
 - Icons
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

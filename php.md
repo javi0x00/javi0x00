@@ -1,6 +1,5 @@
 # :memo: Notes
 ## PHP
----
 ### Resources
 - [PHP](https://www.php.net/)
 - [PHP Documentation](https://www.php.net/docs.php)
@@ -140,7 +139,6 @@
 * PHP Redirect
 * PHP hashing
 * PHP Working with database
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

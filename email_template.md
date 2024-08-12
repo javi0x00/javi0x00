@@ -1,6 +1,5 @@
 # :memo: Notes
 ## EMAIL TEMPLATE
----
 ### Resources
 -[How to Code HTML Emails for Any Device](https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/)
 ### Terms and concepts
@@ -16,7 +15,6 @@
 - Don’t use forms
 - Don’t use Flash
 - Use with caution video
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

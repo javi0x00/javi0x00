@@ -1,6 +1,5 @@
 # :memo: Notes
 ## VUEJS
----
 ### Resources
 * [API reference](https://vuejs.org/api/)
 * [Vue 3 Docs](https://vuejs.org/guide/introduction.html)
@@ -146,7 +145,6 @@
     - Plugin development
     - Animation
     - PWA
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -1,5 +1,4 @@
 # :books: hbtn
----
 ## The Framework
 0. Read
 1. Think
@@ -49,7 +48,6 @@
 * Web Stack programming ― Back-end
 * Web Stack programming ― Just for fun!
 * Interview Preparation ― Prepare Yourself
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2019 - 2021  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

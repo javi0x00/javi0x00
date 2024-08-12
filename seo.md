@@ -1,6 +1,5 @@
 # :memo: Notes
 ## SEO
-- - -
 ### Resources
 * [Google Search Console](https://search.google.com/search-console/)
 * [Google PageSpeed Insights](https://pagespeed.web.dev/)
@@ -15,7 +14,6 @@
 * [Google Tag Manager](https://tagmanager.google.com/)
 ### Terms and concepts
 * SEO or Search Engine Optimization
-- - -
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

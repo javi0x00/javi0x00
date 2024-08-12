@@ -1,6 +1,5 @@
 # :memo: Notes
 ## DJANGO REST FRAMEWORK
----
 ### Resources
 - [Django REST framework](https://www.django-rest-framework.org/)
 - [Classy Django REST Framework](https://www.cdrf.co/)
@@ -24,7 +23,6 @@
 
 #### Create a Django project in Docker
 
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

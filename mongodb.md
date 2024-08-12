@@ -1,6 +1,5 @@
 # :memo: Notes
 ## MongoDB
----
 ### Resources
 - [MongoDB](https://www.mongodb.com/)
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
@@ -66,7 +65,6 @@ $ mongosh
 > db.<collection name>.deleteOne({_id: ObjectId("0x00")})
 > db.dropDatabase()
 ```
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

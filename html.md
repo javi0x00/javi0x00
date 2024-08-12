@@ -1,6 +1,5 @@
 # :memo: Notes
 ## HTML
----
 ### Resources
 - [Web Standards Project](https://www.webstandards.org/)
 - [W3C](https://www.w3.org/)
@@ -280,7 +279,6 @@
 	</body>
 </html>
 ```
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -97,6 +97,10 @@ $ npm run deploy
 
 * Project structure
   - Structure by default
+* Code structure
+  - By Feature
+  - By Layer
+  - MVC
 
 * Components
   * Parts

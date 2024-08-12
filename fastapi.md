@@ -1,6 +1,5 @@
 # :memo: Notes
 ## FASTAPI
----
 ### Resources
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
@@ -114,7 +113,6 @@ services:
     ports:
       - 8000:8000
 ```
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

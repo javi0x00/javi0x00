@@ -116,7 +116,6 @@ mysql> SELECT * FROM <tb_name> WHERE <condition>;
 mysql> UPDATE <tb_name> SET <attribute> = <new_value> WHERE <condition>;
 mysql> DELETE FROM <tb_name> WHERE <condition>;
 ```
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -1,6 +1,5 @@
 # :memo: Notes
 ## EXPRESSJS
----
 ### Resources
 * [Node.js](https://nodejs.org)
 * [Expressjs](https://expressjs.com/)
@@ -49,7 +48,6 @@
     - express-myconnection
     - express-method-override
   - API REST MongoDB
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

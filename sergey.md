@@ -1,6 +1,5 @@
 # :memo: Notes
 ## SERGEY
-- - -
 ### Resources
 * [Sergey](https://sergey.cool/)
 ### Terms and concepts
@@ -27,7 +26,6 @@ Tag
 <sergey-import src="">...</sergey-import>
 <sergey-slot />
 ```
-- - -
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

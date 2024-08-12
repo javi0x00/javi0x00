@@ -1,6 +1,5 @@
 # :memo: Notes
 ## DATABASE
----
 ### Resources
 ### Requirements
 ### Terms and concepts
@@ -36,7 +35,6 @@
   - Fourth normal form or Boyce-Codd Normal Form (BCNF)
   - Fifth normal form
 - Data Modeling
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -1,6 +1,5 @@
 # :memo: Notes
 ## JAVASCRIPT
----
 ### Resources
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)
@@ -711,7 +710,6 @@ const closure = IamAclosure()
     - Metadata
     - Dependencies and devDependencies
     - Scripts
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

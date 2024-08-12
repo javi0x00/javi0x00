@@ -1,6 +1,5 @@
 # :memo: Notes
 ## MARKDOWN
----
 ### Resources
 - [Markdown](https://daringfireball.net/projects/markdown/)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
@@ -8,7 +7,6 @@
 - [Markdown & Pygments Lexers Cheat Sheet](https://joedicastro.com/pages/markdown.html)
 - [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
 - [Showdownjs](http://showdownjs.com/)
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

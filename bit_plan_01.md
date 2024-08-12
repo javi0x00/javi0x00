@@ -184,7 +184,6 @@ cuando utilizar cada una)
 * Despliegue de aplicación
 ### Courses
 * [01](https://github.com/javierandresgp/bit-course-full_stack_01)
-- - -
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2022  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

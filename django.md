@@ -1,6 +1,5 @@
 # :memo: Notes
 ## DJANGO
----
 ### Resources
 - [Django](https://www.djangoproject.com/)
 - [Django documentation](https://docs.djangoproject.com/)
@@ -176,7 +175,6 @@ Run bash
 ```
 $ docker exec -it <container> bash
 ```
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

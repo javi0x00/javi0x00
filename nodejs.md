@@ -1,6 +1,5 @@
 # :memo: Notes
 ## NODEJS
----
 ### Resources
 - [Node.js](https://nodejs.org)
 * Node Version Manager
@@ -215,7 +214,6 @@ $ pnpm -v
   - MEAN stack (MongoDB, Express, Angular, Node)
   - MEVN stack (MongoDB, Express, Vue, Node)
   - MESN stack (MongoDB, Express, Svelte, Node)
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -19,7 +19,6 @@
 - https://www.pramp.com/
 - https://www.topcoder.com/
 - https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -1,5 +1,4 @@
 # :factory: Triario
----
 ## Projects ― (Collaborator)
 - Universidad de Antioquia / Feria virtual semilleros de investigación (2021/04/19 ― 2021/05/13)
 - NetMédiK / Historia MédiK (2021/04/19 ― 2021/06/10), (2021/17/15)
@@ -13,7 +12,6 @@
 - JavaScript
 - React
 - Bootstrap
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2021  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

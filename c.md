@@ -1,6 +1,5 @@
 # :memo: Notes
 ## C
-- - -
 ### Resources
 * [C language documentation](https://docs.microsoft.com/en-us/cpp/c-language/?view=vs-2019)
 * [The GNU C Library Reference Manual](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)
@@ -177,7 +176,6 @@
 * Binary tree
 * Files
 * Database
-- - -
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -1,6 +1,5 @@
 # :memo: Notes
 ## PROGRAMMING
----
 ### Resources
 - [What is software development?](https://www.ibm.com/topics/software-development)
 1. What and why
@@ -348,7 +347,6 @@ languages and tools they use are secondary to this fundamental skill.
   - Logic programming paradigms
   - Functional programming paradigms
   - Database/Data driven programming approach
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

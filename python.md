@@ -1,6 +1,5 @@
 # :memo: Notes
 ## PYTHON
----
 ### Resources
 - [Python](https://www.python.org/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -294,7 +293,6 @@ $ python --version
 
 - Doctest
 - Unitest
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

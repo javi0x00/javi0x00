@@ -1,6 +1,5 @@
 # :memo: Notes
 ## JAVA
----
 ### Resources
 - [Java SE & JDK Version 22 API Specification](https://docs.oracle.com/en/java/javase/22/docs/api/index.html)
 - [Java](https://www.java.com/)
@@ -288,7 +287,6 @@ $ java -version
 - Hibernate
 - ORM or Object-Relational Mapping
 - HQL or Hibernate Query Language
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

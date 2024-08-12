@@ -1,6 +1,5 @@
 # :memo: Notes
 ## CSS
----
 ### Resources
 - [W3C CSS](https://www.w3.org/Style/CSS/)
 - [The CSS validator](https://jigsaw.w3.org/css-validator/)
@@ -436,7 +435,6 @@ SELECTOR {
 	top: 80vh;
 }
 ```
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

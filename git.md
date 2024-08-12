@@ -1,6 +1,5 @@
 # :memo: Notes
 ## GIT
----
 ### Resources
 - [Git](https://git-scm.com/)
 - [Git Reference Manual](https://git-scm.com/docs)
@@ -277,7 +276,6 @@ $ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPAC
 5. When the *release* branch is done it is merged into **develop** and **main**
 6. If an issue in **main** is detected a *hotfix* branch is created from **main** `hotfix/myfix`
 7. Once the *hotfix* is complete it is merged to both **develop** and **main**
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

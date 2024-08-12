@@ -1,6 +1,5 @@
 # :memo: Notes
 ## DOCKER
----
 ### Resources
 - [Docker](https://www.docker.com/)
 - [Docker Hub](https://hub.docker.com/)
@@ -317,7 +316,6 @@ Re-Build image
 ```
 $ docker build  -t <repo_name>:<version> .
 ```
----
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

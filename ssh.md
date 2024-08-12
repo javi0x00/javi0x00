@@ -1,6 +1,5 @@
 # :memo: Notes
 ## SSH
-- - -
 ### Resources
 * [OpenSSH](https://www.openssh.com/manual.html)
 * [GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
@@ -45,7 +44,6 @@ Connect
 $ ssh <user>@<ip>
 $ .ssh/authorized_keys
 ```
-- - -
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

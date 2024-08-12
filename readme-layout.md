@@ -1,5 +1,4 @@
 # 
-- - -
 - name
 - description
 - objectives
@@ -18,7 +17,6 @@
 - bugs
 - authors
 - license
-- - -
 :copyright: 2022
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  

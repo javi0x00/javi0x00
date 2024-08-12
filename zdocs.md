@@ -1,6 +1,5 @@
 # :memo: Notes
 ## ZDOCS
----
 ### Start
 1. What is it
 2. What does it do
@@ -9,7 +8,6 @@
 5. Concepts
 6. Code samples
 7. Documentation
----
 ## Style Guide
 Always use the same coding conventions for all this project to secure quality, improve code readability and make code maintenance easy.
 ### Python code writing
@@ -68,7 +66,6 @@ Code ordering
 7. Lifecycle methods
 8. Functions
 9. Code execution
----
 ### API Responses
 Always respond with JSON, keep single structure:
 
@@ -85,7 +82,6 @@ Sample of an error case:
 ```
     {"result": "error", "message": "Underdone", "data": null}
 ```
----
 # Technical documentation
 ## Getting Started
 ## Stack
@@ -99,7 +95,6 @@ Sample of an error case:
 ### Optional
 ### Steps
 ### Use
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

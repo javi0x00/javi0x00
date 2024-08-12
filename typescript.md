@@ -1,6 +1,5 @@
 # :memo: Notes
 ## TYPESCRIPT
----
 ### Resources
 - [TypeScript](https://www.typescriptlang.org/)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
@@ -169,7 +168,6 @@ $ tsc --watch
       - NodeList
   - The ! non-null assertion operator
   - Type casting
----
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
