@@ -669,6 +669,7 @@
 - https://avanzatec.gov.co/portal/
 - http://bit.ly/wtfjavascript
 - https://code.org/
+- https://conectaempleo-formacion.fundaciontelefonica.com/colombia
 - https://chuidiang.org/
 - https://claseflix.io/
 - https://desarrolloweb.com/
@@ -711,6 +712,7 @@
 - https://www.khanacademy.org/
 - https://www.mygreatlearning.com/
 - https://www.mygreatlearning.com/academy
+- https://www.oracle.com/co/education/certification/get-certified/
 - https://www.pildorasinformaticas.es/
 - https://www.programiz.com/
 - https://www.proteccion.com/universidad
