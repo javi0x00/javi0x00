@@ -39,13 +39,13 @@ I have collaborated in projects using different stacks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/javierandres-dev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javierandres-dev)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=javierandres-dev)
 
 :man_technologist: Thanks for visiting my GitHub profile.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/javierandres-dev/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/javierandres-dev/)
 - - -
 ### :globe_with_meridians: Online projects
 <!-- ### Personal web page
@@ -78,17 +78,15 @@ I have collaborated in projects using different stacks
 ### :checkered_flag: Development like volunteering
 - *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
 - - -
-### :octocat: Other projects
+### :octocat: Collaborator in other projects
 #### :office: Vertical ― Projects (Collaborator)
 :factory: *Oct 2021 - Mar 2024* [Summary](vertical.md)
-- - -
 #### :office: Triario ― Projects (Collaborator)
 :factory: *Apr 2021 - Sep 2021* [Summary](triario.md)
 - - -
+### :bulb: Other repositories
 #### :snake: hbtn ― Projects
 :school: *Sep 2019 - May 2021* [Summary](hbtn.md)
-- - -
-### :bulb: Other repositories
 - :unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.
 - :lock: Development ― Private projects (Private repositories)
 - - -
