@@ -1,5 +1,5 @@
-# Hello! :wave:, my name is Javier Andrés
-## I'm a software developer oriented to web development.
+### Hello! :wave:, my name is Javier Andrés
+#### I'm a software developer oriented to web development.
 
 SKILLS:
 
@@ -47,10 +47,10 @@ I have collaborated in projects using different stacks
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/javierandres-dev/)
 - - -
-## :globe_with_meridians: Online projects
+### :globe_with_meridians: Online projects
 <!-- ### Personal web page
 :star: [https://javierandres.dev](https://javierandres.dev) -->
-### :muscle: Just for fun!
+#### :muscle: Just for fun!
 ###### Alphabetic order
 |Nº|Project|Stack|Code|Preview|
 |----|----|----|----|----|
@@ -74,17 +74,18 @@ I have collaborated in projects using different stacks
 |Jun 2024|Literature|:ice_cream: Java, Spring, PostgreSQL, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-literature)|[View Demo](https://youtu.be/JupZOzY2WaA)|
 |Apr 2024|Conversor de moneda|:icecream: Java, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
 |Dec 2021|Bank|:ice_cream: MERN, PostgreSQL|[View Code](https://github.com/javierandres-dev/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
+- - -
 ### :checkered_flag: Development like volunteering
 - *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
 - - -
-## :octocat: Other projects
-### :office: Vertical ― Projects (Collaborator)
+### :octocat: Other projects
+#### :office: Vertical ― Projects (Collaborator)
 :factory: *Oct 2021 - Mar 2024* [Summary](vertical.md)
 - - -
-### :office: Triario ― Projects (Collaborator)
+#### :office: Triario ― Projects (Collaborator)
 :factory: *Apr 2021 - Sep 2021* [Summary](triario.md)
 - - -
-### :snake: hbtn ― Projects
+#### :snake: hbtn ― Projects
 :school: *Sep 2019 - May 2021* [Summary](hbtn.md)
 - - -
 ### :bulb: Other repositories
