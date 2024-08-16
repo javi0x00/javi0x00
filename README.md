@@ -41,8 +41,8 @@
 
 [![GitHub streak stats](https://streak-stats.demolab.com/?user=javierandres-dev)](#)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javierandres-dev)
-Thanks for visiting my GitHub profile :man_technologist:
+
+Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javierandres-dev) profile :man_technologist:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/javierandres-dev/)
 - - -
@@ -86,7 +86,7 @@ Thanks for visiting my GitHub profile :man_technologist:
 ### :bulb: Other repositories
 #### :snake: hbtn ― Projects
 :school: *Sep 2019 - May 2021* [Summary](hbtn.md)
----
+- - -
 - :unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.
 - :lock: Development ― Private projects (Private repositories)
 - - -
