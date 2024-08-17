@@ -688,6 +688,7 @@
 - https://learnxinyminutes.com/
 - https://leetcode.com/
 - https://linuxjourney.com/
+- https://ngchallenges.gitbook.io/
 - https://mimo.org/
 - https://programacion.net/
 - https://refactoring.guru/
@@ -719,6 +720,7 @@
 - https://www.proteccion.com/universidad
 - https://www.ptech.org/es/
 - https://www.santanderopenacademy.com/es/index.html
+- https://www.simplilearn.com/tutorials/java-tutorial
 - https://www.sololearn.com/
 - https://www.sqlbolt.com/
 - https://www.studytonight.com/
