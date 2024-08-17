@@ -51,8 +51,6 @@ Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/javierandres-dev/) Let's connect!
 - - -
 ### :globe_with_meridians: Online projects
-<!-- ### Personal web page
-:star: [https://javierandres.dev](https://javierandres.dev) -->
 #### :muscle: Just for fun!
 ###### Alphabetic order
 |Nº|Project|Stack|Code|Preview|
