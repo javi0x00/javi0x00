@@ -47,8 +47,8 @@
 
 
 Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javierandres-dev)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/javierandres-dev/) Let's connect!
+ | 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/javierandres-dev/) Let's connect!
 - - -
 ### :globe_with_meridians: Online projects
 <!-- ### Personal web page
