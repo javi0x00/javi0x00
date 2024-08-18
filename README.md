@@ -14,10 +14,6 @@
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
-
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
-
 ##### I'm currently learning
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](#)
@@ -76,21 +72,21 @@ Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.
 |Apr 2024|Conversor de moneda|:icecream: Java, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
 |Dec 2021|Bank|:ice_cream: MERN, PostgreSQL|[View Code](https://github.com/javierandres-dev/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
 - - -
-### :checkered_flag: Development like volunteering
-- *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
-- - -
 ### :octocat: Collaborator in other projects
 #### :office: Vertical ― Projects (Collaborator)
 :factory: *Oct 2021 - Mar 2024* [Summary](vertical.md)
 #### :office: Triario ― Projects (Collaborator)
 :factory: *Apr 2021 - Sep 2021* [Summary](triario.md)
 - - -
+### :checkered_flag: Development like volunteering
+- *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
+- - -
 ### :bulb: Other repositories
 #### :snake: hbtn ― Projects
 :school: *Sep 2019 - May 2021* [Summary](hbtn.md)
 
-- :unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.
-- :lock: Development ― Private projects (Private repositories)
+:unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.
+:lock: Development ― Private projects (Private repositories)
 - - -
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [astro](astro.md) | [bit](bit.md) | [bootstrap](bootstrap.md) | [c](c.md) | [css](css.md) | [django](django.md) | [django rest framework](drf.md) | [docker](docker.md) | [email template](email_template.md) | [employment](employment.md) | [english](english.md) | [expressjs](expressjs.md) | [fastapi](fastapi.md) | [figma](figma.md) | [git](git.md) | [html](html.md) | [interview](interview.md) | [java](java.md) | [javascript](javascript.md) | [json](json.md) | [layout](layout.md) | [linux](linux.md) | [markdown](markdown.md) | [mongodb](mongodb.md) | [mysql](mysql.md) | [nodejs](nodejs.md) | [php](php.md) | [postgresql](postgresql.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [reactjs](reactjs.md) | [resources](resources.md) | [road map](road_map.md) | [seo](seo.md) | [sergey](sergey.md) | [setups](setups.md) | [spring](spring.md) | [sql](sql.md) | [ssh](ssh.md) | [svelte](svelte.md) | [typescript](typescript.md) | [versioning](versioning.md) | [vuejs](vuejs.md) | [webpack](webpack.md) | [zdocs](zdocs.md)
