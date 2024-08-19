@@ -87,7 +87,7 @@ Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.
 #### :snake: hbtn ― Projects
 :school: *Sep 2019 - May 2021* [Summary](hbtn.md)
 
-:unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.
+:unlock: Explore, Programming Challenges, Courses, Exercises, Examples, Tests.  
 :lock: Development ― Private projects (Private repositories)
 - - -
 ###### :memo: Notes
