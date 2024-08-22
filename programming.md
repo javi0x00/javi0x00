@@ -128,12 +128,13 @@ languages and tools they use are secondary to this fundamental skill.
   - Membership
   - Bitwise
 
-#### Control flow
+#### Flow
 - Sequential
-- Selective
-- Conditionals
-- Loops
-- Flow handling
+* Selective
+  * Control flow
+    - Conditionals
+    - Loops
+    - Flow handling
 
 * Functions
   - Parameter (variable)

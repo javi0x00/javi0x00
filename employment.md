@@ -4,6 +4,7 @@ ATS or Applicant Tracking System
 ### CV
 - https://www.resumego.net/
 - https://www.resumego.net/resume-checker/
+- https://www.tealhq.com/
 ### Job Dashboard
 - https://anywhere.epam.com/es/find-me-a-job
 - https://arc.dev/
