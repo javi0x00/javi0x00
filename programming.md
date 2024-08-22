@@ -13,11 +13,10 @@
 Problem solving is the core thing software developers do.  The programming 
 languages and tools they use are secondary to this fundamental skill.
 
-* Problem solving
-  1. Understand the problem
-  2. Plan
-  3. Divide and conquer
-
+#### Problem solving
+1. Understand the problem
+2. Plan
+3. Divide and conquer
 * Resources
   - Basic paper and pencil
   - Diagrams
@@ -27,21 +26,7 @@ languages and tools they use are secondary to this fundamental skill.
   - Algorithm
   - Psudocode
 
-* Units of information
-  - Bit, A binary digit, Zero or One
-  - Crumb, two bits or quarter byte
-  - Nibble, four bits or nybble or half a byte
-  - Byte, eight bits or octet
-  - Word, set of bytes
-  - Kilobyte, 1024 bytes
-  - Megabyte, 1024 KB
-  - Gigabyte, 1024 MB
-  - Terabyte, 1024 GB
-  - Petabyte, 1024 TB
-  - Exabyte, 1024 PB
-  - Zettabyte, 1024 EB
-  - Yottabyte, 1024 ZB
-  - Memory address
+#### Algorithm
 * Algorithms
   - Independent
   - Definite
@@ -78,25 +63,30 @@ languages and tools they use are secondary to this fundamental skill.
       - Order
       - Line by line
   - Desktop test
-* Data types
-  - boolean, int, float, double, char, string
-  * Only type, not data type
-    - Void
+
+#### Data types
+- boolean, int, float, double, char, string
+* Only type, not data type
+  - Void
 * Identifiers
   - Names to store data types
-* Operators
-  - Arithmetics
-  - Assignment
-  - Comparison
-  - Logical
-  - Relational
-  - Increment
-  - Decrement
-  - Grouping
-  - Concatenation
-  - Identity
-  - Membership
-  - Bitwise
+* Units of information
+  - Bit, A binary digit, Zero or One
+  - Crumb, two bits or quarter byte
+  - Nibble, four bits or nybble or half a byte
+  - Byte, eight bits or octet
+  - Word, set of bytes
+  - Kilobyte, 1024 bytes
+  - Megabyte, 1024 KB
+  - Gigabyte, 1024 MB
+  - Terabyte, 1024 GB
+  - Petabyte, 1024 TB
+  - Exabyte, 1024 PB
+  - Zettabyte, 1024 EB
+  - Yottabyte, 1024 ZB
+  - Memory address
+
+#### Store Data
 * Data structures
   * Simple or Primitive
     * Variable
@@ -121,45 +111,29 @@ languages and tools they use are secondary to this fundamental skill.
     - Unsorted
     - Worst case scenario O(n), O(log n)
     - Average scenario O(n/2), O(log n)
-* Control flow
-  - Sequential
-  - Selective
-  - Conditionals
-  - Loops
-  - Flow handling
-* Software
-  - Operating systems
-  - Applications
-  - Programs
-* Program
-  - Programming
-    - Modular programming
-    - Structured programming
-  - Programmer
-  - Programming languages
-* Programming languages
-  - Codification
-  - Source code
-  - Machine language
-  - Low level
-  - High level
-  - Program structure
-  - Syntax
-  - Keywords
-  - Translators
-  - Instructions
-* Translator
-  - Compiler
-  - Interpeter
-* Instructions
-  - Input
-  - Output
-  - Calculation
-  - Of control
-* Statements
-  - Values, Operators, Expressions, Keywords, Comments.
-* Expressions
-  - Values, variables, and operators, which computes to a value.
+
+#### Operations
+- Operands
+* Operators
+  - Arithmetics
+  - Assignment
+  - Comparison
+  - Logical
+  - Relational
+  - Increment
+  - Decrement
+  - Grouping
+  - Concatenation
+  - Identity
+  - Membership
+  - Bitwise
+
+#### Control flow
+- Sequential
+- Selective
+- Conditionals
+- Loops
+- Flow handling
 
 * Functions
   - Parameter (variable)
@@ -194,29 +168,62 @@ languages and tools they use are secondary to this fundamental skill.
     - Commenting
   - External resources (Search, forum, etc)
 
-* Clean code
-  - Logic before coding
-  - Writing clean code
-  - Consistency
-  - Indentation
-  - Line length
-  * Naming things
-    - Variables with a noun or adjetive
-    - Functions with a verb
-  * Comments
-    - Explanatory
-    - Avoid abusing
-  - Short functions
-  - Respecting standards in use
-  - Avoid indiscriminate mixing of coding languages
-  - Caution with imports
+#### Clean code
+- Logic before coding
+- Writing clean code
+- Consistency
+- Indentation
+- Line length
+* Naming things
+  - Variables with a noun or adjetive
+  - Functions with a verb
+* Comments
+  - Explanatory
+  - Avoid abusing
+- Short functions
+- Respecting standards in use
+- Avoid indiscriminate mixing of coding languages
+- Caution with imports
 
 - DRY (Don't Repeat Yourself)
 
+#### Software
+- Operating systems
+- Applications
+- Programs
+* Program
+  - Programming
+    - Modular programming
+    - Structured programming
+  - Programmer
+  - Programming languages
+* Programming languages
+  - Codification
+  - Source code
+  - Machine language
+  - Low level
+  - High level
+  - Program structure
+  - Syntax
+  - Keywords
+  - Translators
+  - Instructions
+* Translator
+  - Compiler
+  - Interpeter
+* Instructions
+  - Input
+  - Output
+  - Calculation
+  - Of control
+* Statements
+  - Values, Operators, Expressions, Keywords, Comments.
+* Expressions
+  - Values, variables, and operators, which computes to a value.
 * Architecture
   - Monolithic
   - Microservices
----
+- - -
 #### Introduction to Programming and Computer Science
 - Introduction
 - What is programming?
