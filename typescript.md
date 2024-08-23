@@ -15,6 +15,7 @@
 Global
 ```
 $ npm install -g typescript
+$ tsc -v
 ```
 ##### Setup
 Project
