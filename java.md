@@ -277,6 +277,12 @@ $ java -version
   - Custom constructor
 - Dates
 
+* FIFO / First In, First Out
+  - ArrayList
+  - LinkedList
+* LIFO / Last In, First Out
+  - Stack
+
 - JDBC or Java Database Connectivity
 - DAO or Data Access Object
 
