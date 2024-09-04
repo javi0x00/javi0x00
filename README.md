@@ -65,6 +65,7 @@ Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.
 |10|Pokémon Cards|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-pokemon_cards)|[Live Preview](https://javierandres-dev.github.io/training-pokemon_cards/)|
 |11|Responsive Navbar|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
 |12|Rock, Paper, Scissors|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
+|13|Timer|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/just_for_fun-timer)|[Live Preview](https://javierandres-dev.github.io/just_for_fun-timer/)|
 ##### Demos
 ###### Date descending order
 |Date|Project|Stack|Code|Demo|
