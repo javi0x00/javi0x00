@@ -278,10 +278,15 @@ $ java -version
 - Dates
 
 * FIFO / First In, First Out
+  - Queue
   - ArrayList
   - LinkedList
 * LIFO / Last In, First Out
   - Stack
+
+Map
+HashMap
+Generics
 
 - JDBC or Java Database Connectivity
 - DAO or Data Access Object
