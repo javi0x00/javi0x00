@@ -18,6 +18,8 @@
 #### Vite
 ```
 $ npm create vite@latest
+$ npm create vite@latest . -- --template react-ts
+$ npm create vite@latest app-name -- --template react-ts
 ```
 #### Deploy to a Github pages a React App (Vite)
 Install gh-pages
