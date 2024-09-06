@@ -1,5 +1,5 @@
 # :memo: Notes
-## REACTJS
+## REACT
 ### Resources
 - [React](https://react.dev/)
 
