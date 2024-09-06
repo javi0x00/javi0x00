@@ -188,6 +188,10 @@ languages and tools they use are secondary to this fundamental skill.
 
 - DRY (Don't Repeat Yourself)
 
+* Pure function
+  - It minds its own business. It does not change any objects or variables that existed before it was called.
+  - Same inputs, same output. Given the same inputs, a pure function should always return the same result.
+
 #### Software
 - Operating systems
 - Applications

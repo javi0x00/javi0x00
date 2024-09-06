@@ -94,8 +94,10 @@ $ npm run deploy
   * events
     - nativeEvent
     - SyntheticEvents
-  * Syntax
-    * jsx (sugar sintactic)
+  * JSX
+    - JSX is a syntax extension (sugar sintactic)
+  * UI
+    - tree model
 
 * Project structure
   - Structure by default
@@ -105,13 +107,21 @@ $ npm run deploy
   - MVC
 
 * Components
+  * Are regular JavaScript function, but
+    - their names always begin with a capital letter
+    - they returns JSX markup
+  - Never define a component inside another component
+  - Always, import or define every component at the top level
+  - Every piece of UI is a component
   * Parts
     - Content (html)
     - Presentation (css)
     - Interactivity (js)
-  * Export
-    - Named
-    - By default
+  * Nesting and organizing components
+    * Export
+      - Named
+      - By default
+    - Import
   * With state or without state
   * Unidirectional, One-way Data Binding
     - Parent to child flow
@@ -127,12 +137,12 @@ $ npm run deploy
   * render
     - props
     - state
-    - conditional
+    - conditional rendering
+    - rendering lists
   - fragment
   - reactivity
 
-* More components
-  - pureComponent
+- Keeping components pure
 
 * Properties ― props (inmutable), it's a object
   - Default Props
@@ -160,13 +170,10 @@ $ npm run deploy
   - Managing state
 
 * Hooks
-  - State
-  - Context
-  - Ref
-  - Effect
-  - Performance
-  - Other
+  - Rules
+  - Built-in
   - Own
+  - Third
 
 - Lifecycle
 
@@ -177,6 +184,8 @@ $ npm run deploy
   - composition instead of inheritance
   - stateless components
   - pattern: container / content
+
+[training-react](https://github.com/javierandres-dev/training-react)
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
