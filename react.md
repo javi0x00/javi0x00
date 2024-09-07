@@ -23,7 +23,7 @@
 ### Setup
 #### Vite
 ```
-$ npm create vite@latest
+$ npm create vite@latest <app-name> -- --template react
 ```
 #### Vite & TypeScript
 ```

@@ -118,6 +118,7 @@
 #### API
 - http://7timer.info/
 - http://any-api.com/
+- https://apidocs.imgur.com/
 - https://apilist.fun/
 - https://api.github.com
 - https://api-sepomex.hckdrk.mx/documentacion/docs
