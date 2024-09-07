@@ -49,6 +49,7 @@
   - [Videos](#videos)
   - [Whiteboard](#whiteboard)
   - [Wireframes](#wireframes)
+- [Design Systems](#design-systems)
 - [Docker](#docker)
 - [Documentation](#documentation)
 * [HTML](#html)
@@ -82,6 +83,7 @@
 - [Open Source](#open-source)
 - [Postmortem](#postmortem)
 - [Programming](#programming)
+- [React](#react)
 - [Regular Expression](#regular-expression)
 - [Repositories](#repositories)
 - [Screenshot](#screenshot)
@@ -104,7 +106,6 @@
     - [Commit](#commit)
     - [gitignore file](#gitignore-file)
 - [Versioning](#versioning)
----
 [:top: Top](#resources)
 ### API's
 - Open APIs
@@ -168,15 +169,12 @@
 - https://www.reddit.com/dev/api/
 - https://www.randomlists.com/data/words.json
 - http://www.tvmaze.com/api
----
 [:top: Back to menu](#resources)
 ### Authentication
 - https://jwt.io/
----
 [:top: Back to menu](#resources)
 ### Authorization
 - https://oauth.net/
----
 [:top: Back to menu](#resources)
 ### Browsers
 - https://browsehappy.com/
@@ -190,11 +188,9 @@
 - ColorZilla
 - Clear Cache
 - Moesif Origin & CORS Changer
----
 [:top: Back to menu](#resources)
 ### Boards
 - https://padlet.com/
----
 [:top: Back to menu](#resources)
 ### Challenges
 - https://100dayscss.com/
@@ -211,11 +207,9 @@
 - https://www.learneroo.com/subjects/3
 - https://workat.tech/problem-solving/lists/beginner-problems/practice
 - https://codeforwin.org/2015/05/basic-programming-practice-problems.html
----
 [:top: Back to menu](#resources)
 ### Cheatsheets
 - https://devhints.io/
----
 [:top: Back to menu](#resources)
 ### Code editor
 - https://atom.io/
@@ -318,7 +312,6 @@
 * ...
   - https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
   - https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx
----
 [:top: Back to menu](#resources)
 ### Code Sharing
 - https://gist.github.com/
@@ -342,13 +335,11 @@
 - https://etherpad.org/
 - https://killedbygoogle.com/
 - https://www.codewars.com/
----
 [:top: Back to menu](#resources)
 ### Community
 - https://daily.dev/
 - https://developers.google.com/
 - https://web.dev/
----
 [:top: Back to menu](#resources)
 ### CSS
 - https://lenguajecss.com/
@@ -394,7 +385,6 @@
 - https://autoprefixer.github.io/
 #### Resets
 - https://meyerweb.com/eric/tools/css/reset/
----
 [:top: Back to menu](#resources)
 ### Databases
 - https://dbdiagram.io/
@@ -408,18 +398,15 @@
 - https://www.sql-practice.com/
 #### ORM
 - https://www.sqlalchemy.org/
----
 [:top: Back to menu](#resources)
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console
 - https://firefox-source-docs.mozilla.org/devtools-user/
 - https://developer.chrome.com/docs/devtools/
 - https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/
----
 [:top: Back to menu](#resources)
 ### Deploy
 - https://www.netlify.com/
----
 [:top: Back to menu](#resources)
 ### Design
 - https://designstripe.com/
@@ -542,11 +529,12 @@
 - https://ninjamock.com/
 - https://balsamiq.com/
 - https://www.adobe.com/products/xd.html
----
+[:top: Back to menu](#resources)
+### Design Systems
+- https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969
 [:top: Back to menu](#resources)
 ### Docker
 - https://devtalles.com/files/docker-cheat-sheet.pdf
----
 [:top: Back to menu](#resources)
 ### Documentation
 - https://devdocs.io/
@@ -556,7 +544,6 @@
   - https://www.valentinog.com/blog/jsdoc/
 - https://apidocjs.com/
 - https://swagger.io/
----
 [:top: Back to menu](#resources)
 ### HTML
 - https://allthetags.com/
@@ -570,23 +557,19 @@
 #### Email Template
 - [MJML](https://mjml.io/)
 - [Foundation for Emails](https://get.foundation/emails.html)
----
 [:top: Back to menu](#resources)
 ### HTTP Clients
 - https://www.postman.com/
 - https://insomnia.rest/
----
 [:top: Back to menu](#resources)
 ### IDE
 - https://www.jetbrains.com/
 - https://coderunnerapp.com/
----
 [:top: Back to menu](#resources)
 ### Java
 - https://www.java.com/
 - https://github.com/google/gson
 - https://mvnrepository.com/artifact/com.google.code.gson/gson
----
 [:top: Back to menu](#resources)
 ### JavaScript
 - https://lenguajejs.com/
@@ -653,17 +636,14 @@
 - http://javascript2img.com/
 #### Spreadsheets
 - https://sheetjs.com/
----
 [:top: Back to menu](#resources)
 ### JSON
 - https://nodejs.dev/learn/the-package-json-guide
 - https://jsonapi.org/
 - https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
----
 [:top: Back to menu](#resources)
 ### Licence
 - https://choosealicense.com/
----
 [:top: Back to menu](#resources)
 ### Learn
 - https://anywhere.epam.com/es/blog/career/advice
@@ -727,32 +707,29 @@
 - https://www.tutorialesprogramacionya.com/
 - https://www.w3schools.com/
 - https://www.yopuedoprogramar.com/
----
 [:top: Back to menu](#resources)
 ### Mail
 - https://mailtrap.io/
----
 [:top: Back to menu](#resources)
 ### LNP
 - https://www.tronya.co/fracasos-de-exitosos/
 - https://www.tuproposito.es/
----
 [:top: Back to menu](#resources)
 ### Open Source
 - https://opensource.org/
----
 [:top: Back to menu](#resources)
 ### Postmortem
 - https://www.atlassian.com/incident-management/postmortem
 - https://www.atlassian.com/incident-management/postmortem/reports
 - https://docs.microsoft.com/en-us/compliance/assurance/assurance-sim-post-incident-activity
 - https://sre.google/sre-book/postmortem-culture/
----
 [:top: Back to menu](#resources)
 ### Programming
 - https://pseint.sourceforge.net/
 - http://www.flowgorithm.org/
----
+[:top: Back to menu](#resources)
+### React
+- https://github.com/javierandres-dev/javierandres-dev/blob/master/react.md
 [:top: Back to menu](#resources)
 ### Regular Expression
 - http://emailregex.com/
@@ -761,52 +738,42 @@
 ---
 ### Repositories
 - https://mvnrepository.com/
----
 [:top: Back to menu](#resources)
 ### Screenshot
 - https://flameshot.org/
 - https://app.prntscr.com/en/index.html
----
 [:top: Back to menu](#resources)
 ### Scrum
 - https://www.scrumpoker-online.org/en/
 - https://www.agilealliance.org/agile101/agile-glossary/
----
 [:top: Back to menu](#resources)
 ### Security
 - https://auth0.com/
 - https://snyk.io/
----
 [:top: Back to menu](#resources)
 ### SEO
 - https://developers.google.com/search/docs/advanced/robots/create-robots-txt
 - https://caniuse.com/
 - https://ogp.me/
----
 [:top: Back to menu](#resources)
 ### SSL VPN
 - http://www.fortinet.com
 - https://www.fortinet.com/support/product-downloads
 - https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-install-FortiClient-on-Ubuntu-22-04-LTS/ta-p/217162
 - https://help.queens.edu/hc/en-us/articles/360000438083-How-to-install-Forticlient-VPN-v6-0-Apple-MacOS-10-12-and-higher
----
 [:top: Back to menu](#resources)
 ### Submissions
 - https://formsubmit.co/
----
 [:top: Back to menu](#resources)
 ### Timers
 - https://pomofocus.io/app
----
 [:top: Back to menu](#resources)
 ### Tracking
 - https://analytics.google.com/
 - https://developers.facebook.com/docs/meta-pixel
----
 [:top: Back to menu](#resources)
 ### Tunnel
 - https://ngrok.com/docs
----
 [:top: Back to menu](#resources)
 ### Type
 - https://www.typingclub.com/
@@ -816,7 +783,6 @@
 - https://www.typing.com/
 - https://typistapp.ca/
 - https://github.com/max-niederman/ttyper
----
 [:top: Back to menu](#resources)
 ### Unicode
 - https://unicode.org/
@@ -825,7 +791,6 @@
 - https://www.asciitable.com/
 - https://www.lookuptables.com/text/html-character-codes
 - https://www.w3schools.com/charsets/ref_html_utf8.asp
----
 [:top: Back to menu](#resources)
 ### Version Control Hosting
 #### Bitbucket
@@ -840,7 +805,6 @@
 - https://docs.gitlab.com/
 - https://docs.gitlab.com/ee/user/project/pages/
 - https://how-to-stuff.gitlab.io/gitlab-pages-how-to/
----
 [:top: Back to menu](#resources)
 ### Version Control System
 - https://git-scm.com/
@@ -859,7 +823,6 @@
   - https://docs.gitlab.com/ee/topics/git/git_rebase.html
 ##### gitignore file
 - http://help.github.com/ignore-files/
----
 [:top: Back to menu](#resources)
 ### Versioning
 - https://semver.org/
