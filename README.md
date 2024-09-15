@@ -50,6 +50,8 @@ Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.
 - - -
 ### :globe_with_meridians: Online projects
 #### :muscle: Just for fun!
+JUST FOR FUN projects ― I have done them to practice and review what I have learned.  
+´´Practice doesn't make perfect, practice makes better.´´
 ###### Alphabetic order
 |Nº|Project|Stack|Code|Preview|
 |----|----|----|----|----|
