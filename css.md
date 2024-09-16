@@ -301,6 +301,11 @@ selector ~ selector {}/* apuntar a elementos hermanos inmediatos (todos los herm
 @font-face {}/* agregar fuentes */
 
 /* MEDIAQUERIES */
+@media (width >= 576px) {}
+@media (width >= 768px) {}
+@media (width >= 992px) {}
+@media (width >= 1200px) {}
+@media (width >= 1400px) {}
 /* MOBILE FIRST - consiste en codificar para dispositivos moviles y dar cambios a medida que crecen las pantallas */
 /* cambios a partir de 480px en adelante */
 @media screen and (min-width: 480px) {

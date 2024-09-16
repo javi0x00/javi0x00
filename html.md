@@ -134,6 +134,11 @@
 		<noscript></noscript><!-- para mostrar mensaje si no tiene habilitado javascript -->
 	</head>
 	<body><!-- lo incluido en "body" es lo que visualiza el usuario en el navegador -->
+		<noscript>
+      It looks like JavaScript is currently disabled in your browser. For the
+      best experience and full functionality of this site, please enable
+      JavaScript.
+    </noscript>
 		<!-- Semánticos -->
 		<header></header><!-- encabezamiento -->
 		<nav></nav><!-- menu de navegación -->
@@ -280,5 +285,5 @@
 </html>
 ```
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
