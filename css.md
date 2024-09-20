@@ -307,6 +307,39 @@ selector ~ selector {}/* apuntar a elementos hermanos inmediatos (todos los herm
 @media (width >= 1200px) {}
 @media (width >= 1400px) {}
 /* MOBILE FIRST - consiste en codificar para dispositivos moviles y dar cambios a medida que crecen las pantallas */
+.container {
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+@media (width >= 576px) {
+  .container {
+    max-width: 540px;
+    margin: auto;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media (width >= 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (width >= 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (width >= 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+@media (width >= 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
 /* cambios a partir de 480px en adelante */
 @media screen and (min-width: 480px) {
 	max-width: 420px;
