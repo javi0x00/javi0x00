@@ -359,6 +359,43 @@ languages and tools they use are secondary to this fundamental skill.
   - Logic programming paradigms
   - Functional programming paradigms
   - Database/Data driven programming approach
+### Software Architecture
+* Monolith
+* Microservices
+* Microfrontends
+* Client-Server
+* Model-View-Controller
+### Design System
+* Atomic Design
+  * Atom
+    * Subatomic elements
+      - Fonts
+      - Typography
+      - Colors
+      - Shadows
+      - Animations
+  * Molecule
+    - Atoms
+  * Organism
+    - Atoms
+    - Molecules
+  * Template
+    - Atoms
+    - Molecules
+    - Organisms
+  * Page
+    - Atoms
+    - Molecules
+    - Organisms
+    - Templates
+  * Website
+    - Atoms
+    - Molecules
+    - Organisms
+    - Templates
+    - Pages
+### Cloud
+* Serveles
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
