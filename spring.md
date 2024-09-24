@@ -64,7 +64,7 @@
 * Project structure
   - Structure by default
 * Code structure
-  - By feature
+  - By Feature
   - By Layer
   - MVC
 

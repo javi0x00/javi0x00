@@ -251,17 +251,6 @@ languages and tools they use are secondary to this fundamental skill.
 - What is pseudocode?
 - Choosing the right language?
 - Applications of programming
-##### SOLID Principles
-* Single Responsibility Principle
-  - One task, only one responsibility.
-* Open/Close Principle
-  - Open for extensión, close for modification.
-* Liskov Substitution Principle
-  - Every subclass or derived class should be substitutable for their base or parent class.
-* Interface Segregation Principle
-  - Only require what is used.
-* Dependency Inversion Principle
-  - Entities must depend on abstractions, not on concretions.
 ---
 ### Programming Logic
 * Programming
@@ -359,12 +348,180 @@ languages and tools they use are secondary to this fundamental skill.
   - Logic programming paradigms
   - Functional programming paradigms
   - Database/Data driven programming approach
+#### SOLID Principles
+* Single Responsibility Principle
+  - One task, only one responsibility.
+* Open/Close Principle
+  - Open for extensión, close for modification.
+* Liskov Substitution Principle
+  - Every subclass or derived class should be substitutable for their base or parent class.
+* Interface Segregation Principle
+  - Only require what is used.
+* Dependency Inversion Principle
+  - Entities must depend on abstractions, not on concretions.
+
+* Benefits
+  * Code
+    - clean
+    - easy to understand
+    - flexible
+    - adaptable
+    - reusable
+  - fewer bugs
 ### Software Architecture
 * Monolith
 * Microservices
 * Microfrontends
 * Client-Server
 * Model-View-Controller
+### Project Structure
+#### Backend
+- By Feature
+- By Layer
+
+MVC
+* src
+  - models
+  - views
+  - controllers
+
+MVC by modules
+* src
+  * xModule
+    - models
+    - views
+    - controllers
+
+By Hexagonal Architecture / Layer
+* src
+  * domain
+    - models
+    - services
+  * infrastructure
+    - components
+    - http
+    - repositories
+  - application
+
+By Packages / Flux
+* src
+  * packages
+    * xPackage
+      * src
+        - store
+        - components
+        - actions
+        - mutators
+  * shared
+    * xPackage
+      * src
+        - store
+        - components
+        - actions
+        - mutators
+#### Frontend
+Basic
+* src
+  - css
+  - data
+  - fonts
+  - img
+  - js
+
+By Type File
+* src
+  - components
+  - directives
+  - hooks
+  - pages
+  - pipes
+  - services
+
+By UI
+* src
+  * render (UI)
+    - layout
+    - pages
+    - sections
+    - components
+    - UI (shared)
+  * logic (no UI)
+    - services
+    - helpers
+    - utils
+
+By Feature
+* src
+  * features
+    * xFeature
+      - components
+      - directives
+      - hooks
+      - pages
+      - pipes
+      - services
+  * shared
+    - components
+    - directives
+    - hooks
+    - pages
+    - pipes
+    - services
+
+By Clean Architecture
+* src
+  - adapters (reusable)
+  - assets
+  - components (reusable)
+  - contexts
+  - hooks (reusable)
+  - interceptors (reusable)
+  - models (reusable)
+  * pages
+    * xPage
+      - adapters (unique)
+      - components (unique)
+      - contexts
+      - hooks (unique)
+      - interceptors (unique)
+      - models (unique)
+      - services (unique)
+      - styledComponents (unique)
+  - redux
+  - services (reusable)
+  - styledComponents (reusable)
+  - utilities
+
+By Routes
+* src
+  * pages
+    - xRoute
+  * core (no UI)
+    - guards
+    - interceptors
+    - models
+    - services
+  * shared (UI)
+    - components
+    - directives
+    - hooks
+    - pages
+    - pipes
+    - services
+
+By Atomic Design
+* src
+  * features
+    * xFeature
+      - atom
+      - molecule
+      - organism
+  * shared
+    * components
+      - atom
+      - molecule
+      - organism
+    - hooks
 ### Design System
 * Atomic Design
   * Atom
@@ -395,7 +552,10 @@ languages and tools they use are secondary to this fundamental skill.
     - Templates
     - Pages
 ### Cloud
-* Serveles
+* Serverless
+## 
+- Robert C. Martin
+- Michael Feathers
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
