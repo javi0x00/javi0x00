@@ -1,5 +1,5 @@
 # :memo: Notes
-## SPRING
+## SPRING BOOT
 ### Resources
 - [Spring projects](https://spring.io/projects)
 - [Spring Guides](https://spring.io/guides)
@@ -9,6 +9,7 @@
 ### Requirements
 - Java
 ### Terms and concepts
+- Spring vs Spring Boot
 - Framework
 - JAR (Java Archive)
 * Build automation tools
