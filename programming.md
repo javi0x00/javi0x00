@@ -1,7 +1,6 @@
 # :memo: Notes
 ## PROGRAMMING
-### Resources
-- [What is software development?](https://www.ibm.com/topics/software-development)
+### Learn
 1. What and why
 2. What do
 3. Why use
@@ -9,11 +8,32 @@
 5. Concepts
 6. Code samples
 7. API documentation
+### Resources
+- [What is software development?](https://www.ibm.com/topics/software-development)
 ### Terms and concepts
+Index
+
+- [Problem Solving](#problem-solving)
+- [Algorithm](#algorithm)
+- [Data Types](#data-types)
+- [Store Data](#store-data)
+- [Operations](#operations)
+- [Flow](#flow)
+- [Clean Code](#clean-code)
+- [Software](#software)
+- [Introduction to Programming and Computer Science](#introduction-to-programming-and-computer-science)
+- [Programming Logic](#programming-logic)
+- [Programming Paradigms](#programming-paradigms)
+- [SOLID Principles](#solid-principles)
+* [Architecture Patterns](#architecture-patterns)
+  - [Project Structure](#project-structure)
+- [Design Patterns](#design-patterns)
+- [UI Design Methodology](#ui-design-methodology)
+- [Cloud](#cloud)
+#### Problem Solving
 Problem solving is the core thing software developers do.  The programming 
 languages and tools they use are secondary to this fundamental skill.
 
-#### Problem solving
 1. Understand the problem
 2. Plan
 3. Divide and conquer
@@ -25,7 +45,6 @@ languages and tools they use are secondary to this fundamental skill.
   - Sketch
   - Algorithm
   - Psudocode
-
 #### Algorithm
 * Algorithms
   - Independent
@@ -63,8 +82,7 @@ languages and tools they use are secondary to this fundamental skill.
       - Order
       - Line by line
   - Desktop test
-
-#### Data types
+#### Data Types
 - boolean, int, float, double, char, string
 * Only type, not data type
   - Void
@@ -85,7 +103,6 @@ languages and tools they use are secondary to this fundamental skill.
   - Zettabyte, 1024 EB
   - Yottabyte, 1024 ZB
   - Memory address
-
 #### Store Data
 * Data structures
   * Simple or Primitive
@@ -111,7 +128,6 @@ languages and tools they use are secondary to this fundamental skill.
     - Unsorted
     - Worst case scenario O(n), O(log n)
     - Average scenario O(n/2), O(log n)
-
 #### Operations
 - Operands
 * Operators
@@ -127,7 +143,6 @@ languages and tools they use are secondary to this fundamental skill.
   - Identity
   - Membership
   - Bitwise
-
 #### Flow
 - Sequential
 * Selective
@@ -135,7 +150,6 @@ languages and tools they use are secondary to this fundamental skill.
     - Conditionals
     - Loops
     - Flow handling
-
 * Functions
   - Parameter (variable)
   - Argument (value)
@@ -152,14 +166,12 @@ languages and tools they use are secondary to this fundamental skill.
   * Recursion
     - Base case
     - Recursive case
-
 * Errors
   * Understanding errors
     - Syntax error
     - Runtime error
     - Logic error
   - Resolving errors
-
 * Resolving errors
   - Read the error carefully
   * Debugger
@@ -168,8 +180,7 @@ languages and tools they use are secondary to this fundamental skill.
     - Breakpoint debugging
     - Commenting
   - External resources (Search, forum, etc)
-
-#### Clean code
+#### Clean Code
 - Logic before coding
 - Writing clean code
 - Consistency
@@ -185,13 +196,10 @@ languages and tools they use are secondary to this fundamental skill.
 - Respecting standards in use
 - Avoid indiscriminate mixing of coding languages
 - Caution with imports
-
 - DRY (Don't Repeat Yourself)
-
 * Pure function
   - It minds its own business. It does not change any objects or variables that existed before it was called.
   - Same inputs, same output. Given the same inputs, a pure function should always return the same result.
-
 #### Software
 - Operating systems
 - Applications
@@ -252,7 +260,7 @@ languages and tools they use are secondary to this fundamental skill.
 - Choosing the right language?
 - Applications of programming
 ---
-### Programming Logic
+#### Programming Logic
 * Programming
   - What
   - Why
@@ -325,7 +333,7 @@ languages and tools they use are secondary to this fundamental skill.
 * Subprograms
   - Procedural
   - Functions
-### Programming Paradigms
+#### Programming Paradigms
 - Paradigm
 * Imperative programming paradigm
   - Procedural programming
@@ -348,17 +356,30 @@ languages and tools they use are secondary to this fundamental skill.
   - Logic programming paradigms
   - Functional programming paradigms
   - Database/Data driven programming approach
-#### SOLID Principles
-* Single Responsibility Principle
-  - One task, only one responsibility.
-* Open/Close Principle
-  - Open for extensión, close for modification.
-* Liskov Substitution Principle
-  - Every subclass or derived class should be substitutable for their base or parent class.
-* Interface Segregation Principle
-  - Only require what is used.
-* Dependency Inversion Principle
-  - Entities must depend on abstractions, not on concretions.
+#### Design Principles
+* SOLID Principles (Object-Oriented Design Principles)
+  * Single Responsibility Principle
+    - One task, only one responsibility.
+  * Open/Close Principle
+    - Open for extensión, close for modification.
+  * Liskov Substitution Principle
+    - Every subclass or derived class should be substitutable for their base or parent class.
+  * Interface Segregation Principle
+    - Only require what is used.
+  * Dependency Inversion Principle
+    - Entities must depend on abstractions, not on concretions.
+- DRY (Don't Repeat Yourself)
+- Encapsulation
+- Composition Over Inheritance
+- LoD (Law Of Demeter)
+- KISS (Keep It Simple, Stupid)
+- YAGNI (You Aren't Gonna Need It)
+- SoC (Separation of Concerns)
+- Favor Composition Over Inheritance
+- CQRS (Command Query Responsibility Segregation)
+- TDA (Tell, Don't Ask)
+- Don't Call Us, We'll Call You (Inversion of Control)
+- Simplicity (Simple vs Easy)
 
 * Benefits
   * Code
@@ -368,14 +389,15 @@ languages and tools they use are secondary to this fundamental skill.
     - adaptable
     - reusable
   - fewer bugs
-### Software Architecture
-* Monolith
-* Microservices
-* Microfrontends
-* Client-Server
-* Model-View-Controller
-### Project Structure
-#### Backend
+#### Architecture Patterns
+- Monolith
+- Microservices
+- Microfrontends
+- Client-Server
+- Model-View-Controller
+- Layered
+##### Project Structure
+###### Backend
 - By Feature
 - By Layer
 
@@ -419,7 +441,7 @@ By Packages / Flux
         - components
         - actions
         - mutators
-#### Frontend
+###### Frontend
 Basic
 * src
   - css
@@ -522,8 +544,12 @@ By Atomic Design
       - molecule
       - organism
     - hooks
-### Design System
-* Atomic Design
+#### Design Patterns
+- Singleton
+- Factory
+- Observer
+#### UI Design Methodology
+* Atomic Design System
   * Atom
     * Subatomic elements
       - Fonts
@@ -551,11 +577,12 @@ By Atomic Design
     - Organisms
     - Templates
     - Pages
+- Design Thinking
+- Agile UX
+- Lean UX
+- Material Design
 ### Cloud
-* Serverless
-## 
-- Robert C. Martin
-- Michael Feathers
+- Serverless
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
