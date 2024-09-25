@@ -398,17 +398,20 @@ languages and tools they use are secondary to this fundamental skill.
 ###### Backend
 - By Feature
 - By Layer
+
 MVC
 * src
   - models
   - views
   - controllers
+
 MVC by modules
 * src
   * xModule
     - models
     - views
     - controllers
+
 By Hexagonal Architecture / Layer
 * src
   * domain
@@ -419,6 +422,7 @@ By Hexagonal Architecture / Layer
     - http
     - repositories
   - application
+
 By Packages / Flux
 * src
   * packages
@@ -443,6 +447,7 @@ Basic
   - fonts
   - img
   - js
+
 By Type File
 * src
   - components
@@ -451,6 +456,7 @@ By Type File
   - pages
   - pipes
   - services
+
 By UI
 * src
   * render (UI)
@@ -463,6 +469,7 @@ By UI
     - services
     - helpers
     - utils
+
 By Feature
 * src
   * features
@@ -480,6 +487,7 @@ By Feature
     - pages
     - pipes
     - services
+
 By Clean Architecture
 * src
   - adapters (reusable)
@@ -503,6 +511,7 @@ By Clean Architecture
   - services (reusable)
   - styledComponents (reusable)
   - utilities
+
 By Routes
 * src
   * pages
@@ -519,6 +528,7 @@ By Routes
     - pages
     - pipes
     - services
+
 By Atomic Design
 * src
   * features
