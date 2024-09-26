@@ -9,16 +9,12 @@
 6. Code samples
 7. Documentation
 ### Resources
-v18
-
-- [Angular Docs](https://angular.dev/)
+- [Angular Docs v16](https://v16.angular.io/docs)
+- [Angular Docs v18](https://angular.dev/)
 - [Angular Tutorials](https://angular.dev/tutorials)
 - [The Angular CLI](https://angular.dev/tools/cli)
 - [Angular Language Service](https://angular.dev/tools/language-service)
 - [Angular DevTools](https://angular.dev/tools/devtools)
-
-v17
-- [Angular Docs](https://v16.angular.io/docs)
 ### Requirements
 - Nodejs
 ### Install
@@ -38,7 +34,7 @@ $ ng serve --open
 ```
 Components
 ```
-$ ng generate component <name> or ng gc <name>
+$ ng generate component <name>
 ```
 Simple component
 ```
@@ -82,19 +78,40 @@ npm install node-sass --save-dev
 # Everything should work now!
 ```
 ### Terms and concepts
+- Framework
 - Angular
+
 * First steps
   - Install de Angular CLI
   - Create a workspace and initial application
   - Run the application
   - Up app
   - Down app
+
 - SPA
 - Structure
-- Flow
-- Default selector
 - Default component
-- Selectors
+- Default selector
+- Flow
+
+- Modules
+- Standalone Components
+
+* Components
+  - Metadata
+  - Selectors
+  - Templates
+  - Styles
+  * Clases
+    * Attributes
+      - Properties
+      * Methods
+        - Constructor
+- Services
+- Dependencies
+- Directives
+- Routing
+
 * Components
   * Decorator
     * Attributes
@@ -102,8 +119,7 @@ npm install node-sass --save-dev
       - Template
       - Styles
   * Class
-    - Methods
-    - Constructor
+    - Attributes
   * Lifecycle
     - ngOnInit
     - ngOnChanges
