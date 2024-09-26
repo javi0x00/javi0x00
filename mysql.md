@@ -1,5 +1,13 @@
 # :memo: Notes
 ## MYSQL
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Requirements
 - [SQL](./sql.md)
 ### Resources
@@ -10,13 +18,6 @@
 - [How to Install MySQL WorkBench on Ubuntu?](https://www.geeksforgeeks.org/how-to-install-mysql-workbench-on-ubuntu/)
 - [How To Install MySQL on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 - MySQL
 - IDE
 - MySQL Functions

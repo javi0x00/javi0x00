@@ -1,6 +1,6 @@
 # :memo: Notes
 ## ZDOCS
-### Start
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it

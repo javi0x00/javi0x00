@@ -1,5 +1,13 @@
 # :memo: Notes
 ## CSS
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [W3C CSS](https://www.w3.org/Style/CSS/)
 - [The CSS validator](https://jigsaw.w3.org/css-validator/)

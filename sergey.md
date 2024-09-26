@@ -1,8 +1,6 @@
 # :memo: Notes
 ## SERGEY
-### Resources
-* [Sergey](https://sergey.cool/)
-### Terms and concepts
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it
@@ -10,7 +8,10 @@
 5. Concepts
 6. Code samples
 7. Documentation
-* SSG or Static Site Generator
+### Resources
+- [Sergey](https://sergey.cool/)
+### Terms and concepts
+- SSG or Static Site Generator
 ### Commands
 Setup
 ```

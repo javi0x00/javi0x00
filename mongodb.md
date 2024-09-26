@@ -1,9 +1,6 @@
 # :memo: Notes
 ## MongoDB
-### Resources
-- [MongoDB](https://www.mongodb.com/)
-- [MongoDB Documentation](https://www.mongodb.com/docs/)
-### Terms and concepts
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it
@@ -11,6 +8,10 @@
 5. Concepts
 6. Code samples
 7. Documentation
+### Resources
+- [MongoDB](https://www.mongodb.com/)
+- [MongoDB Documentation](https://www.mongodb.com/docs/)
+### Terms and concepts
 - MongoDB Editions
 - MongoDB Shell
 - MongoDB Compass

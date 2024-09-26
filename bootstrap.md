@@ -1,5 +1,13 @@
 # :memo: Notes
 ## BOOTSTRAP
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap docs](https://getbootstrap.com/docs/)
@@ -9,13 +17,6 @@
 - CSS
 - Developer tools in browser
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 - CDN or Content Delivery Network
 - Responsive
 - Breakpoint

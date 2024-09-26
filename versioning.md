@@ -1,5 +1,13 @@
 # :memo: Notes
 ## VERSIONING
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [Semantic Versioning](https://semver.org/)
 - [GO - Module version numbering](https://go.dev/doc/modules/version-numbers)

@@ -1,8 +1,6 @@
 # :memo: Notes
 ## DATABASE
-### Resources
-### Requirements
-### Terms and concepts
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it
@@ -10,6 +8,9 @@
 5. Concepts
 6. Code samples
 7. Documentation
+### Resources
+### Requirements
+### Terms and concepts
 - Datum
 - Information
 * Database

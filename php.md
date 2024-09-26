@@ -1,5 +1,13 @@
 # :memo: Notes
 ## PHP
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [PHP](https://www.php.net/)
 - [PHP Documentation](https://www.php.net/docs.php)
@@ -11,13 +19,6 @@
 - Code editor
 - Development environment
 ### Terms and concepts
-1. What and why
-2. What do
-3. Why use
-4. Getting started
-5. Concepts
-6. Code samples
-7. API documentation
 - PHP (Before: Personal Homepage.  Currently: PHP Hypertext Preprocessor)
 - PHP engine
 * Backend

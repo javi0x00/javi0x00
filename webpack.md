@@ -1,5 +1,13 @@
 # :memo: Notes
 ## WEBPACK
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 * [Webpack](https://webpack.js.org/)
 * [Getting Started](https://webpack.js.org/guides/getting-started/)
@@ -10,13 +18,6 @@
 ### Requirements
 * Nodejs
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 * Webpack
   - Entry
   - Output

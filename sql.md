@@ -1,9 +1,6 @@
 # :memo: Notes
 ## SQL
-### Resources
-- [SQL](https://www.iso.org/standard/76583.html)
-- [Keywords](https://www.w3schools.com/sql/sql_ref_keywords.asp)
-### Terms and concepts
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it
@@ -11,6 +8,10 @@
 5. Concepts
 6. Code samples
 7. Documentation
+### Resources
+- [SQL](https://www.iso.org/standard/76583.html)
+- [Keywords](https://www.w3schools.com/sql/sql_ref_keywords.asp)
+### Terms and concepts
 - Database
 - Database Modeling
 - SQL or Structured Query Language

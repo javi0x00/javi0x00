@@ -1,7 +1,15 @@
 # :memo: Notes
 ## ANGULAR
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
-v17
+v18
 
 - [Angular Docs](https://angular.dev/)
 - [Angular Tutorials](https://angular.dev/tutorials)
@@ -9,7 +17,7 @@ v17
 - [Angular Language Service](https://angular.dev/tools/language-service)
 - [Angular DevTools](https://angular.dev/tools/devtools)
 
-v16
+v17
 - [Angular Docs](https://v16.angular.io/docs)
 ### Requirements
 - Nodejs
@@ -74,13 +82,6 @@ npm install node-sass --save-dev
 # Everything should work now!
 ```
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 - Angular
 * First steps
   - Install de Angular CLI

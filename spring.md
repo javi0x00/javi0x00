@@ -1,5 +1,13 @@
 # :memo: Notes
-## SPRING BOOT
+## SPRING
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [Spring projects](https://spring.io/projects)
 - [Spring Guides](https://spring.io/guides)
@@ -9,7 +17,8 @@
 ### Requirements
 - Java
 ### Terms and concepts
-- Spring vs Spring Boot
+- Spring
+- Spring Boot
 - Framework
 - JAR (Java Archive)
 * Build automation tools

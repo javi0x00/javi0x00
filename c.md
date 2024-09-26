@@ -1,5 +1,13 @@
 # :memo: Notes
 ## C
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 * [C language documentation](https://docs.microsoft.com/en-us/cpp/c-language/?view=vs-2019)
 * [The GNU C Library Reference Manual](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)

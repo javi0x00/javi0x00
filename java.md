@@ -1,5 +1,13 @@
 # :memo: Notes
 ## JAVA
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [Java SE & JDK Version 22 API Specification](https://docs.oracle.com/en/java/javase/22/docs/api/index.html)
 - [Java](https://www.java.com/)

@@ -1,5 +1,13 @@
 # :memo: Notes
 ## FASTAPI
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
@@ -14,13 +22,6 @@
 ### Requirements
 - [Python](https://www.python.org/)
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 - Python
 - Python module
 - Python types

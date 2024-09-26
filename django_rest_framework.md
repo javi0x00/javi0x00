@@ -1,12 +1,6 @@
 # :memo: Notes
 ## DJANGO REST FRAMEWORK
-### Resources
-- [Django REST framework](https://www.django-rest-framework.org/)
-- [Core API](https://www.coreapi.org/)
-### Requirements
-- [Python](https://www.python.org/)
-- [Django](https://www.djangoproject.com/)
-### Terms and concepts
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it
@@ -14,6 +8,14 @@
 5. Concepts
 6. Code samples
 7. Documentation
+### Resources
+- [Django REST framework](https://www.django-rest-framework.org/)
+- [Classy Django REST Framework](https://www.cdrf.co/)
+- [Core API](https://www.coreapi.org/)
+### Requirements
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+### Terms and concepts
 - Python
 - Django
 - Rest API

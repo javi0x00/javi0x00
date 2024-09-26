@@ -1,5 +1,13 @@
 # :memo: Notes
 ## JAVASCRIPT
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript and HTML DOM Reference](https://www.w3schools.com/jsref/default.asp)

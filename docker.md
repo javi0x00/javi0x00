@@ -1,12 +1,6 @@
 # :memo: Notes
 ## DOCKER
-### Resources
-- [Docker](https://www.docker.com/)
-- [Docker Hub](https://hub.docker.com/)
-- [Docker Docs](https://docs.docker.com/)
-- [Docker Reference documentation](https://docs.docker.com/reference/)
-- [Docker Engine overview](https://docs.docker.com/engine/)
-### Terms and concepts
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it
@@ -14,6 +8,13 @@
 5. Concepts
 6. Code samples
 7. Documentation
+### Resources
+- [Docker](https://www.docker.com/)
+- [Docker Hub](https://hub.docker.com/)
+- [Docker Docs](https://docs.docker.com/)
+- [Docker Reference documentation](https://docs.docker.com/reference/)
+- [Docker Engine overview](https://docs.docker.com/engine/)
+### Terms and concepts
 - Docker Hub Service (Repositories for storing and sharing images)
 * Image (Similar to template, class)
   - Files

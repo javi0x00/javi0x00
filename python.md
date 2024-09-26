@@ -1,5 +1,13 @@
 # :memo: Notes
 ## PYTHON
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [Python](https://www.python.org/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
@@ -62,13 +70,6 @@ $ deactivate
 $ python --version
 ```
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 - Python REPL (Read-Evaluate-Print-Loop)
 - IDLE (Integrated Development and Learning Environment)
 - Python interpreter

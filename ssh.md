@@ -1,12 +1,6 @@
 # :memo: Notes
 ## SSH
-### Resources
-* [OpenSSH](https://www.openssh.com/manual.html)
-* [GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-* [GitLab with SSH](https://docs.gitlab.com/ee/ssh/)
-* [Bitbucket with SSH](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
-* [PuTTY](https://www.putty.org/)
-### Terms and concepts
+### Learn
 1. What is it
 2. What does it do
 3. Why to use it
@@ -14,11 +8,18 @@
 5. Concepts
 6. Code samples
 7. Documentation
-* SSH
-* SSH server
-* SSH client
-* Private key
-* Public key
+### Resources
+- [OpenSSH](https://www.openssh.com/manual.html)
+- [GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- [GitLab with SSH](https://docs.gitlab.com/ee/ssh/)
+- [Bitbucket with SSH](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
+- [PuTTY](https://www.putty.org/)
+### Terms and concepts
+- SSH
+- SSH server
+- SSH client
+- Private key
+- Public key
 #### Basic commands
 Install
 ```

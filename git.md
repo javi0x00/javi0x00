@@ -1,5 +1,13 @@
 # :memo: Notes
 ## GIT
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Resources
 - [Git](https://git-scm.com/)
 - [Git Reference Manual](https://git-scm.com/docs)
@@ -13,13 +21,6 @@
 - [Multiple Accounts and SSH Keys](https://dbushell.com/2013/01/27/multiple-accounts-and-ssh-keys/)
 - [tj/git-extras](https://github.com/tj/git-extras)
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 * Version Control System (local)
   - Installation
   - Configuration

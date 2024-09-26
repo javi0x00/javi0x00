@@ -1,5 +1,13 @@
 # :memo: Notes
 ## POSTGRESQL
+### Learn
+1. What is it
+2. What does it do
+3. Why to use it
+4. Getting started
+5. Concepts
+6. Code samples
+7. Documentation
 ### Requirements
 - [SQL](./sql.md)
 ### Resources
@@ -9,13 +17,6 @@
 - [Create local server](https://stackoverflow.com/questions/53267642/create-new-local-server-in-pgadmin)
 - [How to set the default user password in PostgreSQL](https://www.atlassian.com/data/admin/how-to-set-the-default-user-password-in-postgresql)
 ### Terms and concepts
-1. What is it
-2. What does it do
-3. Why to use it
-4. Getting started
-5. Concepts
-6. Code samples
-7. Documentation
 - PostgreSQL
 - IDE
 - PostgreSQL Functions
