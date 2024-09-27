@@ -48,6 +48,14 @@ Guards
 ```
 $ ng generate guard <name>
 ```
+Custom Directive
+```
+$ ng generate directive <name>
+```
+Custom Pipe
+```
+$ ng generate pipe <name>
+```
 ---
 Migrate Angular project from CSS to SCSS (Sass) [Also for Angular Material Projects]
 ```
@@ -96,75 +104,89 @@ npm install node-sass --save-dev
 
 - Modules
 - Standalone Components
+- Components
+- Services
+- Dependencies
+- Directives
+- Pipes
+- Routing
 
 * Components
   - Metadata
   - Selectors
   - Templates
   - Styles
-  * Clases
+  - Class
+
+* Components
+  * Create
+    - Manually
+    * Automatically
+      - CLI
+  - import
+  * Decorator
+    * Attributes
+      - Selector
+      * Template
+        - external
+        - inline
+      * Styles
+        - external
+        - inline
+  * Class
     * Attributes
       - Properties
       * Methods
         - Constructor
-- Services
-- Dependencies
-- Directives
-- Routing
-
-* Components
-  * Decorator
-    * Attributes
-      - Selector
-      - Template
-      - Styles
-  * Class
-    - Attributes
   * Lifecycle
     - ngOnInit
     - ngOnChanges
     - ngOnDestroy
-* Create a new component
-  - Manually
-  * Automatically
-    - CLI
-  - Template inline
-  - Styles inline
-- Declarate a new component
-- Use a new component
-- Interpolation
+
 - Event
-- Property binding
-- Event binding
 - Handling Events
 - Two-way binding, bidirectional binding, Banana in a Box
+
 * Data binding
   - Interpolation
   * Binding
+    - Property binding
     - One way binding
-    - Event binding
     - Two way binding
-* Directives
-  * Component
-    * Built-in
-      - @Component
-      - @Module
-    - Custom
-  * Attribute
-    - Ex: ngStyle, ngClass, ngModel
-  * Structure
-    - Ex: ngIf, ngFor, ngSwitch, ngPlural, ngTemplate, ngComponentOutlet
-* Component interaction
-  - @Input
-  - @Output
-* Services
-  - Data Services
-* Modules
-  * Import module
-    - Ex: RouterModule
-    - Ex: FormsModule
+    - Event binding
 
-- Routing
+* Component interaction
+  * @Input
+    - Property binding
+  * @Output
+    - EventEmitter
+  - Services
+
+* Forms
+  * Template driven
+    - FormsModule
+  * Reactive
+    - ReactiveFormsModule
+
+- Services
+
+* Dependencies
+  * Inject
+    - on constructor method
+    - with inject
+
+* Directives
+  * Built-in
+    - Attribute
+    - Structure
+    - Event
+  - Custom
+
+* Pipes
+  - Built-in
+  - Custom
+
+Routing
 
 - Install packages
 - Config file
