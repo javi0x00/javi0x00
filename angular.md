@@ -110,6 +110,7 @@ npm install node-sass --save-dev
 - Directives
 - Pipes
 - Routing
+- Forms
 
 * Components
   - Metadata
@@ -162,12 +163,6 @@ npm install node-sass --save-dev
     - EventEmitter
   - Services
 
-* Forms
-  * Template driven
-    - FormsModule
-  * Reactive
-    - ReactiveFormsModule
-
 - Services
 
 * Dependencies
@@ -177,8 +172,14 @@ npm install node-sass --save-dev
 
 * Directives
   * Built-in
-    - Attribute
-    - Structure
+    * Attribute
+      - Property binding
+      - Styles
+    * Structure
+      * Control Structures
+        - Conditionals
+        - Loops
+        - Container / Content
     - Event
   - Custom
 
@@ -186,7 +187,25 @@ npm install node-sass --save-dev
   - Built-in
   - Custom
 
-Routing
+* Routing
+  * Routes
+    - single
+    - params
+  * Directives
+    - router-outlet
+    - routerLink
+    - routerLinkActive
+    - ngClass
+  * ActivatedRoute
+    - params
+  * Router
+    - redirect
+
+* Forms
+  * Template driven
+    - FormsModule
+  * Reactive
+    - ReactiveFormsModule
 
 - Install packages
 - Config file
