@@ -131,6 +131,7 @@
 - https://developer.imdb.com/
 - https://developer.spotify.com/documentation/web-api/
 - https://developer.wordpress.org/rest-api/
+- https://fakestoreapi.com/
 - https://freegeoip.app/
 - https://genderize.io/
 - https://github.com/davemachado/public-api
@@ -614,6 +615,8 @@
 - https://cdnjs.com/
 - https://driverjs.com/
 - https://developers.google.com/speed/libraries
+- https://react.dev/
+- https://www.solidjs.com/
 #### Node
 - https://nodejs.org/
 - https://nodejs.org/api/
@@ -641,6 +644,7 @@
 ### JSON
 - https://nodejs.dev/learn/the-package-json-guide
 - https://jsonapi.org/
+- https://quicktype.io/
 - https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
 [:top: Back to menu](#resources)
 ### Licence

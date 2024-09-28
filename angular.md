@@ -56,6 +56,10 @@ Custom Pipe
 ```
 $ ng generate pipe <name>
 ```
+100% StandAlone
+```
+$ ng generate @angular/core:standalone
+```
 ---
 Migrate Angular project from CSS to SCSS (Sass) [Also for Angular Material Projects]
 ```
@@ -111,6 +115,10 @@ npm install node-sass --save-dev
 - Pipes
 - Routing
 - Forms
+- Observables
+- Signals
+- Effects
+- Http
 
 * Components
   - Metadata
@@ -163,12 +171,16 @@ npm install node-sass --save-dev
     - EventEmitter
   - Services
 
-- Services
+* Services
+  * Built-in
+    - HttpClient
+  - Custom
 
 * Dependencies
   * Inject
     - on constructor method
-    - with inject
+    * with inject
+      - options
 
 * Directives
   * Built-in
@@ -179,6 +191,7 @@ npm install node-sass --save-dev
       * Control Structures
         - Conditionals
         - Loops
+        - Deferrable views
         - Container / Content
     - Event
   - Custom
@@ -205,7 +218,30 @@ npm install node-sass --save-dev
   * Template driven
     - FormsModule
   * Reactive
-    - ReactiveFormsModule
+    * ReactiveFormsModule
+      - FormGroup
+      - FormBuilder
+      - Validators
+
+* Observables
+  - subscribe
+  - unsubscribe
+
+* Signals
+  - signal
+  - computed
+  - set
+  - update
+  - mutate
+
+* Effects
+  - effect
+
+* HTTP Client Service
+  * HttpClientModule
+    - HttpClient
+  * provideHttpClient
+    - HttpClient
 
 - Install packages
 - Config file
