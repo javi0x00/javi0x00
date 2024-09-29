@@ -78,8 +78,8 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 |Apr 2024|Conversor de moneda|:icecream: Java, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
 |Dec 2021|Bank|:ice_cream: MERN, PostgreSQL|[View Code](https://github.com/javierandres-dev/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
 ##### In my free time
-###### (in progress)
-:brain: [Project Euler](https://github.com/javierandres-dev/challenges-project_euler)
+*(in progress)*  
+:brain: [Challenges Project Euler](https://github.com/javierandres-dev/challenges-project_euler)
 - - -
 ### :octocat: Collaborator in other projects
 #### :office: Vertical ― Projects (Collaborator)
@@ -101,4 +101,4 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 :bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [astro](astro.md) | [bit](bit.md) | [bootstrap](bootstrap.md) | [c](c.md) | [css](css.md) | [django](django.md) | [django rest framework](django_rest_framework.md) | [docker](docker.md) | [email template](email_template.md) | [employment](employment.md) | [english](english.md) | [expressjs](expressjs.md) | [fastapi](fastapi.md) | [figma](figma.md) | [git](git.md) | [html](html.md) | [interview](interview.md) | [java](java.md) | [javascript](javascript.md) | [json](json.md) | [layout](layout.md) | [linux](linux.md) | [markdown](markdown.md) | [mongodb](mongodb.md) | [mysql](mysql.md) | [nodejs](nodejs.md) | [php](php.md) | [postgresql](postgresql.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [react](react.md) | [resources](resources.md) | [road map](road_map.md) | [seo](seo.md) | [sergey](sergey.md) | [setups](setups.md) | [spring](spring.md) | [sql](sql.md) | [ssh](ssh.md) | [svelte](svelte.md) | [typescript](typescript.md) | [versioning](versioning.md) | [vuejs](vuejs.md) | [webpack](webpack.md) | [zdocs](zdocs.md)
 - - -
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).  
-:copyright: Sep 8, 2019 ~ 2024
+:copyright: Sep, 2019 ~ 2024
