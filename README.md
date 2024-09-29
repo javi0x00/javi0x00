@@ -77,6 +77,8 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 |Jun 2024|Literature|:ice_cream: Java, Spring, PostgreSQL, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-literature)|[View Demo](https://youtu.be/JupZOzY2WaA)|
 |Apr 2024|Conversor de moneda|:icecream: Java, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
 |Dec 2021|Bank|:ice_cream: MERN, PostgreSQL|[View Code](https://github.com/javierandres-dev/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
+##### In my free time (in progress)
+- [Project Euler](https://github.com/javierandres-dev/challenges-project_euler)
 - - -
 ### :octocat: Collaborator in other projects
 #### :office: Vertical ― Projects (Collaborator)
