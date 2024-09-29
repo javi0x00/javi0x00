@@ -9,8 +9,8 @@
 6. Code samples
 7. Documentation
 ### Resources
-- [Angular Docs v16](https://v16.angular.io/docs)
-- [Angular Docs v18](https://angular.dev/)
+- [Angular Docs (previous)](https://angular.io/docs)
+- [Angular v18](https://angular.dev/)
 - [Angular Tutorials](https://angular.dev/tutorials)
 - [The Angular CLI](https://angular.dev/tools/cli)
 - [Angular Language Service](https://angular.dev/tools/language-service)
@@ -226,6 +226,9 @@ npm install node-sass --save-dev
 * Observables
   - subscribe
   - unsubscribe
+  - pipe
+  - outputFromObservable
+  - outputToObservable
 
 * Signals
   - signal
@@ -233,6 +236,19 @@ npm install node-sass --save-dev
   - set
   - update
   - mutate
+  * Signal Inputs
+    - input
+    - required
+    - transform
+    - alias
+  * Signal Outputs
+    - output
+    - emit
+    - outputFromObservable
+    - outputToObservable
+  * Signal Queries
+    - viewChild
+    - viewChildren
 
 * Effects
   - effect
