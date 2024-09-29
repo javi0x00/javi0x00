@@ -10,7 +10,6 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](#)
 ##### I'm currently learning
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
@@ -27,6 +26,7 @@
 [![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)](#)
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](#)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
 
@@ -77,8 +77,9 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 |Jun 2024|Literature|:ice_cream: Java, Spring, PostgreSQL, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-literature)|[View Demo](https://youtu.be/JupZOzY2WaA)|
 |Apr 2024|Conversor de moneda|:icecream: Java, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
 |Dec 2021|Bank|:ice_cream: MERN, PostgreSQL|[View Code](https://github.com/javierandres-dev/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
-##### In my free time (in progress)
-- [Project Euler](https://github.com/javierandres-dev/challenges-project_euler)
+##### In my free time
+###### (in progress)
+:brain: [Project Euler](https://github.com/javierandres-dev/challenges-project_euler)
 - - -
 ### :octocat: Collaborator in other projects
 #### :office: Vertical ― Projects (Collaborator)
