@@ -805,6 +805,8 @@
 - https://github.com/
 - https://docs.github.com/
 - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
+- https://github.com/denvercoder1/github-readme-streak-stats
+- https://github.com/anuraghazra/github-readme-stats
 #### GitLab
 - https://gitlab.com/
 - https://docs.gitlab.com/
