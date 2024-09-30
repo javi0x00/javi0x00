@@ -42,6 +42,7 @@
 
 
 [![GitHub streak stats](https://streak-stats.demolab.com/?user=javierandres-dev)](#)
+<!-- [![GitHub streak stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierandres-dev&layout=compact&langs_count=8)](#) -->
 
 
 Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javierandres-dev)
