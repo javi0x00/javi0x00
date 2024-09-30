@@ -15,6 +15,8 @@
 - [The Angular CLI](https://angular.dev/tools/cli)
 - [Angular Language Service](https://angular.dev/tools/language-service)
 - [Angular DevTools](https://angular.dev/tools/devtools)
+- [Angular Material](https://material.angular.io/)
+- [Material Design](https://m3.material.io/)
 ### Requirements
 - Nodejs
 ### Install
@@ -108,6 +110,8 @@ npm install node-sass --save-dev
 
 - Modules
 - Standalone Components
+
+- Providers
 - Components
 - Services
 - Dependencies
@@ -120,19 +124,16 @@ npm install node-sass --save-dev
 - Effects
 - Http
 
-* Components
-  - Metadata
-  - Selectors
-  - Templates
-  - Styles
-  - Class
+* Config
+  - Providers
 
-* Components
+* Component
   * Create
     - Manually
     * Automatically
       - CLI
   - import
+  - Metadata
   * Decorator
     * Attributes
       - Selector
@@ -192,8 +193,10 @@ npm install node-sass --save-dev
         - Conditionals
         - Loops
         - Deferrable views
-        - Container / Content
+        - Container
+        - Content
     - Event
+    - Image
   - Custom
 
 * Pipes
@@ -213,6 +216,7 @@ npm install node-sass --save-dev
     - params
   * Router
     - redirect
+    - redirect with function
 
 * Forms
   * Template driven
@@ -222,6 +226,8 @@ npm install node-sass --save-dev
       - FormGroup
       - FormBuilder
       - Validators
+      - FormControl
+      - FormArray
 
 * Observables
   - subscribe
@@ -249,6 +255,8 @@ npm install node-sass --save-dev
   * Signal Queries
     - viewChild
     - viewChildren
+  * Model Inputs
+    - model
 
 * Effects
   - effect
@@ -262,6 +270,10 @@ npm install node-sass --save-dev
 - Install packages
 - Config file
 - The RxJS library
+* SSR
+  - Hydration
+  - WIZ
+- SSG
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
