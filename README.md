@@ -41,10 +41,6 @@
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 
 
-[![GitHub streak stats](https://streak-stats.demolab.com/?user=javierandres-dev)](#)
-<!-- [![GitHub streak stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javierandres-dev&layout=compact&langs_count=8)](#) -->
-
-
 Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javierandres-dev)
  • 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/javierandres-dev/) Let's connect!
@@ -82,6 +78,8 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 :brain: [Challenges Project Euler](https://github.com/javierandres-dev/challenges-project_euler) *(in progress)*
 - - -
 ### :octocat: Collaborator in other projects
+#### :office: Mezubo | HEYGIA ― Projects (Collaborator)
+:factory: *Oct 2024 - Dec 2024* [Summary](mezubo-heygia.md)
 #### :office: Vertical ― Projects (Collaborator)
 :factory: *Oct 2021 - Mar 2024* [Summary](vertical.md)
 #### :office: Triario ― Projects (Collaborator)
@@ -101,4 +99,4 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 :bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [astro](astro.md) | [bit](bit.md) | [bootstrap](bootstrap.md) | [c](c.md) | [css](css.md) | [django](django.md) | [django rest framework](django_rest_framework.md) | [docker](docker.md) | [email template](email_template.md) | [employment](employment.md) | [english](english.md) | [expressjs](expressjs.md) | [fastapi](fastapi.md) | [figma](figma.md) | [git](git.md) | [html](html.md) | [interview](interview.md) | [java](java.md) | [javascript](javascript.md) | [json](json.md) | [layout](layout.md) | [linux](linux.md) | [markdown](markdown.md) | [mongodb](mongodb.md) | [mysql](mysql.md) | [nodejs](nodejs.md) | [php](php.md) | [postgresql](postgresql.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [react](react.md) | [resources](resources.md) | [road map](road_map.md) | [seo](seo.md) | [sergey](sergey.md) | [setups](setups.md) | [spring](spring.md) | [sql](sql.md) | [ssh](ssh.md) | [svelte](svelte.md) | [typescript](typescript.md) | [versioning](versioning.md) | [vuejs](vuejs.md) | [webpack](webpack.md) | [zdocs](zdocs.md)
 - - -
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).  
-:copyright: Sep, 2019 ~ 2024
+:copyright: Sep, 2019 ~ 2025
