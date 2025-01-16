@@ -21,6 +21,10 @@
 - [man7.org](https://man7.org/)
 - [Command line reference](https://ss64.com/)
 - https://distrosea.com/
+- https://support.system76.com/
+- https://support.system76.com/articles/customize-gnome/
+- https://pop-os.github.io/docs/customize-pop/gnome-tweaks-extensions/gnome-extensions.html
+- https://github.com/daveprowse/DrawOnYourScreen3
 ### Terms and concepts
 - UNIX OS
 - The kernel
@@ -77,6 +81,7 @@ $ ln
 ```
 #### System information
 ```
+$ cat /etc/os-release
 $ uptime
 $ free
 $ ps
@@ -119,5 +124,5 @@ $ sudo systemctl disable apache2
 $ sudo systemctl enable apache2
 ```
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
