@@ -408,7 +408,10 @@
 - https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/
 [:top: Back to menu](#resources)
 ### Deploy
+- https://dokploy.com/
+- https://www.heroku.com/
 - https://www.netlify.com/
+- https://vercel.com/
 [:top: Back to menu](#resources)
 ### Design
 - https://designstripe.com/
@@ -835,5 +838,5 @@
 - https://semver.org/
 - https://go.dev/doc/modules/version-numbers
 ###### Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
