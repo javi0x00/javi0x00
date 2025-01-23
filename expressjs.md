@@ -9,8 +9,9 @@
 6. Code samples
 7. Documentation
 ### Resources
-* [Node.js](https://nodejs.org)
-* [Expressjs](https://expressjs.com/)
+- [Node.js](https://nodejs.org)
+- [Expressjs](https://expressjs.com/)
+- express-fileupload
 ### Terms and concepts
 * ExpressJS
   * Core
@@ -31,11 +32,11 @@
     - Sessions
     - Templates
 
-* Express generator
+- Express generator
 
-* Manual generator
+- Manual generator
 
-* API
+- API
 
 * Data Persistence
   - CRUD (Create, Read, Update, Delete)
@@ -50,5 +51,5 @@
     - express-method-override
   - API REST MongoDB
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
