@@ -36,21 +36,28 @@
     - Stoped
 - Network
 - Volume
-* Docker CLI
-* Docker compose
+- Docker CLI
+- Docker compose
 * Docker desktop
   - Docker CLI
   - Docker compose
-* Port mapping
+- Port mapping
 * Dockerfile
   - Docker build
-* Docker network
+- Docker network
 * Docker volumes
   - Anonymous
   - Named
   - Host
 * Dockerignore
+
+* Dockerize
+  - Dockerfile
+  - .dockerignore
+  - docker-compose.yml
+
 ### Installation
+- Docker Hub (account)
 - Docker Engine
 - Docker Compose
 - Docker Desktop (optional)
@@ -318,5 +325,5 @@ Re-Build image
 $ docker build  -t <repo_name>:<version> .
 ```
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
