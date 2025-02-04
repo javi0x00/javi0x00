@@ -77,6 +77,7 @@
   - [Spreadsheets](#spreadsheets)
 - [JSON](#json)
 - [Licence](#licence)
+- [Linux](#linux)
 - [Learn](#learn)
 - [Mail](#mail)
 - [NLP](#lnp)
@@ -653,6 +654,9 @@
 ### Licence
 - https://choosealicense.com/
 [:top: Back to menu](#resources)
+### Linux
+- https://learn.microsoft.com/en-us/windows/wsl/
+[:top: Back to menu](#resources)
 ### Learn
 - https://anywhere.epam.com/es/blog/career/advice
 - https://avanzatec.gov.co/portal/
@@ -733,6 +737,7 @@
 - https://sre.google/sre-book/postmortem-culture/
 [:top: Back to menu](#resources)
 ### Programming
+- https://en.wikipedia.org/wiki/Unix_philosophy
 - https://pseint.sourceforge.net/
 - http://www.flowgorithm.org/
 [:top: Back to menu](#resources)

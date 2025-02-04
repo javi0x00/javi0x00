@@ -15,12 +15,19 @@
 - [Git Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 - [GitHub](https://github.com/)
 - [GitLab](https://gitlab.com/)
+- [Bitbucket](https://bitbucket.org/)
+- [Azure Repos](https://azure.microsoft.com/en-us/products/devops/repos)
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Multiple Accounts and SSH Keys](https://dbushell.com/2013/01/27/multiple-accounts-and-ssh-keys/)
 - [tj/git-extras](https://github.com/tj/git-extras)
+#### Open Source Project
+- https://forgoodfirstissue.github.com/
+- https://goodfirstissue.dev/
+- https://goodfirstissues.com/
 ### Terms and concepts
+- Git SCM (Source Code Management)
 * Version Control System (local)
   - Installation
   - Configuration
@@ -75,12 +82,17 @@
   - Independent line of development
 - Merge
 - Conflicts
+* Files
+  - README
+  - CONTRIBUTING
+  - LICENSE
 ### Setup
 ```
 $ sudo apt install git-all
 $ sudo apt-get install install-info
 $ git --version
 $ git config --global init.defaultBranch <name>
+$ git config --global credential.helper store
 $ git config --global user.name "<name>"
 $ git config --global user.email <email>
 $ git config --global core.editor "<editor --flag>"
@@ -110,6 +122,8 @@ $ git push origin --delete <branch name>
 $ git branch -a
 $ git checkout -b <new local branch name> origin/<remote branch name>
 $ git checkout -t origin/<remote branch name>
+$ git switch <BRANCH NAME>
+$ git switch -c <BRANCH NAME>
 ```
 History
 ```
@@ -133,6 +147,8 @@ $ git tag -d <tag name>
 Basic
 ```
 $ git clone <REMOTE_URL>
+$ git clone <REMOTE_URL> <DIRECTORY>
+$ git clone <REMOTE_URL> --depth=1
 $ git status
 $ git add
 $ git add <filename>
@@ -144,10 +160,19 @@ $ git commit --amend <see text editor>
 $ git reset --soft HEAD~1
 $ git reset --hard HEAD~1
 $ git push
+$ git push -u origin <BRANCH NAME>
+$ git push origin <BRANCH NAME>
 $ git fetch
 $ git merge
 $ git merge --continue
 $ git pull
+$ git log
+
+$ git revert <COMMIT-HASH>
+$ git stash
+$ git stash pop
+$ git reset --hard <COMMIT-HASH>
+$ git push --force origin <BRANCH NAME>
 ```
 Fecth
 ```
@@ -161,11 +186,15 @@ $ git push
 Remote
 ```
 $ git remote
+$ git remote --verbose
 $ git remote -v
 $ git pull
 $ git fetch
 $ git checkout origin/main
 $ git push
+
+$ git remote add upstream <REMOTE_URL>
+$ git pull upstream <BRANCH NAME>
 ```
 Rebase
 ```
@@ -269,6 +298,10 @@ Bitbucket - App passwords
 ```
 $ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPACE/REPO.git
 ```
+GitHub CLI
+```
+gh repo clone <REMOTE_URL>
+```
 ### Git Branching
 1. A **develop** branch is created from **main**
 2. A *release* branch is created from **develop** `release/vX.X.X`
@@ -278,5 +311,5 @@ $ git remote set-url origin https://USERNAME:APP_PASSWORD@bitbucket.org/WORKSPAC
 6. If an issue in **main** is detected a *hotfix* branch is created from **main** `hotfix/myfix`
 7. Once the *hotfix* is complete it is merged to both **develop** and **main**
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
