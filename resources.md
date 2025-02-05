@@ -838,6 +838,9 @@
   - https://docs.gitlab.com/ee/topics/git/git_rebase.html
 ##### gitignore file
 - http://help.github.com/ignore-files/
+##### Tools
+- https://github.com/apps/desktop
+- https://www.gitkraken.com/
 [:top: Back to menu](#resources)
 ### Versioning
 - https://semver.org/

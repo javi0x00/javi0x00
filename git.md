@@ -53,9 +53,10 @@
   - Initialize
   - Delete
 * Repository
-  * Areas
+  * Areas or Flow
     - Working directory
     - Preparation area or staging area
+    - Repo
     * .git directory or core or repository
       - Metadata
       - All versions
@@ -84,6 +85,7 @@
 - Conflicts
 * Files
   - README
+  - gitignore
   - CONTRIBUTING
   - LICENSE
 ### Setup
@@ -97,12 +99,37 @@ $ git config --global user.name "<name>"
 $ git config --global user.email <email>
 $ git config --global core.editor "<editor --flag>"
 $ git config --global core.editor "<code --wait>"
+$ git config --global -e
+$ git config --global core.autocrlf <input/true>
 $ git config --global color.ui <true/false/always/auto>
 $ git config --global color.branch <true/false/always>
 $ git config --global color.diff <true/false/always>
 $ git config --global color.interactive <true/false/always>
 $ git config --global color.status <true/false/always>
 $ git config --list
+$ git config --h
+```
+Basics
+```
+$ git init
+$ git remote add origin <REMOTE URL>
+$ git push origin <BRANCH NAME>
+$ git status
+$ git status -s
+$ git add
+$ git rm --cached <FILE NAME>
+$ git restore <FILE NAME>
+$ git commit -m
+$ git diff
+$ git log
+$ git log --oneline
+$ git branch
+$ git checkout
+$ git switch
+$ git switch -c
+$ git merge <BRANCH NAME>
+$ git push
+$git pull
 ```
 ### COMMANDS
 Branch
@@ -124,6 +151,7 @@ $ git checkout -b <new local branch name> origin/<remote branch name>
 $ git checkout -t origin/<remote branch name>
 $ git switch <BRANCH NAME>
 $ git switch -c <BRANCH NAME>
+$ git pull
 ```
 History
 ```
