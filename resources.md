@@ -80,6 +80,7 @@
 - [Linux](#linux)
 - [Learn](#learn)
 - [Mail](#mail)
+- [Markdown](#markdown)
 - [NLP](#lnp)
 - [Open Source](#open-source)
 - [Postmortem](#postmortem)
@@ -97,6 +98,7 @@
 - [Tracking](#tracking)
 - [Tunnel](#tunnel)
 - [Type](#type)
+- [TypeScript](#typescript)
 - [Unicode](#unicode)
 * [Version Control Hosting](#version-control-hosting)
   - [Bitbucket](#bitbucket)
@@ -723,6 +725,21 @@
 ### Mail
 - https://mailtrap.io/
 [:top: Back to menu](#resources)
+### Markdown
+- https://daringfireball.net/projects/markdown/
+- https://www.markdownguide.org/cheat-sheet/
+- https://gist.github.com/rxaviers/7360908
+- https://joedicastro.com/pages/markdown.html
+- https://pandao.github.io/editor.md/en.html
+- http://showdownjs.com/
+- https://arturssmirnovs.github.io/github-profile-readme-generator/
+- https://github.com/Ileriayo/markdown-badges
+- https://shields.io/
+- https://pandao.github.io/editor.md/en.html
+- https://github.com/pujux/badge-it
+- https://stackedit.io/
+- https://stackedit.io/
+[:top: Back to menu](#resources)
 ### LNP
 - https://www.tronya.co/fracasos-de-exitosos/
 - https://www.tuproposito.es/
@@ -796,6 +813,16 @@
 - https://www.typing.com/
 - https://typistapp.ca/
 - https://github.com/max-niederman/ttyper
+[:top: Back to menu](#resources)
+### TypeScript
+- https://www.typescriptlang.org/
+- https://www.typescriptlang.org/docs/
+- https://www.typescriptlang.org/cheatsheets
+- https://www.typescriptlang.org/docs/handbook/dom-manipulation.html
+- https://github.com/microsoft/TypeScript/blob/main/src/lib/dom.generated.d.ts
+- https://github.com/typescript-cheatsheets/node
+- https://react-typescript-cheatsheet.netlify.app/
+- https://github.com/typescript-cheatsheets/vue
 [:top: Back to menu](#resources)
 ### Unicode
 - https://unicode.org/

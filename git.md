@@ -129,7 +129,7 @@ $ git switch
 $ git switch -c
 $ git merge <BRANCH NAME>
 $ git push
-$git pull
+$ git pull
 ```
 ### COMMANDS
 Branch
@@ -198,15 +198,19 @@ $ git log
 
 $ git revert <COMMIT-HASH>
 $ git stash
+$ git stash list
 $ git stash pop
 $ git reset --hard <COMMIT-HASH>
 $ git push --force origin <BRANCH NAME>
+
+$ git tree
 ```
 Fecth
 ```
 $ git fetch
 $ git fetch <REMOTE BRANCH>
 $ git fetch --all
+$ git log --oneline --all
 $ git log --oneline <LOCAL BRANCH>..<REMOTE BRANCH>
 $ git merge <ORIGIN BRANCH>
 $ git push
@@ -267,6 +271,9 @@ $ git show
 $ git log --stat
 $ git diff
 $ git diff <id> <id>
+$ git reset
+$ git reset --hard
+$ git reset --hard <COMMIT HASH>
 $ git reset <id>
 $ git reset <id> --soft
 $ git reset <id> --hard
