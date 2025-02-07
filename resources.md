@@ -134,6 +134,7 @@
 - https://developer.imdb.com/
 - https://developer.spotify.com/documentation/web-api/
 - https://developer.wordpress.org/rest-api/
+- https://dummyjson.com/
 - https://fakestoreapi.com/
 - https://freegeoip.app/
 - https://genderize.io/
@@ -859,6 +860,7 @@
   - https://www.internalpointers.com/post/squash-commits-into-one-git
   - https://www.conventionalcommits.org/
   - https://github.com/commitizen/cz-cli
+  - https://github.com/Everduin94/better-commits
   - https://github.com/vuejs/core/blob/main/.github/commit-convention.md
   - https://onthedock.github.io/post/210121-combinar-commits/
   - https://sdq.kastel.kit.edu/wiki/Git_pull_--rebase_vs._--merge
