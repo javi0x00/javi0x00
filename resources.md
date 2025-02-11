@@ -413,9 +413,10 @@
 [:top: Back to menu](#resources)
 ### Deploy
 - https://dokploy.com/
+- https://render.com/
+- https://vercel.com/
 - https://www.heroku.com/
 - https://www.netlify.com/
-- https://vercel.com/
 [:top: Back to menu](#resources)
 ### Design
 - https://designstripe.com/
