@@ -6,6 +6,7 @@
   - [Unproved](#unproved)
 - [Authentication](#authentication)
 - [Authorization](#authorization)
+- [Backend](#backend)
 * [Browsers](#browsers)
   - [Extensions](#extensions)
 - [Boards](#boards)
@@ -52,6 +53,7 @@
 - [Design Systems](#design-systems)
 - [Docker](#docker)
 - [Documentation](#documentation)
+- [Frontend](#frontend)
 * [HTML](#html)
   - [Email Template](#email-template)
   - [Mobile input types](http://mobileinputtypes.com/)
@@ -181,6 +183,9 @@
 [:top: Back to menu](#resources)
 ### Authorization
 - https://oauth.net/
+[:top: Back to menu](#resources)
+### Backend
+- https://nestjs.com/
 [:top: Back to menu](#resources)
 ### Browsers
 - https://browsehappy.com/
@@ -554,6 +559,10 @@
   - https://www.valentinog.com/blog/jsdoc/
 - https://apidocjs.com/
 - https://swagger.io/
+[:top: Back to menu](#resources)
+### Frontend
+- https://nextjs.org/
+- https://qwik.dev/
 [:top: Back to menu](#resources)
 ### HTML
 - https://allthetags.com/

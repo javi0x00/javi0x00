@@ -94,6 +94,8 @@ npm install node-sass --save-dev
 ### Terms and concepts
 - Framework
 - Angular
+- Angular Way
+- Structural platform
 
 * First steps
   - Install de Angular CLI
@@ -269,11 +271,12 @@ npm install node-sass --save-dev
 
 - Install packages
 - Config file
-- The RxJS library
+* Reactive Programming
+  - The RxJS library
 * SSR
   - Hydration
   - WIZ
 - SSG
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
