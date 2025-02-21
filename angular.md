@@ -92,10 +92,11 @@ npm install node-sass --save-dev
 # Everything should work now!
 ```
 ### Terms and concepts
+- Library
 - Framework
+- Structural platform
 - Angular
 - Angular Way
-- Structural platform
 
 * First steps
   - Install de Angular CLI
@@ -118,6 +119,7 @@ npm install node-sass --save-dev
 - Services
 - Dependencies
 - Directives
+- Syntax Template
 - Pipes
 - Routing
 - Forms
@@ -125,6 +127,12 @@ npm install node-sass --save-dev
 - Signals
 - Effects
 - Http
+- Caching
+
+* Change Detection
+  - OnPush
+  - changeDetectionRef
+  - markForChanges
 
 * Config
   - Providers
@@ -268,6 +276,11 @@ npm install node-sass --save-dev
     - HttpClient
   * provideHttpClient
     - HttpClient
+
+* Caching
+  - Pipes
+  - Pure pipe
+  - Memoization
 
 - Install packages
 - Config file

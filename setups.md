@@ -117,6 +117,26 @@ package.json file
 }
 ```
 ---
+### Editor Configuration
+editorconfig file
+```
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+max_line_length = 80
+
+[*.ts]
+quote_type = single
+
+[*.md]
+trim_trailing_whitespace = false
+```
+---
 ### VI
 .vimrc file
 ```

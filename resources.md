@@ -238,9 +238,10 @@
 #### VS Code Extensions
 - https://marketplace.visualstudio.com/
 ##### Essential (IntelliSense, Linting, Formatting)
+* EditorConfig for VS Code
+  - https://editorconfig.org
 - ESLint
 - Prettier - Code formatter
-- EditorConfig for VS Code
 ##### Recommended
 - One Dark Pro
 - Atom One Dark Theme
