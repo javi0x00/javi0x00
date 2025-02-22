@@ -63,6 +63,17 @@ $ ng generate pipe <name>
 $ ng generate @angular/core:standalone
 ```
 ---
+Config Angular CLI
+```
+$ npm i -g @angular/cli
+$ ng config -g cli.packageManager <yarn/pnpm>
+```
+---
+Add Angular Material
+```
+$ ng add @angular/material
+```
+---
 Migrate Angular project from CSS to SCSS (Sass) [Also for Angular Material Projects]
 ```
 #### Please Backup your project first!!!!!!!!
@@ -105,6 +116,12 @@ npm install node-sass --save-dev
   - Up app
   - Down app
 
+* Builders
+  - browser (Webpack)
+  - browser-esbuild (Vite Esbuild)
+  - application (Vite Esbuild by default)
+  - dev-server (Vite Esbuild)
+
 - SPA
 - Structure
 - Default component
@@ -128,6 +145,10 @@ npm install node-sass --save-dev
 - Effects
 - Http
 - Caching
+
+* Control Flow
+  - Directives
+  - Syntax Template
 
 * Change Detection
   - OnPush
@@ -207,7 +228,9 @@ npm install node-sass --save-dev
         - Content
     - Event
     - Image
-  - Custom
+  * Custom
+    - Attribute
+    - Structure
 
 * Pipes
   - Built-in
@@ -227,6 +250,8 @@ npm install node-sass --save-dev
   * Router
     - redirect
     - redirect with function
+  - Guards
+  - Resolvers
 
 * Forms
   * Template driven
