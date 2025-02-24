@@ -27,10 +27,11 @@ $ node --watch <file>
 ```
 Install package
 ```
-$ npm install -g <name>
 $ npm install <name>
-$ npm install <name> --save
-$ npm install <name> --save-dev
+$ npm install express --save
+$ npm install <name> --save-prod / -P
+$ npm install <name> --save-dev / -D
+$ npm install <name> --global / -g
 ```
 Uninstall package
 ```
@@ -223,5 +224,5 @@ $ pnpm -v
   - MEVN stack (MongoDB, Express, Vue, Node)
   - MESN stack (MongoDB, Express, Svelte, Node)
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

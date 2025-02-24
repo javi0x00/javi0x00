@@ -8,10 +8,39 @@
 5. Concepts
 6. Code samples
 7. Documentation
+### Requirements
+- Nodejs
 ### Resources
-- [Node.js](https://nodejs.org)
 - [Expressjs](https://expressjs.com/)
-- express-fileupload
+* Dependencies
+  - bcryptjs
+  - body-parser
+  - cors
+  - dotenv
+  - express-fileupload
+  - jsonwebtoken
+  - mongodb
+  - mongoose
+  - multer
+* DevDependencies
+  - morgan
+  - nodemon
+### Setup
+Create new project
+```
+$ npm init
+$ npm init -y
+$ npm install express
+```
+Initial Structure
+```
+config/
+controllers/
+helpers/
+models/
+routes/
+server.js
+```
 ### Terms and concepts
 * ExpressJS
   * Core
@@ -31,6 +60,9 @@
     - Cookies
     - Sessions
     - Templates
+
+- CommonJS
+- ECMAScript Modules
 
 - Express generator
 
