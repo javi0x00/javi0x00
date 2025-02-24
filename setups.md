@@ -121,17 +121,18 @@ package.json file
 editorconfig file
 ```
 root = true
-
 [*]
 charset = utf-8
 indent_style = space
 indent_size = 2
+end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
 max_line_length = 80
+quote_type = single
 
 [*.ts]
-quote_type = single
+quote_type = double
 
 [*.md]
 trim_trailing_whitespace = false
