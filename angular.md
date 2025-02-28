@@ -66,7 +66,12 @@ $ ng generate @angular/core:standalone
 Config Angular CLI
 ```
 $ npm i -g @angular/cli
-$ ng config -g cli.packageManager <yarn/pnpm>
+$ ng config -g cli.packageManager <yarn/pnpm/bun>
+```
+---
+Add Angular Eslint
+```
+$ ng add @angular-eslint/schematics<@18.1.0.>
 ```
 ---
 Add Angular Material
@@ -151,7 +156,7 @@ npm install node-sass --save-dev
   - Syntax Template
 
 * Change Detection
-  - OnPush
+  - OnPush (Only when...User/Param/Event)
   - changeDetectionRef
   - markForChanges
 
