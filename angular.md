@@ -316,10 +316,11 @@ npm install node-sass --save-dev
 - Config file
 * Reactive Programming
   - The RxJS library
-* SSR
+- CSR | Client Side Render
+* SSR | Server Side Render
   - Hydration
   - WIZ
-- SSG
+- SSG | Static Site Generation
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

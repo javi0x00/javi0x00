@@ -234,7 +234,20 @@ languages and tools they use are secondary to this fundamental skill.
 * Architecture
   - Monolithic
   - Microservices
-- - -
+
+* Web Site
+  - Landing Page, Web Page, Web Site
+  - SEO
+  - Públic
+  - Fast
+  - Static
+* Web Application
+  - Private
+  - Logic / Functionality
+  - Dynamic
+- Leads
+- Crawlers
+---
 #### Introduction to Programming and Computer Science
 - Introduction
 - What is programming?
@@ -582,5 +595,5 @@ By Atomic Design
 ### Cloud
 - Serverless
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

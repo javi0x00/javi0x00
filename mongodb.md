@@ -11,6 +11,8 @@
 ### Resources
 - [MongoDB](https://www.mongodb.com/)
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
+- [Install MongoDB Community Edition on Ubuntu](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/#install-mongodb-community-edition-on-ubuntu)
+- [MongoDB CRUD Operations](https://www.mongodb.com/docs/manual/crud/#mongodb-crud-operations)
 ### Terms and concepts
 - MongoDB Editions
 - MongoDB Shell
@@ -26,6 +28,8 @@
 - Database
 - Collections
 - Documents
+
+- MQL | MongoDB Query Language
 
 - adding new documents
 - finding documents
@@ -46,6 +50,18 @@
 * ODM
   - Mongoose
 #### Commands
+Service
+```
+$ mongod --version
+$ sudo systemctl start mongod
+$ sudo systemctl daemon-reload
+$ sudo systemctl status mongod
+$ sudo systemctl enable mongod
+$ sudo systemctl stop mongod
+$ sudo systemctl restart mongod
+$ mongosh
+test> exit
+```
 Run
 ```
 $ mongod
@@ -55,7 +71,7 @@ Basic
 ```
 $ mongosh
 > show dbs
-> use <db name>
+> use <db name/new db>
 > show collections
 > db.<collection name>.insertOne({x: 1})
 > db.<collection name>.insertMany([{a: 1}, {b: 2}, {c: 3}])
@@ -67,5 +83,5 @@ $ mongosh
 > db.dropDatabase()
 ```
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
