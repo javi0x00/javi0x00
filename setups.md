@@ -118,6 +118,8 @@ package.json file
 ```
 ---
 ### Editor Configuration
+- https://editorconfig.org/
+
 editorconfig file
 ```
 root = true
