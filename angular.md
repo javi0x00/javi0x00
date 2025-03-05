@@ -321,6 +321,21 @@ npm install node-sass --save-dev
   - Hydration
   - WIZ
 - SSG | Static Site Generation
+
+* angular.json
+  * schematics
+    - changeDetection
+  * architect
+    - builder
+
+* app.config
+  * provideRouter
+    - withComponentInputBinding
+  * provideHttpClient
+    - withFetch
+
+* tsconfig
+  - baseUrl
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
