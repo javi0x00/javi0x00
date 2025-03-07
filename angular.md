@@ -114,6 +114,9 @@ npm install node-sass --save-dev
 - Angular
 - Angular Way
 
+- Transpilation
+- Compilation
+
 * First steps
   - Install de Angular CLI
   - Create a workspace and initial application

@@ -30,6 +30,26 @@ Project
 ```
 $ tsc --init
 ```
+tsconfig.json file
+```
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata", false,
+    "useDefineForClassFields": true,
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "outFile": "../../built/local/tsc.js",
+    "sourceMap": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["**/*.spec.ts"]
+}
+```
 ###### Basics
 ```
 $ npm install --save-dev typescript
@@ -50,8 +70,8 @@ $ tsc --watch
 - ECMAScript
 - JavaScript
 - TypeScript
-- Compile
 - Transpile
+- Compile
 
 * Data Types
   * Primitives
@@ -118,6 +138,7 @@ $ tsc --watch
     - getter
 
 * Interfaces
+  - Contract | Agreement
   - Attributes
   - Functions
   - Modifiers
