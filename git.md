@@ -138,6 +138,7 @@ $ git branch
 $ git branch -a
 $ git branch -r
 $ git branch <name>
+$ git branch --set-upstream-to=<remote>/<branch name> <branch name>
 $ git checkout -b <branch name>
 $ git checkout <branch name>
 $ git branch -m <current name> <new name>
