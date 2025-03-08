@@ -144,7 +144,7 @@ npm install node-sass --save-dev
 - Services
 - Dependencies
 - Directives
-- Syntax Template
+- Control Flow
 - Pipes
 - Routing
 - Forms
@@ -248,6 +248,27 @@ npm install node-sass --save-dev
   * Custom
     - Attribute
     - Structure
+  * Old...
+    - ngSrc
+    - ngStyle
+    - ngClass
+    - ngSwitch
+    - ngSwitchCase
+    - ngIf
+    - ngFor
+    - ng-container
+    - ng-template
+    - ngTemplateOutlet
+  * New...
+    - @if
+    - @switch
+    - @case
+    - @for
+    - @empty
+    - @defer
+    - @loading
+    - @placeholder
+    - @error
 
 * Pipes
   - Built-in
@@ -336,6 +357,7 @@ npm install node-sass --save-dev
 
 * angular.json
   * schematics
+    - skipTests
     - changeDetection
   * architect
     - builder
