@@ -167,6 +167,8 @@ npm install node-sass --save-dev
   - Providers
 
 * Component
+  - Presentational (No intelligent => UI, Show data)
+  - Container (Intelligent => Logic, Communication)
   * Create
     - Manually
     * Automatically
@@ -188,6 +190,7 @@ npm install node-sass --save-dev
       * Methods
         - Constructor
   * Lifecycle
+    - Hooks
     - ngOnInit
     - ngOnChanges
     - ngOnDestroy
@@ -212,6 +215,10 @@ npm install node-sass --save-dev
   - Services
 
 * Services
+  - Singleton
+  - Connecting external entities
+  - Information sharing
+  - Business logic
   * Built-in
     - HttpClient
   - Custom
@@ -222,11 +229,13 @@ npm install node-sass --save-dev
     * with inject
       - options
 
+* Dependency Injection
+  - Defining dependency providers
+
 * Directives
   * Built-in
     * Attribute
       - Property binding
-      - Styles
     * Structure
       * Control Structures
         - Conditionals

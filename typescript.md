@@ -136,6 +136,7 @@ $ tsc --watch
   * Virtual attributes
     - setter
     - getter
+    - accessor
 
 * Interfaces
   - Contract | Agreement
@@ -158,7 +159,11 @@ $ tsc --watch
   - Polymorphism
   - Abstraction
 
-- Decorator
+* Decorator
+  - Class
+  - Method
+  - Property
+  - Parameter
 
 * Utility types or helpers
   - Partial
