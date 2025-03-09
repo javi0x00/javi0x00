@@ -17,6 +17,7 @@
 - [Angular DevTools](https://angular.dev/tools/devtools)
 - [Angular Material](https://material.angular.io/)
 - [Material Design](https://m3.material.io/)
+- [Angular Blog](https://blog.angular.dev/)
 ### Requirements
 - Nodejs
 ### Install
@@ -351,7 +352,8 @@ npm install node-sass --save-dev
   - The RxJS library
 - CSR | Client Side Render
 * SSR | Server Side Render
-  - Hydration
+  - Hydration total
+  - Hydration incremental
   - WIZ
 - SSG | Static Site Generation
 
