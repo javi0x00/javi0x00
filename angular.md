@@ -270,6 +270,7 @@ npm install node-sass --save-dev
     - @loading
     - @placeholder
     - @error
+    - @let
 
 * Pipes
   - Built-in
