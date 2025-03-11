@@ -562,6 +562,9 @@
 - https://swagger.io/
 [:top: Back to menu](#resources)
 ### Frontend
+* https://angular.dev/
+  - ngrx/store
+  - ngrx/signalsStore
 - https://nextjs.org/
 - https://qwik.dev/
 [:top: Back to menu](#resources)

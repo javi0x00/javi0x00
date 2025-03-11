@@ -234,6 +234,7 @@ languages and tools they use are secondary to this fundamental skill.
 * Architecture
   - Monolithic
   - Microservices
+  - Single Source Of Truth
 
 * Web Site
   - Landing Page, Web Page, Web Site

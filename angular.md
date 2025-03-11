@@ -143,6 +143,8 @@ npm install node-sass --save-dev
 - Providers
 - Components
 - Services
+- Interfaces
+- Adapters
 - Dependencies
 - Directives
 - Control Flow
@@ -160,7 +162,7 @@ npm install node-sass --save-dev
   - Syntax Template
 
 * Change Detection
-  - OnPush (Only when...User/Param/Event)
+  - OnPush (Only when...User Interaction/Input Params/Events ex: Observable)
   - changeDetectionRef
   - markForChanges
 
