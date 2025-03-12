@@ -86,6 +86,7 @@
 - [NLP](#lnp)
 - [Open Source](#open-source)
 - [Postmortem](#postmortem)
+- [Practice](#practice)
 - [Programming](#programming)
 - [React](#react)
 - [Regular Expression](#regular-expression)
@@ -769,6 +770,16 @@
 - https://www.atlassian.com/incident-management/postmortem/reports
 - https://docs.microsoft.com/en-us/compliance/assurance/assurance-sim-post-incident-activity
 - https://sre.google/sre-book/postmortem-culture/
+[:top: Back to menu](#resources)
+### Practice
+- https://codeforces.com/
+- https://leetcode.com/
+- https://www.codechef.com/
+- https://www.codewars.com/
+- https://www.geeksforgeeks.org/
+- https://www.hackerearth.com/
+- https://www.hackerrank.com/
+- https://www.interviewbit.com/
 [:top: Back to menu](#resources)
 ### Programming
 - https://en.wikipedia.org/wiki/Unix_philosophy

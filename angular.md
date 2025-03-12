@@ -42,6 +42,7 @@ $ ng generate component <name>
 Simple component
 ```
 $ ng generate component <name> --skip-tests --inline-style --inline-template
+$ ng generate component <name> --skip-tests -s -t
 ```
 Services
 ```
@@ -153,6 +154,8 @@ npm install node-sass --save-dev
 - Forms
 - Observables
 - Signals
+- Interceptors
+- Environments
 - Effects
 - Http
 - Caching
