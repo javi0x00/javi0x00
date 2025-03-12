@@ -1,14 +1,19 @@
 # :memo: Notes
 ## FULL-STACK
-A full-stack developer is a web professional who can work on both the front end and back end of a website or application. They are proficient in multiple programming languages, frameworks, and tools.
+A full-stack developer is a web professional who can work on both the front end and back end of a website or application.  
+They are proficient in multiple programming languages, frameworks, and tools.
 
-**Skills and responsibilities**  
+**Skills and responsibilities**
+
 *Programming*  
-Full-stack developers know how to program browsers, servers, and databases. They are skilled in languages.  
+Full-stack developers know how to program browsers, servers, and databases. They are skilled in languages.
+
 *Web architecture*  
-They understand the design principles and structures that underlie web applications.  
+They understand the design principles and structures that underlie web applications.
+
 *Database management*  
-They are familiar with database management systems.  
+They are familiar with database management systems.
+
 *Other skills*  
 They have design skills, are creative, and have strong analytical, problem-solving, and time management skills.
 ### Hard Skills
