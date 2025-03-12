@@ -6,7 +6,8 @@ They are proficient in multiple programming languages, frameworks, and tools.
 **Skills and responsibilities**
 
 *Programming*  
-Full-stack developers know how to program browsers, servers, and databases. They are skilled in languages.
+Full-stack developers know how to program browsers, servers, and databases.  
+They are skilled in languages.
 
 *Web architecture*  
 They understand the design principles and structures that underlie web applications.
