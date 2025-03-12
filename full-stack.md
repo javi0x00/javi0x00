@@ -1,6 +1,6 @@
 # :memo: Notes
-## FULL-STACK
-A full-stack developer is a web professional who can work on both the front end and back end of a website or application.  
+## FULL STACK
+A full-stack developer is a web professional who can work on both the front-end and back-end of a website or application.  
 They are proficient in multiple programming languages, frameworks, and tools.
 
 **Skills and responsibilities**
