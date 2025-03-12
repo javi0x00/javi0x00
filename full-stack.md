@@ -18,6 +18,10 @@ They are familiar with database management systems.
 *Other skills*  
 They have design skills, are creative, and have strong analytical, problem-solving, and time management skills.
 ### Hard Skills
+#### Programming
+#### Web Architecture
+#### Database Management
+---
 * General
   - Control de Versiones
   - Git, GitFlow
@@ -55,7 +59,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
 - Diseño de software usando patrones de diseño como BFF y Microservicios.
 - Conocimiento avanzado en Swagger y YAML.
 - OpenShift, Kubernetes, Docker, AWS.
-
+---
 * Frontend
   - UI
   - UX
@@ -91,7 +95,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - APIs REST
   - GraphQL
   - Conocimientos básicos de diseño UX/UI
-
+---
 * Backend
   - Implementar arquitecturas limpias y micro-backends.
   - Nodejs
@@ -105,7 +109,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - GoLang
   - C#
   - .Net
-
+---
 * Data
   * Gestionar bases de datos relacionales y no relacionales.
     - Diseñar, desarrollar y mantener consultas para extraer y transformar datos.
@@ -122,7 +126,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
     - Cosmos DB
   * Crear, implementar y gestionar dashboards e informes (Visualización de datos)
     - Power BI
-
+---
 * DevOps
   - DevSecOps
   - Automatizar y optimizar despliegues en la nube.
@@ -190,5 +194,5 @@ They have design skills, are creative, and have strong analytical, problem-solvi
 - Capacidad para documentar procesos técnicos, incidentes y soluciones.
 - Implementación de soluciones para garantizar la continuidad operativa de servicios críticos.
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
