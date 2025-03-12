@@ -471,6 +471,13 @@ By Type File
   - pipes
   - services
 
+* public
+  - register
+  - login
+* private
+  - dashboard
+  - profile
+
 By UI
 * src
   * render (UI)
