@@ -1,5 +1,6 @@
 # :memo: Notes
 ## RESOURCES
+- [AI](#ai)
 * [API's](#apis)
   - [Fake](#fake)
   - [Tested](#tested)
@@ -113,6 +114,19 @@
     - [gitignore file](#gitignore-file)
 - [Versioning](#versioning)
 [:top: Top](#resources)
+### AI
+- https://v0.dev/
+- https://bolt.new/
+- https://www.midjourney.com/
+- https://openai.com/index/dall-e-3/
+- https://app.leonardo.ai/
+- https://stabledifffusion.com/
+- https://chatgpt.com/
+- https://www.deepseek.com/
+- https://claude.ai/login
+- https://grok.com/
+- https://openwebui.com/
+[:top: Back to menu](#resources)
 ### API's
 - Open APIs
 - Partner APIs
@@ -227,6 +241,8 @@
 - https://atom.io/
 - https://brackets.io/
 - https://code.visualstudio.com/
+- https://windsurfai.org/
+- https://www.cursor.com/
 - https://github.com/features/codespaces
 - https://idx.dev/
 - https://idx.google.com/
@@ -257,6 +273,11 @@
 - Live Server
 - Path Intellisense
 
+* AI
+  - https://codeium.com/
+  - https://supermaven.com/
+  - https://roocode.com/
+  - https://codegpt.co/ai-chat-for-code
 * Code Formatter
   - https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
   - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
