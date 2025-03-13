@@ -19,24 +19,13 @@ They are familiar with database management systems.
 They have design skills, are creative, and have strong analytical, problem-solving, and time management skills.
 ### Hard Skills
 #### Programming
-#### Web Architecture
-#### Database Management
----
 * General
-  - Control de Versiones
-  - Git, GitFlow
-  - Mmetodologías ágiles (Scrum, Kanban)
-  - Conocimiento profundo de peticiones HTTP y el modelo cliente-servidor
-  - Integraciones con sistemas de terceros mediante APIs
-  - SOA
-  - REST
-  * Testing
-    - Análisis de código estático
-    - Pruebas unitarias
-    - Jest, Jasmine, Cypress, Selenium
-    - pruebas automatizadas
-    - JUnit, Mockito y herramientas de pruebas de integración como TestContainers
-  - tree shakin
+  - Version control
+  - Development metodologies
+  - HTTP
+  - API's
+  - Debugging
+  - Testing
   - Docker
   - Microservicios
   - Principios SOLID
@@ -45,7 +34,6 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - Conocimientos en Shell Script en Linux
   - Conocimientos en seguridad y autenticación (OAuth, JWT, Keycloak).
   - Wordpress
-  - PHP
   - GeoServer,  PostGIS
   - Figma
   - AI
@@ -80,6 +68,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - Funcionalidad
   - JavaScript
   - Typescript
+  - tree shakin
   * Angular
     - Material Design
     - State Management, RxJS, NgRx
@@ -91,10 +80,8 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - Capacidad de implementar requisitos básicos en front-end
   - Desarrollar y mantener aplicaciones frontend
   - Implementar arquitecturas limpias y micro-frontends
-  - Crear, integrar, consumir servicios REST
-  - APIs REST
-  - GraphQL
-  - Conocimientos básicos de diseño UX/UI
+  - Crear, integrar, consumir servicios API's
+  - PHP
 ---
 * Backend
   - Implementar arquitecturas limpias y micro-backends.
@@ -142,6 +129,8 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - Monitorear el rendimiento y aplicar mejoras mediante tuning y optimización de consultas. 
   - Participar en la planificación y ejecución de migraciones de bases de datos a la nube. 
   - procesamiento de datos en tiempo real y análisis avanzado.
+#### Web Architecture
+#### Database Management
 ### Soft Skills
 - Excelente capacidad de resolución de problemas y pensamiento lógico.
 - Habilidades de comunicación claras y efectivas.

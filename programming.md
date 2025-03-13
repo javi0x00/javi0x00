@@ -600,6 +600,21 @@ By Atomic Design
 - Agile UX
 - Lean UX
 - Material Design
+
+* Debugging
+  - Use a debugger
+  - Use git bisect
+  - Ask a rubber duck
+  - Check logs
+  - Systemativally fix the bugs
+  - Reproduce the failure to ensure the bug is fixed
+
+* Testing
+  - Análisis de código estático
+  - Pruebas unitarias
+  - Jest, Jasmine, Cypress, Selenium
+  - pruebas automatizadas
+  - JUnit, Mockito y herramientas de pruebas de integración como TestContainers
 ### Cloud
 - Serverless
 ## Software Developer
