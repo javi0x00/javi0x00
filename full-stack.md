@@ -116,6 +116,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
 ---
 * DevOps
   - DevSecOps
+  - OWASP
   - Automatizar y optimizar despliegues en la nube.
   - cloud computing (AWS, GCP, Azure)
   - AWS, Azure DevOps, GCP, CloudFormation, Artifactory, Kubernetes

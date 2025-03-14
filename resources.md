@@ -829,6 +829,8 @@
 ### Security
 - https://auth0.com/
 - https://snyk.io/
+- https://www.comptia.org/
+- https://owasp.org/
 [:top: Back to menu](#resources)
 ### SEO
 - https://developers.google.com/search/docs/advanced/robots/create-robots-txt
