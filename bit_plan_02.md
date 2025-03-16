@@ -1,6 +1,6 @@
 # :memo: Notes
 ## BIT
-BIT - CURSO DE JAVA  
+Plan de Estudios para el curso de Java  
 BOOTCAMP DESARROLLO WEB JAVA
 ### OBJETIVOS
 200 horas de formación técnica y preparación certificación 1Z0-811 Oracle
