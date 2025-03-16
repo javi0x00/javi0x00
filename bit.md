@@ -1,6 +1,7 @@
 # :factory: BIT
-## Projects ― (Collaborator)
-- Bootcamp de Desarrollo Web Full Stack [Details](bit_plan_01.md)
+## Projects ― (Mentor)
+- MEAN/MERN [Details](bit_plan_01.md)
+- Java [Details](bit_plan_02.md)
 ## Tech Stack
 - Git
 - HTML
@@ -13,6 +14,7 @@
 - MongoDB
 - Node
 - ExpressJS
+- Java
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2022 - 2024  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2022 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
