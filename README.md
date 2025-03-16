@@ -78,12 +78,14 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 :brain: [Challenges Project Euler](https://github.com/javierandres-dev/challenges-project_euler) *(in progress)*
 - - -
 ### :octocat: Collaborator in other projects
-#### :office: Mezubo | HEYGIA ― Projects (Collaborator)
+#### :office: Mezubo | HEYGIA ― Projects (Collaborator/Coder)
 :factory: *Oct 2024 - Dec 2024* [Summary](mezubo-heygia.md)
-#### :office: Vertical ― Projects (Collaborator)
+#### :office: Vertical ― Projects (Collaborator/Coder)
 :factory: *Oct 2021 - Mar 2024* [Summary](vertical.md)
-#### :office: Triario ― Projects (Collaborator)
+#### :office: Triario ― Projects (Collaborator/Coder)
 :factory: *Apr 2021 - Sep 2021* [Summary](triario.md)
+#### :office: BIT ― Projects (Mentor)
+:factory: *Feb 2021 - Mar 2025* [Summary](bit.md)
 - - -
 ### :checkered_flag: Development like volunteering
 - *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
