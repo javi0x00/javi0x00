@@ -79,6 +79,7 @@
   - [Obfuscator](#obfuscator)
   - [Spreadsheets](#spreadsheets)
 - [JSON](#json)
+- [Library](#library)
 - [Licence](#licence)
 - [Linux](#linux)
 - [Learn](#learn)
@@ -691,6 +692,9 @@
 - https://jsonapi.org/
 - https://quicktype.io/
 - https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+[:top: Back to menu](#resources)
+### Library
+- https://z-library.sk/
 [:top: Back to menu](#resources)
 ### Licence
 - https://choosealicense.com/
