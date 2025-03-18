@@ -353,7 +353,7 @@ languages and tools they use are secondary to this fundamental skill.
     - Sequential
     - Conditional
     - Repetition
-  * Object oriented programming (OOP)
+  * Object-oriented programming | [OOP](oop.md)
     - Encapsulation
     - Inheritance
     - Polymorphism
