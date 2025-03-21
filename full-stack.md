@@ -47,10 +47,13 @@ They have design skills, are creative, and have strong analytical, problem-solvi
 - Diseño de software usando patrones de diseño como BFF y Microservicios.
 - Conocimiento avanzado en Swagger y YAML.
 - OpenShift, Kubernetes, Docker, AWS.
+- SAFe, SCRUM, Kanva
 ---
 * Frontend
   - UI
   - UX
+  - SPA
+  - PWA
   - CSR
   - SSR
   - SSG
@@ -71,6 +74,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - tree shakin
   * Angular
     - Material Design
+    - NgZorro
     - State Management, RxJS, NgRx
   * React
     - Manejo de estados, ContextAPI, Redux
@@ -89,6 +93,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - JavaScript
   - Typescript
   - Express
+  - NestJS
   - Python
   - Java
   * SpringBoot
@@ -101,6 +106,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   * Gestionar bases de datos relacionales y no relacionales.
     - Diseñar, desarrollar y mantener consultas para extraer y transformar datos.
   - RDS, DB2
+  - NeonDB
   * SQL
     - PostgreSQL
     - MySQL
@@ -130,6 +136,12 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - Monitorear el rendimiento y aplicar mejoras mediante tuning y optimización de consultas. 
   - Participar en la planificación y ejecución de migraciones de bases de datos a la nube. 
   - procesamiento de datos en tiempo real y análisis avanzado.
+  - Hosting Vercel
+---
+- OpenAI, Brightdata, FireCrawl
+- authentication mechanisms (OAuth, JWT)
+- WebSockets
+- https://chatgpt.com/g/g-67ae840642508191bb7522b9afd24e6c-hemisfera
 #### Web Architecture
 #### Database Management
 ### Soft Skills
@@ -183,6 +195,11 @@ They have design skills, are creative, and have strong analytical, problem-solvi
 - Conocimiento de normatividad en protección de datos (Ley 1581 en Colombia y estándares internacionales como GDPR).
 - Capacidad para documentar procesos técnicos, incidentes y soluciones.
 - Implementación de soluciones para garantizar la continuidad operativa de servicios críticos.
+---
+- Desarrollo e implementación de soluciones SIG.
+- Dominio de tecnologías OpenSource SIG, incluyendo GeoServer, PostGIS, Python (GeoPandas, GDAL, Fiona, Shapely, etc.).
+- Manejo de bases de datos espaciales y APIs de geoprocesamiento.
+- Conocimientos en JavaScript (Leaflet, OpenLayers) para visualización cartográfica.
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
