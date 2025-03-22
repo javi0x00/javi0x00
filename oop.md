@@ -10,9 +10,17 @@
 7. API documentation
 ### Resources
 ### Terms and concepts
+* object-oriented
+  - programming
+  - style
+  - design
+  - language
+  - programs
+  - concepts
+  - manner
 * Programming paradigm | Programming style
-  - Encapsulation
   - Inheritance
+  - Encapsulation
   - Polymorphism
   - Abstraction
   * Classes
@@ -42,6 +50,9 @@
   - Instance variables
   - Instance constants
 * Inheritance
+  - Superclass | Ancestor | Base class
+  - Subclass | Descendant | Derived class
+  - Hierarchy
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

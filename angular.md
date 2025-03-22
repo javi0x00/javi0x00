@@ -159,6 +159,10 @@ npm install node-sass --save-dev
 - Effects
 - Http
 - Caching
+* Testing
+  - given
+  - when
+  - then
 
 * Control Flow
   - Directives

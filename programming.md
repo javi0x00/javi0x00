@@ -248,6 +248,24 @@ languages and tools they use are secondary to this fundamental skill.
   - Dynamic
 - Leads
 - Crawlers
+#### Software Engineering
+* Software Life Cicle
+  * Analysis
+    Requirements Specification
+  * Design
+    - Set of classes (OOP)
+  * Coding
+    - Implement design
+  * Testing
+    - Run program
+    - Unit testing (OOP)
+    - Integration testing (OOP)
+    * Debugging
+      - Eliminate programming error
+  * Operation
+    - Use
+    - Software maintenance
+- Well-designed and -constructed software is easy to maintain.
 ---
 #### Introduction to Programming and Computer Science
 - Introduction
@@ -610,8 +628,13 @@ By Atomic Design
   - Reproduce the failure to ensure the bug is fixed
 
 * Testing
-  - Análisis de código estático
+  - given
+  - when
+  - then
   - Pruebas unitarias
+  - Pruebas funcionales
+  - Pruebas end to end
+  - Análisis de código estático
   - Jest, Jasmine, Cypress, Selenium
   - pruebas automatizadas
   - JUnit, Mockito y herramientas de pruebas de integración como TestContainers

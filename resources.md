@@ -193,6 +193,7 @@
 - https://www.reddit.com/dev/api/
 - https://www.randomlists.com/data/words.json
 - http://www.tvmaze.com/api
+- https://developer.themoviedb.org/
 [:top: Back to menu](#resources)
 ### Authentication
 - https://jwt.io/
@@ -330,6 +331,8 @@
     - https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets
     - https://marketplace.visualstudio.com/items?itemName=Vue.volar
     - https://marketplace.visualstudio.com/items?itemName=abdelaziz18003.quasar-snippets
+* JSON
+  - https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts
 * Path
   - https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 * Run Code

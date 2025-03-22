@@ -47,7 +47,8 @@ They have design skills, are creative, and have strong analytical, problem-solvi
 - Diseño de software usando patrones de diseño como BFF y Microservicios.
 - Conocimiento avanzado en Swagger y YAML.
 - OpenShift, Kubernetes, Docker, AWS.
-- SAFe, SCRUM, Kanva
+- Trabajo bajo metodologías ágiles (Scrum, Kanban, SAFe).
+- Pruebas unitarias y de integración.
 ---
 * Frontend
   - UI
@@ -74,6 +75,9 @@ They have design skills, are creative, and have strong analytical, problem-solvi
   - tree shakin
   * Angular
     - Material Design
+    - Ionic
+    - NgFlex
+    - NgPrime
     - NgZorro
     - State Management, RxJS, NgRx
   * React
