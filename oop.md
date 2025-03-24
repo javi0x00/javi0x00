@@ -18,6 +18,7 @@
   - programs
   - concepts
   - manner
+  - thinking
 * Programming paradigm | Programming style
   - Inheritance
   - Encapsulation
@@ -26,10 +27,17 @@
   * Classes
     - Instances
     - Class method
+    - Define
   * Objects
     * Attributes
       - Properties or characteristics
       - Instance methods or actions or behaviours
+      - Arguments
+      - Declare, create, use
+- Identifiers
+- Keywords | Reserved words
+- Standard naming convention
+- The *new* operator
 * Classes and Objects | Mold or Template and instances
   * Object
     - Data | Properties

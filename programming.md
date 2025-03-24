@@ -29,6 +29,9 @@ Index
 - [Design Patterns](#design-patterns)
 - [UI Design Methodology](#ui-design-methodology)
 - [Cloud](#cloud)
+#### crux
+Crux refers to the core challenge or critical problem  
+Identifying the crux helps developers focus on solving the most impactful issues early in the development process.
 #### Problem Solving
 Problem solving is the core thing software developers do.  The programming 
 languages and tools they use are secondary to this fundamental skill.
@@ -195,6 +198,7 @@ languages and tools they use are secondary to this fundamental skill.
 - Avoid indiscriminate mixing of coding languages
 - Caution with imports
 - DRY (Don't Repeat Yourself)
+- Self-explanatory program code, if it is not possible then attach comments.
 * Pure function
   - It minds its own business. It does not change any objects or variables that existed before it was called.
   - Same inputs, same output. Given the same inputs, a pure function should always return the same result.
@@ -266,6 +270,8 @@ languages and tools they use are secondary to this fundamental skill.
     - Use
     - Software maintenance
 - Well-designed and -constructed software is easy to maintain.
+- It is important to follow the standard naming convention and best practices.
+- Software maintenance is easier with easy-to-understand programs.
 ---
 #### Introduction to Programming and Computer Science
 - Introduction

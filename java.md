@@ -45,10 +45,14 @@ $ java -version
 - JRE (Java Runtime Environment)
 - JDK (Java Development Kit)
 - OOP (Object-oriented programming)
-- Garbage Collector
+- Garbage Collector | Deal-locate unused space
+* Classes
+  - Java System | Java Core
+  - Programmer-defined | Standard | System
 * Source file (.java)
   * Code Comments
     - Single-line, Multi-line, Java Doc
+    - Comment markers
   - The main Class
   - The main Method
   * Interaction
