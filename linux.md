@@ -104,6 +104,7 @@ $ man apt
 $ sudo apt update
 $ apt list --upgradable
 $ sudo apt upgrade
+$ sudo apt autoremove
 $ sudo apt search <package name>
 $ sudo apt install <package name>
 $ sudo apt remove <package name>

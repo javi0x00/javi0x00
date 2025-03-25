@@ -645,7 +645,28 @@ By Atomic Design
   - pruebas automatizadas
   - JUnit, Mockito y herramientas de pruebas de integración como TestContainers
 ### Cloud
-- Serverless
+* Location
+  - On-Premise
+  - Cloud Computing
+  - Hybrid
+  - Intercloud Exchange
+- IaaS (Infrastructure as a Service)
+- PaaS (Platform as a Service)
+- SaaS (Software as a Service)
+- EC2 (Elastic Cloud Computing)
+- Cloud Providers
+* AWS (Amazon Web Services)
+  - Server
+  - Instance
+  - VM (Virtual Machine)
+  - Amazon Machine Image (AMI)
+  - Auto Scaling
+  - Load Balancing
+  - DoS (denial-of-service)
+  * IP's
+    - Private
+    - Public
+  - Serverless
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
