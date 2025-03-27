@@ -653,9 +653,13 @@ By Atomic Design
 - IaaS (Infrastructure as a Service)
 - PaaS (Platform as a Service)
 - SaaS (Software as a Service)
-- EC2 (Elastic Cloud Computing)
 - Cloud Providers
 * AWS (Amazon Web Services)
+  - EC2 (Elastic Cloud Computing)
+  - S3
+  - VPC (Virtual Private Cloud)
+  - Lambda
+  - CloudFront
   - Server
   - Instance
   - VM (Virtual Machine)
@@ -663,6 +667,7 @@ By Atomic Design
   - Auto Scaling
   - Load Balancing
   - DoS (denial-of-service)
+  - Route 53
   * IP's
     - Private
     - Public

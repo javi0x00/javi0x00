@@ -14,6 +14,7 @@
   - [nvm](https://github.com/nvm-sh/nvm)
   - [NVM for Windows](https://github.com/coreybutler/nvm-windows)
   - [n](https://github.com/tj/n)
+  - [fnm](https://github.com/Schniz/fnm)
 * Node Package Manager
   - [npm](https://www.npmjs.com/)
   - [pnpm](https://pnpm.io/)

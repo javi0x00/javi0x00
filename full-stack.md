@@ -65,6 +65,7 @@ They have design skills, are creative, and have strong analytical, problem-solvi
     - Tailwind
     - Bootstrap
   - SEO
+  - SEM
   - WCAG
   - Lighthouse, PageSpeed
   - Optimización de contenidos.
@@ -80,6 +81,8 @@ They have design skills, are creative, and have strong analytical, problem-solvi
     - NgPrime
     - NgZorro
     - State Management, RxJS, NgRx
+    - RxJS
+    - NgRx
   * React
     - Manejo de estados, ContextAPI, Redux
   - Vue

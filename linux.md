@@ -78,6 +78,7 @@ $ chmod
 $ diff
 $ telnet
 $ ln
+$ sudo su -
 ```
 #### System information
 ```
