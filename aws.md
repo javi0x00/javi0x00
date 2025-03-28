@@ -26,6 +26,10 @@
     - S3 (Simple Storage Service)
   * CDN (Content Delivery Network)
     - CloudFront
+  * Serverless
+    - Lambda
+  * Logs
+    - CloudWatch
 
 - Scalability
 - Auto Scaling
@@ -69,11 +73,15 @@
       - Naming
       - Access
       - Policy
+      - User
+  - Deploy
 
 - CloudFront
 
 * Lambda
-  - Serverless
+  - Functions
+
+- CloudWatch
 ### Basics
 - Create Account
 - Install CLI
@@ -85,6 +93,7 @@
 AWS CLI
 ```
 $ aws --version
+$ aws configure
 ```
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2025  
