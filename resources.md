@@ -117,6 +117,7 @@
     - [Commit](#commit)
     - [gitignore file](#gitignore-file)
 - [Versioning](#versioning)
+
 [:top: Top](#resources)
 ### AI
 - https://v0.dev/
@@ -130,16 +131,9 @@
 - https://claude.ai/login
 - https://grok.com/
 - https://openwebui.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### API's
-- Open APIs
-- Partner APIs
-- Public APIs
-- Private APIs
-- Composite APIs
-- Batch APIs
-- Inified APIs
-#### API
 - http://7timer.info/
 - http://any-api.com/
 - https://apidocs.imgur.com/
@@ -197,16 +191,20 @@
 - https://www.randomlists.com/data/words.json
 - http://www.tvmaze.com/api
 - https://developer.themoviedb.org/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Authentication
 - https://jwt.io/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Authorization
 - https://oauth.net/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Backend
 - https://nestjs.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Browsers
 - https://browsehappy.com/
 - https://www.browserling.com/tools/
@@ -219,10 +217,12 @@
 - ColorZilla
 - Clear Cache
 - Moesif Origin & CORS Changer
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Boards
 - https://padlet.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Challenges
 - https://100dayscss.com/
 - https://www.dailycodingproblem.com/
@@ -238,10 +238,12 @@
 - https://www.learneroo.com/subjects/3
 - https://workat.tech/problem-solving/lists/beginner-problems/practice
 - https://codeforwin.org/2015/05/basic-programming-practice-problems.html
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Cheatsheets
 - https://devhints.io/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Code editor
 - https://atom.io/
 - https://brackets.io/
@@ -356,7 +358,8 @@
 * ...
   - https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
   - https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Code Sharing
 - https://gist.github.com/
 - https://playcode.io/
@@ -379,12 +382,14 @@
 - https://etherpad.org/
 - https://killedbygoogle.com/
 - https://www.codewars.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Community
 - https://daily.dev/
 - https://developers.google.com/
 - https://web.dev/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### CSS
 - https://lenguajecss.com/
 - https://lottiefiles.com/
@@ -435,7 +440,8 @@
 - https://autoprefixer.github.io/
 #### CSS Resets
 - https://meyerweb.com/eric/tools/css/reset/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Databases
 - https://dbdiagram.io/
 - https://dbeaver.io/
@@ -448,20 +454,23 @@
 - https://www.sql-practice.com/
 #### ORM
 - https://www.sqlalchemy.org/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console
 - https://firefox-source-docs.mozilla.org/devtools-user/
 - https://developer.chrome.com/docs/devtools/
 - https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Deploy
 - https://dokploy.com/
 - https://render.com/
 - https://vercel.com/
 - https://www.heroku.com/
 - https://www.netlify.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Design
 - https://designstripe.com/
 - https://sapiens.ui8.net/
@@ -584,13 +593,16 @@
 - https://ninjamock.com/
 - https://balsamiq.com/
 - https://www.adobe.com/products/xd.html
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Design Systems
 - https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Docker
 - https://devtalles.com/files/docker-cheat-sheet.pdf
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Documentation
 - https://devdocs.io/
 - https://jsdoc.app/
@@ -599,14 +611,16 @@
   - https://www.valentinog.com/blog/jsdoc/
 - https://apidocjs.com/
 - https://swagger.io/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Frontend
 * https://angular.dev/
   - ngrx/store
   - ngrx/signalsStore
 - https://nextjs.org/
 - https://qwik.dev/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### HTML
 - https://allthetags.com/
 - https://codeguide.co/
@@ -623,21 +637,25 @@
 - http://mobileinputtypes.com/
 #### HTML Templates
 - https://htmlrev.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### HTTP Clients
 - https://www.postman.com/
 - https://insomnia.rest/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### IDE
 - https://www.jetbrains.com/
 - https://coderunnerapp.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Java
 - https://www.java.com/
 - https://github.com/google/gson
 - https://mvnrepository.com/artifact/com.google.code.gson/gson
 - https://adoptium.net/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### JavaScript
 - https://lenguajejs.com/
 #### Altering CSS
@@ -706,22 +724,27 @@
 - http://javascript2img.com/
 #### Spreadsheets
 - https://sheetjs.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### JSON
 - https://nodejs.dev/learn/the-package-json-guide
 - https://jsonapi.org/
 - https://quicktype.io/
 - https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Library
 - https://z-library.sk/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Licence
 - https://choosealicense.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Linux
 - https://learn.microsoft.com/en-us/windows/wsl/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Learn
 - https://anywhere.epam.com/es/blog/career/advice
 - https://avanzatec.gov.co/portal/
@@ -785,10 +808,12 @@
 - https://www.tutorialesprogramacionya.com/
 - https://www.w3schools.com/
 - https://www.yopuedoprogramar.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Mail
 - https://mailtrap.io/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Markdown
 - https://daringfireball.net/projects/markdown/
 - https://www.markdownguide.org/cheat-sheet/
@@ -803,20 +828,24 @@
 - https://github.com/pujux/badge-it
 - https://stackedit.io/
 - https://stackedit.io/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### LNP
 - https://www.tronya.co/fracasos-de-exitosos/
 - https://www.tuproposito.es/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Open Source
 - https://opensource.org/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Postmortem
 - https://www.atlassian.com/incident-management/postmortem
 - https://www.atlassian.com/incident-management/postmortem/reports
 - https://docs.microsoft.com/en-us/compliance/assurance/assurance-sim-post-incident-activity
 - https://sre.google/sre-book/postmortem-culture/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Practice
 - https://codeforces.com/
 - https://leetcode.com/
@@ -826,15 +855,18 @@
 - https://www.hackerearth.com/
 - https://www.hackerrank.com/
 - https://www.interviewbit.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Programming
 - https://en.wikipedia.org/wiki/Unix_philosophy
 - https://pseint.sourceforge.net/
 - http://www.flowgorithm.org/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### React
 - https://github.com/javierandres-dev/javierandres-dev/blob/master/react.md
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Regular Expression
 - http://emailregex.com/
 - https://regex101.com/
@@ -842,45 +874,55 @@
 ---
 ### Repositories
 - https://mvnrepository.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Screenshot
 - https://flameshot.org/
 - https://app.prntscr.com/en/index.html
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Scrum
 - https://www.scrumpoker-online.org/en/
 - https://www.agilealliance.org/agile101/agile-glossary/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Security
 - https://auth0.com/
 - https://snyk.io/
 - https://www.comptia.org/
 - https://owasp.org/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### SEO
 - https://developers.google.com/search/docs/advanced/robots/create-robots-txt
 - https://caniuse.com/
 - https://ogp.me/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### SSL VPN
 - http://www.fortinet.com
 - https://www.fortinet.com/support/product-downloads
 - https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-install-FortiClient-on-Ubuntu-22-04-LTS/ta-p/217162
 - https://help.queens.edu/hc/en-us/articles/360000438083-How-to-install-Forticlient-VPN-v6-0-Apple-MacOS-10-12-and-higher
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Submissions
 - https://formsubmit.co/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Timers
 - https://pomofocus.io/app
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Tracking
 - https://analytics.google.com/
 - https://developers.facebook.com/docs/meta-pixel
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Tunnel
 - https://ngrok.com/docs
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Type
 - https://www.typingclub.com/
 - https://monkeytype.com/
@@ -889,7 +931,8 @@
 - https://www.typing.com/
 - https://typistapp.ca/
 - https://github.com/max-niederman/ttyper
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### TypeScript
 - https://www.typescriptlang.org/
 - https://www.typescriptlang.org/docs/
@@ -899,7 +942,8 @@
 - https://github.com/typescript-cheatsheets/node
 - https://react-typescript-cheatsheet.netlify.app/
 - https://github.com/typescript-cheatsheets/vue
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Unicode
 - https://unicode.org/
 - https://www.lookuptables.com/text/unicode-characters
@@ -907,7 +951,8 @@
 - https://www.asciitable.com/
 - https://www.lookuptables.com/text/html-character-codes
 - https://www.w3schools.com/charsets/ref_html_utf8.asp
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Version Control Hosting
 #### Bitbucket
 - https://bitbucket.org/
@@ -923,7 +968,8 @@
 - https://docs.gitlab.com/
 - https://docs.gitlab.com/ee/user/project/pages/
 - https://how-to-stuff.gitlab.io/gitlab-pages-how-to/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Version Control System
 - https://git-scm.com/
 - http://savannah.nongnu.org/projects/cvs
@@ -945,7 +991,8 @@
 ##### Tools
 - https://github.com/apps/desktop
 - https://www.gitkraken.com/
-[:top: Back to top](#resources)
+
+[:top: Top](#resources)
 ### Versioning
 - https://semver.org/
 - https://go.dev/doc/modules/version-numbers

@@ -13,6 +13,14 @@
 * [restfulapi.net](https://restfulapi.net/)
 * [JSON API](https://jsonapi.org/)
 ### Terms and concepts
+* API's
+  - Open APIs
+  - Partner APIs
+  - Public APIs
+  - Private APIs
+  - Composite APIs
+  - Batch APIs
+  - Inified APIs
 * API or Application Programing Interface
 * REST or Representational State Transfer
   - Uniform Interface
@@ -53,5 +61,5 @@
     - Resource server
     - Authorization server
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2023  
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
