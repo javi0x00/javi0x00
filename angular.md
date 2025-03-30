@@ -18,6 +18,7 @@
 - [Angular Material](https://material.angular.io/)
 - [Material Design](https://m3.material.io/)
 - [Angular Blog](https://blog.angular.dev/)
+- [NGRX](https://ngrx.io/)
 ### Requirements
 - Nodejs
 ### Install
@@ -382,6 +383,22 @@ npm install node-sass --save-dev
 
 * tsconfig
   - baseUrl
+
+* State Management
+  - State
+  * Core
+    - Input
+    - Output
+    - Services
+  * NgRx
+    - Redux pattern
+    - store
+    - store-devtools
+    * Architecture
+      - Actions
+      - Reducers
+      - Selectors
+
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
 Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).

@@ -223,6 +223,9 @@
 - ColorZilla
 - Clear Cache
 - Moesif Origin & CORS Changer
+* Angular
+  * NGRX
+    - https://chromewebstore.google.com/detail/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=item-share-cb
 
 [:top:](#resources)
 ---
