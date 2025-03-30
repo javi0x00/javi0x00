@@ -118,7 +118,7 @@
     - [gitignore file](#gitignore-file)
 - [Versioning](#versioning)
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### AI
 - https://v0.dev/
@@ -133,7 +133,7 @@
 - https://grok.com/
 - https://openwebui.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### API's
 - http://7timer.info/
@@ -194,22 +194,22 @@
 - http://www.tvmaze.com/api
 - https://developer.themoviedb.org/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Authentication
 - https://jwt.io/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Authorization
 - https://oauth.net/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Backend
 - https://nestjs.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Browsers
 - https://browsehappy.com/
@@ -224,12 +224,12 @@
 - Clear Cache
 - Moesif Origin & CORS Changer
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Boards
 - https://padlet.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Challenges
 - https://100dayscss.com/
@@ -247,12 +247,12 @@
 - https://workat.tech/problem-solving/lists/beginner-problems/practice
 - https://codeforwin.org/2015/05/basic-programming-practice-problems.html
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Cheatsheets
 - https://devhints.io/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Code editor
 - https://atom.io/
@@ -369,7 +369,7 @@
   - https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
   - https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Code Sharing
 - https://gist.github.com/
@@ -394,14 +394,14 @@
 - https://killedbygoogle.com/
 - https://www.codewars.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Community
 - https://daily.dev/
 - https://developers.google.com/
 - https://web.dev/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### CSS
 - https://lenguajecss.com/
@@ -454,7 +454,7 @@
 #### CSS Resets
 - https://meyerweb.com/eric/tools/css/reset/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Databases
 - https://dbdiagram.io/
@@ -469,7 +469,7 @@
 #### ORM
 - https://www.sqlalchemy.org/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Debug
 - https://developer.mozilla.org/en-US/docs/Web/API/console
@@ -477,7 +477,7 @@
 - https://developer.chrome.com/docs/devtools/
 - https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Deploy
 - https://dokploy.com/
@@ -486,7 +486,7 @@
 - https://www.heroku.com/
 - https://www.netlify.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Design
 - https://designstripe.com/
@@ -611,17 +611,17 @@
 - https://balsamiq.com/
 - https://www.adobe.com/products/xd.html
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Design Systems
 - https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Docker
 - https://devtalles.com/files/docker-cheat-sheet.pdf
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Documentation
 - https://devdocs.io/
@@ -632,7 +632,7 @@
 - https://apidocjs.com/
 - https://swagger.io/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Frontend
 * https://angular.dev/
@@ -641,7 +641,7 @@
 - https://nextjs.org/
 - https://qwik.dev/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### HTML
 - https://allthetags.com/
@@ -660,19 +660,19 @@
 #### HTML Templates
 - https://htmlrev.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### HTTP Clients
 - https://www.postman.com/
 - https://insomnia.rest/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### IDE
 - https://www.jetbrains.com/
 - https://coderunnerapp.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Java
 - https://www.java.com/
@@ -680,7 +680,7 @@
 - https://mvnrepository.com/artifact/com.google.code.gson/gson
 - https://adoptium.net/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### JavaScript
 - https://lenguajejs.com/
@@ -751,7 +751,7 @@
 #### Spreadsheets
 - https://sheetjs.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### JSON
 - https://nodejs.dev/learn/the-package-json-guide
@@ -759,22 +759,22 @@
 - https://quicktype.io/
 - https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Library
 - https://z-library.sk/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Licence
 - https://choosealicense.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Linux
 - https://learn.microsoft.com/en-us/windows/wsl/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Learn
 - https://anywhere.epam.com/es/blog/career/advice
@@ -840,12 +840,12 @@
 - https://www.w3schools.com/
 - https://www.yopuedoprogramar.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Mail
 - https://mailtrap.io/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Markdown
 - https://daringfireball.net/projects/markdown/
@@ -862,18 +862,18 @@
 - https://stackedit.io/
 - https://stackedit.io/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### LNP
 - https://www.tronya.co/fracasos-de-exitosos/
 - https://www.tuproposito.es/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Open Source
 - https://opensource.org/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Postmortem
 - https://www.atlassian.com/incident-management/postmortem
@@ -881,7 +881,7 @@
 - https://docs.microsoft.com/en-us/compliance/assurance/assurance-sim-post-incident-activity
 - https://sre.google/sre-book/postmortem-culture/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Practice
 - https://codeforces.com/
@@ -893,19 +893,19 @@
 - https://www.hackerrank.com/
 - https://www.interviewbit.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Programming
 - https://en.wikipedia.org/wiki/Unix_philosophy
 - https://pseint.sourceforge.net/
 - http://www.flowgorithm.org/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### React
 - https://github.com/javierandres-dev/javierandres-dev/blob/master/react.md
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Regular Expression
 - http://emailregex.com/
@@ -915,19 +915,19 @@
 ### Repositories
 - https://mvnrepository.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Screenshot
 - https://flameshot.org/
 - https://app.prntscr.com/en/index.html
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Scrum
 - https://www.scrumpoker-online.org/en/
 - https://www.agilealliance.org/agile101/agile-glossary/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Security
 - https://auth0.com/
@@ -935,14 +935,14 @@
 - https://www.comptia.org/
 - https://owasp.org/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### SEO
 - https://developers.google.com/search/docs/advanced/robots/create-robots-txt
 - https://caniuse.com/
 - https://ogp.me/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### SSL VPN
 - http://www.fortinet.com
@@ -950,28 +950,28 @@
 - https://community.fortinet.com/t5/FortiClient/Technical-Tip-How-to-install-FortiClient-on-Ubuntu-22-04-LTS/ta-p/217162
 - https://help.queens.edu/hc/en-us/articles/360000438083-How-to-install-Forticlient-VPN-v6-0-Apple-MacOS-10-12-and-higher
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Submissions
 - https://formsubmit.co/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Timers
 - https://pomofocus.io/app
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Tracking
 - https://analytics.google.com/
 - https://developers.facebook.com/docs/meta-pixel
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Tunnel
 - https://ngrok.com/docs
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Type
 - https://www.typingclub.com/
@@ -982,7 +982,7 @@
 - https://typistapp.ca/
 - https://github.com/max-niederman/ttyper
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### TypeScript
 - https://www.typescriptlang.org/
@@ -994,7 +994,7 @@
 - https://react-typescript-cheatsheet.netlify.app/
 - https://github.com/typescript-cheatsheets/vue
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Unicode
 - https://unicode.org/
@@ -1004,7 +1004,7 @@
 - https://www.lookuptables.com/text/html-character-codes
 - https://www.w3schools.com/charsets/ref_html_utf8.asp
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Version Control Hosting
 #### Bitbucket
@@ -1022,7 +1022,7 @@
 - https://docs.gitlab.com/ee/user/project/pages/
 - https://how-to-stuff.gitlab.io/gitlab-pages-how-to/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Version Control System
 - https://git-scm.com/
@@ -1046,7 +1046,7 @@
 - https://github.com/apps/desktop
 - https://www.gitkraken.com/
 
-[:top: Top](#resources)
+[:top:](#resources)
 ---
 ### Versioning
 - https://semver.org/
