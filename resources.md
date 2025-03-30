@@ -1053,7 +1053,7 @@
 - https://go.dev/doc/modules/version-numbers
 
 [:top:](#resources)
----
+
 
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
