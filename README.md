@@ -41,9 +41,9 @@
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 
 
-Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javierandres-dev)
+Thanks for visiting my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='16'>](https://github.com/javi0x00)
  • 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/javierandres-dev/) Let's connect!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='16'>](https://www.linkedin.com/in/javi0x00/) Let's connect!
 - - -
 ### :globe_with_meridians: Online projects
 #### :muscle: Just for fun!
@@ -52,30 +52,30 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 ###### Alphabetic order
 |Nº|Project|Stack|Code|Preview|
 |----|----|----|----|----|
-|01|Calculator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-calculator)|[Live Preview](https://javierandres-dev.github.io/training-calculator/)|
-|02|Color Generator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-color_generator)|[Live Preview](https://javierandres-dev.github.io/training-color_generator/)|
-|03|Common words|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/just_for_fun-common_words)|[Live Preview](https://javierandres-dev.github.io/just_for_fun-common_words/)|
-|04|Compose reggaeton|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-compose_reggaeton)|[Live Preview](https://javierandres-dev.github.io/training-compose_reggaeton/)|
-|05|Clock|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-clock)|[Live Preview](https://javierandres-dev.github.io/training-clock/)|
-|06|Counter|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-counter)|[Live Preview](https://javierandres-dev.github.io/training-counter/)|
-|07|Foreign Exchange|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-foreign_exchange)|[Live Preview](https://javierandres-dev.github.io/training-foreign_exchange/)|
-|08|Google Homepage|:icecream: HTML, CSS|[View Code](https://github.com/javierandres-dev/training-google_homepage)|[Live Preview](https://javierandres-dev.github.io/training-google_homepage/)|
-|09|JSONplaceholder|:ice_cream: Bootstrap, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-jsonplaceholder)|[Live Preview](https://javierandres-dev.github.io/training-jsonplaceholder/)|
-|10|Pokémon Cards|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javierandres-dev/training-pokemon_cards)|[Live Preview](https://javierandres-dev.github.io/training-pokemon_cards/)|
-|11|Random Team Generator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/just_for_fun-random_team_generator)|[Live Preview](https://javierandres-dev.github.io/just_for_fun-random_team_generator/)|
-|12|Responsive Navbar|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/training-responsive_navbar)|[Live Preview](https://javierandres-dev.github.io/training-responsive_navbar/)|
-|13|Rock, Paper, Scissors|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/odin-rock_paper_scissors)|[Live Preview](https://javierandres-dev.github.io/odin-rock_paper_scissors/)|
-|14|Timer|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javierandres-dev/just_for_fun-timer)|[Live Preview](https://javierandres-dev.github.io/just_for_fun-timer/)|
+|01|Calculator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/training-calculator)|[Live Preview](https://javi0x00.github.io/training-calculator/)|
+|02|Color Generator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/training-color_generator)|[Live Preview](https://javi0x00.github.io/training-color_generator/)|
+|03|Common words|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/just_for_fun-common_words)|[Live Preview](https://javi0x00.github.io/just_for_fun-common_words/)|
+|04|Compose reggaeton|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/training-compose_reggaeton)|[Live Preview](https://javi0x00.github.io/training-compose_reggaeton/)|
+|05|Clock|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/training-clock)|[Live Preview](https://javi0x00.github.io/training-clock/)|
+|06|Counter|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/training-counter)|[Live Preview](https://javi0x00.github.io/training-counter/)|
+|07|Foreign Exchange|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javi0x00/training-foreign_exchange)|[Live Preview](https://javi0x00.github.io/training-foreign_exchange/)|
+|08|Google Homepage|:icecream: HTML, CSS|[View Code](https://github.com/javi0x00/training-google_homepage)|[Live Preview](https://javi0x00.github.io/training-google_homepage/)|
+|09|JSONplaceholder|:ice_cream: Bootstrap, JavaScript, Third-party API|[View Code](https://github.com/javi0x00/training-jsonplaceholder)|[Live Preview](https://javi0x00.github.io/training-jsonplaceholder/)|
+|10|Pokémon Cards|:icecream: HTML, CSS, JavaScript, Third-party API|[View Code](https://github.com/javi0x00/training-pokemon_cards)|[Live Preview](https://javi0x00.github.io/training-pokemon_cards/)|
+|11|Random Team Generator|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/just_for_fun-random_team_generator)|[Live Preview](https://javi0x00.github.io/just_for_fun-random_team_generator/)|
+|12|Responsive Navbar|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/training-responsive_navbar)|[Live Preview](https://javi0x00.github.io/training-responsive_navbar/)|
+|13|Rock, Paper, Scissors|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/odin-rock_paper_scissors)|[Live Preview](https://javi0x00.github.io/odin-rock_paper_scissors/)|
+|14|Timer|:icecream: HTML, CSS, JavaScript|[View Code](https://github.com/javi0x00/just_for_fun-timer)|[Live Preview](https://javi0x00.github.io/just_for_fun-timer/)|
 ##### Demos
 ###### Date descending order
 |Date|Project|Stack|Code|Demo|
 |----|----|----|----|----|
-|Jun 2024|Foro Hub|:ice_cream: Java, Spring, MySQL|[View Code](https://github.com/javierandres-dev/challenge-one_g6-foro_hub)|[View Demo](https://youtu.be/_WqN0zh7yYc)|
-|Jun 2024|Literature|:ice_cream: Java, Spring, PostgreSQL, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-literature)|[View Demo](https://youtu.be/JupZOzY2WaA)|
-|Apr 2024|Conversor de moneda|:icecream: Java, Third-party API|[View Code](https://github.com/javierandres-dev/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
-|Dec 2021|Bank|:ice_cream: MERN, PostgreSQL|[View Code](https://github.com/javierandres-dev/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
+|Jun 2024|Foro Hub|:ice_cream: Java, Spring, MySQL|[View Code](https://github.com/javi0x00/challenge-one_g6-foro_hub)|[View Demo](https://youtu.be/_WqN0zh7yYc)|
+|Jun 2024|Literature|:ice_cream: Java, Spring, PostgreSQL, Third-party API|[View Code](https://github.com/javi0x00/challenge-one_g6-literature)|[View Demo](https://youtu.be/JupZOzY2WaA)|
+|Apr 2024|Conversor de moneda|:icecream: Java, Third-party API|[View Code](https://github.com/javi0x00/challenge-one_g6-conversor_de_moneda)|[View Demo](https://youtu.be/-TJ4sduDhZY)|
+|Dec 2021|Bank|:ice_cream: MERN, PostgreSQL|[View Code](https://github.com/javi0x00/unal-team7_P65_C4_DW/)|[View Demo](https://youtu.be/hh9vCFwJku4)|
 ##### In my free time
-:brain: [Challenges Project Euler](https://github.com/javierandres-dev/challenges-project_euler) *(in progress)*
+:brain: [Challenges Project Euler](https://github.com/javi0x00/challenges-project_euler) *(in progress)*
 - - -
 ### :octocat: Collaborator in other projects
 #### :office: Mezubo | HEYGIA ― Projects (Collaborator/Coder)
@@ -88,7 +88,7 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 :factory: *Feb 2021 - Mar 2025* [Summary](bit.md)
 - - -
 ### :checkered_flag: Development like volunteering
-- *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javierandres-dev.github.io/development-optometrist/)
+- *Oct 2020 - Dec 2021* [Prueba dinámica de agudeza visual](https://javi0x00.github.io/development-optometrist/)
 - - -
 ### :bulb: Other repositories
 #### :snake: hbtn ― Projects
@@ -100,5 +100,5 @@ JUST FOR FUN projects ― I have done them to practice and review what I have le
 ###### :memo: Notes
 :bookmark: [algorithmics](algorithmics.md) | [angular](angular.md) | [api](api.md) | [astro](astro.md) | [aws](aws.md) | [bootstrap](bootstrap.md) | [c](c.md) | [css](css.md) | [django](django.md) | [django rest framework](django_rest_framework.md) | [docker](docker.md) | [email template](email_template.md) | [employment](employment.md) | [english](english.md) | [expressjs](expressjs.md) | [fastapi](fastapi.md) | [figma](figma.md) | [full stack](full-stack.md) | [git](git.md) | [html](html.md) | [interview](interview.md) | [java](java.md) | [javascript](javascript.md) | [json](json.md) | [layout](layout.md) | [linux](linux.md) | [markdown](markdown.md) | [mongodb](mongodb.md) | [mysql](mysql.md) | [nodejs](nodejs.md) | [php](php.md) | [postgresql](postgresql.md) | [practice](practice.md) | [programming](programming.md) | [python](python.md) | [react](react.md) | [resources](resources.md) | [road map](road_map.md) | [seo](seo.md) | [sergey](sergey.md) | [setups](setups.md) | [spring](spring.md) | [sql](sql.md) | [ssh](ssh.md) | [svelte](svelte.md) | [typescript](typescript.md) | [versioning](versioning.md) | [vuejs](vuejs.md) | [webpack](webpack.md) | [zdocs](zdocs.md)
 - - -
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).  
 :copyright: Sep, 2019 ~ 2025
