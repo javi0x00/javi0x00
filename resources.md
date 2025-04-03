@@ -906,7 +906,7 @@
 [:top:](#resources)
 ---
 ### React
-- https://github.com/javierandres-dev/javierandres-dev/blob/master/react.md
+- https://github.com/javi0x00/javierandres-dev/blob/master/react.md
 
 [:top:](#resources)
 ---
@@ -1059,5 +1059,5 @@
 
 
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2025  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
+Built by [javi](https://github.com/javi0x00/) :copyright: 2020 - 2025  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

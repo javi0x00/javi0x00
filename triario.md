@@ -13,5 +13,5 @@
 - React
 - Bootstrap
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2021  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
+Built by [javi](https://github.com/javi0x00/) :copyright: 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

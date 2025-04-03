@@ -210,7 +210,7 @@ done
 - Move the ```betty``` file into ```/bin/``` directory or somewhere else in your ```$PATH``` with ```sudo mv betty /bin/```
 - You can now type ```betty <filename>``` to run the Betty linter!
 ###### :globe_with_meridians: Social
-[GitHub](https://github.com/javierandres-dev/)  |  [Linkedin](https://www.linkedin.com/in/javierandres-dev/)
+[GitHub](https://github.com/javi0x00/)  |  [Linkedin](https://www.linkedin.com/in/javi0x00/)
 <!--
 [Website](https://.../)  |  [Twitter](https://twitter.com/javierandresgp0)  |  [freeCodeCamp](https://www.freecodecamp.org/javierandresgp)  |  [HackerRank](https://www.hackerrank.com/javierandresgp)  |  |  [Reddit](https://www.reddit.com/user/javierandresgp0)  |  [StackOverflow](https://stackoverflow.com/users/13728583/javierandresgp)  |  [Medium](https://medium.com/@javierandresgp)  |  [Quora](https://es.quora.com/profile/Javier-Andr%C3%A9s-9)  |  [Meetup](https://www.meetup.com/es/members/305321275/)  |  [Facebook](https://www.facebook.com/javierandresgp0/)  |  [Instagram](https://www.instagram.com/javierandresgp/)
 -->

@@ -17,7 +17,7 @@
 - [MATERIAL-UI](https://material-ui.com/)
 * Extension
   - react developer tools
-- [Training React](https://github.com/javierandres-dev/training-react)
+- [Training React](https://github.com/javi0x00/training-react)
 ### Requirements
 - Nodejs
 ### Setup
@@ -185,5 +185,5 @@ $ npm run deploy
   - stateless components
   - pattern: container / content
 ## Software Developer
-Built by [javi](https://github.com/javierandres-dev/) :copyright: 2020 - 2024  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
+Built by [javi](https://github.com/javi0x00/) :copyright: 2020 - 2024  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
