@@ -56,17 +56,19 @@ package.json file
 ```
 ---
 ### Visual Studio Code - CUSTOM settings.json
+Current
 ```
 {
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.bracketPairColorization.enabled": true,
-  "editor.codeActionsOnSave": [
-    "source.fixAll.eslint"
-  ],
+  "editor.codeActionsOnSave": ["source.fixAll.eslint"],
   "editor.cursorBlinking": "expand",
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 1,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
   "[markdown]": {
     "editor.defaultFormatter": null,
     "editor.formatOnSave": false,
@@ -74,7 +76,7 @@ package.json file
   },
   "editor.detectIndentation": true,
   "editor.fontFamily": "JetBrains Mono",
-  "editor.fontLigatures": true,
+  "editor.fontLigatures": false,
   "editor.fontSize": 13,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
@@ -98,23 +100,32 @@ package.json file
   "extensions.ignoreRecommendations": true,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+  "git.openRepositoryInParentFolders": "never",
   "javascript.preferences.quoteStyle": "single",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "prettier.singleQuote": true,
+  "liveServer.settings.donotShowInfoMsg": true,
   "prettier.jsxSingleQuote": true,
-  "svelte.enable-ts-plugin": true,
-  "terminal.integrated.fontFamily": "JetBrains Mono",
-  "terminal.integrated.fontSize": 13,
+  "prettier.singleQuote": true,
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.env.linux": {},
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 13,
   "typescript.preferences.quoteStyle": "single",
   "typescript.tsdk": "node_modules/typescript/lib",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.customTitleBarVisibility": "auto",
   "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "none",
-  "vsicons.dontShowNewVersionMessage": true,
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.startupEditor": "none"
 }
+```
+Unused
+```
+"svelte.enable-ts-plugin": true
+"vsicons.dontShowNewVersionMessage": true
+"importHelpers": true
+"console-ninja.featureSet": "Community"
 ```
 ---
 ### Editor Configuration
